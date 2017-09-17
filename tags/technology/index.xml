@@ -13,10 +13,10 @@
     
     <item>
       <title>Kali Linux</title>
-      <link>https://obaydakov.github.io/post/2017/kali-linux/</link>
+      <link>https://obaydakov.github.io/post/kali-linux/</link>
       <pubDate>Sat, 05 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/2017/kali-linux/</guid>
+      <guid>https://obaydakov.github.io/post/kali-linux/</guid>
       <description>Good tutorials
 Link
 Tools
@@ -26,29 +26,29 @@ Hacking with Google</description>
     
     <item>
       <title>Machine Learning Cheatsheets</title>
-      <link>https://obaydakov.github.io/post/2017/machine-learning-cheatsheets/</link>
+      <link>https://obaydakov.github.io/post/machine-learning-cheatsheets/</link>
       <pubDate>Sat, 05 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/2017/machine-learning-cheatsheets/</guid>
+      <guid>https://obaydakov.github.io/post/machine-learning-cheatsheets/</guid>
       <description>Link</description>
     </item>
     
     <item>
       <title>An overview of gradient descent optimization algorithms</title>
-      <link>https://obaydakov.github.io/post/2017/an-overview-of-gradient-descent-optimization-algorithms/</link>
+      <link>https://obaydakov.github.io/post/an-overview-of-gradient-descent-optimization-algorithms/</link>
       <pubDate>Fri, 21 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/2017/an-overview-of-gradient-descent-optimization-algorithms/</guid>
+      <guid>https://obaydakov.github.io/post/an-overview-of-gradient-descent-optimization-algorithms/</guid>
       <description>Gradient descent is one of the most popular algorithms to perform optimization and by far the most common way to optimize neural networks. At the same time, every state-of-the-art Deep Learning library contains implementations of various algorithms to optimize gradient descent (e.g. lasagne&amp;rsquo;s, caffe&amp;rsquo;s, and keras&amp;rsquo; documentation). These algorithms, however, are often used as black-box optimizers, as practical explanations of their strengths and weaknesses are hard to come by.
 Link</description>
     </item>
     
     <item>
       <title>Apache Metron - Cyber Security on Big Data</title>
-      <link>https://obaydakov.github.io/post/2017/apache-metron-cyber-security-on-big-data/</link>
+      <link>https://obaydakov.github.io/post/apache-metron-cyber-security-on-big-data/</link>
       <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/2017/apache-metron-cyber-security-on-big-data/</guid>
+      <guid>https://obaydakov.github.io/post/apache-metron-cyber-security-on-big-data/</guid>
       <description>WHAT APACHE METRON DOES
 Apache Metron provides a scalable advanced security analytics framework built with the Hadoop Community evolving from the Cisco OpenSOC Project. A cyber security application framework that provides organizations the ability to detect cyber anomalies and enable organizations to rapidly respond to identified anomalies.
 Link</description>
@@ -56,38 +56,38 @@ Link</description>
     
     <item>
       <title>Real-Time Weather Event Processing With HDF, Spark Streaming, and Solr</title>
-      <link>https://obaydakov.github.io/post/2017/real-time-weather-event-processing-with-hdf-spark-streaming-and-solr/</link>
+      <link>https://obaydakov.github.io/post/real-time-weather-event-processing-with-hdf-spark-streaming-and-solr/</link>
       <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/2017/real-time-weather-event-processing-with-hdf-spark-streaming-and-solr/</guid>
+      <guid>https://obaydakov.github.io/post/real-time-weather-event-processing-with-hdf-spark-streaming-and-solr/</guid>
       <description>HDF collects, curates, analyzes, and delivers real-time data to data stores quickly and easily. It can be used with Spark Streaming and Solr to process weather events.
 Link</description>
     </item>
     
     <item>
       <title>Reactive Stream vs Akka Stream</title>
-      <link>https://obaydakov.github.io/post/2017/reactive-stream-vs-akka-stream/</link>
+      <link>https://obaydakov.github.io/post/reactive-stream-vs-akka-stream/</link>
       <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/2017/reactive-stream-vs-akka-stream/</guid>
+      <guid>https://obaydakov.github.io/post/reactive-stream-vs-akka-stream/</guid>
       <description>Akka Stream Concepts: Source ~&amp;gt; Flow ~&amp;gt; Sink (code example) Akka Stream is built with the decision to offer APIs that are minimal and consistent-as opposed to easy or intuitive. There is no magic, all the API features are explicit. You have operators to define Source, Sink, Flow, Graph and Operators. You have the operators to handle back-pressure, buffering, transformations, failure recovery, etc. But on my opinion the features that make Akka Stream implementation interesting are: 1.</description>
     </item>
     
     <item>
       <title>The Building Blocks Of A CQRS Architected Application</title>
-      <link>https://obaydakov.github.io/post/2017/the-building-blocks-of-a-cqrs-architected-application/</link>
+      <link>https://obaydakov.github.io/post/the-building-blocks-of-a-cqrs-architected-application/</link>
       <pubDate>Sun, 07 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/2017/the-building-blocks-of-a-cqrs-architected-application/</guid>
+      <guid>https://obaydakov.github.io/post/the-building-blocks-of-a-cqrs-architected-application/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Docker &#43;Akka HTTP</title>
-      <link>https://obaydakov.github.io/post/2017/docker-akka-http/</link>
+      <link>https://obaydakov.github.io/post/docker-akka-http/</link>
       <pubDate>Sat, 06 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/2017/docker-akka-http/</guid>
+      <guid>https://obaydakov.github.io/post/docker-akka-http/</guid>
       <description>INTRODUCTION
 A while ago I worked on a project that used this tech stack
 Akka HTTP : (actually we used Spray.IO but it is practically the same thing for the purpose of this article). For those that don&amp;rsquo;t know what Akka HTTP is, it is a simple Akka based framework that is also able to expose a REST interface to communicate with the actor system Cassandra database : Apache Cassandra is a free and open-source distributed database management system designed to handle large amounts of data across many commodity servers, providing high availability with no single point of failure.</description>
@@ -95,19 +95,19 @@ Akka HTTP : (actually we used Spray.IO but it is practically the same thing for 
     
     <item>
       <title>Apache Kylin  Overview</title>
-      <link>https://obaydakov.github.io/post/2017/apache-kylin-overview/</link>
+      <link>https://obaydakov.github.io/post/apache-kylin-overview/</link>
       <pubDate>Wed, 03 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/2017/apache-kylin-overview/</guid>
+      <guid>https://obaydakov.github.io/post/apache-kylin-overview/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Definitive Security Data Science and Machine Learning Guide</title>
-      <link>https://obaydakov.github.io/post/2017/the-definitive-security-data-science-and-machine-learning-guide/</link>
+      <link>https://obaydakov.github.io/post/the-definitive-security-data-science-and-machine-learning-guide/</link>
       <pubDate>Fri, 28 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/2017/the-definitive-security-data-science-and-machine-learning-guide/</guid>
+      <guid>https://obaydakov.github.io/post/the-definitive-security-data-science-and-machine-learning-guide/</guid>
       <description>This is the Definitive Security Data Science and Machine Learning Guide. It includes books, tutorials, presentations, blog posts, and research papers about solving security problems using data science.
 Link
 Data Driven Security
@@ -116,10 +116,10 @@ Security + Big Data + Data Science</description>
     
     <item>
       <title>Favorite Threat Hunting Links</title>
-      <link>https://obaydakov.github.io/post/2017/favorite-threat-hunting-links/</link>
+      <link>https://obaydakov.github.io/post/favorite-threat-hunting-links/</link>
       <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/2017/favorite-threat-hunting-links/</guid>
+      <guid>https://obaydakov.github.io/post/favorite-threat-hunting-links/</guid>
       <description>On UEBA / UBA Use Cases
 Favorite Threat Hunting Links
 Advances in Cloud-Scale Machine Learning for Cyber-Defense</description>
@@ -127,10 +127,10 @@ Advances in Cloud-Scale Machine Learning for Cyber-Defense</description>
     
     <item>
       <title>How AI drives the mobile contextual revolution</title>
-      <link>https://obaydakov.github.io/post/2017/how-ai-drives-the-mobile-contextual-revolution/</link>
+      <link>https://obaydakov.github.io/post/how-ai-drives-the-mobile-contextual-revolution/</link>
       <pubDate>Sun, 23 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/2017/how-ai-drives-the-mobile-contextual-revolution/</guid>
+      <guid>https://obaydakov.github.io/post/how-ai-drives-the-mobile-contextual-revolution/</guid>
       <description>In &amp;ldquo;Predictions 2016: The Mobile Revolution Accelerates&amp;rdquo;, Forrester forecasted that by the end of 2016 more than 25% of companies will consider mobile not as a channel, but as a fully integrated part of their overall strategy. Moreover, the research firm expects customer-focused companies to take personalization to the next level by extracting relevant moments from customer data using intelligent data processing techniques:
 &amp;ldquo;To serve customers in context where they already are - not where brands find it convenient to serve them, firms must look to use context both to assemble and deliver experiences dynamically&amp;rdquo;</description>
     </item>

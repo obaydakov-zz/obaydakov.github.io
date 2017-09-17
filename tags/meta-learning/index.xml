@@ -13,10 +13,10 @@
     
     <item>
       <title>Deconstructing Deep Meta Learning</title>
-      <link>https://obaydakov.github.io/post/2017/deconstructing-deep-meta-learning/</link>
+      <link>https://obaydakov.github.io/post/deconstructing-deep-meta-learning/</link>
       <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/2017/deconstructing-deep-meta-learning/</guid>
+      <guid>https://obaydakov.github.io/post/deconstructing-deep-meta-learning/</guid>
       <description>This article explores in more detail the idea of Meta Learning that was previously introduced in a post &amp;ldquo;The Meta Model and Meta Meta Model of Deep Learning&amp;rdquo;. In this post, I explore &amp;ldquo;Learning to Learn&amp;rdquo; as a Meta Learning approach. We have to be very careful to distinguish between Learning to Learn and Hyper Parameter Optimization (HPO). HPO and more generally searching for architectures differs from &amp;ldquo;learning to learn&amp;rdquo; in that that HPO explores the space of architectures while meta-learning explores the space of learning algorithms.</description>
     </item>
     

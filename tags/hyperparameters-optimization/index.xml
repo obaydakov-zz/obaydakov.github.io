@@ -13,77 +13,77 @@
     
     <item>
       <title>An overview of gradient descent optimization algorithms</title>
-      <link>https://obaydakov.github.io/post/2017/an-overview-of-gradient-descent-optimization-algorithms/</link>
+      <link>https://obaydakov.github.io/post/an-overview-of-gradient-descent-optimization-algorithms/</link>
       <pubDate>Sun, 13 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/2017/an-overview-of-gradient-descent-optimization-algorithms/</guid>
+      <guid>https://obaydakov.github.io/post/an-overview-of-gradient-descent-optimization-algorithms/</guid>
       <description>Gradient descent is one of the most popular algorithms to perform optimization and by far the most common way to optimize neural networks. At the same time, every state-of-the-art Deep Learning library contains implementations of various algorithms to optimize gradient descent (e.g. lasagne&amp;rsquo;s, caffe&amp;rsquo;s, and keras&amp;rsquo; documentation). These algorithms, however, are often used as black-box optimizers, as practical explanations of their strengths and weaknesses are hard to come by.
 Link</description>
     </item>
     
     <item>
       <title>Model evaluation, model selection, and algorithm selection in machine learning  - Cross-validation and hyperparameter tuning </title>
-      <link>https://obaydakov.github.io/post/2017/model-evaluation-model-selection-and-algorithm-selection-in-machine-learning-cross-validation-and-hyperparameter-tuning/</link>
+      <link>https://obaydakov.github.io/post/model-evaluation-model-selection-and-algorithm-selection-in-machine-learning-cross-validation-and-hyperparameter-tuning/</link>
       <pubDate>Sun, 13 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/2017/model-evaluation-model-selection-and-algorithm-selection-in-machine-learning-cross-validation-and-hyperparameter-tuning/</guid>
+      <guid>https://obaydakov.github.io/post/model-evaluation-model-selection-and-algorithm-selection-in-machine-learning-cross-validation-and-hyperparameter-tuning/</guid>
       <description>Almost every machine learning algorithm comes with a large number of settings that we, the machine learning researchers and practitioners, need to specify. These tuning knobs, the so-called hyperparameters, help us control the behavior of machine learning algorithms when optimizing for performance, finding the right balance between bias and variance. Hyperparameter tuning for performance optimization is an art in itself, and there are no hard-and-fast rules that guarantee best performance on a given dataset.</description>
     </item>
     
     <item>
       <title>Random Bot for OpenML platform</title>
-      <link>https://obaydakov.github.io/post/2017/random-bot-for-openml-platform/</link>
+      <link>https://obaydakov.github.io/post/random-bot-for-openml-platform/</link>
       <pubDate>Sat, 12 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/2017/random-bot-for-openml-platform/</guid>
+      <guid>https://obaydakov.github.io/post/random-bot-for-openml-platform/</guid>
       <description>&amp;lsquo;RandomBot&amp;rsquo; is a program that searches randomly the hyper-parameter space from different Machine Learning (ML) algorithms, sampling different hyper-parameter settings via hyper-parameter sweep. It executes pre-defined &amp;lsquo;mlr&amp;rsquo; [1] learners over OpenML [2] classification problems using the &amp;lsquo;BatchExperiments&amp;rsquo; package [3] structure.
 For each pair of {task, algorithm}, the bot will start N new jobs with random different hper-parameter settings. The budget N is defined as N = 100 * D , where D denotes the number of parameters in that algorithm&amp;rsquo;s space, and 100 is the tuning constant (defined empirically).</description>
     </item>
     
     <item>
       <title>Comprehensive list of activation functions in neural networks with pros/cons</title>
-      <link>https://obaydakov.github.io/post/2017/comprehensive-list-of-activation-functions-in-neural-networks-with-pros-cons/</link>
+      <link>https://obaydakov.github.io/post/comprehensive-list-of-activation-functions-in-neural-networks-with-pros-cons/</link>
       <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/2017/comprehensive-list-of-activation-functions-in-neural-networks-with-pros-cons/</guid>
+      <guid>https://obaydakov.github.io/post/comprehensive-list-of-activation-functions-in-neural-networks-with-pros-cons/</guid>
       <description>Link</description>
     </item>
     
     <item>
       <title>Bayesian Optimization for Hyperparameter Tuning</title>
-      <link>https://obaydakov.github.io/post/2017/bayesian-optimization-for-hyperparameter-tuning/</link>
+      <link>https://obaydakov.github.io/post/bayesian-optimization-for-hyperparameter-tuning/</link>
       <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/2017/bayesian-optimization-for-hyperparameter-tuning/</guid>
+      <guid>https://obaydakov.github.io/post/bayesian-optimization-for-hyperparameter-tuning/</guid>
       <description>Hyperparameter tuning may be one of the most tricky, yet interesting, topics in Machine Learning. For most Machine Learning practitioners, mastering the art of tuning hyperparameters requires not only a solid background in Machine Learning algorithms, but also extensive experience working with real-world datasets.
 In this post, I will give an overview of hyperparameters and various approaches of tuning hyperparameters intelligently. In particular, I will explain how we applied Bayesian Optimization to tune hyperparameters of a predictive model on a real-world dataset.</description>
     </item>
     
     <item>
       <title>Practical Recommendations for Gradient-Based Training of Deep Architectures</title>
-      <link>https://obaydakov.github.io/post/2017/practical-recommendations-for-gradient-based-training-of-deep-architectures/</link>
+      <link>https://obaydakov.github.io/post/practical-recommendations-for-gradient-based-training-of-deep-architectures/</link>
       <pubDate>Wed, 03 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/2017/practical-recommendations-for-gradient-based-training-of-deep-architectures/</guid>
+      <guid>https://obaydakov.github.io/post/practical-recommendations-for-gradient-based-training-of-deep-architectures/</guid>
       <description>Abstract Learning algorithms related to artificial neural networks and in particular for Deep Learning may seem to involve many bells and whistles, called hyperparameters. This chapter is meant as a practical guide with recommendations for some of the most commonly used hyper-parameters, in particular in the context of learning algorithms based on backpropagated gradient and gradient-based optimization. It also discusses how to deal with the fact that more interesting results can be obtained when allowing one to adjust many hyper-parameters.</description>
     </item>
     
     <item>
       <title>State of Hyperparameter Selection</title>
-      <link>https://obaydakov.github.io/post/2017/state-of-hyperparameter-selection/</link>
+      <link>https://obaydakov.github.io/post/state-of-hyperparameter-selection/</link>
       <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/2017/state-of-hyperparameter-selection/</guid>
+      <guid>https://obaydakov.github.io/post/state-of-hyperparameter-selection/</guid>
       <description>Historically hyperparameter determination has been a woefully forgotten aspect of machine learning. With the rise of neural nets - which require more hyperparameters, more precisely tuned than many other models - there has been a recent surge of interest in intelligent methods for selection; however, the average practitioner still seems to commonly use either default hyperparameters, grid search, random search, or (believe it or not) manual search.
 For the readers who don&#39;t know, hyperparameter selection boils down to a conceptually simple problem: you have a set of variables (your hyperparameters) and an objective function (a measure of how good your model is).</description>
     </item>
     
     <item>
       <title>Deep Learning &amp; Parameter Tuning with MXnet, H2o Package in R</title>
-      <link>https://obaydakov.github.io/post/2017/deep-learning-parameter-tuning-with-mxnet-h2o-package-in-r/</link>
+      <link>https://obaydakov.github.io/post/deep-learning-parameter-tuning-with-mxnet-h2o-package-in-r/</link>
       <pubDate>Sun, 02 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/2017/deep-learning-parameter-tuning-with-mxnet-h2o-package-in-r/</guid>
+      <guid>https://obaydakov.github.io/post/deep-learning-parameter-tuning-with-mxnet-h2o-package-in-r/</guid>
       <description>Introduction Deep Learning isn&amp;rsquo;t a recent discovery. The seeds were sown back in the 1950s when the first artificial neural network was created. Since then, progress has been rapid, with the structure of the neuron being &amp;ldquo;re-invented&amp;rdquo; artificially.
 Computers and mobiles have now become powerful enough to identify objects from images.
 Not just images, they can chat with you as well! Haven&amp;rsquo;t you tried Google&amp;rsquo;s Allo app ? That&amp;rsquo;s not all-they can drive, make supersonic calculations, and help businesses solve the most complicated problems (more users, revenue, etc).</description>
@@ -91,37 +91,37 @@ Not just images, they can chat with you as well! Haven&amp;rsquo;t you tried Goo
     
     <item>
       <title>Tutorial on XGBoost and Parameter Tuning in R</title>
-      <link>https://obaydakov.github.io/post/2017/tutorial-on-xgboost-and-parameter-tuning-in-r/</link>
+      <link>https://obaydakov.github.io/post/tutorial-on-xgboost-and-parameter-tuning-in-r/</link>
       <pubDate>Sun, 02 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/2017/tutorial-on-xgboost-and-parameter-tuning-in-r/</guid>
+      <guid>https://obaydakov.github.io/post/tutorial-on-xgboost-and-parameter-tuning-in-r/</guid>
       <description>Table of Contents  What is XGBoost? Why is it so good? How does XGBoost work? Understanding XGBoost Tuning Parameters Practical - Tuning XGBoost using R  Link</description>
     </item>
     
     <item>
       <title>An Efficient Approach for Assessing Hyperparameter Importance</title>
-      <link>https://obaydakov.github.io/post/2017/an-efficient-approach-for-assessing-hyperparameter-importance/</link>
+      <link>https://obaydakov.github.io/post/an-efficient-approach-for-assessing-hyperparameter-importance/</link>
       <pubDate>Sat, 01 Apr 2017 17:11:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/2017/an-efficient-approach-for-assessing-hyperparameter-importance/</guid>
+      <guid>https://obaydakov.github.io/post/an-efficient-approach-for-assessing-hyperparameter-importance/</guid>
       <description>The performance of many machine learning methods depends critically on hyperparameter settings. Sophisticated Bayesian optimization methods have recently achieved considerable successes in optimizing these hyperparameters, in several cases surpassing the performance of human experts. However, blind reliance on such methods can leave end users without insight into the relative importance of different hyperparameters and their interactions. This paper describes efficient methods that can be used to gain such insight, leveraging random forest models fit on the data already gathered by Bayesian optimization.</description>
     </item>
     
     <item>
       <title>Auto-WEKA 2.0: Automatic model selection and hyperparameter optimization in WEKA</title>
-      <link>https://obaydakov.github.io/post/2017/auto-weka-2-0-automatic-model-selection-and-hyperparameter-optimization-in-weka/</link>
+      <link>https://obaydakov.github.io/post/auto-weka-2-0-automatic-model-selection-and-hyperparameter-optimization-in-weka/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/2017/auto-weka-2-0-automatic-model-selection-and-hyperparameter-optimization-in-weka/</guid>
+      <guid>https://obaydakov.github.io/post/auto-weka-2-0-automatic-model-selection-and-hyperparameter-optimization-in-weka/</guid>
       <description>WEKA is a widely used, open-source machine learning platform. Due to its intuitive interface, it is particularly popular with novice users. However, such users often find it hard to identify the best approach for their particular dataset among the many available. We describe the new version of Auto-WEKA, a system designed to help such users by automatically searching through the joint space of WEKA’s learning algorithms and their respective hyperparameter settings to maximize performance, using a state-of-the-art Bayesian optimization method.</description>
     </item>
     
     <item>
       <title>Efficient and Robust Automated Machine Learning</title>
-      <link>https://obaydakov.github.io/post/2017/efficient-and-robust-automated-machine-learning/</link>
+      <link>https://obaydakov.github.io/post/efficient-and-robust-automated-machine-learning/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/2017/efficient-and-robust-automated-machine-learning/</guid>
+      <guid>https://obaydakov.github.io/post/efficient-and-robust-automated-machine-learning/</guid>
       <description>The success of machine learning in a broad range of applications has led to an ever-growing demand for machine learning systems that can be used off the shelf by non-experts. To be effective in practice, such systems need to automatically choose a good algorithm and feature preprocessing steps for a new dataset at hand, and also set their respective hyperparameters.
 Recent work has started to tackle this automated machine learning (AutoML) problem with the help of efficient Bayesian optimization methods.</description>
     </item>

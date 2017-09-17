@@ -13,10 +13,10 @@
     
     <item>
       <title>Awesome Scala</title>
-      <link>https://obaydakov.github.io/post/2017/awesome-scala/</link>
+      <link>https://obaydakov.github.io/post/awesome-scala/</link>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/2017/awesome-scala/</guid>
+      <guid>https://obaydakov.github.io/post/awesome-scala/</guid>
       <description>Awesome Scala Awesome
 A community driven list of useful Scala libraries, frameworks and software. This is not a catalog of all the libraries, just a starting point for your explorations. Inspired by awesome-python. Other amazingly awesome lists can be found in the awesome-awesomeness list.
 Also awesome is Scaladex, the searchable, tagged, and centralized index of Scala libraries.
@@ -25,10 +25,10 @@ Awesome Scala</description>
     
     <item>
       <title>BigDL: Distributed Deep Learning on Apache Spark</title>
-      <link>https://obaydakov.github.io/post/2017/bigdl-distributed-deep-learning-on-apache-spark/</link>
+      <link>https://obaydakov.github.io/post/bigdl-distributed-deep-learning-on-apache-spark/</link>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/2017/bigdl-distributed-deep-learning-on-apache-spark/</guid>
+      <guid>https://obaydakov.github.io/post/bigdl-distributed-deep-learning-on-apache-spark/</guid>
       <description>What is BigDL?
 BigDL is a distributed deep learning library for Apache Spark; with BigDL, users can write their deep learning applications as standard Spark programs, which can directly run on top of existing Spark or Hadoop clusters.
 Rich deep learning support. Modeled after Torch, BigDL provides comprehensive support for deep learning, including numeric computing (via Tensor) and high level neural networks; in addition, users can load pre-trained Caffe or Torch models into Spark programs using BigDL.</description>

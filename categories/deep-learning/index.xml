@@ -13,29 +13,29 @@
     
     <item>
       <title>Adventures in Machine Learning New</title>
-      <link>https://obaydakov.github.io/post/2017/adventures-in-machine-learning/</link>
+      <link>https://obaydakov.github.io/post/adventures-in-machine-learning/</link>
       <pubDate>Thu, 17 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/2017/adventures-in-machine-learning/</guid>
+      <guid>https://obaydakov.github.io/post/adventures-in-machine-learning/</guid>
       <description>Link</description>
     </item>
     
     <item>
       <title>ScalNet - A Scala wrapper for Deeplearning4j, inspired by Keras. Scala &#43; DL &#43; Spark &#43; GPUs</title>
-      <link>https://obaydakov.github.io/post/2017/scalnet-a-scala-wrapper-for-deeplearning4j-inspired-by-keras-scala-dl-spark-gpus/</link>
+      <link>https://obaydakov.github.io/post/scalnet-a-scala-wrapper-for-deeplearning4j-inspired-by-keras-scala-dl-spark-gpus/</link>
       <pubDate>Mon, 14 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/2017/scalnet-a-scala-wrapper-for-deeplearning4j-inspired-by-keras-scala-dl-spark-gpus/</guid>
+      <guid>https://obaydakov.github.io/post/scalnet-a-scala-wrapper-for-deeplearning4j-inspired-by-keras-scala-dl-spark-gpus/</guid>
       <description>ScalNet is a wrapper around Deeplearning4j emulating a Keras like API for deep learning. ScalNet is released under an Apache 2.0 license. By contributing code to this repository, you agree to make your contribution available under an Apache 2.0 license.
 Link</description>
     </item>
     
     <item>
       <title>Deep Learning Model Zoo</title>
-      <link>https://obaydakov.github.io/post/2017/deep-learning-model-zoo/</link>
+      <link>https://obaydakov.github.io/post/deep-learning-model-zoo/</link>
       <pubDate>Sun, 13 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/2017/deep-learning-model-zoo/</guid>
+      <guid>https://obaydakov.github.io/post/deep-learning-model-zoo/</guid>
       <description>A collection of standalone TensorFlow models in Jupyter Notebooks
 Link
 Free Chapters from Introduction to Artificial Neural Networks and Deep Learning: A Practical Guide with Applications in Python</description>
@@ -43,19 +43,19 @@ Free Chapters from Introduction to Artificial Neural Networks and Deep Learning:
     
     <item>
       <title>Deep Learning Limitations</title>
-      <link>https://obaydakov.github.io/post/2017/deep-learning-limitations/</link>
+      <link>https://obaydakov.github.io/post/deep-learning-limitations/</link>
       <pubDate>Tue, 08 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/2017/deep-learning-limitations/</guid>
+      <guid>https://obaydakov.github.io/post/deep-learning-limitations/</guid>
       <description>Limitations of deep learning and future</description>
     </item>
     
     <item>
       <title>CatBoost</title>
-      <link>https://obaydakov.github.io/post/2017/catboost/</link>
+      <link>https://obaydakov.github.io/post/catboost/</link>
       <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/2017/catboost/</guid>
+      <guid>https://obaydakov.github.io/post/catboost/</guid>
       <description>CatBoost is a state-of-the-art open-source gradient boosting on decision trees library.
 Developed by Yandex researchers and engineers, it is the successor of the MatrixNet algorithm that is widely used within the company for ranking tasks, forecasting and making recommendations. It is universal and can be applied across a wide range of areas and to a variety of problems.
 Accurate: leads or ties competition on standard benchmarks Robust: reduces the need for extensive hyper-parameter tuning Easy-to-use: offers Python interfaces integrated with scikit, as well as R and command-line interfaces Practical: uses categorical features directly and scalably Extensible: allows specifying custom loss functions</description>
@@ -63,46 +63,46 @@ Accurate: leads or ties competition on standard benchmarks Robust: reduces the n
     
     <item>
       <title>Deep Learning and NLP</title>
-      <link>https://obaydakov.github.io/post/2017/deep-learning-and-nlp/</link>
+      <link>https://obaydakov.github.io/post/deep-learning-and-nlp/</link>
       <pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/2017/deep-learning-and-nlp/</guid>
+      <guid>https://obaydakov.github.io/post/deep-learning-and-nlp/</guid>
       <description>Link A news-analysis NeuralNet learns from a language NeuralNet</description>
     </item>
     
     <item>
       <title>Comprehensive list of activation functions in neural networks with pros/cons</title>
-      <link>https://obaydakov.github.io/post/2017/comprehensive-list-of-activation-functions-in-neural-networks-with-pros-cons/</link>
+      <link>https://obaydakov.github.io/post/comprehensive-list-of-activation-functions-in-neural-networks-with-pros-cons/</link>
       <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/2017/comprehensive-list-of-activation-functions-in-neural-networks-with-pros-cons/</guid>
+      <guid>https://obaydakov.github.io/post/comprehensive-list-of-activation-functions-in-neural-networks-with-pros-cons/</guid>
       <description>Link</description>
     </item>
     
     <item>
       <title>Convolutional Neural Network</title>
-      <link>https://obaydakov.github.io/post/2017/convolutional-neural-network/</link>
+      <link>https://obaydakov.github.io/post/convolutional-neural-network/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/2017/convolutional-neural-network/</guid>
+      <guid>https://obaydakov.github.io/post/convolutional-neural-network/</guid>
       <description>How to make a Convolutional Neural Network in TensorFlow for recognizing handwritten digits from the MNIST data-set. Video Tutorial</description>
     </item>
     
     <item>
       <title>Practical Recommendations for Gradient-Based Training of Deep Architectures</title>
-      <link>https://obaydakov.github.io/post/2017/practical-recommendations-for-gradient-based-training-of-deep-architectures/</link>
+      <link>https://obaydakov.github.io/post/practical-recommendations-for-gradient-based-training-of-deep-architectures/</link>
       <pubDate>Wed, 03 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/2017/practical-recommendations-for-gradient-based-training-of-deep-architectures/</guid>
+      <guid>https://obaydakov.github.io/post/practical-recommendations-for-gradient-based-training-of-deep-architectures/</guid>
       <description>Abstract Learning algorithms related to artificial neural networks and in particular for Deep Learning may seem to involve many bells and whistles, called hyperparameters. This chapter is meant as a practical guide with recommendations for some of the most commonly used hyper-parameters, in particular in the context of learning algorithms based on backpropagated gradient and gradient-based optimization. It also discusses how to deal with the fact that more interesting results can be obtained when allowing one to adjust many hyper-parameters.</description>
     </item>
     
     <item>
       <title>Examples of using DL4J on Spark and Scala</title>
-      <link>https://obaydakov.github.io/post/2017/examples-of-using-dl4j-on-spark-and-scala/</link>
+      <link>https://obaydakov.github.io/post/examples-of-using-dl4j-on-spark-and-scala/</link>
       <pubDate>Thu, 06 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/2017/examples-of-using-dl4j-on-spark-and-scala/</guid>
+      <guid>https://obaydakov.github.io/post/examples-of-using-dl4j-on-spark-and-scala/</guid>
       <description>Examples: Project for the talk on NLP using LSTM implementation from DL4J on Spark
 Deeplearning4J Examples for Scala
 Exploring convolutional neural networks with DL4J
@@ -111,10 +111,10 @@ ND4S is open-source Scala bindings for ND4J</description>
     
     <item>
       <title>Using TensorFlow with R</title>
-      <link>https://obaydakov.github.io/post/2017/using-tensorflow-with-r/</link>
+      <link>https://obaydakov.github.io/post/using-tensorflow-with-r/</link>
       <pubDate>Sun, 02 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/2017/using-tensorflow-with-r/</guid>
+      <guid>https://obaydakov.github.io/post/using-tensorflow-with-r/</guid>
       <description>TensorFlowT is an open source software library for numerical computation using data flow graphs. Nodes in the graph represent mathematical operations, while the graph edges represent the multidimensional data arrays (tensors) communicated between them. The flexible architecture allows you to deploy computation to one or more CPUs or GPUs in a desktop, server, or mobile device with a single API. TensorFlow was originally developed by researchers and engineers working on the Google Brain Team within Google&amp;rsquo;s Machine Intelligence research organization for the purposes of conducting machine learning and deep neural networks research, but the system is general enough to be applicable in a wide variety of other domains as well.</description>
     </item>
     

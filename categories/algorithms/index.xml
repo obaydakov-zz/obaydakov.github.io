@@ -13,38 +13,38 @@
     
     <item>
       <title>Machine Learning Cheatsheets</title>
-      <link>https://obaydakov.github.io/post/2017/machine-learning-cheatsheets/</link>
+      <link>https://obaydakov.github.io/post/machine-learning-cheatsheets/</link>
       <pubDate>Sat, 05 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/2017/machine-learning-cheatsheets/</guid>
+      <guid>https://obaydakov.github.io/post/machine-learning-cheatsheets/</guid>
       <description>Link</description>
     </item>
     
     <item>
       <title>An overview of gradient descent optimization algorithms</title>
-      <link>https://obaydakov.github.io/post/2017/an-overview-of-gradient-descent-optimization-algorithms/</link>
+      <link>https://obaydakov.github.io/post/an-overview-of-gradient-descent-optimization-algorithms/</link>
       <pubDate>Fri, 21 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/2017/an-overview-of-gradient-descent-optimization-algorithms/</guid>
+      <guid>https://obaydakov.github.io/post/an-overview-of-gradient-descent-optimization-algorithms/</guid>
       <description>Gradient descent is one of the most popular algorithms to perform optimization and by far the most common way to optimize neural networks. At the same time, every state-of-the-art Deep Learning library contains implementations of various algorithms to optimize gradient descent (e.g. lasagne&amp;rsquo;s, caffe&amp;rsquo;s, and keras&amp;rsquo; documentation). These algorithms, however, are often used as black-box optimizers, as practical explanations of their strengths and weaknesses are hard to come by.
 Link</description>
     </item>
     
     <item>
       <title>Credit Risk Prediction</title>
-      <link>https://obaydakov.github.io/post/2017/credit-risk-prediction/</link>
+      <link>https://obaydakov.github.io/post/credit-risk-prediction/</link>
       <pubDate>Sun, 16 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/2017/credit-risk-prediction/</guid>
+      <guid>https://obaydakov.github.io/post/credit-risk-prediction/</guid>
       <description>Credit Risk Scoring is a classic yet still increasingly important operation in banking as banks continue to be increasingly risk careful when lending for mortgages or commercial purposes, in an industry known for fierce competition and the global financial crisis. With an accurate credit risk scoring model a bank is able to predict the likelihood of default on a transaction. This will in turn help evaluate the potential risk posed by lending money to consumers and to mitigate losses due to bad debt, as well as determine who qualifies for a loan, at what interest rate, and what credit limits, and even determine which customers are likely to bring in the most revenue through a variety of products.</description>
     </item>
     
     <item>
       <title>The Algorithms Behind Probabilistic Programming</title>
-      <link>https://obaydakov.github.io/post/2017/the-algorithms-behind-probabilistic-programming/</link>
+      <link>https://obaydakov.github.io/post/the-algorithms-behind-probabilistic-programming/</link>
       <pubDate>Sun, 14 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/2017/the-algorithms-behind-probabilistic-programming/</guid>
+      <guid>https://obaydakov.github.io/post/the-algorithms-behind-probabilistic-programming/</guid>
       <description>Bayesian Inference
 Probabilistic programming enables us to construct and fit probabilistic models in code. At its essence, Bayesian inference is a principled way to draw conclusions from incomplete or imperfect data, by interpreting data in light of prior knowledge of probabilities. As pretty much all real-world data is incomplete or imperfect in some way, it&amp;rsquo;s an important (and old!) idea.
 Bayesian inference might be the way to go if you:</description>
@@ -52,38 +52,38 @@ Bayesian inference might be the way to go if you:</description>
     
     <item>
       <title>Algorithms and Data Structures</title>
-      <link>https://obaydakov.github.io/post/2017/algorithms-and-data-structures/</link>
+      <link>https://obaydakov.github.io/post/algorithms-and-data-structures/</link>
       <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/2017/algorithms-and-data-structures/</guid>
+      <guid>https://obaydakov.github.io/post/algorithms-and-data-structures/</guid>
       <description>Algorithms and Data Structures
 This is the collection of algorithms, data structures and Interview Questions with solutions. This repository contains my solutions for common algorithmic problems and implementation of Data Structures in Java. I&amp;rsquo;ve created this repository to learn about algorithms. I am adding solutions continuously. Link</description>
     </item>
     
     <item>
       <title>Kalman filter</title>
-      <link>https://obaydakov.github.io/post/2017/kalman-filter/</link>
+      <link>https://obaydakov.github.io/post/kalman-filter/</link>
       <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/2017/kalman-filter/</guid>
+      <guid>https://obaydakov.github.io/post/kalman-filter/</guid>
       <description>This article provides a simple and intuitive derivation of the Kalman filter, with the aim of teaching this useful tool to students from disciplines that do not require a strong mathematical background. The most complicated level of mathematics required to understand this derivation is the ability to multiply two Gaussian functions together and reduce the result to a compact form. Link</description>
     </item>
     
     <item>
       <title>Feature Engineering &#43; H2o Gradient Boosting (GBM) in R Scores 0.936</title>
-      <link>https://obaydakov.github.io/post/2017/feature-engineering-h2o-gradient-boosting-gbm-in-r-scores-0-936/</link>
+      <link>https://obaydakov.github.io/post/feature-engineering-h2o-gradient-boosting-gbm-in-r-scores-0-936/</link>
       <pubDate>Sun, 02 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/2017/feature-engineering-h2o-gradient-boosting-gbm-in-r-scores-0-936/</guid>
+      <guid>https://obaydakov.github.io/post/feature-engineering-h2o-gradient-boosting-gbm-in-r-scores-0-936/</guid>
       <description>Load data and explore Data Pre-processing Dropped Features One Hot Encoding Feature Engineering Model Training  Link</description>
     </item>
     
     <item>
       <title>Tutorial on XGBoost and Parameter Tuning in R</title>
-      <link>https://obaydakov.github.io/post/2017/tutorial-on-xgboost-and-parameter-tuning-in-r/</link>
+      <link>https://obaydakov.github.io/post/tutorial-on-xgboost-and-parameter-tuning-in-r/</link>
       <pubDate>Sun, 02 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/2017/tutorial-on-xgboost-and-parameter-tuning-in-r/</guid>
+      <guid>https://obaydakov.github.io/post/tutorial-on-xgboost-and-parameter-tuning-in-r/</guid>
       <description>Table of Contents  What is XGBoost? Why is it so good? How does XGBoost work? Understanding XGBoost Tuning Parameters Practical - Tuning XGBoost using R  Link</description>
     </item>
     

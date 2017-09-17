@@ -3,411 +3,416 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/golang-development/</loc>
+    <loc>https://obaydakov.github.io/post/golang-development/</loc>
     <lastmod>2017-09-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/adventures-in-machine-learning/</loc>
+    <loc>https://obaydakov.github.io/post/golang-development/</loc>
+    <lastmod>2017-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/adventures-in-machine-learning/</loc>
     <lastmod>2017-08-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/awesome-r/</loc>
+    <loc>https://obaydakov.github.io/post/awesome-r/</loc>
     <lastmod>2017-08-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/high-level-design-of-analytical-system-based-on-r/</loc>
+    <loc>https://obaydakov.github.io/post/high-level-design-of-analytical-system-based-on-r/</loc>
     <lastmod>2017-08-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/scalnet-a-scala-wrapper-for-deeplearning4j-inspired-by-keras-scala-dl-spark-gpus/</loc>
+    <loc>https://obaydakov.github.io/post/scalnet-a-scala-wrapper-for-deeplearning4j-inspired-by-keras-scala-dl-spark-gpus/</loc>
     <lastmod>2017-08-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/an-overview-of-gradient-descent-optimization-algorithms/</loc>
+    <loc>https://obaydakov.github.io/post/an-overview-of-gradient-descent-optimization-algorithms/</loc>
     <lastmod>2017-08-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/deep-learning-model-zoo/</loc>
+    <loc>https://obaydakov.github.io/post/deep-learning-model-zoo/</loc>
     <lastmod>2017-08-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/model-evaluation-model-selection-and-algorithm-selection-in-machine-learning-cross-validation-and-hyperparameter-tuning/</loc>
+    <loc>https://obaydakov.github.io/post/model-evaluation-model-selection-and-algorithm-selection-in-machine-learning-cross-validation-and-hyperparameter-tuning/</loc>
     <lastmod>2017-08-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/awesome-r-shiny/</loc>
+    <loc>https://obaydakov.github.io/post/awesome-r-shiny/</loc>
     <lastmod>2017-08-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/crosstalk/</loc>
+    <loc>https://obaydakov.github.io/post/crosstalk/</loc>
     <lastmod>2017-08-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/docker-for-data-scientists/</loc>
+    <loc>https://obaydakov.github.io/post/docker-for-data-scientists/</loc>
     <lastmod>2017-08-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/random-bot-for-openml-platform/</loc>
+    <loc>https://obaydakov.github.io/post/random-bot-for-openml-platform/</loc>
     <lastmod>2017-08-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/trelliscope/</loc>
+    <loc>https://obaydakov.github.io/post/trelliscope/</loc>
     <lastmod>2017-08-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/web-sites-with-r/</loc>
+    <loc>https://obaydakov.github.io/post/web-sites-with-r/</loc>
     <lastmod>2017-08-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/introduction-to-parallel-computing-with-r/</loc>
+    <loc>https://obaydakov.github.io/post/introduction-to-parallel-computing-with-r/</loc>
     <lastmod>2017-08-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/openml-connecting-r-to-the-machine-learning-platform-openml/</loc>
+    <loc>https://obaydakov.github.io/post/openml-connecting-r-to-the-machine-learning-platform-openml/</loc>
     <lastmod>2017-08-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/package-ggiraph-a-ggplot2-extension-for-interactive-graphics/</loc>
+    <loc>https://obaydakov.github.io/post/package-ggiraph-a-ggplot2-extension-for-interactive-graphics/</loc>
     <lastmod>2017-08-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/c-users-oleg-baydakov-documents-myblog-new-myblog-hugo/</loc>
+    <loc>https://obaydakov.github.io/post/c-users-oleg-baydakov-documents-myblog-new-myblog-hugo/</loc>
     <lastmod>2017-08-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/jug-a-simple-web-framework-for-r/</loc>
+    <loc>https://obaydakov.github.io/post/jug-a-simple-web-framework-for-r/</loc>
     <lastmod>2017-08-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/shiny-semantic/</loc>
+    <loc>https://obaydakov.github.io/post/shiny-semantic/</loc>
     <lastmod>2017-08-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/iheatmapr-r-package/</loc>
+    <loc>https://obaydakov.github.io/post/iheatmapr-r-package/</loc>
     <lastmod>2017-08-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/deep-learning-limitations/</loc>
+    <loc>https://obaydakov.github.io/post/deep-learning-limitations/</loc>
     <lastmod>2017-08-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/kali-linux/</loc>
+    <loc>https://obaydakov.github.io/post/kali-linux/</loc>
     <lastmod>2017-08-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/machine-learning-cheatsheets/</loc>
+    <loc>https://obaydakov.github.io/post/machine-learning-cheatsheets/</loc>
     <lastmod>2017-08-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/an-overview-of-gradient-descent-optimization-algorithms/</loc>
+    <loc>https://obaydakov.github.io/post/an-overview-of-gradient-descent-optimization-algorithms/</loc>
     <lastmod>2017-07-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/apache-metron-cyber-security-on-big-data/</loc>
+    <loc>https://obaydakov.github.io/post/apache-metron-cyber-security-on-big-data/</loc>
     <lastmod>2017-07-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/python-framewrok-qml/</loc>
+    <loc>https://obaydakov.github.io/post/python-framewrok-qml/</loc>
     <lastmod>2017-07-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/real-time-weather-event-processing-with-hdf-spark-streaming-and-solr/</loc>
+    <loc>https://obaydakov.github.io/post/real-time-weather-event-processing-with-hdf-spark-streaming-and-solr/</loc>
     <lastmod>2017-07-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/catboost/</loc>
+    <loc>https://obaydakov.github.io/post/catboost/</loc>
     <lastmod>2017-07-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/credit-risk-prediction/</loc>
+    <loc>https://obaydakov.github.io/post/credit-risk-prediction/</loc>
     <lastmod>2017-07-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/deep-learning-and-nlp/</loc>
+    <loc>https://obaydakov.github.io/post/deep-learning-and-nlp/</loc>
     <lastmod>2017-07-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/r-package-mlr-examples/</loc>
+    <loc>https://obaydakov.github.io/post/r-package-mlr-examples/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/comprehensive-list-of-activation-functions-in-neural-networks-with-pros-cons/</loc>
+    <loc>https://obaydakov.github.io/post/comprehensive-list-of-activation-functions-in-neural-networks-with-pros-cons/</loc>
     <lastmod>2017-06-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/formattable-data-frame/</loc>
+    <loc>https://obaydakov.github.io/post/formattable-data-frame/</loc>
     <lastmod>2017-06-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/integrating-akka-streams-and-akka-actors/</loc>
+    <loc>https://obaydakov.github.io/post/integrating-akka-streams-and-akka-actors/</loc>
     <lastmod>2017-06-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/data-lineage-tracking-and-visualization-tool-for-apache-spark/</loc>
+    <loc>https://obaydakov.github.io/post/data-lineage-tracking-and-visualization-tool-for-apache-spark/</loc>
     <lastmod>2017-06-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/convolutional-neural-network/</loc>
+    <loc>https://obaydakov.github.io/post/convolutional-neural-network/</loc>
     <lastmod>2017-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/bayesian-optimization-for-hyperparameter-tuning/</loc>
+    <loc>https://obaydakov.github.io/post/bayesian-optimization-for-hyperparameter-tuning/</loc>
     <lastmod>2017-05-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/patterns-for-streaming-measurement-data-with-akka-streams/</loc>
+    <loc>https://obaydakov.github.io/post/patterns-for-streaming-measurement-data-with-akka-streams/</loc>
     <lastmod>2017-05-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/introduction-to-local-interpretable-model-agnostic-explanations-lime/</loc>
+    <loc>https://obaydakov.github.io/post/introduction-to-local-interpretable-model-agnostic-explanations-lime/</loc>
     <lastmod>2017-05-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/the-algorithms-behind-probabilistic-programming/</loc>
+    <loc>https://obaydakov.github.io/post/the-algorithms-behind-probabilistic-programming/</loc>
     <lastmod>2017-05-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/transfer-learning-machine-learning-s-next-frontier/</loc>
+    <loc>https://obaydakov.github.io/post/transfer-learning-machine-learning-s-next-frontier/</loc>
     <lastmod>2017-05-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/reactive-stream-vs-akka-stream/</loc>
+    <loc>https://obaydakov.github.io/post/reactive-stream-vs-akka-stream/</loc>
     <lastmod>2017-05-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/the-building-blocks-of-a-cqrs-architected-application/</loc>
+    <loc>https://obaydakov.github.io/post/the-building-blocks-of-a-cqrs-architected-application/</loc>
     <lastmod>2017-05-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/docker-akka-http/</loc>
+    <loc>https://obaydakov.github.io/post/docker-akka-http/</loc>
     <lastmod>2017-05-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/apache-kylin-overview/</loc>
+    <loc>https://obaydakov.github.io/post/apache-kylin-overview/</loc>
     <lastmod>2017-05-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/practical-recommendations-for-gradient-based-training-of-deep-architectures/</loc>
+    <loc>https://obaydakov.github.io/post/practical-recommendations-for-gradient-based-training-of-deep-architectures/</loc>
     <lastmod>2017-05-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/autoencoders-and-anomaly-detection-with-machine-learning-in-fraud-analytics/</loc>
+    <loc>https://obaydakov.github.io/post/autoencoders-and-anomaly-detection-with-machine-learning-in-fraud-analytics/</loc>
     <lastmod>2017-05-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/the-definitive-security-data-science-and-machine-learning-guide/</loc>
+    <loc>https://obaydakov.github.io/post/the-definitive-security-data-science-and-machine-learning-guide/</loc>
     <lastmod>2017-04-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/favorite-threat-hunting-links/</loc>
+    <loc>https://obaydakov.github.io/post/favorite-threat-hunting-links/</loc>
     <lastmod>2017-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/sec-viz-security-visualization/</loc>
+    <loc>https://obaydakov.github.io/post/sec-viz-security-visualization/</loc>
     <lastmod>2017-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/awesome-scala/</loc>
+    <loc>https://obaydakov.github.io/post/awesome-scala/</loc>
     <lastmod>2017-04-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/bigdl-distributed-deep-learning-on-apache-spark/</loc>
+    <loc>https://obaydakov.github.io/post/bigdl-distributed-deep-learning-on-apache-spark/</loc>
     <lastmod>2017-04-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/implementing-a-custom-akka-streams-graph-stage/</loc>
+    <loc>https://obaydakov.github.io/post/implementing-a-custom-akka-streams-graph-stage/</loc>
     <lastmod>2017-04-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/text-mining-with-akka-streams/</loc>
+    <loc>https://obaydakov.github.io/post/text-mining-with-akka-streams/</loc>
     <lastmod>2017-04-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/introduction-to-local-interpretable-model-agnostic-explanations-lime/</loc>
+    <loc>https://obaydakov.github.io/post/introduction-to-local-interpretable-model-agnostic-explanations-lime/</loc>
     <lastmod>2017-04-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/real-world-machine-learning-with-r/</loc>
+    <loc>https://obaydakov.github.io/post/real-world-machine-learning-with-r/</loc>
     <lastmod>2017-04-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/how-ai-drives-the-mobile-contextual-revolution/</loc>
+    <loc>https://obaydakov.github.io/post/how-ai-drives-the-mobile-contextual-revolution/</loc>
     <lastmod>2017-04-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/modelling-reactive-systems-with-event-storming-and-domain-driven-design/</loc>
+    <loc>https://obaydakov.github.io/post/modelling-reactive-systems-with-event-storming-and-domain-driven-design/</loc>
     <lastmod>2017-04-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/message-delivery-reliability/</loc>
+    <loc>https://obaydakov.github.io/post/message-delivery-reliability/</loc>
     <lastmod>2017-04-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/algorithms-and-data-structures/</loc>
+    <loc>https://obaydakov.github.io/post/algorithms-and-data-structures/</loc>
     <lastmod>2017-04-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/kalman-filter/</loc>
+    <loc>https://obaydakov.github.io/post/kalman-filter/</loc>
     <lastmod>2017-04-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/examples-of-using-dl4j-on-spark-and-scala/</loc>
+    <loc>https://obaydakov.github.io/post/examples-of-using-dl4j-on-spark-and-scala/</loc>
     <lastmod>2017-04-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/transfer-learning/</loc>
+    <loc>https://obaydakov.github.io/post/transfer-learning/</loc>
     <lastmod>2017-04-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/deconstructing-deep-meta-learning/</loc>
+    <loc>https://obaydakov.github.io/post/deconstructing-deep-meta-learning/</loc>
     <lastmod>2017-04-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/spark-ml-and-scala/</loc>
+    <loc>https://obaydakov.github.io/post/spark-ml-and-scala/</loc>
     <lastmod>2017-04-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/state-of-hyperparameter-selection/</loc>
+    <loc>https://obaydakov.github.io/post/state-of-hyperparameter-selection/</loc>
     <lastmod>2017-04-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/how-to-use-t-sne-effectively/</loc>
+    <loc>https://obaydakov.github.io/post/how-to-use-t-sne-effectively/</loc>
     <lastmod>2017-04-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/spark-and-xgboost-using-scala/</loc>
+    <loc>https://obaydakov.github.io/post/spark-and-xgboost-using-scala/</loc>
     <lastmod>2017-04-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/the-5-key-challenges-to-building-a-successful-data-team/</loc>
+    <loc>https://obaydakov.github.io/post/the-5-key-challenges-to-building-a-successful-data-team/</loc>
     <lastmod>2017-04-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/finding-gems-in-big-data/</loc>
+    <loc>https://obaydakov.github.io/post/finding-gems-in-big-data/</loc>
     <lastmod>2017-04-02T18:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/deep-feature-synthesis-towards-automating-data-science-endeavors/</loc>
+    <loc>https://obaydakov.github.io/post/deep-feature-synthesis-towards-automating-data-science-endeavors/</loc>
     <lastmod>2017-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/deep-learning-parameter-tuning-with-mxnet-h2o-package-in-r/</loc>
+    <loc>https://obaydakov.github.io/post/deep-learning-parameter-tuning-with-mxnet-h2o-package-in-r/</loc>
     <lastmod>2017-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/feature-engineering-h2o-gradient-boosting-gbm-in-r-scores-0-936/</loc>
+    <loc>https://obaydakov.github.io/post/feature-engineering-h2o-gradient-boosting-gbm-in-r-scores-0-936/</loc>
     <lastmod>2017-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/spark-ml/</loc>
+    <loc>https://obaydakov.github.io/post/spark-ml/</loc>
     <lastmod>2017-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/tutorial-on-xgboost-and-parameter-tuning-in-r/</loc>
+    <loc>https://obaydakov.github.io/post/tutorial-on-xgboost-and-parameter-tuning-in-r/</loc>
     <lastmod>2017-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/using-tensorflow-with-r/</loc>
+    <loc>https://obaydakov.github.io/post/using-tensorflow-with-r/</loc>
     <lastmod>2017-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/an-efficient-approach-for-assessing-hyperparameter-importance/</loc>
+    <loc>https://obaydakov.github.io/post/an-efficient-approach-for-assessing-hyperparameter-importance/</loc>
     <lastmod>2017-04-01T17:11:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/auto-weka-2-0-automatic-model-selection-and-hyperparameter-optimization-in-weka/</loc>
+    <loc>https://obaydakov.github.io/post/auto-weka-2-0-automatic-model-selection-and-hyperparameter-optimization-in-weka/</loc>
     <lastmod>2017-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/efficient-and-robust-automated-machine-learning/</loc>
+    <loc>https://obaydakov.github.io/post/efficient-and-robust-automated-machine-learning/</loc>
     <lastmod>2017-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/2017-04-02-finding-gems-in-big-data/</loc>
+    <loc>https://obaydakov.github.io/post/2017-04-02-finding-gems-in-big-data/</loc>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/2017-07-19-hortonworks-data-flow-3-streamig-applications/</loc>
+    <loc>https://obaydakov.github.io/post/2017-07-19-hortonworks-data-flow-3-streamig-applications/</loc>
   </url>
   
   <url>
@@ -465,13 +470,13 @@
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/tags/golang/</loc>
+    <loc>https://obaydakov.github.io/categories/golang/</loc>
     <lastmod>2017-09-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/categories/golang/</loc>
+    <loc>https://obaydakov.github.io/tags/golang/</loc>
     <lastmod>2017-09-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -519,19 +524,13 @@
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/tags/r/</loc>
-    <lastmod>2017-08-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://obaydakov.github.io/categories/r/</loc>
     <lastmod>2017-08-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/tags/scala/</loc>
+    <loc>https://obaydakov.github.io/tags/r/</loc>
     <lastmod>2017-08-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -539,6 +538,12 @@
   <url>
     <loc>https://obaydakov.github.io/categories/scala/</loc>
     <lastmod>2017-04-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/tags/scala/</loc>
+    <lastmod>2017-08-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

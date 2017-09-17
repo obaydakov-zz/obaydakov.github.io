@@ -13,10 +13,10 @@
     
     <item>
       <title>Spark and XGBoost using Scala</title>
-      <link>https://obaydakov.github.io/post/2017/spark-and-xgboost-using-scala/</link>
+      <link>https://obaydakov.github.io/post/spark-and-xgboost-using-scala/</link>
       <pubDate>Tue, 04 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/2017/spark-and-xgboost-using-scala/</guid>
+      <guid>https://obaydakov.github.io/post/spark-and-xgboost-using-scala/</guid>
       <description>Recently XGBoost project released a package on github where it is included interface to scala, java and spark (more info at this link).
 I would like to run xgboost on a big set of data.
 In this post I just report the scala code lines which can be useful to run spark and xgboost.
@@ -25,28 +25,28 @@ In a further post I&amp;rsquo;m going to show the software setup and the integra
     
     <item>
       <title>Deep Feature Synthesis: Towards Automating Data Science Endeavors</title>
-      <link>https://obaydakov.github.io/post/2017/deep-feature-synthesis-towards-automating-data-science-endeavors/</link>
+      <link>https://obaydakov.github.io/post/deep-feature-synthesis-towards-automating-data-science-endeavors/</link>
       <pubDate>Sun, 02 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/2017/deep-feature-synthesis-towards-automating-data-science-endeavors/</guid>
+      <guid>https://obaydakov.github.io/post/deep-feature-synthesis-towards-automating-data-science-endeavors/</guid>
       <description>Abstract-In this paper, we develop the Data Science Machine, which is able to derive predictive models from raw data automatically. To achieve this automation, we first propose and develop the Deep Feature Synthesis algorithm for automatically generating features for relational datasets. The algorithm follows relationships in the data to a base field, and then sequentially applies mathematical functions along that path to create the final feature. Second, we implement a generalizable machine learning pipeline and tune it using a novel Gaussian Copula process based approach.</description>
     </item>
     
     <item>
       <title>Feature Engineering &#43; H2o Gradient Boosting (GBM) in R Scores 0.936</title>
-      <link>https://obaydakov.github.io/post/2017/feature-engineering-h2o-gradient-boosting-gbm-in-r-scores-0-936/</link>
+      <link>https://obaydakov.github.io/post/feature-engineering-h2o-gradient-boosting-gbm-in-r-scores-0-936/</link>
       <pubDate>Sun, 02 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/2017/feature-engineering-h2o-gradient-boosting-gbm-in-r-scores-0-936/</guid>
+      <guid>https://obaydakov.github.io/post/feature-engineering-h2o-gradient-boosting-gbm-in-r-scores-0-936/</guid>
       <description>Load data and explore Data Pre-processing Dropped Features One Hot Encoding Feature Engineering Model Training  Link</description>
     </item>
     
     <item>
       <title>Auto-WEKA 2.0: Automatic model selection and hyperparameter optimization in WEKA</title>
-      <link>https://obaydakov.github.io/post/2017/auto-weka-2-0-automatic-model-selection-and-hyperparameter-optimization-in-weka/</link>
+      <link>https://obaydakov.github.io/post/auto-weka-2-0-automatic-model-selection-and-hyperparameter-optimization-in-weka/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/2017/auto-weka-2-0-automatic-model-selection-and-hyperparameter-optimization-in-weka/</guid>
+      <guid>https://obaydakov.github.io/post/auto-weka-2-0-automatic-model-selection-and-hyperparameter-optimization-in-weka/</guid>
       <description>WEKA is a widely used, open-source machine learning platform. Due to its intuitive interface, it is particularly popular with novice users. However, such users often find it hard to identify the best approach for their particular dataset among the many available. We describe the new version of Auto-WEKA, a system designed to help such users by automatically searching through the joint space of WEKA’s learning algorithms and their respective hyperparameter settings to maximize performance, using a state-of-the-art Bayesian optimization method.</description>
     </item>
     
