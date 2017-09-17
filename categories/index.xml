@@ -6,9 +6,19 @@
     <description>Recent content in Categories on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 01 Apr 2017 17:11:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Automated Ml</title>
+      <link>https://obaydakov.github.io/categories/automated-ml/</link>
+      <pubDate>Sat, 01 Apr 2017 17:11:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/categories/automated-ml/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
