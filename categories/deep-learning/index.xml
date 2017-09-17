@@ -6,13 +6,22 @@
     <description>Recent content in Deep Learning on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 Sep 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Adventures in Machine Learning</title>
+      <title>Generative Adversarial Networks (GANs): Engine and Applications</title>
+      <link>https://obaydakov.github.io/post/2017/generative-adversarial-networks-gans-engine-and-applications/</link>
+      <pubDate>Sat, 16 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/generative-adversarial-networks-gans-engine-and-applications/</guid>
+      <description>Generative adversarial networks (GANs) are a class of neural networks that are used in unsupervised machine learning. They help to solve such tasks as image generation from descriptions, getting high resolution images from low resolution ones, predicting which drug could treat a certain disease, retrieving images that contain a given pattern, etc.</description>
+    </item>
+    
+    <item>
+      <title>Adventures in Machine Learning New</title>
       <link>https://obaydakov.github.io/post/2017/adventures-in-machine-learning/</link>
       <pubDate>Thu, 17 Aug 2017 00:00:00 +0000</pubDate>
       

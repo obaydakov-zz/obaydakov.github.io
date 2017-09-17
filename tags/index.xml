@@ -6,10 +6,37 @@
     <description>Recent content in Tags on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 May 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Anomaly Detection</title>
+      <link>https://obaydakov.github.io/tags/anomaly-detection/</link>
+      <pubDate>Tue, 02 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/tags/anomaly-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature Selection</title>
+      <link>https://obaydakov.github.io/tags/feature-selection/</link>
+      <pubDate>Tue, 04 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/tags/feature-selection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Github</title>
+      <link>https://obaydakov.github.io/tags/github/</link>
+      <pubDate>Thu, 17 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/tags/github/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Golang</title>
@@ -23,9 +50,81 @@
     <item>
       <title>Hyperparameters Optimization</title>
       <link>https://obaydakov.github.io/tags/hyperparameters-optimization/</link>
-      <pubDate>Sat, 01 Apr 2017 17:11:00 +0000</pubDate>
+      <pubDate>Sun, 13 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/tags/hyperparameters-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meta Learning</title>
+      <link>https://obaydakov.github.io/tags/meta-learning/</link>
+      <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/tags/meta-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://obaydakov.github.io/tags/python/</link>
+      <pubDate>Thu, 17 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>https://obaydakov.github.io/tags/r/</link>
+      <pubDate>Mon, 14 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scala</title>
+      <link>https://obaydakov.github.io/tags/scala/</link>
+      <pubDate>Mon, 14 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/tags/scala/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technology</title>
+      <link>https://obaydakov.github.io/tags/technology/</link>
+      <pubDate>Sat, 05 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/tags/technology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transfer Learning</title>
+      <link>https://obaydakov.github.io/tags/transfer-learning/</link>
+      <pubDate>Sat, 16 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/tags/transfer-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualization</title>
+      <link>https://obaydakov.github.io/tags/visualization/</link>
+      <pubDate>Sat, 16 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/tags/visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weka</title>
+      <link>https://obaydakov.github.io/tags/weka/</link>
+      <pubDate>Sun, 02 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/tags/weka/</guid>
       <description></description>
     </item>
     
