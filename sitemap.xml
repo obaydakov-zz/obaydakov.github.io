@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>https://obaydakov.github.io/post/automated-machine-learning-deploying-automl-to-the-cloud/</loc>
+    <lastmod>2017-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://obaydakov.github.io/post/2017/generative-adversarial-networks-gans-engine-and-applications/</loc>
     <lastmod>2017-09-16T00:00:00+00:00</lastmod>
   </url>
@@ -445,7 +450,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/automated-ml/</loc>
-    <lastmod>2017-08-13T00:00:00+00:00</lastmod>
+    <lastmod>2017-09-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -486,13 +491,13 @@
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/tags/golang/</loc>
+    <loc>https://obaydakov.github.io/categories/golang/</loc>
     <lastmod>2017-09-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/categories/golang/</loc>
+    <loc>https://obaydakov.github.io/tags/golang/</loc>
     <lastmod>2017-09-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -546,19 +551,13 @@
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/tags/r/</loc>
-    <lastmod>2017-08-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://obaydakov.github.io/categories/r/</loc>
     <lastmod>2017-08-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/tags/scala/</loc>
+    <loc>https://obaydakov.github.io/tags/r/</loc>
     <lastmod>2017-08-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -566,6 +565,12 @@
   <url>
     <loc>https://obaydakov.github.io/categories/scala/</loc>
     <lastmod>2017-04-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/tags/scala/</loc>
+    <lastmod>2017-08-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -583,7 +588,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/tags/technology/</loc>
-    <lastmod>2017-08-05T00:00:00+00:00</lastmod>
+    <lastmod>2017-09-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
