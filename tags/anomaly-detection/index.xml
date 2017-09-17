@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anomaly Detection on Oleg Baydakov</title>
+    <link>https://obaydakov.github.io/tags/anomaly-detection/</link>
+    <description>Recent content in Anomaly Detection on Oleg Baydakov</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 May 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://obaydakov.github.io/tags/anomaly-detection/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Autoencoders and anomaly detection with machine learning in fraud analytics</title>
+      <link>https://obaydakov.github.io/post/2017/autoencoders-and-anomaly-detection-with-machine-learning-in-fraud-analytics/</link>
+      <pubDate>Tue, 02 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/autoencoders-and-anomaly-detection-with-machine-learning-in-fraud-analytics/</guid>
+      <description>Link</description>
+    </item>
+    
+  </channel>
+</rss>

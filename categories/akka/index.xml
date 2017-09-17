@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Akka on Oleg Baydakov</title>
+    <link>https://obaydakov.github.io/categories/akka/</link>
+    <description>Recent content in Akka on Oleg Baydakov</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Jun 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://obaydakov.github.io/categories/akka/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Integrating Akka Streams and Akka Actors</title>
+      <link>https://obaydakov.github.io/post/2017/integrating-akka-streams-and-akka-actors/</link>
+      <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/integrating-akka-streams-and-akka-actors/</guid>
+      <description>In part one of this series, I described the challenges of integrating the Akka Streams API with Akka Actors. I demonstrated the basic patterns for interfacing streams and actors, removing the discontinuity between the two. In this article, I will begin to explore more sophisticated ways to integrate actors and streams, in support of building robust and scalable distributed systems, rather than just simple applications, or stand-alone data-processing pipelines. This article will focus on how Akka Actors compliment the Akka Streams API with regard life-cycle management and fault tolerance.</description>
+    </item>
+    
+    <item>
+      <title>Patterns for Streaming Measurement Data with Akka Streams</title>
+      <link>https://obaydakov.github.io/post/2017/patterns-for-streaming-measurement-data-with-akka-streams/</link>
+      <pubDate>Mon, 22 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/patterns-for-streaming-measurement-data-with-akka-streams/</guid>
+      <description>Patterns for Streaming Measurement Data with Akka Streams</description>
+    </item>
+    
+    <item>
+      <title>Reactive Stream vs Akka Stream</title>
+      <link>https://obaydakov.github.io/post/2017/reactive-stream-vs-akka-stream/</link>
+      <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/reactive-stream-vs-akka-stream/</guid>
+      <description>Akka Stream Concepts: Source ~&amp;gt; Flow ~&amp;gt; Sink (code example) Akka Stream is built with the decision to offer APIs that are minimal and consistent-as opposed to easy or intuitive. There is no magic, all the API features are explicit. You have operators to define Source, Sink, Flow, Graph and Operators. You have the operators to handle back-pressure, buffering, transformations, failure recovery, etc. But on my opinion the features that make Akka Stream implementation interesting are: 1.</description>
+    </item>
+    
+    <item>
+      <title>Docker &#43;Akka HTTP</title>
+      <link>https://obaydakov.github.io/post/2017/docker-akka-http/</link>
+      <pubDate>Sat, 06 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/docker-akka-http/</guid>
+      <description>INTRODUCTION
+A while ago I worked on a project that used this tech stack
+Akka HTTP : (actually we used Spray.IO but it is practically the same thing for the purpose of this article). For those that don&amp;rsquo;t know what Akka HTTP is, it is a simple Akka based framework that is also able to expose a REST interface to communicate with the actor system Cassandra database : Apache Cassandra is a free and open-source distributed database management system designed to handle large amounts of data across many commodity servers, providing high availability with no single point of failure.</description>
+    </item>
+    
+    <item>
+      <title>Implementing a custom Akka Streams graph stage </title>
+      <link>https://obaydakov.github.io/post/2017/implementing-a-custom-akka-streams-graph-stage/</link>
+      <pubDate>Tue, 25 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/implementing-a-custom-akka-streams-graph-stage/</guid>
+      <description>THE USE CASE Let&amp;rsquo;s say that having a stream of elements of type E you want to observe their arbitrary property of type P, accumulate the elements as long as the property remains unchanged and only emit an immutable.Seq[E] of accumulated elements when the property changes. In a real-life example the elements can be e.g. lines in a CSV file which you would like to group by a given field.</description>
+    </item>
+    
+    <item>
+      <title>Text Mining With Akka Streams</title>
+      <link>https://obaydakov.github.io/post/2017/text-mining-with-akka-streams/</link>
+      <pubDate>Tue, 25 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/text-mining-with-akka-streams/</guid>
+      <description>Extracting n-grams from text
+In text mining, n-grams are useful data in the area of NLP (natural language processing). In this blog post, I&amp;rsquo;ll illustrate extracting n-grams from a stream of text messages using Akka Streams with Scala as the programming language.
+First thing first, let&amp;rsquo;s create an object with methods for generating random text content
+Akka Streams Text Mining</description>
+    </item>
+    
+    <item>
+      <title>Message Delivery Reliability</title>
+      <link>https://obaydakov.github.io/post/2017/message-delivery-reliability/</link>
+      <pubDate>Sat, 15 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/message-delivery-reliability/</guid>
+      <description>Akka helps you build reliable applications which make use of multiple processor cores in one machine (&amp;ldquo;scaling up&amp;rdquo;) or distributed across a computer network (&amp;ldquo;scaling out&amp;rdquo;). The key abstraction to make this work is that all interactions between your code units-actors-happen via message passing, which is why the precise semantics of how messages are passed between actors deserve their own chapter.
+In order to give some context to the discussion below, consider an application which spans multiple network hosts.</description>
+    </item>
+    
+  </channel>
+</rss>

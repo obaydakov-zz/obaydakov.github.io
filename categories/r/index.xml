@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on Oleg Baydakov</title>
+    <link>https://obaydakov.github.io/categories/r/</link>
+    <description>Recent content in R on Oleg Baydakov</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Aug 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://obaydakov.github.io/categories/r/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Awesome R</title>
+      <link>https://obaydakov.github.io/post/2017/awesome-r/</link>
+      <pubDate>Thu, 17 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/awesome-r/</guid>
+      <description>A curated list of awesome R frameworks, libraries and software.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Awesome R Shiny</title>
+      <link>https://obaydakov.github.io/post/2017/awesome-r-shiny/</link>
+      <pubDate>Sat, 12 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/awesome-r-shiny/</guid>
+      <description>A curated list of resources for R Shiny
+Link</description>
+    </item>
+    
+    <item>
+      <title>Crosstalk</title>
+      <link>https://obaydakov.github.io/post/2017/crosstalk/</link>
+      <pubDate>Sat, 12 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/crosstalk/</guid>
+      <description>Crosstalk is an add-on to the htmlwidgets package. It extends htmlwidgets with a set of classes, functions, and conventions for implementing cross-widget interactions (currently, linked brushing and filtering).
+Play with the example below by manipulating the slider, clicking rows in the data table, and playing with the selection button in the map.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Docker for Data Scientists</title>
+      <link>https://obaydakov.github.io/post/2017/docker-for-data-scientists/</link>
+      <pubDate>Sat, 12 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/docker-for-data-scientists/</guid>
+      <description>Data scientists inhabit such an ever-changing landscape of languages, packages, and frameworks that it can be easy to succumb to tool fatigue. If this sounds familiar, you may have missed the increasing popularity of Linux containers in the DevOps world, in particular Docker. Michelangelo D&amp;rsquo;Agostino demonstrates Docker&amp;rsquo;s many benefits, from making data science code and environments more portable and shareable to making the transition from development to production more seamless to giving data scientists a common basis for collaborating with software engineers, and explains why Docker deserves a place in every data scientist&amp;rsquo;s toolkit.</description>
+    </item>
+    
+    <item>
+      <title>Random Bot for OpenML platform</title>
+      <link>https://obaydakov.github.io/post/2017/random-bot-for-openml-platform/</link>
+      <pubDate>Sat, 12 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/random-bot-for-openml-platform/</guid>
+      <description>&amp;lsquo;RandomBot&amp;rsquo; is a program that searches randomly the hyper-parameter space from different Machine Learning (ML) algorithms, sampling different hyper-parameter settings via hyper-parameter sweep. It executes pre-defined &amp;lsquo;mlr&amp;rsquo; [1] learners over OpenML [2] classification problems using the &amp;lsquo;BatchExperiments&amp;rsquo; package [3] structure.
+For each pair of {task, algorithm}, the bot will start N new jobs with random different hper-parameter settings. The budget N is defined as N = 100 * D , where D denotes the number of parameters in that algorithm&amp;rsquo;s space, and 100 is the tuning constant (defined empirically).</description>
+    </item>
+    
+    <item>
+      <title>Trelliscope</title>
+      <link>https://obaydakov.github.io/post/2017/trelliscope/</link>
+      <pubDate>Sat, 12 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/trelliscope/</guid>
+      <description>Trelliscope is a visualization approach based on the idea of &amp;ldquo;small multiples&amp;rdquo; or &amp;ldquo;Trellis Display&amp;rdquo;, where data are split into groups and a plot is made for each group, with the resulting plots arranged in a grid. This approach is very simple yet is considered to be &amp;ldquo;the best design solution for a wide range or problems in data presentation&amp;rdquo;. Trelliscope makes small multiple displays come alive by providing the ability to interactively sort and filter the plots based on summary statistics computed for each group.</description>
+    </item>
+    
+    <item>
+      <title>Web Sites with R</title>
+      <link>https://obaydakov.github.io/post/2017/web-sites-with-r/</link>
+      <pubDate>Sat, 12 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/web-sites-with-r/</guid>
+      <description>Blogdown (R package)
+blogdown ??? Hugo + R Markdown
+Hugo can only process Markdown; R Markdown is prebuilt to .html and passed to Hugo a few helper functions
+new_site() creates a new website
+install_hugo() / install_theme()
+serve_site() rebuilds and live reloads a website on changes (RStudio addin &amp;ldquo;Live Preview Site&amp;rdquo;)
+new_post() creates a new post under content/post/ and automatically fills out some YAML metadata (title, author, date, &amp;hellip;)
+output format: blogdown::html_page</description>
+    </item>
+    
+    <item>
+      <title>Introduction to parallel computing with R</title>
+      <link>https://obaydakov.github.io/post/2017/introduction-to-parallel-computing-with-r/</link>
+      <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/introduction-to-parallel-computing-with-r/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>OpenML: Connecting R to the Machine Learning Platform OpenML</title>
+      <link>https://obaydakov.github.io/post/2017/openml-connecting-r-to-the-machine-learning-platform-openml/</link>
+      <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/openml-connecting-r-to-the-machine-learning-platform-openml/</guid>
+      <description>Tutorial 1
+Tutorial 2
+Slides
+R interface to OpenML
+Tutorial 3
+Tutorial 4</description>
+    </item>
+    
+    <item>
+      <title>Package ggiraph: a ggplot2 Extension for Interactive Graphics</title>
+      <link>https://obaydakov.github.io/post/2017/package-ggiraph-a-ggplot2-extension-for-interactive-graphics/</link>
+      <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/package-ggiraph-a-ggplot2-extension-for-interactive-graphics/</guid>
+      <description>ggiraph is an htmlwidget and a ggplot2 extension. It lets ggplot graphics being animated.
+Animation is made with ggplot geometries that can understand three arguments:
+tooltip: column of dataset that contains tooltips to be displayed when mouse is over elements.
+onclick: column of dataset that contains javascript function to be executed when elements are clicked.
+data_id: column of dataset that contains id to be associated with elements.
+Link
+Video</description>
+    </item>
+    
+    <item>
+      <title>jug: A Simple Web Framework for R</title>
+      <link>https://obaydakov.github.io/post/2017/jug-a-simple-web-framework-for-r/</link>
+      <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/jug-a-simple-web-framework-for-r/</guid>
+      <description>jug is a web framework aimed at easily building APIs. It is mostly aimed at exposing R functions, models and visualizations to third-parties by way of http requests.
+Link
+Video</description>
+    </item>
+    
+    <item>
+      <title>shiny.semantic</title>
+      <link>https://obaydakov.github.io/post/2017/shiny-semantic/</link>
+      <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/shiny-semantic/</guid>
+      <description>Semantic UI wrapper for Shiny
+With this library it&amp;rsquo;s easy to wrap Shiny with Semantic UI components. Add a few simple lines of code and some CSS classes to give your UI a fresh, modern and highly interactive look.
+Link
+Video</description>
+    </item>
+    
+    <item>
+      <title>iheatmapr-  R package</title>
+      <link>https://obaydakov.github.io/post/2017/iheatmapr-r-package/</link>
+      <pubDate>Wed, 09 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/iheatmapr-r-package/</guid>
+      <description>iheatmapr is an R package for building complex, interactive heatmaps using modular building blocks. &amp;ldquo;Complex&amp;rdquo; heatmaps are heatmaps in which subplots along the rows or columns of the main heatmap add more information about each row or column. For example, a one column additional heatmap may indicate what group a particular row or column belongs to. Complex heatmaps may also include multiple side by side heatmaps which show different types of data for the same conditions.</description>
+    </item>
+    
+    <item>
+      <title>Formattable data frame</title>
+      <link>https://obaydakov.github.io/post/2017/formattable-data-frame/</link>
+      <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/formattable-data-frame/</guid>
+      <description>Formattable data frames are data frames to be rendered as HTML table with formatter functions applied, which resembles conditional formatting in Microsoft Excel.
+Article
+Link Github</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning &amp; Parameter Tuning with MXnet, H2o Package in R</title>
+      <link>https://obaydakov.github.io/post/2017/deep-learning-parameter-tuning-with-mxnet-h2o-package-in-r/</link>
+      <pubDate>Sun, 02 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/deep-learning-parameter-tuning-with-mxnet-h2o-package-in-r/</guid>
+      <description>Introduction Deep Learning isn&amp;rsquo;t a recent discovery. The seeds were sown back in the 1950s when the first artificial neural network was created. Since then, progress has been rapid, with the structure of the neuron being &amp;ldquo;re-invented&amp;rdquo; artificially.
+Computers and mobiles have now become powerful enough to identify objects from images.
+Not just images, they can chat with you as well! Haven&amp;rsquo;t you tried Google&amp;rsquo;s Allo app ? That&amp;rsquo;s not all-they can drive, make supersonic calculations, and help businesses solve the most complicated problems (more users, revenue, etc).</description>
+    </item>
+    
+    <item>
+      <title>Feature Engineering &#43; H2o Gradient Boosting (GBM) in R Scores 0.936</title>
+      <link>https://obaydakov.github.io/post/2017/feature-engineering-h2o-gradient-boosting-gbm-in-r-scores-0-936/</link>
+      <pubDate>Sun, 02 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/feature-engineering-h2o-gradient-boosting-gbm-in-r-scores-0-936/</guid>
+      <description>Load data and explore Data Pre-processing Dropped Features One Hot Encoding Feature Engineering Model Training  Link</description>
+    </item>
+    
+    <item>
+      <title>Tutorial on XGBoost and Parameter Tuning in R</title>
+      <link>https://obaydakov.github.io/post/2017/tutorial-on-xgboost-and-parameter-tuning-in-r/</link>
+      <pubDate>Sun, 02 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/tutorial-on-xgboost-and-parameter-tuning-in-r/</guid>
+      <description>Table of Contents  What is XGBoost? Why is it so good? How does XGBoost work? Understanding XGBoost Tuning Parameters Practical - Tuning XGBoost using R  Link</description>
+    </item>
+    
+  </channel>
+</rss>

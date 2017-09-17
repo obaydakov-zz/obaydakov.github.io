@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Automated Ml on Oleg Baydakov</title>
+    <link>https://obaydakov.github.io/categories/automated-ml/</link>
+    <description>Recent content in Automated Ml on Oleg Baydakov</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Aug 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://obaydakov.github.io/categories/automated-ml/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An overview of gradient descent optimization algorithms</title>
+      <link>https://obaydakov.github.io/post/2017/an-overview-of-gradient-descent-optimization-algorithms/</link>
+      <pubDate>Sun, 13 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/an-overview-of-gradient-descent-optimization-algorithms/</guid>
+      <description>Gradient descent is one of the most popular algorithms to perform optimization and by far the most common way to optimize neural networks. At the same time, every state-of-the-art Deep Learning library contains implementations of various algorithms to optimize gradient descent (e.g. lasagne&amp;rsquo;s, caffe&amp;rsquo;s, and keras&amp;rsquo; documentation). These algorithms, however, are often used as black-box optimizers, as practical explanations of their strengths and weaknesses are hard to come by.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Model evaluation, model selection, and algorithm selection in machine learning  - Cross-validation and hyperparameter tuning </title>
+      <link>https://obaydakov.github.io/post/2017/model-evaluation-model-selection-and-algorithm-selection-in-machine-learning-cross-validation-and-hyperparameter-tuning/</link>
+      <pubDate>Sun, 13 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/model-evaluation-model-selection-and-algorithm-selection-in-machine-learning-cross-validation-and-hyperparameter-tuning/</guid>
+      <description>Almost every machine learning algorithm comes with a large number of settings that we, the machine learning researchers and practitioners, need to specify. These tuning knobs, the so-called hyperparameters, help us control the behavior of machine learning algorithms when optimizing for performance, finding the right balance between bias and variance. Hyperparameter tuning for performance optimization is an art in itself, and there are no hard-and-fast rules that guarantee best performance on a given dataset.</description>
+    </item>
+    
+    <item>
+      <title>Productionizing Apache SparkT MLlib Models for Real-time Prediction Serving</title>
+      <link>https://obaydakov.github.io/post/2017/c-users-oleg-baydakov-documents-myblog-new-myblog-hugo/</link>
+      <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/c-users-oleg-baydakov-documents-myblog-new-myblog-hugo/</guid>
+      <description>Data science and machine learning tools traditionally focus on training models. When companies begin to employ machine learning in actual production workflows, they encounter new sources of friction such as sharing models across teams, deploying identical models on different systems, and maintaining featurization logic. In this webinar, we discuss how Databricks provides a smooth path for productionizing Apache Spark MLlib models and featurization pipelines.
+Databricks Model Scoring provides a simple API for exporting MLlib models and pipelines.</description>
+    </item>
+    
+    <item>
+      <title>Python framewrok - QML</title>
+      <link>https://obaydakov.github.io/post/2017/python-framewrok-qml/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/python-framewrok-qml/</guid>
+      <description>Description
+Code</description>
+    </item>
+    
+    <item>
+      <title>Transfer Learning - Machine Learning&#39;s Next Frontier</title>
+      <link>https://obaydakov.github.io/post/2017/transfer-learning-machine-learning-s-next-frontier/</link>
+      <pubDate>Sun, 14 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/transfer-learning-machine-learning-s-next-frontier/</guid>
+      <description>Table of contents:
+What is Transfer Learning? Why Transfer Learning Now? A Definition of Transfer Learning Transfer Learning Scenarios Applications of Transfer Learning Learning from simulations Adapting to new domains Transferring knowledge across languages Transfer Learning Methods Using pre-trained CNN features Learning domain-invariant representations Making representations more similar Confusing domains Related Research Areas Semi-supervised learning Using available data more effectively Improving models&amp;rsquo; ability to generalize Making models more robust Multi-task learning Continuous learning Zero-shot learning Conclusion</description>
+    </item>
+    
+    <item>
+      <title>Deconstructing Deep Meta Learning</title>
+      <link>https://obaydakov.github.io/post/2017/deconstructing-deep-meta-learning/</link>
+      <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/deconstructing-deep-meta-learning/</guid>
+      <description>This article explores in more detail the idea of Meta Learning that was previously introduced in a post &amp;ldquo;The Meta Model and Meta Meta Model of Deep Learning&amp;rdquo;. In this post, I explore &amp;ldquo;Learning to Learn&amp;rdquo; as a Meta Learning approach. We have to be very careful to distinguish between Learning to Learn and Hyper Parameter Optimization (HPO). HPO and more generally searching for architectures differs from &amp;ldquo;learning to learn&amp;rdquo; in that that HPO explores the space of architectures while meta-learning explores the space of learning algorithms.</description>
+    </item>
+    
+    <item>
+      <title>State of Hyperparameter Selection</title>
+      <link>https://obaydakov.github.io/post/2017/state-of-hyperparameter-selection/</link>
+      <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/state-of-hyperparameter-selection/</guid>
+      <description>Historically hyperparameter determination has been a woefully forgotten aspect of machine learning. With the rise of neural nets - which require more hyperparameters, more precisely tuned than many other models - there has been a recent surge of interest in intelligent methods for selection; however, the average practitioner still seems to commonly use either default hyperparameters, grid search, random search, or (believe it or not) manual search.
+For the readers who don&#39;t know, hyperparameter selection boils down to a conceptually simple problem: you have a set of variables (your hyperparameters) and an objective function (a measure of how good your model is).</description>
+    </item>
+    
+    <item>
+      <title>Deep Feature Synthesis: Towards Automating Data Science Endeavors</title>
+      <link>https://obaydakov.github.io/post/2017/deep-feature-synthesis-towards-automating-data-science-endeavors/</link>
+      <pubDate>Sun, 02 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/deep-feature-synthesis-towards-automating-data-science-endeavors/</guid>
+      <description>Abstract-In this paper, we develop the Data Science Machine, which is able to derive predictive models from raw data automatically. To achieve this automation, we first propose and develop the Deep Feature Synthesis algorithm for automatically generating features for relational datasets. The algorithm follows relationships in the data to a base field, and then sequentially applies mathematical functions along that path to create the final feature. Second, we implement a generalizable machine learning pipeline and tune it using a novel Gaussian Copula process based approach.</description>
+    </item>
+    
+    <item>
+      <title>An Efficient Approach for Assessing Hyperparameter Importance</title>
+      <link>https://obaydakov.github.io/post/2017/an-efficient-approach-for-assessing-hyperparameter-importance/</link>
+      <pubDate>Sat, 01 Apr 2017 17:11:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/an-efficient-approach-for-assessing-hyperparameter-importance/</guid>
+      <description>The performance of many machine learning methods depends critically on hyperparameter settings. Sophisticated Bayesian optimization methods have recently achieved considerable successes in optimizing these hyperparameters, in several cases surpassing the performance of human experts. However, blind reliance on such methods can leave end users without insight into the relative importance of different hyperparameters and their interactions. This paper describes efficient methods that can be used to gain such insight, leveraging random forest models fit on the data already gathered by Bayesian optimization.</description>
+    </item>
+    
+    <item>
+      <title>Auto-WEKA 2.0: Automatic model selection and hyperparameter optimization in WEKA</title>
+      <link>https://obaydakov.github.io/post/2017/auto-weka-2-0-automatic-model-selection-and-hyperparameter-optimization-in-weka/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/auto-weka-2-0-automatic-model-selection-and-hyperparameter-optimization-in-weka/</guid>
+      <description>WEKA is a widely used, open-source machine learning platform. Due to its intuitive interface, it is particularly popular with novice users. However, such users often find it hard to identify the best approach for their particular dataset among the many available. We describe the new version of Auto-WEKA, a system designed to help such users by automatically searching through the joint space of WEKA’s learning algorithms and their respective hyperparameter settings to maximize performance, using a state-of-the-art Bayesian optimization method.</description>
+    </item>
+    
+    <item>
+      <title>Efficient and Robust Automated Machine Learning</title>
+      <link>https://obaydakov.github.io/post/2017/efficient-and-robust-automated-machine-learning/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/efficient-and-robust-automated-machine-learning/</guid>
+      <description>The success of machine learning in a broad range of applications has led to an ever-growing demand for machine learning systems that can be used off the shelf by non-experts. To be effective in practice, such systems need to automatically choose a good algorithm and feature preprocessing steps for a new dataset at hand, and also set their respective hyperparameters.
+Recent work has started to tackle this automated machine learning (AutoML) problem with the help of efficient Bayesian optimization methods.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scala on Oleg Baydakov</title>
+    <link>https://obaydakov.github.io/tags/scala/</link>
+    <description>Recent content in Scala on Oleg Baydakov</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Aug 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://obaydakov.github.io/tags/scala/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ScalNet - A Scala wrapper for Deeplearning4j, inspired by Keras. Scala &#43; DL &#43; Spark &#43; GPUs</title>
+      <link>https://obaydakov.github.io/post/2017/scalnet-a-scala-wrapper-for-deeplearning4j-inspired-by-keras-scala-dl-spark-gpus/</link>
+      <pubDate>Mon, 14 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/scalnet-a-scala-wrapper-for-deeplearning4j-inspired-by-keras-scala-dl-spark-gpus/</guid>
+      <description>ScalNet is a wrapper around Deeplearning4j emulating a Keras like API for deep learning. ScalNet is released under an Apache 2.0 license. By contributing code to this repository, you agree to make your contribution available under an Apache 2.0 license.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Productionizing Apache SparkT MLlib Models for Real-time Prediction Serving</title>
+      <link>https://obaydakov.github.io/post/2017/c-users-oleg-baydakov-documents-myblog-new-myblog-hugo/</link>
+      <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/c-users-oleg-baydakov-documents-myblog-new-myblog-hugo/</guid>
+      <description>Data science and machine learning tools traditionally focus on training models. When companies begin to employ machine learning in actual production workflows, they encounter new sources of friction such as sharing models across teams, deploying identical models on different systems, and maintaining featurization logic. In this webinar, we discuss how Databricks provides a smooth path for productionizing Apache Spark MLlib models and featurization pipelines.
+Databricks Model Scoring provides a simple API for exporting MLlib models and pipelines.</description>
+    </item>
+    
+    <item>
+      <title>Patterns for Streaming Measurement Data with Akka Streams</title>
+      <link>https://obaydakov.github.io/post/2017/patterns-for-streaming-measurement-data-with-akka-streams/</link>
+      <pubDate>Mon, 22 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/patterns-for-streaming-measurement-data-with-akka-streams/</guid>
+      <description>Patterns for Streaming Measurement Data with Akka Streams</description>
+    </item>
+    
+    <item>
+      <title>The Algorithms Behind Probabilistic Programming</title>
+      <link>https://obaydakov.github.io/post/2017/the-algorithms-behind-probabilistic-programming/</link>
+      <pubDate>Sun, 14 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/the-algorithms-behind-probabilistic-programming/</guid>
+      <description>Bayesian Inference
+Probabilistic programming enables us to construct and fit probabilistic models in code. At its essence, Bayesian inference is a principled way to draw conclusions from incomplete or imperfect data, by interpreting data in light of prior knowledge of probabilities. As pretty much all real-world data is incomplete or imperfect in some way, it&amp;rsquo;s an important (and old!) idea.
+Bayesian inference might be the way to go if you:</description>
+    </item>
+    
+    <item>
+      <title>Awesome Scala</title>
+      <link>https://obaydakov.github.io/post/2017/awesome-scala/</link>
+      <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/awesome-scala/</guid>
+      <description>Awesome Scala Awesome
+A community driven list of useful Scala libraries, frameworks and software. This is not a catalog of all the libraries, just a starting point for your explorations. Inspired by awesome-python. Other amazingly awesome lists can be found in the awesome-awesomeness list.
+Also awesome is Scaladex, the searchable, tagged, and centralized index of Scala libraries.
+Awesome Scala</description>
+    </item>
+    
+    <item>
+      <title>BigDL: Distributed Deep Learning on Apache Spark</title>
+      <link>https://obaydakov.github.io/post/2017/bigdl-distributed-deep-learning-on-apache-spark/</link>
+      <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/bigdl-distributed-deep-learning-on-apache-spark/</guid>
+      <description>What is BigDL?
+BigDL is a distributed deep learning library for Apache Spark; with BigDL, users can write their deep learning applications as standard Spark programs, which can directly run on top of existing Spark or Hadoop clusters.
+Rich deep learning support. Modeled after Torch, BigDL provides comprehensive support for deep learning, including numeric computing (via Tensor) and high level neural networks; in addition, users can load pre-trained Caffe or Torch models into Spark programs using BigDL.</description>
+    </item>
+    
+    <item>
+      <title>Implementing a custom Akka Streams graph stage </title>
+      <link>https://obaydakov.github.io/post/2017/implementing-a-custom-akka-streams-graph-stage/</link>
+      <pubDate>Tue, 25 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/implementing-a-custom-akka-streams-graph-stage/</guid>
+      <description>THE USE CASE Let&amp;rsquo;s say that having a stream of elements of type E you want to observe their arbitrary property of type P, accumulate the elements as long as the property remains unchanged and only emit an immutable.Seq[E] of accumulated elements when the property changes. In a real-life example the elements can be e.g. lines in a CSV file which you would like to group by a given field.</description>
+    </item>
+    
+    <item>
+      <title>Text Mining With Akka Streams</title>
+      <link>https://obaydakov.github.io/post/2017/text-mining-with-akka-streams/</link>
+      <pubDate>Tue, 25 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/text-mining-with-akka-streams/</guid>
+      <description>Extracting n-grams from text
+In text mining, n-grams are useful data in the area of NLP (natural language processing). In this blog post, I&amp;rsquo;ll illustrate extracting n-grams from a stream of text messages using Akka Streams with Scala as the programming language.
+First thing first, let&amp;rsquo;s create an object with methods for generating random text content
+Akka Streams Text Mining</description>
+    </item>
+    
+    <item>
+      <title>Message Delivery Reliability</title>
+      <link>https://obaydakov.github.io/post/2017/message-delivery-reliability/</link>
+      <pubDate>Sat, 15 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/message-delivery-reliability/</guid>
+      <description>Akka helps you build reliable applications which make use of multiple processor cores in one machine (&amp;ldquo;scaling up&amp;rdquo;) or distributed across a computer network (&amp;ldquo;scaling out&amp;rdquo;). The key abstraction to make this work is that all interactions between your code units-actors-happen via message passing, which is why the precise semantics of how messages are passed between actors deserve their own chapter.
+In order to give some context to the discussion below, consider an application which spans multiple network hosts.</description>
+    </item>
+    
+    <item>
+      <title>Algorithms and Data Structures</title>
+      <link>https://obaydakov.github.io/post/2017/algorithms-and-data-structures/</link>
+      <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/algorithms-and-data-structures/</guid>
+      <description>Algorithms and Data Structures
+This is the collection of algorithms, data structures and Interview Questions with solutions. This repository contains my solutions for common algorithmic problems and implementation of Data Structures in Java. I&amp;rsquo;ve created this repository to learn about algorithms. I am adding solutions continuously. Link</description>
+    </item>
+    
+    <item>
+      <title>Examples of using DL4J on Spark and Scala</title>
+      <link>https://obaydakov.github.io/post/2017/examples-of-using-dl4j-on-spark-and-scala/</link>
+      <pubDate>Thu, 06 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/examples-of-using-dl4j-on-spark-and-scala/</guid>
+      <description>Examples: Project for the talk on NLP using LSTM implementation from DL4J on Spark
+Deeplearning4J Examples for Scala
+Exploring convolutional neural networks with DL4J
+ND4S is open-source Scala bindings for ND4J</description>
+    </item>
+    
+    <item>
+      <title>Spark ML and Scala</title>
+      <link>https://obaydakov.github.io/post/2017/spark-ml-and-scala/</link>
+      <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/spark-ml-and-scala/</guid>
+      <description>Usefull links:
+Spark MLLib - Predict Store Sales with ML Pipelines
+sparktutorials.net
+KeystoneML
+Streamline the Machine Learning Process Using Apache Spark ML Pipelines
+Spam Detection with Sparkling Water and Spark Machine Learning Pipelines
+Extend Spark ML for your own model/transformer types
+Spam classification using Spark&amp;rsquo;s DataFrames, ML and Zeppelin (Part 1)
+How-to: Predict Telco Churn with Apache Spark MLlib
+Feature Extraction and Transformation - RDD-based API
+Spark Machine Learning Pipeline by Example</description>
+    </item>
+    
+  </channel>
+</rss>

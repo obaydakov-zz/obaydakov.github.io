@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Oleg Baydakov</title>
+    <link>https://obaydakov.github.io/tags/python/</link>
+    <description>Recent content in Python on Oleg Baydakov</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Aug 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://obaydakov.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Adventures in Machine Learning New</title>
+      <link>https://obaydakov.github.io/post/2017/adventures-in-machine-learning/</link>
+      <pubDate>Thu, 17 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/adventures-in-machine-learning/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning Limitations</title>
+      <link>https://obaydakov.github.io/post/2017/deep-learning-limitations/</link>
+      <pubDate>Tue, 08 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/deep-learning-limitations/</guid>
+      <description>Limitations of deep learning and future</description>
+    </item>
+    
+    <item>
+      <title>Python framewrok - QML</title>
+      <link>https://obaydakov.github.io/post/2017/python-framewrok-qml/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/python-framewrok-qml/</guid>
+      <description>Description
+Code</description>
+    </item>
+    
+  </channel>
+</rss>
