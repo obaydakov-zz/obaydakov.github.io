@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://obaydakov.github.io/post/golang-development/</loc>
-    <lastmod>2017-09-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://obaydakov.github.io/post/adventures-in-machine-learning/</loc>
     <lastmod>2017-08-17T00:00:00+00:00</lastmod>
   </url>
@@ -393,11 +388,6 @@
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/an-efficient-approach-for-assessing-hyperparameter-importance/</loc>
-    <lastmod>2017-04-01T17:11:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://obaydakov.github.io/post/auto-weka-2-0-automatic-model-selection-and-hyperparameter-optimization-in-weka/</loc>
     <lastmod>2017-04-01T00:00:00+00:00</lastmod>
   </url>
@@ -470,18 +460,6 @@
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/tags/golang/</loc>
-    <lastmod>2017-09-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://obaydakov.github.io/categories/golang/</loc>
-    <lastmod>2017-09-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://obaydakov.github.io/tags/hyperparameters-optimization/</loc>
     <lastmod>2017-08-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -507,13 +485,13 @@
   
   <url>
     <loc>https://obaydakov.github.io/</loc>
-    <lastmod>2017-09-16T00:00:00+00:00</lastmod>
+    <lastmod>2017-08-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/post/</loc>
-    <lastmod>2017-09-16T00:00:00+00:00</lastmod>
+    <lastmod>2017-08-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

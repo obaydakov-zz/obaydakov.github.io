@@ -98,15 +98,6 @@ For the readers who don&#39;t know, hyperparameter selection boils down to a con
     </item>
     
     <item>
-      <title>An Efficient Approach for Assessing Hyperparameter Importance</title>
-      <link>https://obaydakov.github.io/post/an-efficient-approach-for-assessing-hyperparameter-importance/</link>
-      <pubDate>Sat, 01 Apr 2017 17:11:00 +0000</pubDate>
-      
-      <guid>https://obaydakov.github.io/post/an-efficient-approach-for-assessing-hyperparameter-importance/</guid>
-      <description>The performance of many machine learning methods depends critically on hyperparameter settings. Sophisticated Bayesian optimization methods have recently achieved considerable successes in optimizing these hyperparameters, in several cases surpassing the performance of human experts. However, blind reliance on such methods can leave end users without insight into the relative importance of different hyperparameters and their interactions. This paper describes efficient methods that can be used to gain such insight, leveraging random forest models fit on the data already gathered by Bayesian optimization.</description>
-    </item>
-    
-    <item>
       <title>Auto-WEKA 2.0: Automatic model selection and hyperparameter optimization in WEKA</title>
       <link>https://obaydakov.github.io/post/auto-weka-2-0-automatic-model-selection-and-hyperparameter-optimization-in-weka/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
