@@ -6,26 +6,17 @@
     <description>Recent content in Posts on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Sep 2017 22:10:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 Sep 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Mac OS X Setup Guide</title>
-      <link>https://obaydakov.github.io/post/2017/mac-os-x-setup-guide/</link>
-      <pubDate>Sun, 17 Sep 2017 22:10:15 +0000</pubDate>
-      
-      <guid>https://obaydakov.github.io/post/2017/mac-os-x-setup-guide/</guid>
-      <description>This guide covers the basics of setting up a development environment on a new Mac. Whether you are an experienced programmer or not, this guide is intended for everyone to use as a reference for setting up your environment or installing a languages/libraries.</description>
-    </item>
-    
-    <item>
       <title>0 to Microservice in 5 minutes with Go and Minke</title>
-      <link>https://obaydakov.github.io/post/0-to-microservice-in-5-minutes-with-go-and-minke/</link>
+      <link>https://obaydakov.github.io/post/2017/0-to-microservice-in-5-minutes-with-go-and-minke/</link>
       <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/0-to-microservice-in-5-minutes-with-go-and-minke/</guid>
+      <guid>https://obaydakov.github.io/post/2017/0-to-microservice-in-5-minutes-with-go-and-minke/</guid>
       <description>0 to Microservice in 5 minutes with Go and Minke</description>
     </item>
     
@@ -64,6 +55,15 @@ Requirements
       
       <guid>https://obaydakov.github.io/post/2017/web-app-using-microservices-in-go/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Mac OS X Setup Guide</title>
+      <link>https://obaydakov.github.io/post/2017/mac-os-x-setup-guide/</link>
+      <pubDate>Sat, 16 Sep 2017 22:10:15 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/mac-os-x-setup-guide/</guid>
+      <description>This guide covers the basics of setting up a development environment on a new Mac. Whether you are an experienced programmer or not, this guide is intended for everyone to use as a reference for setting up your environment or installing a languages/libraries.</description>
     </item>
     
     <item>

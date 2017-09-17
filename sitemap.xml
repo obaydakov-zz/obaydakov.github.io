@@ -3,12 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/mac-os-x-setup-guide/</loc>
-    <lastmod>2017-09-17T22:10:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://obaydakov.github.io/post/0-to-microservice-in-5-minutes-with-go-and-minke/</loc>
+    <loc>https://obaydakov.github.io/post/2017/0-to-microservice-in-5-minutes-with-go-and-minke/</loc>
     <lastmod>2017-09-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -25,6 +20,11 @@
   <url>
     <loc>https://obaydakov.github.io/post/2017/web-app-using-microservices-in-go/</loc>
     <lastmod>2017-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2017/mac-os-x-setup-guide/</loc>
+    <lastmod>2017-09-16T22:10:15+00:00</lastmod>
   </url>
   
   <url>
@@ -477,7 +477,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/tags/configuration/</loc>
-    <lastmod>2017-09-17T22:10:15+00:00</lastmod>
+    <lastmod>2017-09-16T22:10:15+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -531,7 +531,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/mac-os/</loc>
-    <lastmod>2017-09-17T22:10:15+00:00</lastmod>
+    <lastmod>2017-09-16T22:10:15+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -555,13 +555,13 @@
   
   <url>
     <loc>https://obaydakov.github.io/</loc>
-    <lastmod>2017-09-17T22:10:15+00:00</lastmod>
+    <lastmod>2017-09-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/post/</loc>
-    <lastmod>2017-09-17T22:10:15+00:00</lastmod>
+    <lastmod>2017-09-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
