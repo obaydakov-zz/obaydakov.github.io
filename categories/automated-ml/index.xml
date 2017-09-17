@@ -13,10 +13,10 @@
     
     <item>
       <title>Automated Machine Learning: Deploying AutoML to the Cloud</title>
-      <link>https://obaydakov.github.io/post/automated-machine-learning-deploying-automl-to-the-cloud/</link>
+      <link>https://obaydakov.github.io/post/2017/automated-machine-learning-deploying-automl-to-the-cloud/</link>
       <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/automated-machine-learning-deploying-automl-to-the-cloud/</guid>
+      <guid>https://obaydakov.github.io/post/2017/automated-machine-learning-deploying-automl-to-the-cloud/</guid>
       <description>[]https://content.pivotal.io/blog/automated-machine-learning-deploying-automl-to-the-cloud)
 What exactly is AutoML? AutoML is a broad term and technically could encompass the entire data science cycle from data exploration to model building. However, I have found it most commonly refers to automating feature preprocessing and selection, model algorithm selection, and hyperparameter tuning–steps located at the end of the data science process.
  AutoML offers tangible benefits for model selection and optimization.  2.It&amp;rsquo;s very easy to get started.</description>
@@ -24,10 +24,10 @@ What exactly is AutoML? AutoML is a broad term and technically could encompass t
     
     <item>
       <title>Real-Time Fraud Detection with Microservices</title>
-      <link>https://obaydakov.github.io/post/real-time-fraud-detection-with-microservices/</link>
+      <link>https://obaydakov.github.io/post/2017/real-time-fraud-detection-with-microservices/</link>
       <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/real-time-fraud-detection-with-microservices/</guid>
+      <guid>https://obaydakov.github.io/post/2017/real-time-fraud-detection-with-microservices/</guid>
       <description>
 
 Requirements

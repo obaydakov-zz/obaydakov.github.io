@@ -6,10 +6,19 @@
     <description>Recent content in Golang on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 Sep 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/golang/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Web app using Microservices in Go</title>
+      <link>https://obaydakov.github.io/post/2017/web-app-using-microservices-in-go/</link>
+      <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/web-app-using-microservices-in-go/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Golang development</title>
