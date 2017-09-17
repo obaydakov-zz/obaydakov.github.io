@@ -398,6 +398,11 @@
   </url>
   
   <url>
+    <loc>https://obaydakov.github.io/post/an-efficient-approach-for-assessing-hyperparameter-importance/</loc>
+    <lastmod>2017-04-01T17:11:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://obaydakov.github.io/post/auto-weka-2-0-automatic-model-selection-and-hyperparameter-optimization-in-weka/</loc>
     <lastmod>2017-04-01T00:00:00+00:00</lastmod>
   </url>
@@ -470,13 +475,13 @@
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/categories/golang/</loc>
+    <loc>https://obaydakov.github.io/tags/golang/</loc>
     <lastmod>2017-09-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/tags/golang/</loc>
+    <loc>https://obaydakov.github.io/categories/golang/</loc>
     <lastmod>2017-09-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -524,13 +529,19 @@
   </url>
   
   <url>
+    <loc>https://obaydakov.github.io/tags/r/</loc>
+    <lastmod>2017-08-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://obaydakov.github.io/categories/r/</loc>
     <lastmod>2017-08-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/tags/r/</loc>
+    <loc>https://obaydakov.github.io/tags/scala/</loc>
     <lastmod>2017-08-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -538,12 +549,6 @@
   <url>
     <loc>https://obaydakov.github.io/categories/scala/</loc>
     <lastmod>2017-04-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://obaydakov.github.io/tags/scala/</loc>
-    <lastmod>2017-08-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
