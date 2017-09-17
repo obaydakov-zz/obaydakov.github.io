@@ -6,10 +6,27 @@
     <description>Recent content in Anomaly Detection on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 May 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 Sep 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/anomaly-detection/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Real-Time Fraud Detection with Microservices</title>
+      <link>https://obaydakov.github.io/post/real-time-fraud-detection-with-microservices/</link>
+      <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/real-time-fraud-detection-with-microservices/</guid>
+      <description>
+
+Requirements
+ CloudFoundry (tested with pcfdev v0.21)
+ Apache Geode (tested with v1.0.0-incubating.M2) - to be replaced by GemFire 9.0 when that is released
+ PostgreSQL (tested with 9.5.3) - to be replaced by Greenplum server once GemFire 9.0 is released
+ Spring Cloud Dataflow (tested with SCDF v1.1.0.M2, CloudFoundry Deployer v1.1.0.M1)
+ Spark-redis (tested with v0.1.1) - installed in local maven repository
+  </description>
+    </item>
     
     <item>
       <title>Autoencoders and anomaly detection with machine learning in fraud analytics</title>
