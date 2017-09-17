@@ -13,10 +13,10 @@
     
     <item>
       <title>Crosstalk</title>
-      <link>https://obaydakov.github.io/post/crosstalk/</link>
+      <link>https://obaydakov.github.io/post/2017/crosstalk/</link>
       <pubDate>Sat, 12 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/crosstalk/</guid>
+      <guid>https://obaydakov.github.io/post/2017/crosstalk/</guid>
       <description>Crosstalk is an add-on to the htmlwidgets package. It extends htmlwidgets with a set of classes, functions, and conventions for implementing cross-widget interactions (currently, linked brushing and filtering).
 Play with the example below by manipulating the slider, clicking rows in the data table, and playing with the selection button in the map.
 Link</description>
@@ -24,19 +24,19 @@ Link</description>
     
     <item>
       <title>Trelliscope</title>
-      <link>https://obaydakov.github.io/post/trelliscope/</link>
+      <link>https://obaydakov.github.io/post/2017/trelliscope/</link>
       <pubDate>Sat, 12 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/trelliscope/</guid>
+      <guid>https://obaydakov.github.io/post/2017/trelliscope/</guid>
       <description>Trelliscope is a visualization approach based on the idea of &amp;ldquo;small multiples&amp;rdquo; or &amp;ldquo;Trellis Display&amp;rdquo;, where data are split into groups and a plot is made for each group, with the resulting plots arranged in a grid. This approach is very simple yet is considered to be &amp;ldquo;the best design solution for a wide range or problems in data presentation&amp;rdquo;. Trelliscope makes small multiple displays come alive by providing the ability to interactively sort and filter the plots based on summary statistics computed for each group.</description>
     </item>
     
     <item>
       <title>Web Sites with R</title>
-      <link>https://obaydakov.github.io/post/web-sites-with-r/</link>
+      <link>https://obaydakov.github.io/post/2017/web-sites-with-r/</link>
       <pubDate>Sat, 12 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/web-sites-with-r/</guid>
+      <guid>https://obaydakov.github.io/post/2017/web-sites-with-r/</guid>
       <description>Blogdown (R package)
 blogdown ??? Hugo + R Markdown
 Hugo can only process Markdown; R Markdown is prebuilt to .html and passed to Hugo a few helper functions
@@ -49,10 +49,10 @@ output format: blogdown::html_page</description>
     
     <item>
       <title>Formattable data frame</title>
-      <link>https://obaydakov.github.io/post/formattable-data-frame/</link>
+      <link>https://obaydakov.github.io/post/2017/formattable-data-frame/</link>
       <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/formattable-data-frame/</guid>
+      <guid>https://obaydakov.github.io/post/2017/formattable-data-frame/</guid>
       <description>Formattable data frames are data frames to be rendered as HTML table with formatter functions applied, which resembles conditional formatting in Microsoft Excel.
 Article
 Link Github</description>
@@ -60,10 +60,10 @@ Link Github</description>
     
     <item>
       <title>Data Lineage Tracking and Visualization tool for Apache Spark</title>
-      <link>https://obaydakov.github.io/post/data-lineage-tracking-and-visualization-tool-for-apache-spark/</link>
+      <link>https://obaydakov.github.io/post/2017/data-lineage-tracking-and-visualization-tool-for-apache-spark/</link>
       <pubDate>Tue, 13 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/data-lineage-tracking-and-visualization-tool-for-apache-spark/</guid>
+      <guid>https://obaydakov.github.io/post/2017/data-lineage-tracking-and-visualization-tool-for-apache-spark/</guid>
       <description>Spline (from Spark lineage) project helps people get insight into data processing performed by Apache Spark.
 The project consists of two parts:
 A core library that sits on drivers, capturing data lineages from the jobs being executed by analyzing Spark execution plans and a Web UI application that visualizes the stored data lineages.
@@ -72,19 +72,19 @@ Article</description>
     
     <item>
       <title>Convolutional Neural Network</title>
-      <link>https://obaydakov.github.io/post/convolutional-neural-network/</link>
+      <link>https://obaydakov.github.io/post/2017/convolutional-neural-network/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/convolutional-neural-network/</guid>
+      <guid>https://obaydakov.github.io/post/2017/convolutional-neural-network/</guid>
       <description>How to make a Convolutional Neural Network in TensorFlow for recognizing handwritten digits from the MNIST data-set. Video Tutorial</description>
     </item>
     
     <item>
       <title>Sec Viz - security visualization</title>
-      <link>https://obaydakov.github.io/post/sec-viz-security-visualization/</link>
+      <link>https://obaydakov.github.io/post/2017/sec-viz-security-visualization/</link>
       <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/sec-viz-security-visualization/</guid>
+      <guid>https://obaydakov.github.io/post/2017/sec-viz-security-visualization/</guid>
       <description>SecViz - Security Visualization
 Link
 [Pixcloud] {http://pixlcloud.com/resources/)

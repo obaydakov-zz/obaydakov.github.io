@@ -13,20 +13,20 @@
     
     <item>
       <title>Awesome R</title>
-      <link>https://obaydakov.github.io/post/awesome-r/</link>
+      <link>https://obaydakov.github.io/post/2017/awesome-r/</link>
       <pubDate>Thu, 17 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/awesome-r/</guid>
+      <guid>https://obaydakov.github.io/post/2017/awesome-r/</guid>
       <description>A curated list of awesome R frameworks, libraries and software.
 Link</description>
     </item>
     
     <item>
       <title>Deep Learning Model Zoo</title>
-      <link>https://obaydakov.github.io/post/deep-learning-model-zoo/</link>
+      <link>https://obaydakov.github.io/post/2017/deep-learning-model-zoo/</link>
       <pubDate>Sun, 13 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/deep-learning-model-zoo/</guid>
+      <guid>https://obaydakov.github.io/post/2017/deep-learning-model-zoo/</guid>
       <description>A collection of standalone TensorFlow models in Jupyter Notebooks
 Link
 Free Chapters from Introduction to Artificial Neural Networks and Deep Learning: A Practical Guide with Applications in Python</description>
@@ -34,29 +34,29 @@ Free Chapters from Introduction to Artificial Neural Networks and Deep Learning:
     
     <item>
       <title>Awesome R Shiny</title>
-      <link>https://obaydakov.github.io/post/awesome-r-shiny/</link>
+      <link>https://obaydakov.github.io/post/2017/awesome-r-shiny/</link>
       <pubDate>Sat, 12 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/awesome-r-shiny/</guid>
+      <guid>https://obaydakov.github.io/post/2017/awesome-r-shiny/</guid>
       <description>A curated list of resources for R Shiny
 Link</description>
     </item>
     
     <item>
       <title>Introduction to parallel computing with R</title>
-      <link>https://obaydakov.github.io/post/introduction-to-parallel-computing-with-r/</link>
+      <link>https://obaydakov.github.io/post/2017/introduction-to-parallel-computing-with-r/</link>
       <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/introduction-to-parallel-computing-with-r/</guid>
+      <guid>https://obaydakov.github.io/post/2017/introduction-to-parallel-computing-with-r/</guid>
       <description>Link</description>
     </item>
     
     <item>
       <title>Package ggiraph: a ggplot2 Extension for Interactive Graphics</title>
-      <link>https://obaydakov.github.io/post/package-ggiraph-a-ggplot2-extension-for-interactive-graphics/</link>
+      <link>https://obaydakov.github.io/post/2017/package-ggiraph-a-ggplot2-extension-for-interactive-graphics/</link>
       <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/package-ggiraph-a-ggplot2-extension-for-interactive-graphics/</guid>
+      <guid>https://obaydakov.github.io/post/2017/package-ggiraph-a-ggplot2-extension-for-interactive-graphics/</guid>
       <description>ggiraph is an htmlwidget and a ggplot2 extension. It lets ggplot graphics being animated.
 Animation is made with ggplot geometries that can understand three arguments:
 tooltip: column of dataset that contains tooltips to be displayed when mouse is over elements.
@@ -68,10 +68,10 @@ Video</description>
     
     <item>
       <title>jug: A Simple Web Framework for R</title>
-      <link>https://obaydakov.github.io/post/jug-a-simple-web-framework-for-r/</link>
+      <link>https://obaydakov.github.io/post/2017/jug-a-simple-web-framework-for-r/</link>
       <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/jug-a-simple-web-framework-for-r/</guid>
+      <guid>https://obaydakov.github.io/post/2017/jug-a-simple-web-framework-for-r/</guid>
       <description>jug is a web framework aimed at easily building APIs. It is mostly aimed at exposing R functions, models and visualizations to third-parties by way of http requests.
 Link
 Video</description>
@@ -79,10 +79,10 @@ Video</description>
     
     <item>
       <title>shiny.semantic</title>
-      <link>https://obaydakov.github.io/post/shiny-semantic/</link>
+      <link>https://obaydakov.github.io/post/2017/shiny-semantic/</link>
       <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/shiny-semantic/</guid>
+      <guid>https://obaydakov.github.io/post/2017/shiny-semantic/</guid>
       <description>Semantic UI wrapper for Shiny
 With this library it&amp;rsquo;s easy to wrap Shiny with Semantic UI components. Add a few simple lines of code and some CSS classes to give your UI a fresh, modern and highly interactive look.
 Link

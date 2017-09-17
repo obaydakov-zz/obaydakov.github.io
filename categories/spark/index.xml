@@ -13,20 +13,20 @@
     
     <item>
       <title>Productionizing Apache SparkT MLlib Models for Real-time Prediction Serving</title>
-      <link>https://obaydakov.github.io/post/c-users-oleg-baydakov-documents-myblog-new-myblog-hugo/</link>
+      <link>https://obaydakov.github.io/post/2017/c-users-oleg-baydakov-documents-myblog-new-myblog-hugo/</link>
       <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/c-users-oleg-baydakov-documents-myblog-new-myblog-hugo/</guid>
+      <guid>https://obaydakov.github.io/post/2017/c-users-oleg-baydakov-documents-myblog-new-myblog-hugo/</guid>
       <description>Data science and machine learning tools traditionally focus on training models. When companies begin to employ machine learning in actual production workflows, they encounter new sources of friction such as sharing models across teams, deploying identical models on different systems, and maintaining featurization logic. In this webinar, we discuss how Databricks provides a smooth path for productionizing Apache Spark MLlib models and featurization pipelines.
 Databricks Model Scoring provides a simple API for exporting MLlib models and pipelines.</description>
     </item>
     
     <item>
       <title>Data Lineage Tracking and Visualization tool for Apache Spark</title>
-      <link>https://obaydakov.github.io/post/data-lineage-tracking-and-visualization-tool-for-apache-spark/</link>
+      <link>https://obaydakov.github.io/post/2017/data-lineage-tracking-and-visualization-tool-for-apache-spark/</link>
       <pubDate>Tue, 13 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/data-lineage-tracking-and-visualization-tool-for-apache-spark/</guid>
+      <guid>https://obaydakov.github.io/post/2017/data-lineage-tracking-and-visualization-tool-for-apache-spark/</guid>
       <description>Spline (from Spark lineage) project helps people get insight into data processing performed by Apache Spark.
 The project consists of two parts:
 A core library that sits on drivers, capturing data lineages from the jobs being executed by analyzing Spark execution plans and a Web UI application that visualizes the stored data lineages.
@@ -35,10 +35,10 @@ Article</description>
     
     <item>
       <title>Spark ML and Scala</title>
-      <link>https://obaydakov.github.io/post/spark-ml-and-scala/</link>
+      <link>https://obaydakov.github.io/post/2017/spark-ml-and-scala/</link>
       <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/spark-ml-and-scala/</guid>
+      <guid>https://obaydakov.github.io/post/2017/spark-ml-and-scala/</guid>
       <description>Usefull links:
 Spark MLLib - Predict Store Sales with ML Pipelines
 sparktutorials.net
@@ -54,10 +54,10 @@ Spark Machine Learning Pipeline by Example</description>
     
     <item>
       <title>Spark and XGBoost using Scala</title>
-      <link>https://obaydakov.github.io/post/spark-and-xgboost-using-scala/</link>
+      <link>https://obaydakov.github.io/post/2017/spark-and-xgboost-using-scala/</link>
       <pubDate>Tue, 04 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/spark-and-xgboost-using-scala/</guid>
+      <guid>https://obaydakov.github.io/post/2017/spark-and-xgboost-using-scala/</guid>
       <description>Recently XGBoost project released a package on github where it is included interface to scala, java and spark (more info at this link).
 I would like to run xgboost on a big set of data.
 In this post I just report the scala code lines which can be useful to run spark and xgboost.
@@ -66,10 +66,10 @@ In a further post I&amp;rsquo;m going to show the software setup and the integra
     
     <item>
       <title>Spark ML</title>
-      <link>https://obaydakov.github.io/post/spark-ml/</link>
+      <link>https://obaydakov.github.io/post/2017/spark-ml/</link>
       <pubDate>Sun, 02 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/spark-ml/</guid>
+      <guid>https://obaydakov.github.io/post/2017/spark-ml/</guid>
       <description>Spark MLLib - Predict Store Sales with ML Pipelines
 sparktutorials.net
 KeystoneML

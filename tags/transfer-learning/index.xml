@@ -13,29 +13,29 @@
     
     <item>
       <title>Deep Learning and NLP</title>
-      <link>https://obaydakov.github.io/post/deep-learning-and-nlp/</link>
+      <link>https://obaydakov.github.io/post/2017/deep-learning-and-nlp/</link>
       <pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/deep-learning-and-nlp/</guid>
+      <guid>https://obaydakov.github.io/post/2017/deep-learning-and-nlp/</guid>
       <description>Link A news-analysis NeuralNet learns from a language NeuralNet</description>
     </item>
     
     <item>
       <title>Transfer Learning - Machine Learning&#39;s Next Frontier</title>
-      <link>https://obaydakov.github.io/post/transfer-learning-machine-learning-s-next-frontier/</link>
+      <link>https://obaydakov.github.io/post/2017/transfer-learning-machine-learning-s-next-frontier/</link>
       <pubDate>Sun, 14 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/transfer-learning-machine-learning-s-next-frontier/</guid>
+      <guid>https://obaydakov.github.io/post/2017/transfer-learning-machine-learning-s-next-frontier/</guid>
       <description>Table of contents:
 What is Transfer Learning? Why Transfer Learning Now? A Definition of Transfer Learning Transfer Learning Scenarios Applications of Transfer Learning Learning from simulations Adapting to new domains Transferring knowledge across languages Transfer Learning Methods Using pre-trained CNN features Learning domain-invariant representations Making representations more similar Confusing domains Related Research Areas Semi-supervised learning Using available data more effectively Improving models&amp;rsquo; ability to generalize Making models more robust Multi-task learning Continuous learning Zero-shot learning Conclusion</description>
     </item>
     
     <item>
       <title>Transfer Learning</title>
-      <link>https://obaydakov.github.io/post/transfer-learning/</link>
+      <link>https://obaydakov.github.io/post/2017/transfer-learning/</link>
       <pubDate>Thu, 06 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/transfer-learning/</guid>
+      <guid>https://obaydakov.github.io/post/2017/transfer-learning/</guid>
       <description>In recent years, we have become increasingly good at training deep neural networks to learn a very accurate mapping from inputs to outputs, whether they are images, sentences, label predictions, etc. from large amounts of labeled data.
 What our models still frightfully lack is the ability to generalize to conditions that are different from the ones encountered during training. When is this necessary? Every time you apply your model not to a carefully constructed dataset but to the real world.</description>
     </item>

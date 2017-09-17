@@ -13,95 +13,95 @@
     
     <item>
       <title>High Level Design of Analytical system based on R</title>
-      <link>https://obaydakov.github.io/post/high-level-design-of-analytical-system-based-on-r/</link>
+      <link>https://obaydakov.github.io/post/2017/high-level-design-of-analytical-system-based-on-r/</link>
       <pubDate>Mon, 14 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/high-level-design-of-analytical-system-based-on-r/</guid>
+      <guid>https://obaydakov.github.io/post/2017/high-level-design-of-analytical-system-based-on-r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R package MLR examples</title>
-      <link>https://obaydakov.github.io/post/r-package-mlr-examples/</link>
+      <link>https://obaydakov.github.io/post/2017/r-package-mlr-examples/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/r-package-mlr-examples/</guid>
+      <guid>https://obaydakov.github.io/post/2017/r-package-mlr-examples/</guid>
       <description>Link</description>
     </item>
     
     <item>
       <title>Bayesian Optimization for Hyperparameter Tuning</title>
-      <link>https://obaydakov.github.io/post/bayesian-optimization-for-hyperparameter-tuning/</link>
+      <link>https://obaydakov.github.io/post/2017/bayesian-optimization-for-hyperparameter-tuning/</link>
       <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/bayesian-optimization-for-hyperparameter-tuning/</guid>
+      <guid>https://obaydakov.github.io/post/2017/bayesian-optimization-for-hyperparameter-tuning/</guid>
       <description>Hyperparameter tuning may be one of the most tricky, yet interesting, topics in Machine Learning. For most Machine Learning practitioners, mastering the art of tuning hyperparameters requires not only a solid background in Machine Learning algorithms, but also extensive experience working with real-world datasets.
 In this post, I will give an overview of hyperparameters and various approaches of tuning hyperparameters intelligently. In particular, I will explain how we applied Bayesian Optimization to tune hyperparameters of a predictive model on a real-world dataset.</description>
     </item>
     
     <item>
       <title>Introduction to Local Interpretable Model-Agnostic Explanations (LIME)</title>
-      <link>https://obaydakov.github.io/post/introduction-to-local-interpretable-model-agnostic-explanations-lime/</link>
+      <link>https://obaydakov.github.io/post/2017/introduction-to-local-interpretable-model-agnostic-explanations-lime/</link>
       <pubDate>Sun, 14 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/introduction-to-local-interpretable-model-agnostic-explanations-lime/</guid>
+      <guid>https://obaydakov.github.io/post/2017/introduction-to-local-interpretable-model-agnostic-explanations-lime/</guid>
       <description>Machine learning is at the core of many recent advances in science and technology. With computers beating professionals in games like Go, many people have started asking if machines would also make for better drivers or even better doctors.
 In many applications of machine learning, users are asked to trust a model to help them make decisions. A doctor will certainly not operate on a patient simply because &amp;ldquo;the model said so.</description>
     </item>
     
     <item>
       <title>Apache Kylin  Overview</title>
-      <link>https://obaydakov.github.io/post/apache-kylin-overview/</link>
+      <link>https://obaydakov.github.io/post/2017/apache-kylin-overview/</link>
       <pubDate>Wed, 03 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/apache-kylin-overview/</guid>
+      <guid>https://obaydakov.github.io/post/2017/apache-kylin-overview/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Autoencoders and anomaly detection with machine learning in fraud analytics</title>
-      <link>https://obaydakov.github.io/post/autoencoders-and-anomaly-detection-with-machine-learning-in-fraud-analytics/</link>
+      <link>https://obaydakov.github.io/post/2017/autoencoders-and-anomaly-detection-with-machine-learning-in-fraud-analytics/</link>
       <pubDate>Tue, 02 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/autoencoders-and-anomaly-detection-with-machine-learning-in-fraud-analytics/</guid>
+      <guid>https://obaydakov.github.io/post/2017/autoencoders-and-anomaly-detection-with-machine-learning-in-fraud-analytics/</guid>
       <description>Link</description>
     </item>
     
     <item>
       <title>Introduction to Local Interpretable Model-Agnostic Explanations (LIME)</title>
-      <link>https://obaydakov.github.io/post/introduction-to-local-interpretable-model-agnostic-explanations-lime/</link>
+      <link>https://obaydakov.github.io/post/2017/introduction-to-local-interpretable-model-agnostic-explanations-lime/</link>
       <pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/introduction-to-local-interpretable-model-agnostic-explanations-lime/</guid>
+      <guid>https://obaydakov.github.io/post/2017/introduction-to-local-interpretable-model-agnostic-explanations-lime/</guid>
       <description>Machine learning is at the core of many recent advances in science and technology. With computers beating professionals in games like Go, many people have started asking if machines would also make for better drivers or even better doctors.
 In many applications of machine learning, users are asked to trust a model to help them make decisions. A doctor will certainly not operate on a patient simply because &amp;quot;the model said so.</description>
     </item>
     
     <item>
       <title>Real-World Machine Learning (with R)</title>
-      <link>https://obaydakov.github.io/post/real-world-machine-learning-with-r/</link>
+      <link>https://obaydakov.github.io/post/2017/real-world-machine-learning-with-r/</link>
       <pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/real-world-machine-learning-with-r/</guid>
+      <guid>https://obaydakov.github.io/post/2017/real-world-machine-learning-with-r/</guid>
       <description>Introduction to rwml-R The book &amp;ldquo;Real-World Machine Learning&amp;rdquo; by Henrik Brink, Joseph W. Richards, and Mark Fetherolf attempts to prepare the reader for the realities of machine learning. It covers a basic framework for machine-learning projects, then it dives into extended examples that show how that basic framework can be applied in realistic situations. It attempts to provide the &amp;ldquo;hidden wisdom&amp;rdquo; on how to go about implementing products and solutions based on machine learning.</description>
     </item>
     
     <item>
       <title>Transfer Learning</title>
-      <link>https://obaydakov.github.io/post/transfer-learning/</link>
+      <link>https://obaydakov.github.io/post/2017/transfer-learning/</link>
       <pubDate>Thu, 06 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/transfer-learning/</guid>
+      <guid>https://obaydakov.github.io/post/2017/transfer-learning/</guid>
       <description>In recent years, we have become increasingly good at training deep neural networks to learn a very accurate mapping from inputs to outputs, whether they are images, sentences, label predictions, etc. from large amounts of labeled data.
 What our models still frightfully lack is the ability to generalize to conditions that are different from the ones encountered during training. When is this necessary? Every time you apply your model not to a carefully constructed dataset but to the real world.</description>
     </item>
     
     <item>
       <title>How to Use t-SNE Effectively</title>
-      <link>https://obaydakov.github.io/post/how-to-use-t-sne-effectively/</link>
+      <link>https://obaydakov.github.io/post/2017/how-to-use-t-sne-effectively/</link>
       <pubDate>Tue, 04 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/how-to-use-t-sne-effectively/</guid>
+      <guid>https://obaydakov.github.io/post/2017/how-to-use-t-sne-effectively/</guid>
       <description>A popular method for exploring high-dimensional data is something called t-SNE, introduced by van der Maaten and Hinton in 2008 [1]. The technique has become widespread in the field of machine learning, since it has an almost magical ability to create compelling two-dimensonal &amp;ldquo;maps&amp;rdquo; from data with hundreds or even thousands of dimensions.
 Useful links:
  How to Use t-SNE Effectively
@@ -111,29 +111,29 @@ Useful links:
     
     <item>
       <title>The 5 key challenges to building a successful data team</title>
-      <link>https://obaydakov.github.io/post/the-5-key-challenges-to-building-a-successful-data-team/</link>
+      <link>https://obaydakov.github.io/post/2017/the-5-key-challenges-to-building-a-successful-data-team/</link>
       <pubDate>Tue, 04 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/the-5-key-challenges-to-building-a-successful-data-team/</guid>
+      <guid>https://obaydakov.github.io/post/2017/the-5-key-challenges-to-building-a-successful-data-team/</guid>
       <description>The age of data is here. Sensors, cameras, security monitoring systems, software, hardware, the internet, and even humans themselves all have one thing in common: data. And as data becomes ubiquitous, in parallel, business interest in using and learning from that data is on the rise. Enter big data, a holistic term that aims to encapsulate the sheer massiveness of the amount of information available from the growing number of data sources.</description>
     </item>
     
     <item>
       <title>Finding &#34;Gems&#34; in Big Data</title>
-      <link>https://obaydakov.github.io/post/finding-gems-in-big-data/</link>
+      <link>https://obaydakov.github.io/post/2017/finding-gems-in-big-data/</link>
       <pubDate>Sun, 02 Apr 2017 18:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/finding-gems-in-big-data/</guid>
+      <guid>https://obaydakov.github.io/post/2017/finding-gems-in-big-data/</guid>
       <description>In addition to traditional statistical arrows like cluster analysis, principal components, and k-nearest neighbor, Indurkhya, in his course, also teaches non-standard methods.
 One such method is based in information theory and relies on measures of data complexity. The idea is to isolate the records that add the most complexity to the data. An intuitive way to think about and measure this, without getting too deep into information theory, is to consider data compression algorithms.</description>
     </item>
     
     <item>
       <title>Spark ML</title>
-      <link>https://obaydakov.github.io/post/spark-ml/</link>
+      <link>https://obaydakov.github.io/post/2017/spark-ml/</link>
       <pubDate>Sun, 02 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/spark-ml/</guid>
+      <guid>https://obaydakov.github.io/post/2017/spark-ml/</guid>
       <description>Spark MLLib - Predict Store Sales with ML Pipelines
 sparktutorials.net
 KeystoneML
