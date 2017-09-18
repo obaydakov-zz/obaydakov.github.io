@@ -39,6 +39,15 @@
     </item>
     
     <item>
+      <title>Blockchain</title>
+      <link>https://obaydakov.github.io/categories/blockchain/</link>
+      <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/categories/blockchain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Cybersecurity</title>
       <link>https://obaydakov.github.io/categories/cybersecurity/</link>
       <pubDate>Sat, 05 Aug 2017 00:00:00 +0000</pubDate>
@@ -104,7 +113,7 @@
     <item>
       <title>Scala</title>
       <link>https://obaydakov.github.io/categories/scala/</link>
-      <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/categories/scala/</guid>
       <description></description>
@@ -113,7 +122,7 @@
     <item>
       <title>Spark</title>
       <link>https://obaydakov.github.io/categories/spark/</link>
-      <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/categories/spark/</guid>
       <description></description>

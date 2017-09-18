@@ -23,6 +23,28 @@ What exactly is AutoML? AutoML is a broad term and technically could encompass t
     </item>
     
     <item>
+      <title>Machine Learning Application Skeleton</title>
+      <link>https://obaydakov.github.io/post/machine-learning-application-skeleton/</link>
+      <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/machine-learning-application-skeleton/</guid>
+      <description>In this blog post I provide an overview of a Python skeleton application I made. This skeleton can help you bridge the gap between your model and a machine learning application.
+For example, you can use your existing Flask application, import it in run_app.py as app, and this will add the production ready features of Gunicorn.
+Link
+Code</description>
+    </item>
+    
+    <item>
+      <title>Real time analytics: Divolte &#43; Kafka &#43; Druid &#43; Superset</title>
+      <link>https://obaydakov.github.io/post/real-time-analytics-divolte-kafka-druid-superset/</link>
+      <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/real-time-analytics-divolte-kafka-druid-superset/</guid>
+      <description>In today&amp;rsquo;s world you want to learn from your customers as fast as possible. This blog gives an introduction to setting up streaming analytics using open source technologies. We&amp;rsquo;ll use Divolte, Kafka, Superset and Druid to set up a system that lets you instantaneously get a deeper understanding of your customers.
+Having your analytics in a streaming fashion enable you to continuously analyze your customer&amp;rsquo;s behaviour and immediately take action on it.</description>
+    </item>
+    
+    <item>
       <title>Real-Time Fraud Detection with Microservices</title>
       <link>https://obaydakov.github.io/post/2017/real-time-fraud-detection-with-microservices/</link>
       <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>

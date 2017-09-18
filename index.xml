@@ -21,6 +21,17 @@
     </item>
     
     <item>
+      <title>Apache Bahir</title>
+      <link>https://obaydakov.github.io/post/apache-bahir/</link>
+      <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/apache-bahir/</guid>
+      <description>Apache Bahir provides extensions to multiple distributed analytic platforms, extending their reach with a diversity of streaming connectors and SQL data sources.
+Currently, Bahir provides extensions for Apache Spark and Apache Flink.
+Link</description>
+    </item>
+    
+    <item>
       <title>Automated Machine Learning: Deploying AutoML to the Cloud</title>
       <link>https://obaydakov.github.io/post/2017/automated-machine-learning-deploying-automl-to-the-cloud/</link>
       <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
@@ -29,6 +40,47 @@
       <description>[]https://content.pivotal.io/blog/automated-machine-learning-deploying-automl-to-the-cloud)
 What exactly is AutoML? AutoML is a broad term and technically could encompass the entire data science cycle from data exploration to model building. However, I have found it most commonly refers to automating feature preprocessing and selection, model algorithm selection, and hyperparameter tuning–steps located at the end of the data science process.
  AutoML offers tangible benefits for model selection and optimization.  2.It&amp;rsquo;s very easy to get started.</description>
+    </item>
+    
+    <item>
+      <title>High performance spark examples</title>
+      <link>https://obaydakov.github.io/post/high-performance-spark-examples/</link>
+      <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/high-performance-spark-examples/</guid>
+      <description>Examples
+Book</description>
+    </item>
+    
+    <item>
+      <title>JSON to Scala cases clases and a ot more ...</title>
+      <link>https://obaydakov.github.io/post/json-to-scala-cases-clases-and-a-ot-more/</link>
+      <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/json-to-scala-cases-clases-and-a-ot-more/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning Application Skeleton</title>
+      <link>https://obaydakov.github.io/post/machine-learning-application-skeleton/</link>
+      <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/machine-learning-application-skeleton/</guid>
+      <description>In this blog post I provide an overview of a Python skeleton application I made. This skeleton can help you bridge the gap between your model and a machine learning application.
+For example, you can use your existing Flask application, import it in run_app.py as app, and this will add the production ready features of Gunicorn.
+Link
+Code</description>
+    </item>
+    
+    <item>
+      <title>Real time analytics: Divolte &#43; Kafka &#43; Druid &#43; Superset</title>
+      <link>https://obaydakov.github.io/post/real-time-analytics-divolte-kafka-druid-superset/</link>
+      <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/real-time-analytics-divolte-kafka-druid-superset/</guid>
+      <description>In today&amp;rsquo;s world you want to learn from your customers as fast as possible. This blog gives an introduction to setting up streaming analytics using open source technologies. We&amp;rsquo;ll use Divolte, Kafka, Superset and Druid to set up a system that lets you instantaneously get a deeper understanding of your customers.
+Having your analytics in a streaming fashion enable you to continuously analyze your customer&amp;rsquo;s behaviour and immediately take action on it.</description>
     </item>
     
     <item>
@@ -49,12 +101,40 @@ Requirements
     </item>
     
     <item>
+      <title>Watson IoT Blockchain Sample Documentation</title>
+      <link>https://obaydakov.github.io/post/watson-iot-blockchain-sample-documentation/</link>
+      <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/watson-iot-blockchain-sample-documentation/</guid>
+      <description>Introduction
+Watson IoT blockchain samples currently fall into three broad categories:
+ simple single-asset hello world sample
+ simple single-asset sample with numerous additional features
+ advanced multi-asset sample with events and additional features
+  All of these use a schema to drive the related monitoring UI, which can be used to initiate any transaction or query that is exported for external use via the JSON configuration file.
+Link</description>
+    </item>
+    
+    <item>
       <title>Web app using Microservices in Go</title>
       <link>https://obaydakov.github.io/post/2017/web-app-using-microservices-in-go/</link>
       <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/post/2017/web-app-using-microservices-in-go/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Write web applications in Go without using a framework</title>
+      <link>https://obaydakov.github.io/post/write-web-applications-in-go-without-using-a-framework/</link>
+      <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/write-web-applications-in-go-without-using-a-framework/</guid>
+      <description>This screencast will teach you how to write a webapp in Go without using a framework. The tutorial is an introductory level tutorial. code: https://github.com/thewhitetulip/write-webapps-in-go-video, the code is put in branches, the code for fourth video is on branch &amp;ldquo;video4&amp;rdquo;
+Completed app: https://github.com/thewhitetulip/Tasks.
+This series is based on the tutorial https://github.com/thewhitetulip/web-dev-golang-anti-textbook/, you can download it from https://leanpub.com/antitextbookGo/.
+Video
+Book</description>
     </item>
     
     <item>
