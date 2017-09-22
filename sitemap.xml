@@ -3,12 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://obaydakov.github.io/post/2017/hive-mysql-metastore-and-hiveserver2-setup/</loc>
+    <lastmod>2017-09-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2017/ip-address-lookups-using-python/</loc>
+    <lastmod>2017-09-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://obaydakov.github.io/post/2017/0-to-microservice-in-5-minutes-with-go-and-minke/</loc>
     <lastmod>2017-09-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/apache-bahir/</loc>
+    <loc>https://obaydakov.github.io/post/2017/apache-bahir/</loc>
     <lastmod>2017-09-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -18,22 +28,22 @@
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/high-performance-spark-examples/</loc>
+    <loc>https://obaydakov.github.io/post/2017/high-performance-spark-examples/</loc>
     <lastmod>2017-09-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/json-to-scala-cases-clases-and-a-ot-more/</loc>
+    <loc>https://obaydakov.github.io/post/2017/json-to-scala-cases-clases-and-a-ot-more/</loc>
     <lastmod>2017-09-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/machine-learning-application-skeleton/</loc>
+    <loc>https://obaydakov.github.io/post/2017/machine-learning-application-skeleton/</loc>
     <lastmod>2017-09-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/real-time-analytics-divolte-kafka-druid-superset/</loc>
+    <loc>https://obaydakov.github.io/post/2017/real-time-analytics-divolte-kafka-druid-superset/</loc>
     <lastmod>2017-09-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -43,7 +53,7 @@
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/watson-iot-blockchain-sample-documentation/</loc>
+    <loc>https://obaydakov.github.io/post/2017/watson-iot-blockchain-sample-documentation/</loc>
     <lastmod>2017-09-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -53,7 +63,7 @@
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/write-web-applications-in-go-without-using-a-framework/</loc>
+    <loc>https://obaydakov.github.io/post/2017/write-web-applications-in-go-without-using-a-framework/</loc>
     <lastmod>2017-09-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -505,6 +515,12 @@
   </url>
   
   <url>
+    <loc>https://obaydakov.github.io/categories/big-data/</loc>
+    <lastmod>2017-09-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://obaydakov.github.io/categories/blockchain/</loc>
     <lastmod>2017-09-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -518,13 +534,13 @@
   
   <url>
     <loc>https://obaydakov.github.io/tags/configuration/</loc>
-    <lastmod>2017-09-16T22:10:15+00:00</lastmod>
+    <lastmod>2017-09-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/categories/cybersecurity/</loc>
-    <lastmod>2017-08-05T00:00:00+00:00</lastmod>
+    <lastmod>2017-09-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -596,13 +612,13 @@
   
   <url>
     <loc>https://obaydakov.github.io/</loc>
-    <lastmod>2017-09-17T00:00:00+00:00</lastmod>
+    <lastmod>2017-09-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/post/</loc>
-    <lastmod>2017-09-17T00:00:00+00:00</lastmod>
+    <lastmod>2017-09-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -650,7 +666,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/tags/technology/</loc>
-    <lastmod>2017-09-17T00:00:00+00:00</lastmod>
+    <lastmod>2017-09-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

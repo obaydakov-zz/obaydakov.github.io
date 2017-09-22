@@ -31,10 +31,10 @@
     
     <item>
       <title>Write web applications in Go without using a framework</title>
-      <link>https://obaydakov.github.io/post/write-web-applications-in-go-without-using-a-framework/</link>
+      <link>https://obaydakov.github.io/post/2017/write-web-applications-in-go-without-using-a-framework/</link>
       <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/write-web-applications-in-go-without-using-a-framework/</guid>
+      <guid>https://obaydakov.github.io/post/2017/write-web-applications-in-go-without-using-a-framework/</guid>
       <description>This screencast will teach you how to write a webapp in Go without using a framework. The tutorial is an introductory level tutorial. code: https://github.com/thewhitetulip/write-webapps-in-go-video, the code is put in branches, the code for fourth video is on branch &amp;ldquo;video4&amp;rdquo;
 Completed app: https://github.com/thewhitetulip/Tasks.
 This series is based on the tutorial https://github.com/thewhitetulip/web-dev-golang-anti-textbook/, you can download it from https://leanpub.com/antitextbookGo/.

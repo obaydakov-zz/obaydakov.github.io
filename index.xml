@@ -6,10 +6,30 @@
     <description>Recent content on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Sep 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hive MySQL Metastore and HiveServer2 Setup</title>
+      <link>https://obaydakov.github.io/post/2017/hive-mysql-metastore-and-hiveserver2-setup/</link>
+      <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/hive-mysql-metastore-and-hiveserver2-setup/</guid>
+      <description>By default, Hive comes with an embedded derby metastore; which stores the meta data and schema of Hive. However, it allows only one user in embedded mode. So it’s advisable to setup an external metastore. Below will be the architecture with MySQL as Metastore.
+HiveServer2 – As you can see for JDBC/ODBC communication Hive has a thrift server – HiveServer2. This service is required to do CRUD (DML/DDL) from a script or program (e.</description>
+    </item>
+    
+    <item>
+      <title>IP Address lookups using Python</title>
+      <link>https://obaydakov.github.io/post/2017/ip-address-lookups-using-python/</link>
+      <pubDate>Mon, 18 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/ip-address-lookups-using-python/</guid>
+      <description>Knowing the country to which an IP address is mapped is very helpful for localising an experience on a website and providing demographics information to website owners.
+Link</description>
+    </item>
     
     <item>
       <title>0 to Microservice in 5 minutes with Go and Minke</title>
@@ -22,10 +42,10 @@
     
     <item>
       <title>Apache Bahir</title>
-      <link>https://obaydakov.github.io/post/apache-bahir/</link>
+      <link>https://obaydakov.github.io/post/2017/apache-bahir/</link>
       <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/apache-bahir/</guid>
+      <guid>https://obaydakov.github.io/post/2017/apache-bahir/</guid>
       <description>Apache Bahir provides extensions to multiple distributed analytic platforms, extending their reach with a diversity of streaming connectors and SQL data sources.
 Currently, Bahir provides extensions for Apache Spark and Apache Flink.
 Link</description>
@@ -44,29 +64,29 @@ What exactly is AutoML? AutoML is a broad term and technically could encompass t
     
     <item>
       <title>High performance spark examples</title>
-      <link>https://obaydakov.github.io/post/high-performance-spark-examples/</link>
+      <link>https://obaydakov.github.io/post/2017/high-performance-spark-examples/</link>
       <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/high-performance-spark-examples/</guid>
+      <guid>https://obaydakov.github.io/post/2017/high-performance-spark-examples/</guid>
       <description>Examples
 Book</description>
     </item>
     
     <item>
       <title>JSON to Scala cases clases and a ot more ...</title>
-      <link>https://obaydakov.github.io/post/json-to-scala-cases-clases-and-a-ot-more/</link>
+      <link>https://obaydakov.github.io/post/2017/json-to-scala-cases-clases-and-a-ot-more/</link>
       <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/json-to-scala-cases-clases-and-a-ot-more/</guid>
+      <guid>https://obaydakov.github.io/post/2017/json-to-scala-cases-clases-and-a-ot-more/</guid>
       <description>Link</description>
     </item>
     
     <item>
       <title>Machine Learning Application Skeleton</title>
-      <link>https://obaydakov.github.io/post/machine-learning-application-skeleton/</link>
+      <link>https://obaydakov.github.io/post/2017/machine-learning-application-skeleton/</link>
       <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/machine-learning-application-skeleton/</guid>
+      <guid>https://obaydakov.github.io/post/2017/machine-learning-application-skeleton/</guid>
       <description>In this blog post I provide an overview of a Python skeleton application I made. This skeleton can help you bridge the gap between your model and a machine learning application.
 For example, you can use your existing Flask application, import it in run_app.py as app, and this will add the production ready features of Gunicorn.
 Link
@@ -75,10 +95,10 @@ Code</description>
     
     <item>
       <title>Real time analytics: Divolte &#43; Kafka &#43; Druid &#43; Superset</title>
-      <link>https://obaydakov.github.io/post/real-time-analytics-divolte-kafka-druid-superset/</link>
+      <link>https://obaydakov.github.io/post/2017/real-time-analytics-divolte-kafka-druid-superset/</link>
       <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/real-time-analytics-divolte-kafka-druid-superset/</guid>
+      <guid>https://obaydakov.github.io/post/2017/real-time-analytics-divolte-kafka-druid-superset/</guid>
       <description>In today&amp;rsquo;s world you want to learn from your customers as fast as possible. This blog gives an introduction to setting up streaming analytics using open source technologies. We&amp;rsquo;ll use Divolte, Kafka, Superset and Druid to set up a system that lets you instantaneously get a deeper understanding of your customers.
 Having your analytics in a streaming fashion enable you to continuously analyze your customer&amp;rsquo;s behaviour and immediately take action on it.</description>
     </item>
@@ -102,10 +122,10 @@ Requirements
     
     <item>
       <title>Watson IoT Blockchain Sample Documentation</title>
-      <link>https://obaydakov.github.io/post/watson-iot-blockchain-sample-documentation/</link>
+      <link>https://obaydakov.github.io/post/2017/watson-iot-blockchain-sample-documentation/</link>
       <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/watson-iot-blockchain-sample-documentation/</guid>
+      <guid>https://obaydakov.github.io/post/2017/watson-iot-blockchain-sample-documentation/</guid>
       <description>Introduction
 Watson IoT blockchain samples currently fall into three broad categories:
  simple single-asset hello world sample
@@ -126,10 +146,10 @@ Link</description>
     
     <item>
       <title>Write web applications in Go without using a framework</title>
-      <link>https://obaydakov.github.io/post/write-web-applications-in-go-without-using-a-framework/</link>
+      <link>https://obaydakov.github.io/post/2017/write-web-applications-in-go-without-using-a-framework/</link>
       <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/write-web-applications-in-go-without-using-a-framework/</guid>
+      <guid>https://obaydakov.github.io/post/2017/write-web-applications-in-go-without-using-a-framework/</guid>
       <description>This screencast will teach you how to write a webapp in Go without using a framework. The tutorial is an introductory level tutorial. code: https://github.com/thewhitetulip/write-webapps-in-go-video, the code is put in branches, the code for fourth video is on branch &amp;ldquo;video4&amp;rdquo;
 Completed app: https://github.com/thewhitetulip/Tasks.
 This series is based on the tutorial https://github.com/thewhitetulip/web-dev-golang-anti-textbook/, you can download it from https://leanpub.com/antitextbookGo/.

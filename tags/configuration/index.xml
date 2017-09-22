@@ -6,10 +6,20 @@
     <description>Recent content in Configuration on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Sep 2017 22:10:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Sep 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/configuration/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hive MySQL Metastore and HiveServer2 Setup</title>
+      <link>https://obaydakov.github.io/post/2017/hive-mysql-metastore-and-hiveserver2-setup/</link>
+      <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/hive-mysql-metastore-and-hiveserver2-setup/</guid>
+      <description>By default, Hive comes with an embedded derby metastore; which stores the meta data and schema of Hive. However, it allows only one user in embedded mode. So it’s advisable to setup an external metastore. Below will be the architecture with MySQL as Metastore.
+HiveServer2 – As you can see for JDBC/ODBC communication Hive has a thrift server – HiveServer2. This service is required to do CRUD (DML/DDL) from a script or program (e.</description>
+    </item>
     
     <item>
       <title>Mac OS X Setup Guide</title>
