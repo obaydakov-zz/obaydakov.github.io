@@ -6,10 +6,82 @@
     <description>Recent content in Technology on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Oct 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Learn Blockchains by Building One</title>
+      <link>https://obaydakov.github.io/post/2017/learn-blockchains-by-building-one/</link>
+      <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/learn-blockchains-by-building-one/</guid>
+      <description>The fastest way to learn how Blockchains work is to build one
+You’re here because, like me, you’re psyched about the rise of Cryptocurrencies. And you want to know how Blockchains work—the fundamental technology behind them. But understanding Blockchains isn’t easy—or at least wasn’t for me. I trudged through dense videos, followed porous tutorials, and dealt with the amplified frustration of too few examples.
+I like learning by doing. It forces me to deal with the subject matter at a code level, which gets it sticking.</description>
+    </item>
+    
+    <item>
+      <title>Hadoop Crypto Ledger (hadoopcryptoledger)</title>
+      <link>https://obaydakov.github.io/post/2017/hadoop-crypto-ledger-hadoopcryptoledger/</link>
+      <pubDate>Tue, 03 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/hadoop-crypto-ledger-hadoopcryptoledger/</guid>
+      <description>This repository will provide various components to read crypto ledgers, such as the Bitcoin blockchain, with Hadoop and Ecosystem components, such as Flink, Spark, TEZ, Hive and MapReduce.
+You find more information about the project in the Wiki.
+Link</description>
+    </item>
+    
+    <item>
+      <title>When do you need blockchain? Decision models.</title>
+      <link>https://obaydakov.github.io/post/2017/when-do-you-need-blockchain-decision-models/</link>
+      <pubDate>Tue, 03 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/when-do-you-need-blockchain-decision-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blockchain Infrastructure Landscape: A First Principles Framing</title>
+      <link>https://obaydakov.github.io/post/2017/blockchain-infrastructure-landscape-a-first-principles-framing/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/blockchain-infrastructure-landscape-a-first-principles-framing/</guid>
+      <description>How are Ethereum, IPFS/Filecoin, and BigchainDB complementary? What about Golem, Polkadot, or Interledger? I often get questions like this. So, I decided to write about how I answer those questions, via a first-principles framing.
+The quick answer: there’s no one magic system called “blockchain” that magically does everything. Rather, there are really good building blocks of computing that can be used together to create effective decentralized applications. Ethereum can play a role, BigchainDB can play a role, and many more as well.</description>
+    </item>
+    
+    <item>
+      <title>Blockchains for Big Data</title>
+      <link>https://obaydakov.github.io/post/2017/blockchains-for-big-data/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/blockchains-for-big-data/</guid>
+      <description>A New Tool For Big Data: Blockchain Technology
+The recent surge in blockchain technology was sparked by Bitcoin. Technically, all blockchains are simply databases, but databases with “blue ocean” benefits: decentralized / shared control, immutability / audit trails, and native assets / exchanges.
+By modern database standards, traditional blockchains have terrible scalability and don’t even have query languages; nonetheless, the blue ocean benefits were enough to capture the imagination of the globe.</description>
+    </item>
+    
+    <item>
+      <title>Go Tooling in Action</title>
+      <link>https://obaydakov.github.io/post/2017/go-tooling-in-action/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/go-tooling-in-action/</guid>
+      <description>Hi, and welcome to &amp;ldquo;Go Tooling in Action&amp;rdquo;. This is a multi hour workshop, so get ready for some intense learning!
+After going through the whole content, you will know about what tools can help you better write Go code, how to build artifacts from that code, and how to understand the performance of your code once it&amp;rsquo;s running.
+You should be relatively familiar with Go, even though we won&amp;rsquo;t be writing much code.</description>
+    </item>
+    
+    <item>
+      <title>Go and Big Data (Intel DAAL)</title>
+      <link>https://obaydakov.github.io/post/2017/go-and-big-data-intel-daal/</link>
+      <pubDate>Sat, 30 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/go-and-big-data-intel-daal/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>IP Address lookups using Python</title>
