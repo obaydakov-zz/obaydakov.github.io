@@ -6,10 +6,21 @@
     <description>Recent content in Blockchain on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Oct 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/blockchain/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to setup Hyperledger Fabric and Composer</title>
+      <link>https://obaydakov.github.io/post/2017/how-to-setup-hyperledger-fabric-and-composer/</link>
+      <pubDate>Mon, 09 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/how-to-setup-hyperledger-fabric-and-composer/</guid>
+      <description>Hyperledger Fabric is a private blockchain network that provides a foundation for transactional enterprise application
+Hyperledger Composer is a framework to accelerate the development of applications built on top of Hyperledger Fabric
+Fabric and Composer are open source collaborative blockchain framework projects that is hosted by The Linux Foundation. The Fabric blockchain framework is built from the ground-up for enterprise level application, it is a permissioned network, meaning read/write access to the shared ledger and participation in the peer-to-peer network is restricted to invited and validated members, such restriction makes way for advantages like scalability and confidential transactions that are a fundamental requirements for most enterprise applications.</description>
+    </item>
     
     <item>
       <title>Learn Blockchains by Building One</title>
