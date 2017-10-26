@@ -6,10 +6,29 @@
     <description>Recent content in Technology on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Oct 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Adding Realtime Data Streaming To Your App</title>
+      <link>https://obaydakov.github.io/post/2017/adding-realtime-data-streaming-to-your-app/</link>
+      <pubDate>Thu, 26 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/adding-realtime-data-streaming-to-your-app/</guid>
+      <description>“[Realtime] is about the ability to make better decisions and take meaningful actions at the right time. It’s about detecting fraud while someone is swiping a credit card, or triggering an offer while a shopper is standing on a checkout line, or placing an ad on a website while someone is reading a specific article. It’s about combining and analyzing data so you can take the right action, at the right time, and at the right place.</description>
+    </item>
+    
+    <item>
+      <title>Divolte Collector</title>
+      <link>https://obaydakov.github.io/post/2017/divolte-collector/</link>
+      <pubDate>Thu, 26 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/divolte-collector/</guid>
+      <description>Scalable clickstream collection for Hadoop and Kafka
+Divolte Collector is a scalable and performant server for collecting clickstream data in HDFS and on Kafka topics. It uses a JavaScript tag on the client side to gather user interaction data, similar to many other web tracking solutions. Divolte Collector can be used as the foundation to build anything from basic web analytics dashboarding to real-time recommender engines or banner optimization systems.</description>
+    </item>
     
     <item>
       <title>How to setup Hyperledger Fabric and Composer</title>

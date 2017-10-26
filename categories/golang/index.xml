@@ -6,10 +6,38 @@
     <description>Recent content in Golang on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Oct 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/golang/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microservice in real-tim using Golf</title>
+      <link>https://obaydakov.github.io/post/2017/microservice-in-real-tim-using-golf/</link>
+      <pubDate>Thu, 26 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/microservice-in-real-tim-using-golf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microservices are hard — an invaluable guide to microservices</title>
+      <link>https://obaydakov.github.io/post/2017/microservices-are-hard-an-invaluable-guide-to-microservices/</link>
+      <pubDate>Thu, 26 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/microservices-are-hard-an-invaluable-guide-to-microservices/</guid>
+      <description>Go + Microservices = Go kit
+Microservices are hard — an invaluable guide to microservices
+Watch the talks from the 2017 Microservices Practitioner Virtual Summit
+Microservices are hard — an invaluable guide to microservices.
+Containers Docker
+Orchestration Kubernetes
+Management Forge
+Api Gateway / Canary Ambassador
+Edge Proxy Envoy
+Monitoring Prometheus
+Local Testing Telepresence</description>
+    </item>
     
     <item>
       <title>Go Tooling in Action</title>
