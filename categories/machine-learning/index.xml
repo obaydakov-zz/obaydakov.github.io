@@ -6,10 +6,22 @@
     <description>Recent content in Machine Learning on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Nov 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ensemble Learning to Improve Machine Learning Results</title>
+      <link>https://obaydakov.github.io/post/2017/ensemble-learning-to-improve-machine-learning-results/</link>
+      <pubDate>Fri, 03 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/ensemble-learning-to-improve-machine-learning-results/</guid>
+      <description>Ensemble methods are meta-algorithms that combine several machine learning techniques into one predictive model in order to decrease variance (bagging), bias (boosting), or improve predictions (stacking).
+Ensemble methods can be divided into two groups:
+sequential ensemble methods where the base learners are generated sequentially (e.g. AdaBoost).
+The basic motivation of sequential methods is to exploit the dependence between the base learners. The overall performance can be boosted by weighing previously mislabeled examples with higher weight.</description>
+    </item>
     
     <item>
       <title>Visualize patients&#39; complaints to their doctors using NiFi and Solr/Banana</title>

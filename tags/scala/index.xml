@@ -6,10 +6,29 @@
     <description>Recent content in Scala on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Nov 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/scala/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Using Spark SQL and Spark Streaming together</title>
+      <link>https://obaydakov.github.io/post/2017/using-spark-sql-and-spark-streaming-together/</link>
+      <pubDate>Fri, 03 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/using-spark-sql-and-spark-streaming-together/</guid>
+      <description>It shows basic working example of Spark application that uses Spark SQL to process data stream from Kafka
+Link</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Recursion Schemes with Matryoshka</title>
+      <link>https://obaydakov.github.io/post/2017/introduction-to-recursion-schemes-with-matryoshka/</link>
+      <pubDate>Sat, 28 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/introduction-to-recursion-schemes-with-matryoshka/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ScalNet - A Scala wrapper for Deeplearning4j, inspired by Keras. Scala &#43; DL &#43; Spark &#43; GPUs</title>

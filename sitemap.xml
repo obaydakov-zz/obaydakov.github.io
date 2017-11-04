@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://obaydakov.github.io/post/2017/ensemble-learning-to-improve-machine-learning-results/</loc>
+    <lastmod>2017-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2017/using-spark-sql-and-spark-streaming-together/</loc>
+    <lastmod>2017-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2017/visualizing-concurrency-in-go-posted-on-jan-24-2016/</loc>
+    <lastmod>2017-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2017/introduction-to-recursion-schemes-with-matryoshka/</loc>
+    <lastmod>2017-10-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2017/go-concurrency-patterns-pipelines-and-cancellation/</loc>
+    <lastmod>2017-10-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://obaydakov.github.io/post/2017/adding-realtime-data-streaming-to-your-app/</loc>
     <lastmod>2017-10-26T00:00:00+00:00</lastmod>
   </url>
@@ -568,7 +593,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/algorithms/</loc>
-    <lastmod>2017-10-26T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -586,7 +611,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/big-data/</loc>
-    <lastmod>2017-10-26T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -628,7 +653,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/tags/feature-selection/</loc>
-    <lastmod>2017-04-04T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -640,7 +665,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/tags/golang/</loc>
-    <lastmod>2017-09-17T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -670,7 +695,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/machine-learning/</loc>
-    <lastmod>2017-09-16T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -688,13 +713,13 @@
   
   <url>
     <loc>https://obaydakov.github.io/</loc>
-    <lastmod>2017-10-26T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/post/</loc>
-    <lastmod>2017-10-26T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -718,13 +743,13 @@
   
   <url>
     <loc>https://obaydakov.github.io/tags/scala/</loc>
-    <lastmod>2017-08-14T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/categories/scala/</loc>
-    <lastmod>2017-09-17T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

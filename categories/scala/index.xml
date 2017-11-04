@@ -6,10 +6,19 @@
     <description>Recent content in Scala on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Oct 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/scala/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Introduction to Recursion Schemes with Matryoshka</title>
+      <link>https://obaydakov.github.io/post/2017/introduction-to-recursion-schemes-with-matryoshka/</link>
+      <pubDate>Sat, 28 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/introduction-to-recursion-schemes-with-matryoshka/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>JSON to Scala cases clases and a ot more ...</title>
