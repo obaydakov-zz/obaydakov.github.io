@@ -6,10 +6,20 @@
     <description>Recent content in Algorithms on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Nov 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/algorithms/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Explore Predictive Maintenance with flexdashboard</title>
+      <link>https://obaydakov.github.io/post/2017/explore-predictive-maintenance-with-flexdashboard/</link>
+      <pubDate>Mon, 06 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/explore-predictive-maintenance-with-flexdashboard/</guid>
+      <description>Predictive Maintenance is an increasingly popular strategy associated with Industry 4.0; it uses advanced analytics and machine learning to optimize machine costs and output (see Google Trends plot below).
+A common use case for Predictive Maintenance is to proactively monitor machines, so as to predict when a check-up is needed to reduce failure and maximize performance. In contrast to traditional maintenance, where each machine has to undergo regular routine check-ups, Predictive Maintenance can save costs and reduce downtime.</description>
+    </item>
     
     <item>
       <title>Ensemble Learning to Improve Machine Learning Results</title>

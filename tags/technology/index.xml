@@ -6,10 +6,20 @@
     <description>Recent content in Technology on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Nov 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>GETTING STARTED WITH Microservices</title>
+      <link>https://obaydakov.github.io/post/getting-started-with-microservices/</link>
+      <pubDate>Mon, 06 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/getting-started-with-microservices/</guid>
+      <description>The term “microservices” describes a new software development style that has grown from recent trends in software development/management practices—practices meant to increase the speed and efficiency of developing and managing software solutions at scale.
+Agile methods, DevOps culture, cloud, Linux containers, and the widespread adoption (both culturally and technically) of CI/CD methods across the industry are making it possible to build truly modular largescale service-optimized systems for both internal and commercial use.</description>
+    </item>
     
     <item>
       <title>Adding Realtime Data Streaming To Your App</title>
