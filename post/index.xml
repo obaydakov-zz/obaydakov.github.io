@@ -6,10 +6,38 @@
     <description>Recent content in Posts on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Nov 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Build Realtime APIs</title>
+      <link>https://obaydakov.github.io/post/2017/build-realtime-apis/</link>
+      <pubDate>Thu, 09 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/build-realtime-apis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Go Data Science Tooling, Packages, Libraries, etc.</title>
+      <link>https://obaydakov.github.io/post/2017/go-data-science-tooling-packages-libraries-etc/</link>
+      <pubDate>Thu, 09 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/go-data-science-tooling-packages-libraries-etc/</guid>
+      <description>This is a curated list of well-maintained and developing tools, packages, libraries, etc. related to doing data science with Go.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning Explorations</title>
+      <link>https://obaydakov.github.io/post/2017/machine-learning-explorations/</link>
+      <pubDate>Thu, 09 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/machine-learning-explorations/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Explore Predictive Maintenance with flexdashboard</title>

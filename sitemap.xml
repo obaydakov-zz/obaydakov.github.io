@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://obaydakov.github.io/post/2017/build-realtime-apis/</loc>
+    <lastmod>2017-11-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2017/go-data-science-tooling-packages-libraries-etc/</loc>
+    <lastmod>2017-11-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2017/machine-learning-explorations/</loc>
+    <lastmod>2017-11-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://obaydakov.github.io/post/2017/explore-predictive-maintenance-with-flexdashboard/</loc>
     <lastmod>2017-11-06T00:00:00+00:00</lastmod>
   </url>
@@ -615,7 +630,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/automated-ml/</loc>
-    <lastmod>2017-11-06T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -674,14 +689,14 @@
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/tags/golang/</loc>
-    <lastmod>2017-11-03T00:00:00+00:00</lastmod>
+    <loc>https://obaydakov.github.io/categories/golang/</loc>
+    <lastmod>2017-10-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/categories/golang/</loc>
-    <lastmod>2017-10-26T00:00:00+00:00</lastmod>
+    <loc>https://obaydakov.github.io/tags/golang/</loc>
+    <lastmod>2017-11-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -723,13 +738,13 @@
   
   <url>
     <loc>https://obaydakov.github.io/</loc>
-    <lastmod>2017-11-06T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/post/</loc>
-    <lastmod>2017-11-06T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -740,26 +755,26 @@
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/tags/r/</loc>
-    <lastmod>2017-08-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://obaydakov.github.io/categories/r/</loc>
     <lastmod>2017-11-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/tags/scala/</loc>
-    <lastmod>2017-11-03T00:00:00+00:00</lastmod>
+    <loc>https://obaydakov.github.io/tags/r/</loc>
+    <lastmod>2017-08-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/categories/scala/</loc>
     <lastmod>2017-10-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/tags/scala/</loc>
+    <lastmod>2017-11-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -777,7 +792,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/tags/technology/</loc>
-    <lastmod>2017-11-06T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
