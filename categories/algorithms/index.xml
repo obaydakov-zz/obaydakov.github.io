@@ -6,10 +6,29 @@
     <description>Recent content in Algorithms on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Nov 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/algorithms/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Fast Data with Apache Flink at ING lessons learned from designing and building a large streaming </title>
+      <link>https://obaydakov.github.io/post/2017/fast-data-with-apache-flink-at-ing-lessons-learned-from-designing-and-building-a-large-streaming/</link>
+      <pubDate>Sat, 11 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/fast-data-with-apache-flink-at-ing-lessons-learned-from-designing-and-building-a-large-streaming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing a Microservices Architecture for Failure</title>
+      <link>https://obaydakov.github.io/post/2017/designing-a-microservices-architecture-for-failure/</link>
+      <pubDate>Fri, 10 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/designing-a-microservices-architecture-for-failure/</guid>
+      <description>A Microservices architecture makes it possible to isolate failures through well-defined service boundaries. But like in every distributed system, there is a higher chance for network, hardware or application level issues. As a consequence of service dependencies, any component can be temporarily unavailable for their consumers. To minimize the impact of partial outages we need to build fault tolerant services that can gracefully respond to certain types of outages.
+Link</description>
+    </item>
     
     <item>
       <title>Explore Predictive Maintenance with flexdashboard</title>

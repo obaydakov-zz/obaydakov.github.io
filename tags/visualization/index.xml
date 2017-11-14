@@ -6,10 +6,19 @@
     <description>Recent content in Visualization on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Nov 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/visualization/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Visual Scala Reference </title>
+      <link>https://obaydakov.github.io/post/visual-scala-reference/</link>
+      <pubDate>Tue, 14 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/visual-scala-reference/</guid>
+      <description>An awesome guide about the most common Scala collection functions</description>
+    </item>
     
     <item>
       <title>Explore Predictive Maintenance with flexdashboard</title>

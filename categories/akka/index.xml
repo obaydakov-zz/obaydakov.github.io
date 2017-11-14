@@ -6,10 +6,69 @@
     <description>Recent content in Akka on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Nov 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/akka/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Emoji trends on Twitter using Akka Streams</title>
+      <link>https://obaydakov.github.io/post/emoji-trends-on-twitter-using-akka-streams/</link>
+      <pubDate>Tue, 14 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/emoji-trends-on-twitter-using-akka-streams/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Ray Tracing with Akka</title>
+      <link>https://obaydakov.github.io/post/ray-tracing-with-akka/</link>
+      <pubDate>Tue, 14 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/ray-tracing-with-akka/</guid>
+      <description>Part 1
+Part 2
+Part 3
+Part 4</description>
+    </item>
+    
+    <item>
+      <title>8 Akka Anti Patterns you&#39;d better be aware of</title>
+      <link>https://obaydakov.github.io/post/2017/8-akka-anti-patterns-you-d-better-be-aware-of/</link>
+      <pubDate>Sat, 11 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/8-akka-anti-patterns-you-d-better-be-aware-of/</guid>
+      <description>Manuel Bernhardt blog</description>
+    </item>
+    
+    <item>
+      <title>Integrating Akka Streams and Akka Actors</title>
+      <link>https://obaydakov.github.io/post/2017/integrating-akka-streams-and-akka-actors/</link>
+      <pubDate>Sat, 11 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/integrating-akka-streams-and-akka-actors/</guid>
+      <description>In the first article of this series, I demonstrated the most basic patterns for integrating Akka Actors and the Akka Streams API. In the second article, I began developing an example to show how actors compliment streams, providing fault-tolerance and life-cycle management. In the third article, I extended this example to demonstrate how actors can be used to distribute streaming workloads in an Akka cluster, as well as provide location transparency for streams.</description>
+    </item>
+    
+    <item>
+      <title>Islands in the Stream Integrating Akka Streams and Akka Actors</title>
+      <link>https://obaydakov.github.io/post/2017/islands-in-the-stream-integrating-akka-streams-and-akka-actors/</link>
+      <pubDate>Sat, 11 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/islands-in-the-stream-integrating-akka-streams-and-akka-actors/</guid>
+      <description>[]
+[]
+[]</description>
+    </item>
+    
+    <item>
+      <title>Stream Driven Development design your data pipeline with Akka Streams</title>
+      <link>https://obaydakov.github.io/post/2017/stream-driven-development-design-your-data-pipeline-with-akka-streams/</link>
+      <pubDate>Sat, 11 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/stream-driven-development-design-your-data-pipeline-with-akka-streams/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Integrating Akka Streams and Akka Actors</title>
