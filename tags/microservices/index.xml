@@ -6,10 +6,21 @@
     <description>Recent content in Microservices on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Nov 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/microservices/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Handling 1 Million Requests per Minute with Golang</title>
+      <link>https://obaydakov.github.io/post/2017/handling-1-million-requests-per-minute-with-golang/</link>
+      <pubDate>Wed, 15 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/handling-1-million-requests-per-minute-with-golang/</guid>
+      <description>The Problem
+While working on a piece of our anonymous telemetry and analytics system, our goal was to be able to handle a large amount of POST requests from millions of endpoints. The web handler would receive a JSON document that may contain a collection of many payloads that needed to be written to Amazon S3, in order for our map-reduce systems to later operate on this data.
+Link</description>
+    </item>
     
     <item>
       <title>Emoji trends on Twitter using Akka Streams</title>

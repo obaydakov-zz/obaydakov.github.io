@@ -6,10 +6,51 @@
     <description>Recent content in Posts on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Nov 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Million WebSockets and Go</title>
+      <link>https://obaydakov.github.io/post/a-million-websockets-and-go/</link>
+      <pubDate>Wed, 15 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/a-million-websockets-and-go/</guid>
+      <description>This article is about how we developed the high-load WebSocket server with Go (Mail.ru).
+Link</description>
+    </item>
+    
+    <item>
+      <title>Building Blockchain in Go.</title>
+      <link>https://obaydakov.github.io/post/2017/building-blockchain-in-go/</link>
+      <pubDate>Wed, 15 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/building-blockchain-in-go/</guid>
+      <description>Introduction
+Blockchain is one of the most revolutionary technologies of the 21st century, which is still maturing and which potential is not fully realized yet. In its essence, blockchain is just a distributed database of records. But what makes it unique is that it’s not a private database, but a public one, i.e. everyone who uses it has a full or partial copy of it. And a new record can be added only with a consent of other keepers of the database.</description>
+    </item>
+    
+    <item>
+      <title>Golang Guide: A List of Top Golang Frameworks, IDEs &amp; Tools</title>
+      <link>https://obaydakov.github.io/post/2017/golang-guide-a-list-of-top-golang-frameworks-ides-tools/</link>
+      <pubDate>Wed, 15 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/golang-guide-a-list-of-top-golang-frameworks-ides-tools/</guid>
+      <description>We’ve compiled a list of the top frameworks, IDEs, and tools for Golang for your quick reference. Bookmark it on your browser so that you can come back whenever you’re working with Go!
+Link</description>
+    </item>
+    
+    <item>
+      <title>Handling 1 Million Requests per Minute with Golang</title>
+      <link>https://obaydakov.github.io/post/2017/handling-1-million-requests-per-minute-with-golang/</link>
+      <pubDate>Wed, 15 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/handling-1-million-requests-per-minute-with-golang/</guid>
+      <description>The Problem
+While working on a piece of our anonymous telemetry and analytics system, our goal was to be able to handle a large amount of POST requests from millions of endpoints. The web handler would receive a JSON document that may contain a collection of many payloads that needed to be written to Amazon S3, in order for our map-reduce systems to later operate on this data.
+Link</description>
+    </item>
     
     <item>
       <title>Awesome R</title>
