@@ -6,10 +6,22 @@
     <description>Recent content in Posts on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Nov 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>An Introduction To gosiris, An Actor Framework For Go</title>
+      <link>https://obaydakov.github.io/post/an-introduction-to-gosiris-an-actor-framework-for-go/</link>
+      <pubDate>Thu, 16 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/an-introduction-to-gosiris-an-actor-framework-for-go/</guid>
+      <description>gosiris
+gosiris is an actor framework for Go allowing local or remote communications between actors and providing runtime discoverability plus distributed tracing.
+The remote communications can be done using either an AMQP broker or Kafka. The runtime discoverability is achieved using an etcd registry and the distributed tracing is based on Zipkin.
+Link</description>
+    </item>
     
     <item>
       <title>A Million WebSockets and Go</title>
