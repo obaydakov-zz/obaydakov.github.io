@@ -24,6 +24,15 @@ Link</description>
     </item>
     
     <item>
+      <title>Golang - Examples and Solutions</title>
+      <link>https://obaydakov.github.io/post/2017/golang-examples-and-solutions/</link>
+      <pubDate>Thu, 16 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/golang-examples-and-solutions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Million WebSockets and Go</title>
       <link>https://obaydakov.github.io/post/a-million-websockets-and-go/</link>
       <pubDate>Wed, 15 Nov 2017 00:00:00 +0000</pubDate>
