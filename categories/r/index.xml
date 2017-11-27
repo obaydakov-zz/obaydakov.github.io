@@ -6,10 +6,19 @@
     <description>Recent content in R on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Nov 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Comparison of ML Classifiers Using Sparklyr</title>
+      <link>https://obaydakov.github.io/post/2017/comparison-of-ml-classifiers-using-sparklyr/</link>
+      <pubDate>Sun, 26 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/comparison-of-ml-classifiers-using-sparklyr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Explore Predictive Maintenance with flexdashboard</title>
