@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://obaydakov.github.io/post/2017/sparklyr-r-interface-for-apache-spark/</loc>
+    <lastmod>2017-11-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://obaydakov.github.io/post/2017/comparison-of-ml-classifiers-using-sparklyr/</loc>
     <lastmod>2017-11-26T00:00:00+00:00</lastmod>
   </url>
@@ -799,14 +804,14 @@
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/categories/golang/</loc>
-    <lastmod>2017-11-16T00:00:00+00:00</lastmod>
+    <loc>https://obaydakov.github.io/tags/golang/</loc>
+    <lastmod>2017-11-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/tags/golang/</loc>
-    <lastmod>2017-11-09T00:00:00+00:00</lastmod>
+    <loc>https://obaydakov.github.io/categories/golang/</loc>
+    <lastmod>2017-11-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -854,13 +859,13 @@
   
   <url>
     <loc>https://obaydakov.github.io/</loc>
-    <lastmod>2017-11-26T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/post/</loc>
-    <lastmod>2017-11-26T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -871,14 +876,20 @@
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/categories/r/</loc>
-    <lastmod>2017-11-26T00:00:00+00:00</lastmod>
+    <loc>https://obaydakov.github.io/tags/r/</loc>
+    <lastmod>2017-11-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/tags/r/</loc>
-    <lastmod>2017-11-22T00:00:00+00:00</lastmod>
+    <loc>https://obaydakov.github.io/categories/r/</loc>
+    <lastmod>2017-11-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/tags/scala/</loc>
+    <lastmod>2017-11-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -889,14 +900,8 @@
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/tags/scala/</loc>
-    <lastmod>2017-11-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://obaydakov.github.io/categories/spark/</loc>
-    <lastmod>2017-11-26T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
