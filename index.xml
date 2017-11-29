@@ -6,10 +6,19 @@
     <description>Recent content on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Nov 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Clustering Algorithms: On Learning, Validation, Performance</title>
+      <link>https://obaydakov.github.io/post/clustering-algorithms-on-learning-validation-performance/</link>
+      <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/clustering-algorithms-on-learning-validation-performance/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>sparklyr: R interface for Apache Spark</title>
