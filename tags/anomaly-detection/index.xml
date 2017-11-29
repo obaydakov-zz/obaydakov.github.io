@@ -6,10 +6,19 @@
     <description>Recent content in Anomaly Detection on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Nov 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/anomaly-detection/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Data Science for Fraud Detection</title>
+      <link>https://obaydakov.github.io/post/data-science-for-fraud-detection/</link>
+      <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/data-science-for-fraud-detection/</guid>
+      <description>Fraud can be defined as “the crime of getting money by deceiving people” (Cambridge Dictionary); it is as old as humanity: whenever two parties exchange goods or conduct business, there is the potential for one party scamming the other. With an ever-increasing use of the internet for shopping, banking, filing insurance claims etc., these businesses have become targets of fraud in a whole new dimension. Fraud has become a major problem in e-commerce and a lot of resources are being invested to recognize and prevent it.</description>
+    </item>
     
     <item>
       <title>Real-Time Fraud Detection with Microservices</title>

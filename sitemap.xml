@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>https://obaydakov.github.io/post/data-science-for-fraud-detection/</loc>
+    <lastmod>2017-11-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://obaydakov.github.io/post/2017/sparklyr-r-interface-for-apache-spark/</loc>
     <lastmod>2017-11-27T00:00:00+00:00</lastmod>
   </url>
@@ -744,7 +749,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/tags/anomaly-detection/</loc>
-    <lastmod>2017-09-17T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -882,7 +887,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/r/</loc>
-    <lastmod>2017-11-27T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -912,7 +917,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/tags/</loc>
-    <lastmod>2017-09-17T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
