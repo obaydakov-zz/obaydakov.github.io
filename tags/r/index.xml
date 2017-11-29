@@ -6,10 +6,23 @@
     <description>Recent content in R on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Nov 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/r/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>MICE: Multivariate Imputation by Chained Equations</title>
+      <link>https://obaydakov.github.io/post/mice-multivariate-imputation-by-chained-equations/</link>
+      <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/mice-multivariate-imputation-by-chained-equations/</guid>
+      <description>Capabilities of mice package
+The mice package contains functions to
+Inspect the missing data pattern Impute the missing data mm times, resulting in mm completed data sets Diagnose the quality of the imputed values Analyze each completed data set Pool the results of the repeated analyses Store and export the imputed data in various formats Generate simulated incomplete data Incorporate custom imputation methods Choose which cells to impute
+Link
+Handling Missing Data in R with mice</description>
+    </item>
     
     <item>
       <title>EVERYTHING ARTIFICIAL INTELLIGENCE</title>
