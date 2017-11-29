@@ -6,10 +6,20 @@
     <description>Recent content in Visualization on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Nov 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/visualization/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Visualising Flows Using Network and Sankey Diagrams in Python and R</title>
+      <link>https://obaydakov.github.io/post/visualising-flows-using-network-and-sankey-diagrams-in-python-and-r/</link>
+      <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/visualising-flows-using-network-and-sankey-diagrams-in-python-and-r/</guid>
+      <description>networkD3
+Creating Alluvial Diagram</description>
+    </item>
     
     <item>
       <title>Visual Scala Reference </title>
