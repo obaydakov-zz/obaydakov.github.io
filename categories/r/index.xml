@@ -12,6 +12,17 @@
     
     
     <item>
+      <title>Credit Card Fraud Detection using Autoencoders in Keras</title>
+      <link>https://obaydakov.github.io/post/credit-card-fraud-detection-using-autoencoders-in-keras/</link>
+      <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/credit-card-fraud-detection-using-autoencoders-in-keras/</guid>
+      <description>we will train an Autoencoder Neural Network (implemented in Keras) in unsupervised (or semi-supervised) fashion for Anomaly Detection in credit card transaction data. The trained model will be evaluated on pre-labeled and anonymized dataset.
+Link
+Github</description>
+    </item>
+    
+    <item>
       <title>Customer Analytics: Using Deep Learning With Keras To Predict Customer Churn</title>
       <link>https://obaydakov.github.io/post/customer-analytics-using-deep-learning-with-keras-to-predict-customer-churn/</link>
       <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>

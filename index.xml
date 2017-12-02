@@ -6,10 +6,23 @@
     <description>Recent content on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 Dec 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ensemble learning - model stacking</title>
+      <link>https://obaydakov.github.io/post/2017/ensemble-learning-model-stacking/</link>
+      <pubDate>Sat, 02 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/ensemble-learning-model-stacking/</guid>
+      <description>Introduction
+
+Stacking (sometimes called &amp;ldquo;stacked generalization&amp;rdquo;) involves training a learning algorithm to combine the predictions of several other learning algorithms.
+ First, all of the other algorithms are trained using the available data
+ Then a combiner algorithm, the metalearner, is trained to make a final prediction using all the predictions of the other algorithms as additional inputs. If an arbitrary metalearning algorithm is used, then stacking can theoretically represent any of the ensemble techniques described in this article, although in practice, a single-layer logistic regression model is often used for metalearning.</description>
+    </item>
     
     <item>
       <title>Clustering Algorithms: On Learning, Validation, Performance</title>
@@ -18,6 +31,17 @@
       
       <guid>https://obaydakov.github.io/post/clustering-algorithms-on-learning-validation-performance/</guid>
       <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Credit Card Fraud Detection using Autoencoders in Keras</title>
+      <link>https://obaydakov.github.io/post/credit-card-fraud-detection-using-autoencoders-in-keras/</link>
+      <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/credit-card-fraud-detection-using-autoencoders-in-keras/</guid>
+      <description>we will train an Autoencoder Neural Network (implemented in Keras) in unsupervised (or semi-supervised) fashion for Anomaly Detection in credit card transaction data. The trained model will be evaluated on pre-labeled and anonymized dataset.
+Link
+Github</description>
     </item>
     
     <item>
@@ -1569,6 +1593,15 @@ Recent work has started to tackle this automated machine learning (AutoML) probl
       <guid>https://obaydakov.github.io/post/2017/2017-07-19-hortonworks-data-flow-3-streamig-applications/</guid>
       <description>&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt; HEAD title: Hortonworks Data Flow 3 - streamig applications author: Oleg Baydakov date: &amp;lsquo;2017-07-19&amp;rsquo; slug: hortonworks-data-flow-3-streamig-applications categories: [] tags: [] description: &amp;ldquo;
 thumbnail: &amp;ldquo; Hortonworks, Inc. � (NASDAQ: HDP), a leading innovator of open and connected data platforms, today announced the general availability of Hortonworks DataFlow (HDFT) 3.0, the next generation of its open source data-in-motion platform. HDF enables customers to collect, curate, analyze and act on all data in real-time, across the data center and cloud.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://obaydakov.github.io/post/2017/2017-12-02-ensemble-learning-model-stacking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/2017-12-02-ensemble-learning-model-stacking/</guid>
+      <description>Ensemble learning - model stacking       code{white-space: pre;} pre:not([class]) { background-color: white; }  if (window.hljs) { hljs.configure({languages: []}); hljs.initHighlightingOnLoad(); if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) { window.setTimeout(function() { hljs.initHighlighting(); }, 0); } }  h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .</description>
     </item>
     
   </channel>

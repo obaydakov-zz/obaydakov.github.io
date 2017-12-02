@@ -6,10 +6,23 @@
     <description>Recent content in Algorithms on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 Dec 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/algorithms/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ensemble learning - model stacking</title>
+      <link>https://obaydakov.github.io/post/2017/ensemble-learning-model-stacking/</link>
+      <pubDate>Sat, 02 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/ensemble-learning-model-stacking/</guid>
+      <description>Introduction
+
+Stacking (sometimes called &amp;ldquo;stacked generalization&amp;rdquo;) involves training a learning algorithm to combine the predictions of several other learning algorithms.
+ First, all of the other algorithms are trained using the available data
+ Then a combiner algorithm, the metalearner, is trained to make a final prediction using all the predictions of the other algorithms as additional inputs. If an arbitrary metalearning algorithm is used, then stacking can theoretically represent any of the ensemble techniques described in this article, although in practice, a single-layer logistic regression model is often used for metalearning.</description>
+    </item>
     
     <item>
       <title>Clustering Algorithms: On Learning, Validation, Performance</title>
@@ -18,6 +31,17 @@
       
       <guid>https://obaydakov.github.io/post/clustering-algorithms-on-learning-validation-performance/</guid>
       <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Credit Card Fraud Detection using Autoencoders in Keras</title>
+      <link>https://obaydakov.github.io/post/credit-card-fraud-detection-using-autoencoders-in-keras/</link>
+      <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/credit-card-fraud-detection-using-autoencoders-in-keras/</guid>
+      <description>we will train an Autoencoder Neural Network (implemented in Keras) in unsupervised (or semi-supervised) fashion for Anomaly Detection in credit card transaction data. The trained model will be evaluated on pre-labeled and anonymized dataset.
+Link
+Github</description>
     </item>
     
     <item>

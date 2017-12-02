@@ -6,10 +6,23 @@
     <description>Recent content in R on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 Dec 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/r/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ensemble learning - model stacking</title>
+      <link>https://obaydakov.github.io/post/2017/ensemble-learning-model-stacking/</link>
+      <pubDate>Sat, 02 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/ensemble-learning-model-stacking/</guid>
+      <description>Introduction
+
+Stacking (sometimes called &amp;ldquo;stacked generalization&amp;rdquo;) involves training a learning algorithm to combine the predictions of several other learning algorithms.
+ First, all of the other algorithms are trained using the available data
+ Then a combiner algorithm, the metalearner, is trained to make a final prediction using all the predictions of the other algorithms as additional inputs. If an arbitrary metalearning algorithm is used, then stacking can theoretically represent any of the ensemble techniques described in this article, although in practice, a single-layer logistic regression model is often used for metalearning.</description>
+    </item>
     
     <item>
       <title>MICE: Multivariate Imputation by Chained Equations</title>
