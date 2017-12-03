@@ -1604,5 +1604,26 @@ thumbnail: &amp;ldquo; Hortonworks, Inc. � (NASDAQ: HDP), a leading innovator 
       <description>Ensemble learning - model stacking       code{white-space: pre;} pre:not([class]) { background-color: white; }  if (window.hljs) { hljs.configure({languages: []}); hljs.initHighlightingOnLoad(); if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) { window.setTimeout(function() { hljs.initHighlighting(); }, 0); } }  h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://obaydakov.github.io/post/2017/2017-12-03-explain-explain-explain/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/2017-12-03-explain-explain-explain/</guid>
+      <description>code{white-space: pre;} pre:not([class]) { background-color: white; }  if (window.hljs) { hljs.configure({languages: []}); hljs.initHighlightingOnLoad(); if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) { window.setTimeout(function() { hljs.initHighlighting(); }, 0); } }  h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .</description>
+    </item>
+    
+    <item>
+      <title>&lt;center&gt; Explain! Explain! Explain! &lt;/center&gt;</title>
+      <link>https://obaydakov.github.io/post/2017/explain-explain-explain/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/explain-explain-explain/</guid>
+      <description>{ width=50%}
+In the June Aleksandra Paluszynska defended her master thesis Structure mining and knowledge extraction from random forest. Find the corresponding package randomForestExplainer and its vignette here.
+In the September David Foster published a very interesting package xgboostExplainer. Try it to extract useful information from a xgboost model and create waterfall plots that explain variable contributions in predictions. Read more about this package here.
+In the October Albert Cheng published lightgbmExplainer.</description>
+    </item>
+    
   </channel>
 </rss>
