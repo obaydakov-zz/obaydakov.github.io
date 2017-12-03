@@ -6,10 +6,22 @@
     <description>Recent content in R on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 Dec 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>&lt;center&gt; Explain! Explain! Explain! &lt;/center&gt;</title>
+      <link>https://obaydakov.github.io/post/2017/explain-explain-explain/</link>
+      <pubDate>Sun, 03 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/explain-explain-explain/</guid>
+      <description>{ width=50%} 
+In the June Aleksandra Paluszynska defended her master thesis Structure mining and knowledge extraction from random forest. Find the corresponding package randomForestExplainer and its vignette here.
+In the September David Foster published a very interesting package xgboostExplainer. Try it to extract useful information from a xgboost model and create waterfall plots that explain variable contributions in predictions. Read more about this package here.
+In the October Albert Cheng published lightgbmExplainer.</description>
+    </item>
     
     <item>
       <title>Credit Card Fraud Detection using Autoencoders in Keras</title>
@@ -287,18 +299,6 @@ Not just images, they can chat with you as well! Haven&amp;rsquo;t you tried Goo
       
       <guid>https://obaydakov.github.io/post/2017/tutorial-on-xgboost-and-parameter-tuning-in-r/</guid>
       <description>Table of Contents  What is XGBoost? Why is it so good? How does XGBoost work? Understanding XGBoost Tuning Parameters Practical - Tuning XGBoost using R  Link</description>
-    </item>
-    
-    <item>
-      <title>&lt;center&gt; Explain! Explain! Explain! &lt;/center&gt;</title>
-      <link>https://obaydakov.github.io/post/2017/explain-explain-explain/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://obaydakov.github.io/post/2017/explain-explain-explain/</guid>
-      <description>{ width=50%}
-In the June Aleksandra Paluszynska defended her master thesis Structure mining and knowledge extraction from random forest. Find the corresponding package randomForestExplainer and its vignette here.
-In the September David Foster published a very interesting package xgboostExplainer. Try it to extract useful information from a xgboost model and create waterfall plots that explain variable contributions in predictions. Read more about this package here.
-In the October Albert Cheng published lightgbmExplainer.</description>
     </item>
     
   </channel>

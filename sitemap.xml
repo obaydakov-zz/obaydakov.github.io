@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://obaydakov.github.io/post/2017/explain-explain-explain/</loc>
+    <lastmod>2017-12-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://obaydakov.github.io/post/2017/ensemble-learning-model-stacking/</loc>
     <lastmod>2017-12-02T00:00:00+00:00</lastmod>
   </url>
@@ -769,10 +774,6 @@
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2017/explain-explain-explain/</loc>
-  </url>
-  
-  <url>
     <loc>https://obaydakov.github.io/categories/akka/</loc>
     <lastmod>2017-11-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -906,13 +907,13 @@
   
   <url>
     <loc>https://obaydakov.github.io/</loc>
-    <lastmod>2017-12-02T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/post/</loc>
-    <lastmod>2017-12-02T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -930,7 +931,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/r/</loc>
-    <lastmod>2017-11-28T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -972,7 +973,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/tags/visualization/</loc>
-    <lastmod>2017-11-28T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
