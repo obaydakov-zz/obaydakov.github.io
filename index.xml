@@ -6,10 +6,22 @@
     <description>Recent content on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 Dec 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Deep Learning Specialization by Andrew Ng — 21 Lessons Learned</title>
+      <link>https://obaydakov.github.io/post/2017/deep-learning-specialization-by-andrew-ng-21-lessons-learned/</link>
+      <pubDate>Sat, 09 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/deep-learning-specialization-by-andrew-ng-21-lessons-learned/</guid>
+      <description>There are currently 3 courses available in the specialization:
+ Neural Networks and Deep Learning
+ Improving Deep Neural Networks: Hyperparamater tuning, Regularization and Optimization
+ Structuring Machine Learning Projects</description>
+    </item>
     
     <item>
       <title>Convolutional Network in Python</title>
