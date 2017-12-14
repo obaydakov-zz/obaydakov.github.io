@@ -6,10 +6,28 @@
     <description>Recent content in Posts on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Dec 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Code Patterns IBM</title>
+      <link>https://obaydakov.github.io/post/2017/code-patterns-ibm/</link>
+      <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/code-patterns-ibm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alluvial Diagrams in ggplot2</title>
+      <link>https://obaydakov.github.io/post/2017/alluvial-diagrams-in-ggplot2/</link>
+      <pubDate>Wed, 13 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/alluvial-diagrams-in-ggplot2/</guid>
+      <description>](https://cran.r-project.org/web/packages/ggalluvial/vignettes/ggalluvial.html)</description>
+    </item>
     
     <item>
       <title>Scla Code Exampels (Spark)</title>
