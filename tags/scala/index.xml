@@ -6,10 +6,21 @@
     <description>Recent content in Scala on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Dec 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/scala/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Spark Streaming example</title>
+      <link>https://obaydakov.github.io/post/2017/spark-streaming-example/</link>
+      <pubDate>Tue, 19 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/spark-streaming-example/</guid>
+      <description>Slides
+Anthology of Technical Assets on Apache Spark’s Structured Streaming
+Processing Data in Apache Kafka with Structured Streaming in Apache Spark 2.2</description>
+    </item>
     
     <item>
       <title>Scla Code Exampels (Spark)</title>

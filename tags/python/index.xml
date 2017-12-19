@@ -6,10 +6,19 @@
     <description>Recent content in Python on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Dec 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Having Fun with Deep Convolutional GANs</title>
+      <link>https://obaydakov.github.io/post/2017/having-fun-with-deep-convolutional-gans/</link>
+      <pubDate>Tue, 19 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/having-fun-with-deep-convolutional-gans/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Convolutional Network in Python</title>
