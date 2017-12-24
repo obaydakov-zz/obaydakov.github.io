@@ -6,10 +6,19 @@
     <description>Recent content in Microservices on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 Dec 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/microservices/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Write a Kubernetes-ready service from zero step-by-step</title>
+      <link>https://obaydakov.github.io/post/write-a-kubernetes-ready-service-from-zero-step-by-step/</link>
+      <pubDate>Sat, 23 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/write-a-kubernetes-ready-service-from-zero-step-by-step/</guid>
+      <description>English</description>
+    </item>
     
     <item>
       <title>Handling 1 Million Requests per Minute with Golang</title>

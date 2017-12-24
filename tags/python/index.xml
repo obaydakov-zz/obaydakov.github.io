@@ -6,10 +6,28 @@
     <description>Recent content in Python on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 Dec 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tutorial to deploy Machine Learning models in Production as APIs (using Flask)</title>
+      <link>https://obaydakov.github.io/post/2017/tutorial-to-deploy-machine-learning-models-in-production-as-apis-using-flask/</link>
+      <pubDate>Sat, 23 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/tutorial-to-deploy-machine-learning-models-in-production-as-apis-using-flask/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cheatsheets ai</title>
+      <link>https://obaydakov.github.io/post/2017/cheatsheets-ai/</link>
+      <pubDate>Fri, 22 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/cheatsheets-ai/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Having Fun with Deep Convolutional GANs</title>

@@ -6,10 +6,29 @@
     <description>Recent content in R on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Dec 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/r/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Keras for R (RStudio)</title>
+      <link>https://obaydakov.github.io/post/2017/keras-for-r-rstudio/</link>
+      <pubDate>Fri, 22 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/keras-for-r-rstudio/</guid>
+      <description>Keras for R - R Studio examples
+keras: Deep Learning in R</description>
+    </item>
+    
+    <item>
+      <title>cheatsheets ai</title>
+      <link>https://obaydakov.github.io/post/2017/cheatsheets-ai/</link>
+      <pubDate>Fri, 22 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2017/cheatsheets-ai/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Ensemble learning - model stacking</title>
