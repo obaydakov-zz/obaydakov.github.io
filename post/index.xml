@@ -6,10 +6,57 @@
     <description>Recent content in Posts on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>December Edition: Deep Learning</title>
+      <link>https://obaydakov.github.io/post/2018/december-edition-deep-learning/</link>
+      <pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/december-edition-deep-learning/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Embed, encode, attend, predict - the new deep learning formula for state-of-the-art NLP models</title>
+      <link>https://obaydakov.github.io/post/2018/nlp-models/</link>
+      <pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/nlp-models/</guid>
+      <description>Over the last six months, a powerful new neural network playbook has come together for Natural Language Processing. The new approach can be summarised as a simple four-step formula: embed, encode, attend, predict. This post explains the components of this new approach, and shows how they&amp;rsquo;re put together in two recent systems.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Understanding objective functions in neural networks</title>
+      <link>https://obaydakov.github.io/post/2018/understanding-objective-functions-in-neural-networks/</link>
+      <pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/understanding-objective-functions-in-neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A gallery of interesting Jupyter Notebooks</title>
+      <link>https://obaydakov.github.io/post/2018/a-gallery-of-interesting-jupyter-notebooks/</link>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/a-gallery-of-interesting-jupyter-notebooks/</guid>
+      <description>This page is a curated collection of Jupyter/IPython notebooks that are notable. Feel free to add new content here, but please try to only include links to notebooks that include interesting visual or technical content; this should not simply be a dump of a Google search on every ipynb file out there.
+Important contribution instructions: If you add new content, please ensure that for any notebook you link to, the link is to the rendered version using nbviewer, rather than the raw file.</description>
+    </item>
+    
+    <item>
+      <title>Architecture of Giants: Data Stacks at Facebook, Netflix, Airbnb, and Pinterest</title>
+      <link>https://obaydakov.github.io/post/2018/architecture-of-giants-data-stacks-at-facebook-netflix-airbnb-and-pinterest/</link>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/architecture-of-giants-data-stacks-at-facebook-netflix-airbnb-and-pinterest/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Tutorial to deploy Machine Learning models in Production as APIs (using Flask)</title>

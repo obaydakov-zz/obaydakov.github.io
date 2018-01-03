@@ -6,10 +6,20 @@
     <description>Recent content in Algorithms on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/algorithms/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Embed, encode, attend, predict - the new deep learning formula for state-of-the-art NLP models</title>
+      <link>https://obaydakov.github.io/post/2018/nlp-models/</link>
+      <pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/nlp-models/</guid>
+      <description>Over the last six months, a powerful new neural network playbook has come together for Natural Language Processing. The new approach can be summarised as a simple four-step formula: embed, encode, attend, predict. This post explains the components of this new approach, and shows how they&amp;rsquo;re put together in two recent systems.
+Link</description>
+    </item>
     
     <item>
       <title>cheatsheets ai</title>

@@ -6,10 +6,28 @@
     <description>Recent content in Deep Learning on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>December Edition: Deep Learning</title>
+      <link>https://obaydakov.github.io/post/2018/december-edition-deep-learning/</link>
+      <pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/december-edition-deep-learning/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Understanding objective functions in neural networks</title>
+      <link>https://obaydakov.github.io/post/2018/understanding-objective-functions-in-neural-networks/</link>
+      <pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/understanding-objective-functions-in-neural-networks/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Keras for R (RStudio)</title>

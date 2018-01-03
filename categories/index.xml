@@ -23,7 +23,7 @@
     <item>
       <title>Algorithms</title>
       <link>https://obaydakov.github.io/categories/algorithms/</link>
-      <pubDate>Fri, 22 Dec 2017 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/categories/algorithms/</guid>
       <description></description>
@@ -32,7 +32,7 @@
     <item>
       <title>Automated Ml</title>
       <link>https://obaydakov.github.io/categories/automated-ml/</link>
-      <pubDate>Sat, 23 Dec 2017 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/categories/automated-ml/</guid>
       <description></description>
@@ -68,7 +68,7 @@
     <item>
       <title>Deep Learning</title>
       <link>https://obaydakov.github.io/categories/deep-learning/</link>
-      <pubDate>Fri, 22 Dec 2017 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/categories/deep-learning/</guid>
       <description></description>
@@ -113,9 +113,18 @@
     <item>
       <title>Machine Learning</title>
       <link>https://obaydakov.github.io/categories/machine-learning/</link>
-      <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/categories/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nlp</title>
+      <link>https://obaydakov.github.io/categories/nlp/</link>
+      <pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/categories/nlp/</guid>
       <description></description>
     </item>
     
