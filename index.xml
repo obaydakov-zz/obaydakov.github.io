@@ -6,10 +6,39 @@
     <description>Recent content on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Turning Design Mockups Into Code With Deep Learning</title>
+      <link>https://obaydakov.github.io/post/2018/turning-design-mockups-into-code-with-deep-learning/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/turning-design-mockups-into-code-with-deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding Feature Engineering</title>
+      <link>https://obaydakov.github.io/post/2018/understanding-feature-engineering/</link>
+      <pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/understanding-feature-engineering/</guid>
+      <description>Continuous Numeric Data
+Categorical Data</description>
+    </item>
+    
+    <item>
+      <title>Python R Collaboration</title>
+      <link>https://obaydakov.github.io/post/2018/python-r-collaboration/</link>
+      <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/python-r-collaboration/</guid>
+      <description>Python R Collaboration
+Link</description>
+    </item>
     
     <item>
       <title>DisplayR</title>

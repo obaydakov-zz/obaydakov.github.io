@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://obaydakov.github.io/post/2018/turning-design-mockups-into-code-with-deep-learning/</loc>
+    <lastmod>2018-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/understanding-feature-engineering/</loc>
+    <lastmod>2018-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/python-r-collaboration/</loc>
+    <lastmod>2018-01-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://obaydakov.github.io/post/2018/displayr/</loc>
     <lastmod>2018-01-06T00:00:00+00:00</lastmod>
   </url>
@@ -950,7 +965,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/deep-learning/</loc>
-    <lastmod>2018-01-03T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -962,7 +977,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/tags/feature-selection/</loc>
-    <lastmod>2017-11-03T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1034,19 +1049,25 @@
   
   <url>
     <loc>https://obaydakov.github.io/</loc>
-    <lastmod>2018-01-06T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/post/</loc>
-    <lastmod>2018-01-06T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/tags/python/</loc>
     <lastmod>2017-12-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/categories/python/</loc>
+    <lastmod>2018-01-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1058,7 +1079,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/r/</loc>
-    <lastmod>2018-01-06T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1088,7 +1109,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/tags/technology/</loc>
-    <lastmod>2018-01-06T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
