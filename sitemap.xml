@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://obaydakov.github.io/post/2018/deep-learning-with-keras-to-predict-customer-churn/</loc>
+    <lastmod>2018-01-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://obaydakov.github.io/post/2018/turning-design-mockups-into-code-with-deep-learning/</loc>
     <lastmod>2018-01-11T00:00:00+00:00</lastmod>
   </url>
@@ -965,7 +970,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/deep-learning/</loc>
-    <lastmod>2018-01-11T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1049,13 +1054,13 @@
   
   <url>
     <loc>https://obaydakov.github.io/</loc>
-    <lastmod>2018-01-11T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/post/</loc>
-    <lastmod>2018-01-11T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1073,13 +1078,13 @@
   
   <url>
     <loc>https://obaydakov.github.io/tags/r/</loc>
-    <lastmod>2017-12-22T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/categories/r/</loc>
-    <lastmod>2018-01-09T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
