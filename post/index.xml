@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Awesome Business Intelligence</title>
+      <link>https://obaydakov.github.io/post/2018/awesome-business-intelligence/</link>
+      <pubDate>Sun, 14 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/awesome-business-intelligence/</guid>
+      <description>A curated list of awesome BI tools.
+Link</description>
+    </item>
     
     <item>
       <title>Deep Learning With Keras To Predict Customer Churn</title>
