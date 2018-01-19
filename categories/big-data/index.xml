@@ -6,10 +6,31 @@
     <description>Recent content in Big Data on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/big-data/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Apache Spark Cheat</title>
+      <link>https://obaydakov.github.io/post/2018/apache-spark-cheat/</link>
+      <pubDate>Fri, 19 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/apache-spark-cheat/</guid>
+      <description>DataFrameCheatSheet
+Coursera&amp;rsquo;s big data course with Scala and Spark
+Scala - Spark
+Programming Is Awesome</description>
+    </item>
+    
+    <item>
+      <title>Apache Zeppelin packages</title>
+      <link>https://obaydakov.github.io/post/2018/apache-zeppelin-packages/</link>
+      <pubDate>Fri, 19 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/apache-zeppelin-packages/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Awesome Business Intelligence</title>

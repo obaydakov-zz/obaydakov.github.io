@@ -6,10 +6,19 @@
     <description>Recent content in Python on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Create a scalable REST API with Falcon and RHSCL</title>
+      <link>https://obaydakov.github.io/post/2018/create-a-scalable-rest-api-with-falcon-and-rhscl/</link>
+      <pubDate>Fri, 19 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/create-a-scalable-rest-api-with-falcon-and-rhscl/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hyperdash Machine Learning Monitoring.  Worry-free tracking for your training.</title>

@@ -6,10 +6,19 @@
     <description>Recent content in Meta Learning on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/meta-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Fearture Engineering</title>
+      <link>https://obaydakov.github.io/post/2018/fearture-engineering/</link>
+      <pubDate>Fri, 19 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/fearture-engineering/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Understanding objective functions in neural networks</title>

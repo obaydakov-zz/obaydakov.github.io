@@ -6,10 +6,67 @@
     <description>Recent content on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Apache Spark Cheat</title>
+      <link>https://obaydakov.github.io/post/2018/apache-spark-cheat/</link>
+      <pubDate>Fri, 19 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/apache-spark-cheat/</guid>
+      <description>DataFrameCheatSheet
+Coursera&amp;rsquo;s big data course with Scala and Spark
+Scala - Spark
+Programming Is Awesome</description>
+    </item>
+    
+    <item>
+      <title>Apache Zeppelin packages</title>
+      <link>https://obaydakov.github.io/post/2018/apache-zeppelin-packages/</link>
+      <pubDate>Fri, 19 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/apache-zeppelin-packages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Create a scalable REST API with Falcon and RHSCL</title>
+      <link>https://obaydakov.github.io/post/2018/create-a-scalable-rest-api-with-falcon-and-rhscl/</link>
+      <pubDate>Fri, 19 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/create-a-scalable-rest-api-with-falcon-and-rhscl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fearture Engineering</title>
+      <link>https://obaydakov.github.io/post/2018/fearture-engineering/</link>
+      <pubDate>Fri, 19 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/fearture-engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gophercises</title>
+      <link>https://obaydakov.github.io/post/2018/gophercises/</link>
+      <pubDate>Fri, 19 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/gophercises/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learn About In-Memory Computing</title>
+      <link>https://obaydakov.github.io/post/2018/learn-about-in-memory-computing/</link>
+      <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/learn-about-in-memory-computing/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Chartmaker for data visualization</title>
