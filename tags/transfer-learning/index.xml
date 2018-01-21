@@ -6,10 +6,19 @@
     <description>Recent content in Transfer Learning on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/transfer-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Jupyter Lab extension - Voyager</title>
+      <link>https://obaydakov.github.io/post/2018/jupyter-lab-extension-voyager/</link>
+      <pubDate>Sat, 20 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/jupyter-lab-extension-voyager/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Generative Adversarial Networks (GANs): Engine and Applications</title>
