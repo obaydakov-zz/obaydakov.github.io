@@ -21,6 +21,20 @@
     </item>
     
     <item>
+      <title>Building beautiful REST APIs using Flask, Swagger UI and Flask-RESTPlus</title>
+      <link>https://obaydakov.github.io/post/2018/building-beautiful-rest-apis-using-flask-swagger-ui-and-flask-restplus/</link>
+      <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/building-beautiful-rest-apis-using-flask-swagger-ui-and-flask-restplus/</guid>
+      <description>This article outlines steps needed to create a REST API using Flask and Flask-RESTPlus. These tools combine into a framework, which automates common tasks:
+ API input validation
+ formatting output (as JSON)
+ generating interactive documentation (with Swagger UI)
+ turning Python exceptions into machine-readable HTTP responses
+  Link</description>
+    </item>
+    
+    <item>
       <title>Data Visualization Cheatsheet</title>
       <link>https://obaydakov.github.io/post/2018/data-visualization/</link>
       <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
