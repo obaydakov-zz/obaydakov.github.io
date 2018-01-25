@@ -6,10 +6,28 @@
     <description>Recent content in Python on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Kalman and Bayesian Filters in Python</title>
+      <link>https://obaydakov.github.io/post/2018/kalman-and-bayesian-filters-in-python/</link>
+      <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/kalman-and-bayesian-filters-in-python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python Data Science Handbook</title>
+      <link>https://obaydakov.github.io/post/python-data-science-handbook/</link>
+      <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/python-data-science-handbook/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Building beautiful REST APIs using Flask, Swagger UI and Flask-RESTPlus</title>

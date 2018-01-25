@@ -6,10 +6,38 @@
     <description>Recent content in Big Data on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/big-data/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AWS AppSync - Up and Running with GraphQL in the Cloud</title>
+      <link>https://obaydakov.github.io/post/2018/aws-appsync-up-and-running-with-graphql-in-the-cloud/</link>
+      <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/aws-appsync-up-and-running-with-graphql-in-the-cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docker Meet Cassandra. Cassandra Meet Docker.</title>
+      <link>https://obaydakov.github.io/post/2018/docker-meet-cassandra-cassandra-meet-docker/</link>
+      <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/docker-meet-cassandra-cassandra-meet-docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MonetDBLite for R</title>
+      <link>https://obaydakov.github.io/post/2018/monetdblite-for-r/</link>
+      <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/monetdblite-for-r/</guid>
+      <description>MonetDBLite for R is a SQL database that runs inside the R environment for statistical computing and does not require the installation of any external software. MonetDBLite is based on free and open-source MonetDB, a product of the Centrum Wiskunde &amp;amp; Informatica.
+MonetDBLite is similar in functionality to RSQLite, but typically completes queries blazingly fast due to its columnar storage architecture and bulk query processing model. Since both of these embedded SQL options rely on the the R DBI interface, the conversion of legacy RSQLite project syntax over to MonetDBLite code should be a cinch.</description>
+    </item>
     
     <item>
       <title>Apache Spark Cheat</title>
