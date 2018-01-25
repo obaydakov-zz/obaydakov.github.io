@@ -64,10 +64,10 @@ Stacking (sometimes called &amp;ldquo;stacked generalization&amp;rdquo;) involve
     
     <item>
       <title>MICE: Multivariate Imputation by Chained Equations</title>
-      <link>https://obaydakov.github.io/post/mice-multivariate-imputation-by-chained-equations/</link>
+      <link>https://obaydakov.github.io/post/2017/mice-multivariate-imputation-by-chained-equations/</link>
       <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/mice-multivariate-imputation-by-chained-equations/</guid>
+      <guid>https://obaydakov.github.io/post/2017/mice-multivariate-imputation-by-chained-equations/</guid>
       <description>Capabilities of mice package
 The mice package contains functions to
 Inspect the missing data pattern Impute the missing data mm times, resulting in mm completed data sets Diagnose the quality of the imputed values Analyze each completed data set Pool the results of the repeated analyses Store and export the imputed data in various formats Generate simulated incomplete data Incorporate custom imputation methods Choose which cells to impute

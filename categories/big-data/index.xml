@@ -6,10 +6,28 @@
     <description>Recent content in Big Data on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/big-data/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Apache MADlib</title>
+      <link>https://obaydakov.github.io/post/2018/apache-madlib/</link>
+      <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/apache-madlib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Realtime Serverless Web Apps with AWS</title>
+      <link>https://obaydakov.github.io/post/2018/realtime-serverless-web-apps-with-aws/</link>
+      <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/realtime-serverless-web-apps-with-aws/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>AWS AppSync - Up and Running with GraphQL in the Cloud</title>

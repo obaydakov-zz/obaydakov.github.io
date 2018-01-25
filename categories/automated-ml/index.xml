@@ -13,10 +13,10 @@
     
     <item>
       <title>Python Data Science Handbook</title>
-      <link>https://obaydakov.github.io/post/python-data-science-handbook/</link>
+      <link>https://obaydakov.github.io/post/2018/python-data-science-handbook/</link>
       <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/python-data-science-handbook/</guid>
+      <guid>https://obaydakov.github.io/post/2018/python-data-science-handbook/</guid>
       <description></description>
     </item>
     
@@ -106,10 +106,10 @@ Link</description>
     
     <item>
       <title>MICE: Multivariate Imputation by Chained Equations</title>
-      <link>https://obaydakov.github.io/post/mice-multivariate-imputation-by-chained-equations/</link>
+      <link>https://obaydakov.github.io/post/2017/mice-multivariate-imputation-by-chained-equations/</link>
       <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/mice-multivariate-imputation-by-chained-equations/</guid>
+      <guid>https://obaydakov.github.io/post/2017/mice-multivariate-imputation-by-chained-equations/</guid>
       <description>Capabilities of mice package
 The mice package contains functions to
 Inspect the missing data pattern Impute the missing data mm times, resulting in mm completed data sets Diagnose the quality of the imputed values Analyze each completed data set Pool the results of the repeated analyses Store and export the imputed data in various formats Generate simulated incomplete data Incorporate custom imputation methods Choose which cells to impute
@@ -159,10 +159,10 @@ Link</description>
     
     <item>
       <title>GETTING STARTED WITH Microservices</title>
-      <link>https://obaydakov.github.io/post/getting-started-with-microservices/</link>
+      <link>https://obaydakov.github.io/post/2017/getting-started-with-microservices/</link>
       <pubDate>Mon, 06 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/getting-started-with-microservices/</guid>
+      <guid>https://obaydakov.github.io/post/2017/getting-started-with-microservices/</guid>
       <description>The term “microservices” describes a new software development style that has grown from recent trends in software development/management practices—practices meant to increase the speed and efficiency of developing and managing software solutions at scale.
 Agile methods, DevOps culture, cloud, Linux containers, and the widespread adoption (both culturally and technically) of CI/CD methods across the industry are making it possible to build truly modular largescale service-optimized systems for both internal and commercial use.</description>
     </item>

@@ -6,10 +6,19 @@
     <description>Recent content in R on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Apache MADlib</title>
+      <link>https://obaydakov.github.io/post/2018/apache-madlib/</link>
+      <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/apache-madlib/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>How to make your machine learning model available as an API with the plumber package</title>
@@ -127,10 +136,10 @@ In the October Albert Cheng published lightgbmExplainer.</description>
     
     <item>
       <title>Credit Card Fraud Detection using Autoencoders in Keras</title>
-      <link>https://obaydakov.github.io/post/credit-card-fraud-detection-using-autoencoders-in-keras/</link>
+      <link>https://obaydakov.github.io/post/2017/credit-card-fraud-detection-using-autoencoders-in-keras/</link>
       <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/credit-card-fraud-detection-using-autoencoders-in-keras/</guid>
+      <guid>https://obaydakov.github.io/post/2017/credit-card-fraud-detection-using-autoencoders-in-keras/</guid>
       <description>we will train an Autoencoder Neural Network (implemented in Keras) in unsupervised (or semi-supervised) fashion for Anomaly Detection in credit card transaction data. The trained model will be evaluated on pre-labeled and anonymized dataset.
 Link
 Github</description>
@@ -138,28 +147,28 @@ Github</description>
     
     <item>
       <title>Customer Analytics: Using Deep Learning With Keras To Predict Customer Churn</title>
-      <link>https://obaydakov.github.io/post/customer-analytics-using-deep-learning-with-keras-to-predict-customer-churn/</link>
+      <link>https://obaydakov.github.io/post/2017/customer-analytics-using-deep-learning-with-keras-to-predict-customer-churn/</link>
       <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/customer-analytics-using-deep-learning-with-keras-to-predict-customer-churn/</guid>
+      <guid>https://obaydakov.github.io/post/2017/customer-analytics-using-deep-learning-with-keras-to-predict-customer-churn/</guid>
       <description>Customer churn is a problem that all companies need to monitor, especially those that depend on subscription-based revenue streams. The simple fact is that most organizations have data that can be used to target these individuals and to understand the key drivers of churn, and we now have Keras for Deep Learning available in R (Yes, in R!!), which predicted customer churn with 82% accuracy. We’re super excited for this article because we are using the new keras package to produce an Artificial Neural Network (ANN) model on the IBM Watson Telco Customer Churn Data Set!</description>
     </item>
     
     <item>
       <title>Data Science for Fraud Detection</title>
-      <link>https://obaydakov.github.io/post/data-science-for-fraud-detection/</link>
+      <link>https://obaydakov.github.io/post/2017/data-science-for-fraud-detection/</link>
       <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/data-science-for-fraud-detection/</guid>
+      <guid>https://obaydakov.github.io/post/2017/data-science-for-fraud-detection/</guid>
       <description>Fraud can be defined as “the crime of getting money by deceiving people” (Cambridge Dictionary); it is as old as humanity: whenever two parties exchange goods or conduct business, there is the potential for one party scamming the other. With an ever-increasing use of the internet for shopping, banking, filing insurance claims etc., these businesses have become targets of fraud in a whole new dimension. Fraud has become a major problem in e-commerce and a lot of resources are being invested to recognize and prevent it.</description>
     </item>
     
     <item>
       <title>MICE: Multivariate Imputation by Chained Equations</title>
-      <link>https://obaydakov.github.io/post/mice-multivariate-imputation-by-chained-equations/</link>
+      <link>https://obaydakov.github.io/post/2017/mice-multivariate-imputation-by-chained-equations/</link>
       <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/mice-multivariate-imputation-by-chained-equations/</guid>
+      <guid>https://obaydakov.github.io/post/2017/mice-multivariate-imputation-by-chained-equations/</guid>
       <description>Capabilities of mice package
 The mice package contains functions to
 Inspect the missing data pattern Impute the missing data mm times, resulting in mm completed data sets Diagnose the quality of the imputed values Analyze each completed data set Pool the results of the repeated analyses Store and export the imputed data in various formats Generate simulated incomplete data Incorporate custom imputation methods Choose which cells to impute
@@ -169,10 +178,10 @@ Handling Missing Data in R with mice</description>
     
     <item>
       <title>Visualising Flows Using Network and Sankey Diagrams in Python and R</title>
-      <link>https://obaydakov.github.io/post/visualising-flows-using-network-and-sankey-diagrams-in-python-and-r/</link>
+      <link>https://obaydakov.github.io/post/2017/visualising-flows-using-network-and-sankey-diagrams-in-python-and-r/</link>
       <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/visualising-flows-using-network-and-sankey-diagrams-in-python-and-r/</guid>
+      <guid>https://obaydakov.github.io/post/2017/visualising-flows-using-network-and-sankey-diagrams-in-python-and-r/</guid>
       <description>networkD3
 Creating Alluvial Diagram</description>
     </item>

@@ -58,10 +58,10 @@
     
     <item>
       <title>Chartmaker for data visualization</title>
-      <link>https://obaydakov.github.io/post/chartmaker-for-data-visualization/</link>
+      <link>https://obaydakov.github.io/post/2018/chartmaker-for-data-visualization/</link>
       <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/chartmaker-for-data-visualization/</guid>
+      <guid>https://obaydakov.github.io/post/2018/chartmaker-for-data-visualization/</guid>
       <description>Link</description>
     </item>
     
@@ -76,28 +76,28 @@
     
     <item>
       <title>Clustering Algorithms: On Learning, Validation, Performance</title>
-      <link>https://obaydakov.github.io/post/clustering-algorithms-on-learning-validation-performance/</link>
+      <link>https://obaydakov.github.io/post/2017/clustering-algorithms-on-learning-validation-performance/</link>
       <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/clustering-algorithms-on-learning-validation-performance/</guid>
+      <guid>https://obaydakov.github.io/post/2017/clustering-algorithms-on-learning-validation-performance/</guid>
       <description>Link</description>
     </item>
     
     <item>
       <title>Data Science for Fraud Detection</title>
-      <link>https://obaydakov.github.io/post/data-science-for-fraud-detection/</link>
+      <link>https://obaydakov.github.io/post/2017/data-science-for-fraud-detection/</link>
       <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/data-science-for-fraud-detection/</guid>
+      <guid>https://obaydakov.github.io/post/2017/data-science-for-fraud-detection/</guid>
       <description>Fraud can be defined as “the crime of getting money by deceiving people” (Cambridge Dictionary); it is as old as humanity: whenever two parties exchange goods or conduct business, there is the potential for one party scamming the other. With an ever-increasing use of the internet for shopping, banking, filing insurance claims etc., these businesses have become targets of fraud in a whole new dimension. Fraud has become a major problem in e-commerce and a lot of resources are being invested to recognize and prevent it.</description>
     </item>
     
     <item>
       <title>Visualising Flows Using Network and Sankey Diagrams in Python and R</title>
-      <link>https://obaydakov.github.io/post/visualising-flows-using-network-and-sankey-diagrams-in-python-and-r/</link>
+      <link>https://obaydakov.github.io/post/2017/visualising-flows-using-network-and-sankey-diagrams-in-python-and-r/</link>
       <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/visualising-flows-using-network-and-sankey-diagrams-in-python-and-r/</guid>
+      <guid>https://obaydakov.github.io/post/2017/visualising-flows-using-network-and-sankey-diagrams-in-python-and-r/</guid>
       <description>networkD3
 Creating Alluvial Diagram</description>
     </item>

@@ -31,10 +31,10 @@
     
     <item>
       <title>Write a Kubernetes-ready service from zero step-by-step</title>
-      <link>https://obaydakov.github.io/post/write-a-kubernetes-ready-service-from-zero-step-by-step/</link>
+      <link>https://obaydakov.github.io/post/2017/write-a-kubernetes-ready-service-from-zero-step-by-step/</link>
       <pubDate>Sat, 23 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/write-a-kubernetes-ready-service-from-zero-step-by-step/</guid>
+      <guid>https://obaydakov.github.io/post/2017/write-a-kubernetes-ready-service-from-zero-step-by-step/</guid>
       <description>English</description>
     </item>
     
@@ -49,10 +49,10 @@
     
     <item>
       <title>An Introduction To gosiris, An Actor Framework For Go</title>
-      <link>https://obaydakov.github.io/post/an-introduction-to-gosiris-an-actor-framework-for-go/</link>
+      <link>https://obaydakov.github.io/post/2017/an-introduction-to-gosiris-an-actor-framework-for-go/</link>
       <pubDate>Thu, 16 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/an-introduction-to-gosiris-an-actor-framework-for-go/</guid>
+      <guid>https://obaydakov.github.io/post/2017/an-introduction-to-gosiris-an-actor-framework-for-go/</guid>
       <description>gosiris
 gosiris is an actor framework for Go allowing local or remote communications between actors and providing runtime discoverability plus distributed tracing.
 The remote communications can be done using either an AMQP broker or Kafka. The runtime discoverability is achieved using an etcd registry and the distributed tracing is based on Zipkin.
@@ -70,10 +70,10 @@ Link</description>
     
     <item>
       <title>A Million WebSockets and Go</title>
-      <link>https://obaydakov.github.io/post/a-million-websockets-and-go/</link>
+      <link>https://obaydakov.github.io/post/2017/a-million-websockets-and-go/</link>
       <pubDate>Wed, 15 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/a-million-websockets-and-go/</guid>
+      <guid>https://obaydakov.github.io/post/2017/a-million-websockets-and-go/</guid>
       <description>This article is about how we developed the high-load WebSocket server with Go (Mail.ru).
 Link</description>
     </item>

@@ -13,10 +13,10 @@
     
     <item>
       <title>Credit Card Fraud Detection using Autoencoders in Keras</title>
-      <link>https://obaydakov.github.io/post/credit-card-fraud-detection-using-autoencoders-in-keras/</link>
+      <link>https://obaydakov.github.io/post/2017/credit-card-fraud-detection-using-autoencoders-in-keras/</link>
       <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/credit-card-fraud-detection-using-autoencoders-in-keras/</guid>
+      <guid>https://obaydakov.github.io/post/2017/credit-card-fraud-detection-using-autoencoders-in-keras/</guid>
       <description>we will train an Autoencoder Neural Network (implemented in Keras) in unsupervised (or semi-supervised) fashion for Anomaly Detection in credit card transaction data. The trained model will be evaluated on pre-labeled and anonymized dataset.
 Link
 Github</description>
@@ -24,10 +24,10 @@ Github</description>
     
     <item>
       <title>Data Science for Fraud Detection</title>
-      <link>https://obaydakov.github.io/post/data-science-for-fraud-detection/</link>
+      <link>https://obaydakov.github.io/post/2017/data-science-for-fraud-detection/</link>
       <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/data-science-for-fraud-detection/</guid>
+      <guid>https://obaydakov.github.io/post/2017/data-science-for-fraud-detection/</guid>
       <description>Fraud can be defined as “the crime of getting money by deceiving people” (Cambridge Dictionary); it is as old as humanity: whenever two parties exchange goods or conduct business, there is the potential for one party scamming the other. With an ever-increasing use of the internet for shopping, banking, filing insurance claims etc., these businesses have become targets of fraud in a whole new dimension. Fraud has become a major problem in e-commerce and a lot of resources are being invested to recognize and prevent it.</description>
     </item>
     

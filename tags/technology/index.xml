@@ -6,10 +6,28 @@
     <description>Recent content in Technology on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Apache MADlib</title>
+      <link>https://obaydakov.github.io/post/2018/apache-madlib/</link>
+      <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/apache-madlib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Realtime Serverless Web Apps with AWS</title>
+      <link>https://obaydakov.github.io/post/2018/realtime-serverless-web-apps-with-aws/</link>
+      <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/realtime-serverless-web-apps-with-aws/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>AWS AppSync - Up and Running with GraphQL in the Cloud</title>
@@ -159,10 +177,10 @@ Kubernetes and ML</description>
     
     <item>
       <title>Chartmaker for data visualization</title>
-      <link>https://obaydakov.github.io/post/chartmaker-for-data-visualization/</link>
+      <link>https://obaydakov.github.io/post/2018/chartmaker-for-data-visualization/</link>
       <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/chartmaker-for-data-visualization/</guid>
+      <guid>https://obaydakov.github.io/post/2018/chartmaker-for-data-visualization/</guid>
       <description>Link</description>
     </item>
     
@@ -307,10 +325,10 @@ Link</description>
     
     <item>
       <title>An Introduction To gosiris, An Actor Framework For Go</title>
-      <link>https://obaydakov.github.io/post/an-introduction-to-gosiris-an-actor-framework-for-go/</link>
+      <link>https://obaydakov.github.io/post/2017/an-introduction-to-gosiris-an-actor-framework-for-go/</link>
       <pubDate>Thu, 16 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/an-introduction-to-gosiris-an-actor-framework-for-go/</guid>
+      <guid>https://obaydakov.github.io/post/2017/an-introduction-to-gosiris-an-actor-framework-for-go/</guid>
       <description>gosiris
 gosiris is an actor framework for Go allowing local or remote communications between actors and providing runtime discoverability plus distributed tracing.
 The remote communications can be done using either an AMQP broker or Kafka. The runtime discoverability is achieved using an etcd registry and the distributed tracing is based on Zipkin.
@@ -328,10 +346,10 @@ Link</description>
     
     <item>
       <title>A Million WebSockets and Go</title>
-      <link>https://obaydakov.github.io/post/a-million-websockets-and-go/</link>
+      <link>https://obaydakov.github.io/post/2017/a-million-websockets-and-go/</link>
       <pubDate>Wed, 15 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/a-million-websockets-and-go/</guid>
+      <guid>https://obaydakov.github.io/post/2017/a-million-websockets-and-go/</guid>
       <description>This article is about how we developed the high-load WebSocket server with Go (Mail.ru).
 Link</description>
     </item>
@@ -379,10 +397,10 @@ Link</description>
     
     <item>
       <title>GETTING STARTED WITH Microservices</title>
-      <link>https://obaydakov.github.io/post/getting-started-with-microservices/</link>
+      <link>https://obaydakov.github.io/post/2017/getting-started-with-microservices/</link>
       <pubDate>Mon, 06 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/getting-started-with-microservices/</guid>
+      <guid>https://obaydakov.github.io/post/2017/getting-started-with-microservices/</guid>
       <description>The term “microservices” describes a new software development style that has grown from recent trends in software development/management practices—practices meant to increase the speed and efficiency of developing and managing software solutions at scale.
 Agile methods, DevOps culture, cloud, Linux containers, and the widespread adoption (both culturally and technically) of CI/CD methods across the industry are making it possible to build truly modular largescale service-optimized systems for both internal and commercial use.</description>
     </item>

@@ -13,28 +13,28 @@
     
     <item>
       <title>Clustering Algorithms: On Learning, Validation, Performance</title>
-      <link>https://obaydakov.github.io/post/clustering-algorithms-on-learning-validation-performance/</link>
+      <link>https://obaydakov.github.io/post/2017/clustering-algorithms-on-learning-validation-performance/</link>
       <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/clustering-algorithms-on-learning-validation-performance/</guid>
+      <guid>https://obaydakov.github.io/post/2017/clustering-algorithms-on-learning-validation-performance/</guid>
       <description>Link</description>
     </item>
     
     <item>
       <title>Customer Analytics: Using Deep Learning With Keras To Predict Customer Churn</title>
-      <link>https://obaydakov.github.io/post/customer-analytics-using-deep-learning-with-keras-to-predict-customer-churn/</link>
+      <link>https://obaydakov.github.io/post/2017/customer-analytics-using-deep-learning-with-keras-to-predict-customer-churn/</link>
       <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/customer-analytics-using-deep-learning-with-keras-to-predict-customer-churn/</guid>
+      <guid>https://obaydakov.github.io/post/2017/customer-analytics-using-deep-learning-with-keras-to-predict-customer-churn/</guid>
       <description>Customer churn is a problem that all companies need to monitor, especially those that depend on subscription-based revenue streams. The simple fact is that most organizations have data that can be used to target these individuals and to understand the key drivers of churn, and we now have Keras for Deep Learning available in R (Yes, in R!!), which predicted customer churn with 82% accuracy. We’re super excited for this article because we are using the new keras package to produce an Artificial Neural Network (ANN) model on the IBM Watson Telco Customer Churn Data Set!</description>
     </item>
     
     <item>
       <title>Non-standard clusterization - Growing Neural Gas</title>
-      <link>https://obaydakov.github.io/post/non-standard-clusterization-growing-neural-gas/</link>
+      <link>https://obaydakov.github.io/post/2017/non-standard-clusterization-growing-neural-gas/</link>
       <pubDate>Thu, 26 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/non-standard-clusterization-growing-neural-gas/</guid>
+      <guid>https://obaydakov.github.io/post/2017/non-standard-clusterization-growing-neural-gas/</guid>
       <description></description>
     </item>
     

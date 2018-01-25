@@ -119,10 +119,10 @@ Deep Learning with Apache MXNet</description>
     
     <item>
       <title>Customer Analytics: Using Deep Learning With Keras To Predict Customer Churn</title>
-      <link>https://obaydakov.github.io/post/customer-analytics-using-deep-learning-with-keras-to-predict-customer-churn/</link>
+      <link>https://obaydakov.github.io/post/2017/customer-analytics-using-deep-learning-with-keras-to-predict-customer-churn/</link>
       <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/customer-analytics-using-deep-learning-with-keras-to-predict-customer-churn/</guid>
+      <guid>https://obaydakov.github.io/post/2017/customer-analytics-using-deep-learning-with-keras-to-predict-customer-churn/</guid>
       <description>Customer churn is a problem that all companies need to monitor, especially those that depend on subscription-based revenue streams. The simple fact is that most organizations have data that can be used to target these individuals and to understand the key drivers of churn, and we now have Keras for Deep Learning available in R (Yes, in R!!), which predicted customer churn with 82% accuracy. We’re super excited for this article because we are using the new keras package to produce an Artificial Neural Network (ANN) model on the IBM Watson Telco Customer Churn Data Set!</description>
     </item>
     
