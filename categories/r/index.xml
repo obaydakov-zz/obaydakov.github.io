@@ -6,10 +6,40 @@
     <description>Recent content in R on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ggpubr: Publication Ready Plots</title>
+      <link>https://obaydakov.github.io/post/2018/ggpubr-publication-ready-plots/</link>
+      <pubDate>Mon, 29 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/ggpubr-publication-ready-plots/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>zeallot - Multiple, Unpacking, and Destructuring Assignment</title>
+      <link>https://obaydakov.github.io/post/2018/zeallot-multiple-unpacking-and-destructuring-assignment/</link>
+      <pubDate>Mon, 29 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/zeallot-multiple-unpacking-and-destructuring-assignment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Science Heroes Blog</title>
+      <link>https://obaydakov.github.io/post/2018/data-science-heroes-blog/</link>
+      <pubDate>Sun, 28 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/data-science-heroes-blog/</guid>
+      <description>Exploratory Data Analysis &amp;amp; Data Preparation with &amp;lsquo;funModeling&amp;rsquo;
+A comprehensive guide to connect R to Amazon Redshift
+Data discretization made easy with funModeling
+xray: The R Package to Have X Ray Vision on your Datasets</description>
+    </item>
     
     <item>
       <title>Apache MADlib</title>
