@@ -39,12 +39,30 @@
     </item>
     
     <item>
+      <title>How to build your own AlphaZero AI using Python and Keras</title>
+      <link>https://obaydakov.github.io/post/2018/how-to-build-your-own-alphazero-ai-using-python-and-keras/</link>
+      <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/how-to-build-your-own-alphazero-ai-using-python-and-keras/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>How to solve 90% of NLP problems: a step-by-step guide</title>
       <link>https://obaydakov.github.io/post/2018/how-to-solve-90-of-nlp-problems-a-step-by-step-guide/</link>
       <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/post/2018/how-to-solve-90-of-nlp-problems-a-step-by-step-guide/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>NEW R package that makes XGBoost interpretable</title>
+      <link>https://obaydakov.github.io/post/2018/new-r-package-that-makes-xgboost-interpretable/</link>
+      <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/new-r-package-that-makes-xgboost-interpretable/</guid>
+      <description>xgboostExplainer makes your XGBoost model as transparent and &amp;lsquo;white-box&amp;rsquo; as a single decision tree</description>
     </item>
     
     <item>

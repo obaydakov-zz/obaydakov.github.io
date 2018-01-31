@@ -6,10 +6,19 @@
     <description>Recent content in Algorithms on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/algorithms/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to build your own AlphaZero AI using Python and Keras</title>
+      <link>https://obaydakov.github.io/post/2018/how-to-build-your-own-alphazero-ai-using-python-and-keras/</link>
+      <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/how-to-build-your-own-alphazero-ai-using-python-and-keras/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Kalman and Bayesian Filters in Python</title>

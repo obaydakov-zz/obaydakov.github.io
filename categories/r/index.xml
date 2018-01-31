@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>NEW R package that makes XGBoost interpretable</title>
+      <link>https://obaydakov.github.io/post/2018/new-r-package-that-makes-xgboost-interpretable/</link>
+      <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/new-r-package-that-makes-xgboost-interpretable/</guid>
+      <description>xgboostExplainer makes your XGBoost model as transparent and &amp;lsquo;white-box&amp;rsquo; as a single decision tree</description>
+    </item>
+    
+    <item>
       <title>ggpubr: Publication Ready Plots</title>
       <link>https://obaydakov.github.io/post/2018/ggpubr-publication-ready-plots/</link>
       <pubDate>Mon, 29 Jan 2018 00:00:00 +0000</pubDate>
