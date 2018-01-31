@@ -6,10 +6,20 @@
     <description>Recent content in Deep Learning on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Practical Deep Learning For Coders</title>
+      <link>https://obaydakov.github.io/post/2018/practical-deep-learning-for-coders/</link>
+      <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/practical-deep-learning-for-coders/</guid>
+      <description>Course notes
+A Gentle Introduction to tmux</description>
+    </item>
     
     <item>
       <title>Paddle Paddle</title>

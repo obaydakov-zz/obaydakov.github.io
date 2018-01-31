@@ -6,10 +6,101 @@
     <description>Recent content in Posts on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Anomaly detection for writing styles</title>
+      <link>https://obaydakov.github.io/post/2018/anomaly-detection-for-writing-styles/</link>
+      <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/anomaly-detection-for-writing-styles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blockchain basics: Introduction to distributed ledgers</title>
+      <link>https://obaydakov.github.io/post/2018/blockchain-basics-introduction-to-distributed-ledgers/</link>
+      <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/blockchain-basics-introduction-to-distributed-ledgers/</guid>
+      <description>What is a distributed ledger?</description>
+    </item>
+    
+    <item>
+      <title>Bokeh vs Dash - Which is the Best Dashboard Framework for Python?</title>
+      <link>https://obaydakov.github.io/post/2018/bokeh-vs-dash-which-is-the-best-dashboard-framework-for-python/</link>
+      <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/bokeh-vs-dash-which-is-the-best-dashboard-framework-for-python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to solve 90% of NLP problems: a step-by-step guide</title>
+      <link>https://obaydakov.github.io/post/2018/how-to-solve-90-of-nlp-problems-a-step-by-step-guide/</link>
+      <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/how-to-solve-90-of-nlp-problems-a-step-by-step-guide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pipenv &amp; Virtual Environments</title>
+      <link>https://obaydakov.github.io/post/2018/pipenv-virtual-environments/</link>
+      <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/pipenv-virtual-environments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Practical Deep Learning For Coders</title>
+      <link>https://obaydakov.github.io/post/2018/practical-deep-learning-for-coders/</link>
+      <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/practical-deep-learning-for-coders/</guid>
+      <description>Course notes
+A Gentle Introduction to tmux</description>
+    </item>
+    
+    <item>
+      <title>Syncing Redshift &amp; PostgreSQL in real-time with Kafka Connect</title>
+      <link>https://obaydakov.github.io/post/2018/syncing-redshift-postgresql-in-real-time-with-kafka-connect/</link>
+      <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/syncing-redshift-postgresql-in-real-time-with-kafka-connect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Road to Streaming Graph Analysis</title>
+      <link>https://obaydakov.github.io/post/the-road-to-streaming-graph-analysis/</link>
+      <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/the-road-to-streaming-graph-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The data engineering ecosystem in 2017</title>
+      <link>https://obaydakov.github.io/post/2018/the-data-engineering-ecosystem-in-2017/</link>
+      <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/the-data-engineering-ecosystem-in-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding Feature Engineering (Part 3) — Traditional Methods for Text Data</title>
+      <link>https://obaydakov.github.io/post/2018/understanding-feature-engineering-part-3-traditional-methods-for-text-data/</link>
+      <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/understanding-feature-engineering-part-3-traditional-methods-for-text-data/</guid>
+      <description>Traditional strategies for taming unstructured, textual data</description>
+    </item>
     
     <item>
       <title>ggpubr: Publication Ready Plots</title>

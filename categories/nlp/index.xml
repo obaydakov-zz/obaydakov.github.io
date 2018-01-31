@@ -6,10 +6,37 @@
     <description>Recent content in Nlp on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/nlp/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Anomaly detection for writing styles</title>
+      <link>https://obaydakov.github.io/post/2018/anomaly-detection-for-writing-styles/</link>
+      <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/anomaly-detection-for-writing-styles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to solve 90% of NLP problems: a step-by-step guide</title>
+      <link>https://obaydakov.github.io/post/2018/how-to-solve-90-of-nlp-problems-a-step-by-step-guide/</link>
+      <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/how-to-solve-90-of-nlp-problems-a-step-by-step-guide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding Feature Engineering (Part 3) — Traditional Methods for Text Data</title>
+      <link>https://obaydakov.github.io/post/2018/understanding-feature-engineering-part-3-traditional-methods-for-text-data/</link>
+      <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/understanding-feature-engineering-part-3-traditional-methods-for-text-data/</guid>
+      <description>Traditional strategies for taming unstructured, textual data</description>
+    </item>
     
     <item>
       <title>Embed, encode, attend, predict - the new deep learning formula for state-of-the-art NLP models</title>

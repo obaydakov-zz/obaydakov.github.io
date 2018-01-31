@@ -6,10 +6,28 @@
     <description>Recent content in Python on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bokeh vs Dash - Which is the Best Dashboard Framework for Python?</title>
+      <link>https://obaydakov.github.io/post/2018/bokeh-vs-dash-which-is-the-best-dashboard-framework-for-python/</link>
+      <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/bokeh-vs-dash-which-is-the-best-dashboard-framework-for-python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pipenv &amp; Virtual Environments</title>
+      <link>https://obaydakov.github.io/post/2018/pipenv-virtual-environments/</link>
+      <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/pipenv-virtual-environments/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Wooey is a simple web interface to run command line Python scripts</title>
