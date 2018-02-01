@@ -6,10 +6,66 @@
     <description>Recent content in Posts on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CakeChat: Emotional Generative Dialog System</title>
+      <link>https://obaydakov.github.io/post/2018/cakechat-emotional-generative-dialog-system/</link>
+      <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/cakechat-emotional-generative-dialog-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cluster Analysis in R: Practical Guide</title>
+      <link>https://obaydakov.github.io/post/2018/cluster-analysis-in-r-practical-guide/</link>
+      <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/cluster-analysis-in-r-practical-guide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to make your machine learning model available as an API with the plumber package</title>
+      <link>https://obaydakov.github.io/post/2018/how-to-make-your-machine-learning-model-available-as-an-api-with-the-plumber-package/</link>
+      <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/how-to-make-your-machine-learning-model-available-as-an-api-with-the-plumber-package/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MAC FOR HACKERS How to Get Your Mac Ready for Hacking</title>
+      <link>https://obaydakov.github.io/post/2018/mac-for-hackers-how-to-get-your-mac-ready-for-hacking/</link>
+      <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/mac-for-hackers-how-to-get-your-mac-ready-for-hacking/</guid>
+      <description>Link
+In this series, I will be covering the following topics:
+ enabling full disk encryption creating encrypted disk images managing passwords with KeePassX installing iTerm2, a better Terminal using Git with local repositories setting up Homebrew, a package manager maintaining Ruby environments with RVM installing Kali Linux installing the Metasploit Framework organizing your tools  </description>
+    </item>
+    
+    <item>
+      <title>Principal Component Methods in R: Practical Guide</title>
+      <link>https://obaydakov.github.io/post/2018/principal-component-methods-in-r-practical-guide/</link>
+      <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/principal-component-methods-in-r-practical-guide/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>The Matrix Calculus You Need For Deep Learning</title>
+      <link>https://obaydakov.github.io/post/2018/the-matrix-calculus-you-need-for-deep-learning/</link>
+      <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/the-matrix-calculus-you-need-for-deep-learning/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Anomaly detection for writing styles</title>

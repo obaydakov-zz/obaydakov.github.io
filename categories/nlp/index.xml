@@ -6,10 +6,19 @@
     <description>Recent content in Nlp on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/nlp/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CakeChat: Emotional Generative Dialog System</title>
+      <link>https://obaydakov.github.io/post/2018/cakechat-emotional-generative-dialog-system/</link>
+      <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/cakechat-emotional-generative-dialog-system/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Anomaly detection for writing styles</title>

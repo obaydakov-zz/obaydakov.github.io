@@ -6,10 +6,28 @@
     <description>Recent content in R on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/r/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cluster Analysis in R: Practical Guide</title>
+      <link>https://obaydakov.github.io/post/2018/cluster-analysis-in-r-practical-guide/</link>
+      <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/cluster-analysis-in-r-practical-guide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Principal Component Methods in R: Practical Guide</title>
+      <link>https://obaydakov.github.io/post/2018/principal-component-methods-in-r-practical-guide/</link>
+      <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/principal-component-methods-in-r-practical-guide/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>NEW R package that makes XGBoost interpretable</title>

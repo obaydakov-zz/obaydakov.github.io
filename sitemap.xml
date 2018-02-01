@@ -3,6 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://obaydakov.github.io/post/2018/cakechat-emotional-generative-dialog-system/</loc>
+    <lastmod>2018-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/cluster-analysis-in-r-practical-guide/</loc>
+    <lastmod>2018-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/how-to-make-your-machine-learning-model-available-as-an-api-with-the-plumber-package/</loc>
+    <lastmod>2018-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/mac-for-hackers-how-to-get-your-mac-ready-for-hacking/</loc>
+    <lastmod>2018-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/principal-component-methods-in-r-practical-guide/</loc>
+    <lastmod>2018-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/the-matrix-calculus-you-need-for-deep-learning/</loc>
+    <lastmod>2018-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://obaydakov.github.io/post/2018/anomaly-detection-for-writing-styles/</loc>
     <lastmod>2018-01-30T00:00:00+00:00</lastmod>
   </url>
@@ -1166,7 +1196,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/algorithms/</loc>
-    <lastmod>2018-01-30T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1220,13 +1250,13 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/cybersecurity/</loc>
-    <lastmod>2018-01-06T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/categories/deep-learning/</loc>
-    <lastmod>2018-01-30T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1286,13 +1316,13 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/mac-os/</loc>
-    <lastmod>2017-09-16T22:10:15+00:00</lastmod>
+    <lastmod>2018-01-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/categories/machine-learning/</loc>
-    <lastmod>2018-01-30T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1310,19 +1340,19 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/nlp/</loc>
-    <lastmod>2018-01-30T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/</loc>
-    <lastmod>2018-01-30T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/post/</loc>
-    <lastmod>2018-01-30T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1340,13 +1370,13 @@
   
   <url>
     <loc>https://obaydakov.github.io/tags/r/</loc>
-    <lastmod>2018-01-30T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/categories/r/</loc>
-    <lastmod>2018-01-30T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1376,7 +1406,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/tags/technology/</loc>
-    <lastmod>2018-01-30T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

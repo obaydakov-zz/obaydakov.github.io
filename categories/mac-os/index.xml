@@ -6,10 +6,21 @@
     <description>Recent content in Mac Os on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Sep 2017 22:10:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/mac-os/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>MAC FOR HACKERS How to Get Your Mac Ready for Hacking</title>
+      <link>https://obaydakov.github.io/post/2018/mac-for-hackers-how-to-get-your-mac-ready-for-hacking/</link>
+      <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/mac-for-hackers-how-to-get-your-mac-ready-for-hacking/</guid>
+      <description>Link
+In this series, I will be covering the following topics:
+ enabling full disk encryption creating encrypted disk images managing passwords with KeePassX installing iTerm2, a better Terminal using Git with local repositories setting up Homebrew, a package manager maintaining Ruby environments with RVM installing Kali Linux installing the Metasploit Framework organizing your tools  </description>
+    </item>
     
     <item>
       <title>Mac OS X Setup Guide</title>
