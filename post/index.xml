@@ -6,10 +6,28 @@
     <description>Recent content in Posts on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 31 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The drake R package</title>
+      <link>https://obaydakov.github.io/post/2018/the-drake-r-package/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/the-drake-r-package/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Best Hacking Tools Of 2017 For Windows, Linux, And OS X</title>
+      <link>https://obaydakov.github.io/post/2018/best-hacking-tools-of-2017-for-windows-linux-and-os-x/</link>
+      <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/best-hacking-tools-of-2017-for-windows-linux-and-os-x/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>CakeChat: Emotional Generative Dialog System</title>
@@ -35,6 +53,15 @@
       <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/post/2018/how-to-make-your-machine-learning-model-available-as-an-api-with-the-plumber-package/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K0sasp - Haking con OS X</title>
+      <link>https://obaydakov.github.io/post/k0sasp-haking-con-os-x/</link>
+      <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/k0sasp-haking-con-os-x/</guid>
       <description></description>
     </item>
     

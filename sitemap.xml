@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://obaydakov.github.io/post/2018/the-drake-r-package/</loc>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/best-hacking-tools-of-2017-for-windows-linux-and-os-x/</loc>
+    <lastmod>2018-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://obaydakov.github.io/post/2018/cakechat-emotional-generative-dialog-system/</loc>
     <lastmod>2018-01-31T00:00:00+00:00</lastmod>
   </url>
@@ -14,6 +24,11 @@
   
   <url>
     <loc>https://obaydakov.github.io/post/2018/how-to-make-your-machine-learning-model-available-as-an-api-with-the-plumber-package/</loc>
+    <lastmod>2018-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/k0sasp-haking-con-os-x/</loc>
     <lastmod>2018-01-31T00:00:00+00:00</lastmod>
   </url>
   
@@ -1351,13 +1366,13 @@
   
   <url>
     <loc>https://obaydakov.github.io/</loc>
-    <lastmod>2018-01-31T00:00:00+00:00</lastmod>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/post/</loc>
-    <lastmod>2018-01-31T00:00:00+00:00</lastmod>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1381,7 +1396,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/r/</loc>
-    <lastmod>2018-01-31T00:00:00+00:00</lastmod>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1411,7 +1426,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/tags/technology/</loc>
-    <lastmod>2018-01-31T00:00:00+00:00</lastmod>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
