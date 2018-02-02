@@ -6,10 +6,73 @@
     <description>Recent content in R on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 31 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/r/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AWESOME R</title>
+      <link>https://obaydakov.github.io/post/2018/awesome-r/</link>
+      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/awesome-r/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Connecting to SQl Sever on shinyapps.io</title>
+      <link>https://obaydakov.github.io/post/2018/connecting-to-sql-sever-on-shinyapps-io/</link>
+      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/connecting-to-sql-sever-on-shinyapps-io/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning in R: mlr Tutorial</title>
+      <link>https://obaydakov.github.io/post/2018/machine-learning-in-r-mlr-tutorial/</link>
+      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/machine-learning-in-r-mlr-tutorial/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Opinionated stacks of ready-to-run Jupyter applications in Docker</title>
+      <link>https://obaydakov.github.io/post/2018/opinionated-stacks-of-ready-to-run-jupyter-applications-in-docker/</link>
+      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/opinionated-stacks-of-ready-to-run-jupyter-applications-in-docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R как спасательный круг для системного администратора</title>
+      <link>https://obaydakov.github.io/post/2018/r-%D0%BA%D0%B0%D0%BA-%D1%81%D0%BF%D0%B0%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%BA%D1%80%D1%83%D0%B3-%D0%B4%D0%BB%D1%8F-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B0/</link>
+      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/r-%D0%BA%D0%B0%D0%BA-%D1%81%D0%BF%D0%B0%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%BA%D1%80%D1%83%D0%B3-%D0%B4%D0%BB%D1%8F-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using the R Software for Log File Analysis</title>
+      <link>https://obaydakov.github.io/post/2018/using-the-r-software-for-log-file-analysis/</link>
+      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/using-the-r-software-for-log-file-analysis/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>sparklyr 0.7</title>
+      <link>https://obaydakov.github.io/post/2018/sparklyr-0-7/</link>
+      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/sparklyr-0-7/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Cluster Analysis in R: Practical Guide</title>

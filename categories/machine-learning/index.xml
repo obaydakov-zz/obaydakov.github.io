@@ -6,10 +6,19 @@
     <description>Recent content in Machine Learning on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 31 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Machine Learning in R: mlr Tutorial</title>
+      <link>https://obaydakov.github.io/post/2018/machine-learning-in-r-mlr-tutorial/</link>
+      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/machine-learning-in-r-mlr-tutorial/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>How to make your machine learning model available as an API with the plumber package</title>

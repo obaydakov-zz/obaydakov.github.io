@@ -6,10 +6,37 @@
     <description>Recent content in Deep Learning on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Deep learning security papers</title>
+      <link>https://obaydakov.github.io/post/2018/deep-learning-security-papers/</link>
+      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/deep-learning-security-papers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dominos, Botnets, and a little LSTM</title>
+      <link>https://obaydakov.github.io/post/dominos-botnets-and-a-little-lstm/</link>
+      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/dominos-botnets-and-a-little-lstm/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Opinionated stacks of ready-to-run Jupyter applications in Docker</title>
+      <link>https://obaydakov.github.io/post/2018/opinionated-stacks-of-ready-to-run-jupyter-applications-in-docker/</link>
+      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/opinionated-stacks-of-ready-to-run-jupyter-applications-in-docker/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Бесплатная GPU Tesla K80 для ваших экспериментов с нейросетями - Google Colaboratory</title>

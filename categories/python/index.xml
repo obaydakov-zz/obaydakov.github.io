@@ -6,10 +6,74 @@
     <description>Recent content in Python on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Automating OSINT</title>
+      <link>https://obaydakov.github.io/post/2018/automating-osint/</link>
+      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/automating-osint/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>BigSnarf blog</title>
+      <link>https://obaydakov.github.io/post/2018/bigsnarf-blog/</link>
+      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/bigsnarf-blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Examples of using IPython, Pandas, and Scikit Learn to get the most out of your security data.</title>
+      <link>https://obaydakov.github.io/post/2018/examples-of-using-ipython-pandas-and-scikit-learn-to-get-the-most-out-of-your-security-data/</link>
+      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/examples-of-using-ipython-pandas-and-scikit-learn-to-get-the-most-out-of-your-security-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open-source projects and community for promotion of Data Science and Machine Learning in Information Security</title>
+      <link>https://obaydakov.github.io/post/2018/open-source-projects-and-community-for-promotion-of-data-science-and-machine-learning-in-information-security/</link>
+      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/open-source-projects-and-community-for-promotion-of-data-science-and-machine-learning-in-information-security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Opinionated stacks of ready-to-run Jupyter applications in Docker</title>
+      <link>https://obaydakov.github.io/post/2018/opinionated-stacks-of-ready-to-run-jupyter-applications-in-docker/</link>
+      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/opinionated-stacks-of-ready-to-run-jupyter-applications-in-docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Practical Cyborgism: Getting Started With Machine Learning for Incident Detection</title>
+      <link>https://obaydakov.github.io/post/2018/practical-cyborgism-getting-started-with-machine-learning-for-incident-detection/</link>
+      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/practical-cyborgism-getting-started-with-machine-learning-for-incident-detection/</guid>
+      <description>Toppling the Stack: Practical Outlier Detection for Threat Hunters
+Talks by David J. Bianco</description>
+    </item>
+    
+    <item>
+      <title>Visualizing Time-Dependent Graphs</title>
+      <link>https://obaydakov.github.io/post/2018/visualizing-time-dependent-graphs/</link>
+      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/visualizing-time-dependent-graphs/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Bokeh vs Dash - Which is the Best Dashboard Framework for Python?</title>

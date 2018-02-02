@@ -6,10 +6,19 @@
     <description>Recent content in Spark on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/spark/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>sparklyr 0.7</title>
+      <link>https://obaydakov.github.io/post/2018/sparklyr-0-7/</link>
+      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/sparklyr-0-7/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Spark Streaming example</title>
