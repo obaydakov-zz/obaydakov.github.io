@@ -6,10 +6,28 @@
     <description>Recent content in Automated Ml on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/automated-ml/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Comparing Machine Learning as a Service: Amazon, Microsoft Azure, Google Cloud AI</title>
+      <link>https://obaydakov.github.io/post/2018/comparing-machine-learning-as-a-service-amazon-microsoft-azure-google-cloud-ai/</link>
+      <pubDate>Sat, 03 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/comparing-machine-learning-as-a-service-amazon-microsoft-azure-google-cloud-ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TSFRESH automatically extracts 100s of features from time series</title>
+      <link>https://obaydakov.github.io/post/2018/tsfresh-automatically-extracts-100s-of-features-from-time-series/</link>
+      <pubDate>Sat, 03 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/tsfresh-automatically-extracts-100s-of-features-from-time-series/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Omphalos, Uber’s Parallel and Language-Extensible Time Series Backtesting Tool</title>
