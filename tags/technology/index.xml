@@ -6,10 +6,28 @@
     <description>Recent content in Technology on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>studio-conf - 2018</title>
+      <link>https://obaydakov.github.io/post/2018/studio-conf-2018/</link>
+      <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/studio-conf-2018/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>tfruns: Track and Visualize Training Runs - TensorFLow &#43; R</title>
+      <link>https://obaydakov.github.io/post/tfruns-track-and-visualize-training-runs-tensorflow-r/</link>
+      <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/tfruns-track-and-visualize-training-runs-tensorflow-r/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Comparing Machine Learning as a Service: Amazon, Microsoft Azure, Google Cloud AI</title>
