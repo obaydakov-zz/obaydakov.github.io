@@ -6,10 +6,20 @@
     <description>Recent content in Automated Ml on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/automated-ml/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Our new open-source framework for deploying machine learning models on Kubernetes</title>
+      <link>https://obaydakov.github.io/post/2018/our-new-open-source-framework-for-deploying-machine-learning-models-on-kubernetes/</link>
+      <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/our-new-open-source-framework-for-deploying-machine-learning-models-on-kubernetes/</guid>
+      <description>Github
+Introducing Seldon Core - Machine Learning Deployment for Kubernetes</description>
+    </item>
     
     <item>
       <title>Comparing Machine Learning as a Service: Amazon, Microsoft Azure, Google Cloud AI</title>

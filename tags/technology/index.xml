@@ -6,10 +6,42 @@
     <description>Recent content in Technology on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Creating a server-less Telegram bot with AWS Lambda and AWS API Gateway</title>
+      <link>https://obaydakov.github.io/post/creating-a-server-less-telegram-bot-with-aws-lambda-and-aws-api-gateway/</link>
+      <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/creating-a-server-less-telegram-bot-with-aws-lambda-and-aws-api-gateway/</guid>
+      <description>Building a Serverless Chatbot w/ AWS, Zappa, Telegram, and api.ai
+Telegram Bot using AWS API Gateway and AWS Lamda
+Creating Serverless Functions with Python and AWS Lambda
+Serverless Telegram bot on AWS Lambda
+I built a serverless Telegram bot over the weekend. Here’s what I learned.</description>
+    </item>
+    
+    <item>
+      <title>Zappa - Serverless Python</title>
+      <link>https://obaydakov.github.io/post/zappa-serverless-python/</link>
+      <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/zappa-serverless-python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our new open-source framework for deploying machine learning models on Kubernetes</title>
+      <link>https://obaydakov.github.io/post/2018/our-new-open-source-framework-for-deploying-machine-learning-models-on-kubernetes/</link>
+      <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/our-new-open-source-framework-for-deploying-machine-learning-models-on-kubernetes/</guid>
+      <description>Github
+Introducing Seldon Core - Machine Learning Deployment for Kubernetes</description>
+    </item>
     
     <item>
       <title>studio-conf - 2018</title>
