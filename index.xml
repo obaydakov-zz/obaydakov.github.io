@@ -25,6 +25,15 @@ I built a serverless Telegram bot over the weekend. Here’s what I learned.</de
     </item>
     
     <item>
+      <title>Datastream.io : Open Source Anomaly Detection</title>
+      <link>https://obaydakov.github.io/post/2018/datastream-io-open-source-anomaly-detection/</link>
+      <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/datastream-io-open-source-anomaly-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>GraphQL cheatsheet</title>
       <link>https://obaydakov.github.io/post/graphql-cheatsheet/</link>
       <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
@@ -32,6 +41,15 @@ I built a serverless Telegram bot over the weekend. Here’s what I learned.</de
       <guid>https://obaydakov.github.io/post/graphql-cheatsheet/</guid>
       <description>Link
 Golang GraphQL</description>
+    </item>
+    
+    <item>
+      <title>Observable is a better way to code</title>
+      <link>https://obaydakov.github.io/post/observable-is-a-better-way-to-code/</link>
+      <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/observable-is-a-better-way-to-code/</guid>
+      <description></description>
     </item>
     
     <item>

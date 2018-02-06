@@ -25,6 +25,15 @@ I built a serverless Telegram bot over the weekend. Here’s what I learned.</de
     </item>
     
     <item>
+      <title>Observable is a better way to code</title>
+      <link>https://obaydakov.github.io/post/observable-is-a-better-way-to-code/</link>
+      <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/observable-is-a-better-way-to-code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Zappa - Serverless Python</title>
       <link>https://obaydakov.github.io/post/zappa-serverless-python/</link>
       <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>

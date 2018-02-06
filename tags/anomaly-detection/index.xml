@@ -6,10 +6,19 @@
     <description>Recent content in Anomaly Detection on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/anomaly-detection/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Datastream.io : Open Source Anomaly Detection</title>
+      <link>https://obaydakov.github.io/post/2018/datastream-io-open-source-anomaly-detection/</link>
+      <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/datastream-io-open-source-anomaly-detection/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Anomaly detection for writing styles</title>
