@@ -6,10 +6,29 @@
     <description>Recent content in R on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Design Patterns for Machine Learning in Production</title>
+      <link>https://obaydakov.github.io/post/2018/design-patterns-for-machine-learning-in-production/</link>
+      <pubDate>Wed, 07 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/design-patterns-for-machine-learning-in-production/</guid>
+      <description>Video H2O 2017
+Slides</description>
+    </item>
+    
+    <item>
+      <title>OpenCPU - An API for Embedded Scientific Computing</title>
+      <link>https://obaydakov.github.io/post/2018/opencpu-an-api-for-embedded-scientific-computing/</link>
+      <pubDate>Wed, 07 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/opencpu-an-api-for-embedded-scientific-computing/</guid>
+      <description>Examples</description>
+    </item>
     
     <item>
       <title>studio-conf - 2018</title>
