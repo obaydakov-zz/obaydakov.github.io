@@ -6,10 +6,19 @@
     <description>Recent content in Docker on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/docker/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Debugging a Python Flask Application in a Container with Docker Compose</title>
+      <link>https://obaydakov.github.io/post/2018/debugging-a-python-flask-application-in-a-container-with-docker-compose/</link>
+      <pubDate>Wed, 07 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/debugging-a-python-flask-application-in-a-container-with-docker-compose/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Building scalable micro-services with Kubernetes, GRPC &amp; Linkerd</title>
