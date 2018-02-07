@@ -33,6 +33,11 @@
   </url>
   
   <url>
+    <loc>https://obaydakov.github.io/post/2018/scagexplorer-exploring-scatterplots-by-their-scagnostics/</loc>
+    <lastmod>2018-02-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://obaydakov.github.io/post/creating-a-server-less-telegram-bot-with-aws-lambda-and-aws-api-gateway/</loc>
     <lastmod>2018-02-06T00:00:00+00:00</lastmod>
   </url>
@@ -1623,7 +1628,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/tags/visualization/</loc>
-    <lastmod>2018-02-06T00:00:00+00:00</lastmod>
+    <lastmod>2018-02-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
