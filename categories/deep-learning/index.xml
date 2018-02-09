@@ -6,10 +6,21 @@
     <description>Recent content in Deep Learning on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Launch a GPU-backed Google Compute Engine instance and setup Tensorflow, Keras and Jupyter</title>
+      <link>https://obaydakov.github.io/post/2018/launch-a-gpu-backed-google-compute-engine-instance-and-setup-tensorflow-keras-and-jupyter/</link>
+      <pubDate>Thu, 08 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/launch-a-gpu-backed-google-compute-engine-instance-and-setup-tensorflow-keras-and-jupyter/</guid>
+      <description>Bringing the Udacity Self-Driving Car Nanodegree to Google Cloud Platform. The step-by-step guide
+Google Cloud Tutorial
+Google Cloud Tutorial Part 2 (with GPUs)</description>
+    </item>
     
     <item>
       <title>tfruns: Track and Visualize Training Runs - TensorFLow &#43; R</title>
