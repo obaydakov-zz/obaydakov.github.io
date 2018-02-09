@@ -6,10 +6,95 @@
     <description>Recent content in Posts on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AWS, SQS, Alpakka, Akka Streams – go reactive – Part 1</title>
+      <link>https://obaydakov.github.io/post/2018/aws-sqs-alpakka-akka-streams-go-reactive-part-1/</link>
+      <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/aws-sqs-alpakka-akka-streams-go-reactive-part-1/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Akka remoting minimal example</title>
+      <link>https://obaydakov.github.io/post/2018/akka-remoting-minimal-example/</link>
+      <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/akka-remoting-minimal-example/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>DataExplorer: Fast Data Exploration With Minimum Code</title>
+      <link>https://obaydakov.github.io/post/2018/dataexplorer-fast-data-exploration-with-minimum-code/</link>
+      <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/dataexplorer-fast-data-exploration-with-minimum-code/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning in Scala Part 2: Hello, Neural Net!</title>
+      <link>https://obaydakov.github.io/post/2018/deep-learning-in-scala-part-2-hello-neural-net/</link>
+      <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/deep-learning-in-scala-part-2-hello-neural-net/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Hyperparameter tuning in Cloud Machine Learning Engine using Bayesian Optimization</title>
+      <link>https://obaydakov.github.io/post/hyperparameter-tuning-in-cloud-machine-learning-engine-using-bayesian-optimization/</link>
+      <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/hyperparameter-tuning-in-cloud-machine-learning-engine-using-bayesian-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kaggle 101: Why to participate, how to participate and how to win Deep Learning Kaggle competitions</title>
+      <link>https://obaydakov.github.io/post/2018/deep-learning-box-assembly-setup-and-benchmarks/</link>
+      <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/deep-learning-box-assembly-setup-and-benchmarks/</guid>
+      <description>The $1700 great Deep Learning box: Assembly, setup and benchmarks
+Deep Learning PC Build
+Kaggle 101: Why to participate, how to participate and how to win Deep Learning Kaggle competitions</description>
+    </item>
+    
+    <item>
+      <title>Shiny tips &amp; tricks for improving your apps and solving common problems</title>
+      <link>https://obaydakov.github.io/post/2018/shiny-tips-tricks-for-improving-your-apps-and-solving-common-problems/</link>
+      <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/shiny-tips-tricks-for-improving-your-apps-and-solving-common-problems/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>TensorFlow for R</title>
+      <link>https://obaydakov.github.io/post/2018/tensorflow-for-r/</link>
+      <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/tensorflow-for-r/</guid>
+      <description>Gallery
+Examples
+R Studio Tensor Flow</description>
+    </item>
+    
+    <item>
+      <title>Tour of Akka Cluster – Eventual consistency, persistent actors, message delivery semantics</title>
+      <link>https://obaydakov.github.io/post/2018/tour-of-akka-cluster-eventual-consistency-persistent-actors-message-delivery-semantics/</link>
+      <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/tour-of-akka-cluster-eventual-consistency-persistent-actors-message-delivery-semantics/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>51 Tools for Security Analysts</title>

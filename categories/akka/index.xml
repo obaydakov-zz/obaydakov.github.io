@@ -6,10 +6,37 @@
     <description>Recent content in Akka on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/akka/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AWS, SQS, Alpakka, Akka Streams – go reactive – Part 1</title>
+      <link>https://obaydakov.github.io/post/2018/aws-sqs-alpakka-akka-streams-go-reactive-part-1/</link>
+      <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/aws-sqs-alpakka-akka-streams-go-reactive-part-1/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Akka remoting minimal example</title>
+      <link>https://obaydakov.github.io/post/2018/akka-remoting-minimal-example/</link>
+      <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/akka-remoting-minimal-example/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Tour of Akka Cluster – Eventual consistency, persistent actors, message delivery semantics</title>
+      <link>https://obaydakov.github.io/post/2018/tour-of-akka-cluster-eventual-consistency-persistent-actors-message-delivery-semantics/</link>
+      <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/tour-of-akka-cluster-eventual-consistency-persistent-actors-message-delivery-semantics/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Examples of Sources, Flow&#39;s and Sink&#39;s for Akka Streams</title>

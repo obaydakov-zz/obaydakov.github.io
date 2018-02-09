@@ -6,10 +6,19 @@
     <description>Recent content in Scala on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/scala/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Deep Learning in Scala Part 2: Hello, Neural Net!</title>
+      <link>https://obaydakov.github.io/post/2018/deep-learning-in-scala-part-2-hello-neural-net/</link>
+      <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/deep-learning-in-scala-part-2-hello-neural-net/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Spark Streaming example</title>
