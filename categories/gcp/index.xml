@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gcp on Oleg Baydakov</title>
+    <link>https://obaydakov.github.io/categories/gcp/</link>
+    <description>Recent content in Gcp on Oleg Baydakov</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://obaydakov.github.io/categories/gcp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Google Colab Free GPU Tutorial</title>
+      <link>https://obaydakov.github.io/post/2018/google-colab-free-gpu-tutorial/</link>
+      <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/google-colab-free-gpu-tutorial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

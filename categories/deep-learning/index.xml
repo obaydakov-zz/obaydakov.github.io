@@ -6,10 +6,57 @@
     <description>Recent content in Deep Learning on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning &amp; Big Data</title>
+      <link>https://obaydakov.github.io/post/2018/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data/</link>
+      <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Google Colab Free GPU Tutorial</title>
+      <link>https://obaydakov.github.io/post/2018/google-colab-free-gpu-tutorial/</link>
+      <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/google-colab-free-gpu-tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Horovod - Distributed training framework for TensorFlow</title>
+      <link>https://obaydakov.github.io/post/2018/horovod-distributed-training-framework-for-tensorflow/</link>
+      <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/horovod-distributed-training-framework-for-tensorflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pyro is a universal probabilistic programming language (PPL) written in Python </title>
+      <link>https://obaydakov.github.io/post/pyro-is-a-universal-probabilistic-programming-language-ppl-written-in-python/</link>
+      <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/pyro-is-a-universal-probabilistic-programming-language-ppl-written-in-python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>medium.com tags</title>
+      <link>https://obaydakov.github.io/post/2018/medium-com-tags/</link>
+      <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/medium-com-tags/</guid>
+      <description>Big Data
+Data Science
+Python</description>
+    </item>
     
     <item>
       <title>Deep Learning in Scala Part 2: Hello, Neural Net!</title>
@@ -28,7 +75,17 @@
       <guid>https://obaydakov.github.io/post/2018/deep-learning-box-assembly-setup-and-benchmarks/</guid>
       <description>The $1700 great Deep Learning box: Assembly, setup and benchmarks
 Deep Learning PC Build
+Build a super fast deep learning machine for under $1,000
 Kaggle 101: Why to participate, how to participate and how to win Deep Learning Kaggle competitions</description>
+    </item>
+    
+    <item>
+      <title>RStudio Cheat Sheets</title>
+      <link>https://obaydakov.github.io/post/2018/rstudio-cheat-sheets/</link>
+      <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/rstudio-cheat-sheets/</guid>
+      <description></description>
     </item>
     
     <item>

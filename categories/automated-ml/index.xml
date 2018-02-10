@@ -6,10 +6,40 @@
     <description>Recent content in Automated Ml on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/automated-ml/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>medium.com tags</title>
+      <link>https://obaydakov.github.io/post/2018/medium-com-tags/</link>
+      <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/medium-com-tags/</guid>
+      <description>Big Data
+Data Science
+Python</description>
+    </item>
+    
+    <item>
+      <title>Automated and Unmysterious Machine Learning in Cancer Detection</title>
+      <link>https://obaydakov.github.io/post/automated-and-unmysterious-machine-learning-in-cancer-detection/</link>
+      <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/automated-and-unmysterious-machine-learning-in-cancer-detection/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning Interpretability with H2O Driverless AI</title>
+      <link>https://obaydakov.github.io/post/2018/machine-learning-interpretability-with-h2o-driverless-ai/</link>
+      <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/machine-learning-interpretability-with-h2o-driverless-ai/</guid>
+      <description>Learning from Data
+H2O blog</description>
+    </item>
     
     <item>
       <title>Design Patterns for Machine Learning in Production</title>

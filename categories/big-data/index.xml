@@ -6,10 +6,39 @@
     <description>Recent content in Big Data on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/big-data/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning &amp; Big Data</title>
+      <link>https://obaydakov.github.io/post/2018/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data/</link>
+      <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Datastream.io : Open Source Anomaly Detection</title>
+      <link>https://obaydakov.github.io/post/2018/datastream-io-open-source-anomaly-detection/</link>
+      <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/datastream-io-open-source-anomaly-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>medium.com tags</title>
+      <link>https://obaydakov.github.io/post/2018/medium-com-tags/</link>
+      <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/medium-com-tags/</guid>
+      <description>Big Data
+Data Science
+Python</description>
+    </item>
     
     <item>
       <title>Launch a GPU-backed Google Compute Engine instance and setup Tensorflow, Keras and Jupyter</title>

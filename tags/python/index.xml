@@ -6,10 +6,46 @@
     <description>Recent content in Python on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning &amp; Big Data</title>
+      <link>https://obaydakov.github.io/post/2018/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data/</link>
+      <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Fsociety Hacking Tools Pack</title>
+      <link>https://obaydakov.github.io/post/2018/fsociety-hacking-tools-pack/</link>
+      <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/fsociety-hacking-tools-pack/</guid>
+      <description>A Penetration Testing Framework, you will have every script that a hacker needs</description>
+    </item>
+    
+    <item>
+      <title>Pyro is a universal probabilistic programming language (PPL) written in Python </title>
+      <link>https://obaydakov.github.io/post/pyro-is-a-universal-probabilistic-programming-language-ppl-written-in-python/</link>
+      <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/pyro-is-a-universal-probabilistic-programming-language-ppl-written-in-python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python Open Source 2018</title>
+      <link>https://obaydakov.github.io/post/2018/python-open-source-2018/</link>
+      <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/python-open-source-2018/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>H2O Driverless AI</title>

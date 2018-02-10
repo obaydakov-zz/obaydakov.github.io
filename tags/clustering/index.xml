@@ -6,10 +6,28 @@
     <description>Recent content in Clustering on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/clustering/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Automated and Unmysterious Machine Learning in Cancer Detection</title>
+      <link>https://obaydakov.github.io/post/automated-and-unmysterious-machine-learning-in-cancer-detection/</link>
+      <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/automated-and-unmysterious-machine-learning-in-cancer-detection/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Determining Optimal Number Of Clusters In Your Data</title>
+      <link>https://obaydakov.github.io/post/2018/determining-optimal-number-of-clusters-in-your-data/</link>
+      <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/determining-optimal-number-of-clusters-in-your-data/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Clustering Algorithms: On Learning, Validation, Performance</title>

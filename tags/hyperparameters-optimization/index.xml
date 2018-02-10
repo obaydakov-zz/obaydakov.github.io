@@ -6,10 +6,19 @@
     <description>Recent content in Hyperparameters Optimization on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/hyperparameters-optimization/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Gradient Boosting from scratch</title>
+      <link>https://obaydakov.github.io/post/2018/gradient-boosting-from-scratch/</link>
+      <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/gradient-boosting-from-scratch/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hyperparameter tuning in Cloud Machine Learning Engine using Bayesian Optimization</title>

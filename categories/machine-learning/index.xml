@@ -6,10 +6,37 @@
     <description>Recent content in Machine Learning on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A structured collection of tagged notes about machine learning theory and practice endowed with search infrastructure that allows users to read necessary info only.</title>
+      <link>https://obaydakov.github.io/post/2018/a-structured-collection-of-tagged-notes-about-machine-learning/</link>
+      <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/a-structured-collection-of-tagged-notes-about-machine-learning/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Gradient Boosting from scratch</title>
+      <link>https://obaydakov.github.io/post/2018/gradient-boosting-from-scratch/</link>
+      <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/gradient-boosting-from-scratch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Determining Optimal Number Of Clusters In Your Data</title>
+      <link>https://obaydakov.github.io/post/2018/determining-optimal-number-of-clusters-in-your-data/</link>
+      <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/determining-optimal-number-of-clusters-in-your-data/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Hyperparameter tuning in Cloud Machine Learning Engine using Bayesian Optimization</title>
@@ -17,6 +44,25 @@
       <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/post/hyperparameter-tuning-in-cloud-machine-learning-engine-using-bayesian-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning Interpretability with H2O Driverless AI</title>
+      <link>https://obaydakov.github.io/post/2018/machine-learning-interpretability-with-h2o-driverless-ai/</link>
+      <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/machine-learning-interpretability-with-h2o-driverless-ai/</guid>
+      <description>Learning from Data
+H2O blog</description>
+    </item>
+    
+    <item>
+      <title>RStudio Cheat Sheets</title>
+      <link>https://obaydakov.github.io/post/2018/rstudio-cheat-sheets/</link>
+      <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/rstudio-cheat-sheets/</guid>
       <description></description>
     </item>
     
