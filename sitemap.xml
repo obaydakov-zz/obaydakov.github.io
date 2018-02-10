@@ -1670,14 +1670,14 @@
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/categories/golang/</loc>
-    <lastmod>2018-02-08T00:00:00+00:00</lastmod>
+    <loc>https://obaydakov.github.io/tags/golang/</loc>
+    <lastmod>2017-12-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/tags/golang/</loc>
-    <lastmod>2017-12-15T00:00:00+00:00</lastmod>
+    <loc>https://obaydakov.github.io/categories/golang/</loc>
+    <lastmod>2018-02-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1748,19 +1748,13 @@
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/categories/python/</loc>
-    <lastmod>2018-02-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://obaydakov.github.io/tags/python/</loc>
     <lastmod>2018-02-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/categories/r/</loc>
+    <loc>https://obaydakov.github.io/categories/python/</loc>
     <lastmod>2018-02-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1772,13 +1766,19 @@
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/categories/scala/</loc>
-    <lastmod>2018-02-09T00:00:00+00:00</lastmod>
+    <loc>https://obaydakov.github.io/categories/r/</loc>
+    <lastmod>2018-02-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/tags/scala/</loc>
+    <lastmod>2018-02-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/categories/scala/</loc>
     <lastmod>2018-02-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
