@@ -6,10 +6,56 @@
     <description>Recent content in Automated Ml on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/automated-ml/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>DataRobot Python Package</title>
+      <link>https://obaydakov.github.io/post/2018/datarobot-python-package/</link>
+      <pubDate>Fri, 16 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/datarobot-python-package/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Enhancing Fraud Detection with Automated Machine Learning and Streaming Analytics</title>
+      <link>https://obaydakov.github.io/post/2018/enhancing-fraud-detection-with-automated-machine-learning-and-streaming-analytics/</link>
+      <pubDate>Fri, 16 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/enhancing-fraud-detection-with-automated-machine-learning-and-streaming-analytics/</guid>
+      <description>Video</description>
+    </item>
+    
+    <item>
+      <title>Introduction to the DataRobot R Package</title>
+      <link>https://obaydakov.github.io/post/2018/introduction-to-the-datarobot-r-package/</link>
+      <pubDate>Fri, 16 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/introduction-to-the-datarobot-r-package/</guid>
+      <description>Introduction to the DataRobot R Package
+DataRobot vignettes</description>
+    </item>
+    
+    <item>
+      <title>Predictive Analytics Today</title>
+      <link>https://obaydakov.github.io/post/2018/predictive-analytics-today/</link>
+      <pubDate>Fri, 16 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/predictive-analytics-today/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Top 30 Predictive Analytcis Software API</title>
+      <link>https://obaydakov.github.io/post/2018/top-30-predictive-analytcis-software-api/</link>
+      <pubDate>Fri, 16 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/top-30-predictive-analytcis-software-api/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Сделаем это по-быстрому: голосовой бот на Dialogflow и Voximplant</title>

@@ -6,10 +6,37 @@
     <description>Recent content in Cybersecurity on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Security Operations: защита от киберугроз в ServiceNow</title>
+      <link>https://obaydakov.github.io/post/2018/security-operations-%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B0-%D0%BE%D1%82-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D1%83%D0%B3%D1%80%D0%BE%D0%B7-%D0%B2-servicenow/</link>
+      <pubDate>Sun, 18 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/security-operations-%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B0-%D0%BE%D1%82-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D1%83%D0%B3%D1%80%D0%BE%D0%B7-%D0%B2-servicenow/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Enhancing Fraud Detection with Automated Machine Learning and Streaming Analytics</title>
+      <link>https://obaydakov.github.io/post/2018/enhancing-fraud-detection-with-automated-machine-learning-and-streaming-analytics/</link>
+      <pubDate>Fri, 16 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/enhancing-fraud-detection-with-automated-machine-learning-and-streaming-analytics/</guid>
+      <description>Video</description>
+    </item>
+    
+    <item>
+      <title>The Sysdig Container Intelligence Platform</title>
+      <link>https://obaydakov.github.io/post/2018/the-sysdig-container-intelligence-platform/</link>
+      <pubDate>Fri, 16 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/the-sysdig-container-intelligence-platform/</guid>
+      <description>Docker Security</description>
+    </item>
     
     <item>
       <title>Datastream.io : Open Source Anomaly Detection</title>

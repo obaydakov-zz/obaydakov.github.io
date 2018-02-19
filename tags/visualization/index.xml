@@ -6,10 +6,28 @@
     <description>Recent content in Visualization on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/visualization/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ggrepel Usage Examples</title>
+      <link>https://obaydakov.github.io/post/2018/ggrepel-usage-examples/</link>
+      <pubDate>Sun, 18 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/ggrepel-usage-examples/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhancing Fraud Detection with Automated Machine Learning and Streaming Analytics</title>
+      <link>https://obaydakov.github.io/post/2018/enhancing-fraud-detection-with-automated-machine-learning-and-streaming-analytics/</link>
+      <pubDate>Fri, 16 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/enhancing-fraud-detection-with-automated-machine-learning-and-streaming-analytics/</guid>
+      <description>Video</description>
+    </item>
     
     <item>
       <title>Collaboratively build, visualize, and design neural nets in browser </title>

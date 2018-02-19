@@ -6,10 +6,20 @@
     <description>Recent content in Anomaly Detection on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/anomaly-detection/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Probabilistic Programming for Anomaly Detection</title>
+      <link>https://obaydakov.github.io/post/probabilistic-programming-for-anomaly-detection/</link>
+      <pubDate>Fri, 16 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/probabilistic-programming-for-anomaly-detection/</guid>
+      <description>List
+Python Notebook</description>
+    </item>
     
     <item>
       <title>Datastream.io : Open Source Anomaly Detection</title>
