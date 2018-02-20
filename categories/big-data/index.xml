@@ -6,10 +6,19 @@
     <description>Recent content in Big Data on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/big-data/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>SQL Window Functions Tutorial for Business Analysis</title>
+      <link>https://obaydakov.github.io/post/2018/sql-window-functions-tutorial-for-business-analysis/</link>
+      <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/sql-window-functions-tutorial-for-business-analysis/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Affordable automatic deployment of Spark and HDFS with Kubernetes and Gitla CI/CD</title>
