@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Jan 2018: &#34;Top 40&#34; New Package Picks</title>
+      <link>https://obaydakov.github.io/post/2018/jan-2018-top-40-new-package-picks/</link>
+      <pubDate>Fri, 23 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/jan-2018-top-40-new-package-picks/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Descriptive mAchine Learning EXplanations (DALEX)</title>
