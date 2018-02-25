@@ -6,10 +6,55 @@
     <description>Recent content in Machine Learning on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>OutliersO3: Draws Overview of Outliers (O3) Plots</title>
+      <link>https://obaydakov.github.io/post/2018/outlierso3-draws-overview-of-outliers-o3-plots/</link>
+      <pubDate>Sat, 24 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/outlierso3-draws-overview-of-outliers-o3-plots/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shiny and scheduled data R</title>
+      <link>https://obaydakov.github.io/post/2018/shiny-and-scheduled-data-r/</link>
+      <pubDate>Sat, 24 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/shiny-and-scheduled-data-r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Working with imbalanced datasets</title>
+      <link>https://obaydakov.github.io/post/2018/working-with-imbalanced-datasets/</link>
+      <pubDate>Sat, 24 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/working-with-imbalanced-datasets/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>googleLanguageR: Call Google&#39;s &#39;Natural Language&#39; API, &#39;Cloud Translation&#39; API and &#39;Cloud Speech&#39; API</title>
+      <link>https://obaydakov.github.io/post/2018/googlelanguager-call-google-s-natural-language-api-cloud-translation-api-and-cloud-speech-api/</link>
+      <pubDate>Sat, 24 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/googlelanguager-call-google-s-natural-language-api-cloud-translation-api-and-cloud-speech-api/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>ppclust: Probabilistic and Possibilistic Cluster Analysis</title>
+      <link>https://obaydakov.github.io/post/2018/ppclust-probabilistic-and-possibilistic-cluster-analysis/</link>
+      <pubDate>Sat, 24 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/ppclust-probabilistic-and-possibilistic-cluster-analysis/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Descriptive mAchine Learning EXplanations (DALEX)</title>

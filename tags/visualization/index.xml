@@ -6,10 +6,173 @@
     <description>Recent content in Visualization on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/visualization/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A practical guide to Numero</title>
+      <link>https://obaydakov.github.io/post/a-practical-guide-to-numero/</link>
+      <pubDate>Sat, 24 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/a-practical-guide-to-numero/</guid>
+      <description>Numero v1.0.3: Implements an unsupervised statistical framework for defining subgroups in complex datasets based on visual cues Makinen et al. (2011). The vignette shows how to use the package.</description>
+    </item>
+    
+    <item>
+      <title>Enterprise-ready dashboards with Shiny and databases</title>
+      <link>https://obaydakov.github.io/post/2018/enterprise-ready-dashboards-with-shiny-and-databases/</link>
+      <pubDate>Sat, 24 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/enterprise-ready-dashboards-with-shiny-and-databases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Getting Started with SigmaNet</title>
+      <link>https://obaydakov.github.io/post/2018/getting-started-with-sigmanet/</link>
+      <pubDate>Sat, 24 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/getting-started-with-sigmanet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to ggridges</title>
+      <link>https://obaydakov.github.io/post/2018/introduction-to-ggridges/</link>
+      <pubDate>Sat, 24 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/introduction-to-ggridges/</guid>
+      <description>Package
+Gallery</description>
+    </item>
+    
+    <item>
+      <title>Overview of the egg package</title>
+      <link>https://obaydakov.github.io/post/2018/overview-of-the-egg-package/</link>
+      <pubDate>Sat, 24 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/overview-of-the-egg-package/</guid>
+      <description>Laying out multiple plots on a page</description>
+    </item>
+    
+    <item>
+      <title>RJSplot: Interactive Graphs with R</title>
+      <link>https://obaydakov.github.io/post/2018/rjsplot-interactive-graphs-with-r/</link>
+      <pubDate>Sat, 24 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/rjsplot-interactive-graphs-with-r/</guid>
+      <description>Creates interactive graphs with &amp;lsquo;R&amp;rsquo;. It joins the data analysis power of R and the visualization libraries of JavaScript in one package.
+Link
+Short Example</description>
+    </item>
+    
+    <item>
+      <title>Shiny and scheduled data R</title>
+      <link>https://obaydakov.github.io/post/2018/shiny-and-scheduled-data-r/</link>
+      <pubDate>Sat, 24 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/shiny-and-scheduled-data-r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>billboarder: Create Interactive Chart with the JavaScript &#39;Billboard&#39; Library</title>
+      <link>https://obaydakov.github.io/post/2018/billboarder-create-interactive-chart-with-the-javascript-billboard-library/</link>
+      <pubDate>Sat, 24 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/billboarder-create-interactive-chart-with-the-javascript-billboard-library/</guid>
+      <description>Provides an &amp;lsquo;htmlwidgets&amp;rsquo; interface to &amp;lsquo;billboard.js&amp;rsquo;, a re-usable easy interface JavaScript chart library, based on D3 v4+. Chart types include line charts, scatterplots, bar/lollipop charts, histogram/density plots, pie/donut charts and gauge charts. All charts are interactive, and a proxy method is implemented to smoothly update a chart without rendering it again in &amp;lsquo;shiny&amp;rsquo; apps.
+
+Options - styling charts
+billboard.js</description>
+    </item>
+    
+    <item>
+      <title>cdparcoord: Top Frequency-Based Parallel Coordinates</title>
+      <link>https://obaydakov.github.io/post/2018/cdparcoord-top-frequency-based-parallel-coordinates/</link>
+      <pubDate>Sat, 24 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/cdparcoord-top-frequency-based-parallel-coordinates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ggformula: Formula Interface to the Grammar of Graphics</title>
+      <link>https://obaydakov.github.io/post/2018/ggformula-formula-interface-to-the-grammar-of-graphics/</link>
+      <pubDate>Sat, 24 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/ggformula-formula-interface-to-the-grammar-of-graphics/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>iheatmapr</title>
+      <link>https://obaydakov.github.io/post/2018/iheatmapr/</link>
+      <pubDate>Sat, 24 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/iheatmapr/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>naniar: Data Structures, Summaries, and Visualisations for Missing Data</title>
+      <link>https://obaydakov.github.io/post/2018/naniar-data-structures-summaries-and-visualisations-for-missing-data/</link>
+      <pubDate>Sat, 24 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/naniar-data-structures-summaries-and-visualisations-for-missing-data/</guid>
+      <description>Gallery
+Package</description>
+    </item>
+    
+    <item>
+      <title>otvPlots: Over Time Variable Plots</title>
+      <link>https://obaydakov.github.io/post/2018/otvplots-over-time-variable-plots/</link>
+      <pubDate>Sat, 24 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/otvplots-over-time-variable-plots/</guid>
+      <description>ReadMe
+otvPlots: Over Time Variable Plots</description>
+    </item>
+    
+    <item>
+      <title>randomForestExplainer: Explaining and Visualizing Random Forests in Terms of Variable Importance</title>
+      <link>https://obaydakov.github.io/post/2018/randomforestexplainer-explaining-and-visualizing-random-forests-in-terms-of-variable-importance/</link>
+      <pubDate>Sat, 24 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/randomforestexplainer-explaining-and-visualizing-random-forests-in-terms-of-variable-importance/</guid>
+      <description>Package</description>
+    </item>
+    
+    <item>
+      <title>sweep: Tidy Tools for Forecasting</title>
+      <link>https://obaydakov.github.io/post/2018/sweep-tidy-tools-for-forecasting/</link>
+      <pubDate>Sat, 24 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/sweep-tidy-tools-for-forecasting/</guid>
+      <description>Package</description>
+    </item>
+    
+    <item>
+      <title>tfestimators v1.5: Implements an interface to TensorFlow</title>
+      <link>https://obaydakov.github.io/post/2018/tfestimators-v1-5-implements-an-interface-to-tensorflow/</link>
+      <pubDate>Sat, 24 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/tfestimators-v1-5-implements-an-interface-to-tensorflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>treemapify: Draw Treemaps in &#39;ggplot2&#39;</title>
+      <link>https://obaydakov.github.io/post/2018/treemapify-draw-treemaps-in-ggplot2/</link>
+      <pubDate>Sat, 24 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/treemapify-draw-treemaps-in-ggplot2/</guid>
+      <description>Provides &amp;lsquo;ggplot2&amp;rsquo; geoms for drawing treemaps.
+Package
+Vignettes</description>
+    </item>
     
     <item>
       <title> R Graph Gallery</title>
