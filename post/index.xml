@@ -6,10 +6,48 @@
     <description>Recent content in Posts on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Fast-and-Frugal Decision Trees in R with FFTrees</title>
+      <link>https://obaydakov.github.io/post/2018/fast-and-frugal-decision-trees-in-r-with-fftrees/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/fast-and-frugal-decision-trees-in-r-with-fftrees/</guid>
+      <description>[]()</description>
+    </item>
+    
+    <item>
+      <title>Introducing ViewPipeSteps: Towards Observable Programming in R</title>
+      <link>https://obaydakov.github.io/post/2018/introducing-viewpipesteps-towards-observable-programming-in-r/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/introducing-viewpipesteps-towards-observable-programming-in-r/</guid>
+      <description>This was the genesis of my new package, ViewPipeSteps. The RStudio addin attempts to enhance the observability of the programming experience, particularly within the context of the tidyverse. By highlighting any pipe sequence, the addin will generate numbered View tabs, allowing you to observe all the output of your code, step-by-step
+Link
+Create tabs of View() output for each chained pipe</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning with Kaggle: Feature Engineering</title>
+      <link>https://obaydakov.github.io/post/2018/machine-learning-with-kaggle-feature-engineering/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/machine-learning-with-kaggle-feature-engineering/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Pipes in R Tutorial For Beginners</title>
+      <link>https://obaydakov.github.io/post/2018/pipes-in-r-tutorial-for-beginners/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/pipes-in-r-tutorial-for-beginners/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Ensemble Learning in R with SuperLearner</title>
