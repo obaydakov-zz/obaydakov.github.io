@@ -6,10 +6,42 @@
     <description>Recent content in Machine Learning on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Forecasting: Principles and Practice</title>
+      <link>https://obaydakov.github.io/post/2018/forecasting-principles-and-practice/</link>
+      <pubDate>Fri, 02 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/forecasting-principles-and-practice/</guid>
+      <description>fpp2: Data for &amp;ldquo;Forecasting: Principles and Practice&amp;rdquo; (2nd Edition)
+Introductory Time Series Forecasting</description>
+    </item>
+    
+    <item>
+      <title>The RecordLinkage Package: Detecting Errors in Data</title>
+      <link>https://obaydakov.github.io/post/2018/the-recordlinkage-package-detecting-errors-in-data/</link>
+      <pubDate>Fri, 02 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/the-recordlinkage-package-detecting-errors-in-data/</guid>
+      <description>Abstract Record linkage deals with detecting homonyms and mainly synonyms in data. The package RecordLinkage provides means to perform and evaluate different record linkage methods.
+A stochastic framework is implemented which calculates weights through an EM algorithm.The determination of the necessarythresholds in this model can be achieved by toolsof extreme value theory. Furthermore, machinelearning methods are utilized, including decisiontrees (rpart), bootstrap aggregating (bagging),ada boost (ada), neural nets (nnet) andsupport vector machines (svm).</description>
+    </item>
+    
+    <item>
+      <title>stream: Infrastructure for Data Stream Mining</title>
+      <link>https://obaydakov.github.io/post/2018/stream-infrastructure-for-data-stream-mining/</link>
+      <pubDate>Fri, 02 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/stream-infrastructure-for-data-stream-mining/</guid>
+      <description>A framework for data stream modeling and associated data mining tasks such as clustering and classification.
+Link
+stream - Infrastructure for Data Stream Mining - R package
+RMOA: Massive online data stream classifications with R &amp;amp; MOA</description>
+    </item>
     
     <item>
       <title>ELI5 Python library which allows to visualize and debug various ML models </title>
