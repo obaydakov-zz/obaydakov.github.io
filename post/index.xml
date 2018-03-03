@@ -6,10 +6,46 @@
     <description>Recent content in Posts on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Awesome ETL</title>
+      <link>https://obaydakov.github.io/post/2018/awesome-etl/</link>
+      <pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/awesome-etl/</guid>
+      <description>A curated list of notable ETL (extract, transform, load) frameworks, libraries and software.</description>
+    </item>
+    
+    <item>
+      <title>Awesome Pipeline</title>
+      <link>https://obaydakov.github.io/post/2018/awesome-pipeline/</link>
+      <pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/awesome-pipeline/</guid>
+      <description>A curated list of awesome pipeline toolkits</description>
+    </item>
+    
+    <item>
+      <title>Awesome Streaming</title>
+      <link>https://obaydakov.github.io/post/2018/awesome-streaming/</link>
+      <pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/awesome-streaming/</guid>
+      <description>A curated list of awesome streaming (stream processing) frameworks, applications, readings and other resources</description>
+    </item>
+    
+    <item>
+      <title>Curated list of awesome lists</title>
+      <link>https://obaydakov.github.io/post/2018/curated-list-of-awesome-lists/</link>
+      <pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/curated-list-of-awesome-lists/</guid>
+      <description>Curated list of awesome lists</description>
+    </item>
     
     <item>
       <title>Forecasting: Principles and Practice</title>
