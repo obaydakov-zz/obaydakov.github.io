@@ -6,10 +6,20 @@
     <description>Recent content in Big Data on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/big-data/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Running Apache Spark on Nomad</title>
+      <link>https://obaydakov.github.io/post/2018/running-apache-spark-on-nomad/</link>
+      <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/running-apache-spark-on-nomad/</guid>
+      <description>Nomad is well-suited for analytical workloads, given its performance characteristics and first-class support for batch scheduling. Apache Spark is a popular data processing engine/framework that has been architected to use third-party schedulers.
+The Nomad ecosystem includes a fork of Apache Spark that natively integrates Nomad as a cluster manager and scheduler for Spark. When running on Nomad, the Spark executors that run Spark tasks for your application, and optionally the application driver itself, run as Nomad tasks in a Nomad job.</description>
+    </item>
     
     <item>
       <title>Scala Machine Learning Projects</title>

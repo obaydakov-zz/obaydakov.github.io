@@ -6,10 +6,28 @@
     <description>Recent content in Automated Ml on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/automated-ml/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Autostacker: A Compositional Evolutionary Learning System</title>
+      <link>https://obaydakov.github.io/post/2018/autostacker-a-compositional-evolutionary-learning-system/</link>
+      <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/autostacker-a-compositional-evolutionary-learning-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skymind Intelligence Layer</title>
+      <link>https://obaydakov.github.io/post/2018/skymind-intelligence-layer/</link>
+      <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/skymind-intelligence-layer/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Ensemble Learning in R with SuperLearner</title>
