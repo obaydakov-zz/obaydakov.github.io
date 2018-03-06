@@ -6,10 +6,19 @@
     <description>Recent content in R on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/r/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Comprehensive list of color palettes available in r</title>
+      <link>https://obaydakov.github.io/post/2018/comprehensive-list-of-color-palettes-available-in-r/</link>
+      <pubDate>Tue, 06 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/comprehensive-list-of-color-palettes-available-in-r/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Forecasting: Principles and Practice</title>
