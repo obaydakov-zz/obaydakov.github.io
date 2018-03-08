@@ -6,10 +6,28 @@
     <description>Recent content on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Iris Data Exploration &amp; Model Building</title>
+      <link>https://obaydakov.github.io/post/2018/iris-data-exploration-model-building/</link>
+      <pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/iris-data-exploration-model-building/</guid>
+      <description>List</description>
+    </item>
+    
+    <item>
+      <title>Math books</title>
+      <link>https://obaydakov.github.io/post/2018/math-books/</link>
+      <pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/math-books/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>AWESOME R</title>
