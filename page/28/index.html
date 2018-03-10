@@ -13,7 +13,7 @@
 
 
 
-<meta property="og:updated_time" content="2017-11-14T00:00:00&#43;00:00"/>
+<meta property="og:updated_time" content="2017-11-15T00:00:00&#43;00:00"/>
 
 
 
@@ -55,6 +55,24 @@
 		<div class="wrapper clearfix">
 
 	<main class="main-content list content" role="main"><article class="list__item post clearfix">
+	<div class="list__content clearfix">
+		<header class="list__header">
+			<h3 class="list__title post__title ">
+				<a href="/post/2017/handling-1-million-requests-per-minute-with-golang/" rel="bookmark">Handling 1 Million Requests per Minute with Golang</a>
+			</h3>
+			<div class="list__meta meta">
+				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
+				<time class="list__meta-date" datetime="2017-11-15T00:00:00">2017/11/15</time>
+			</div>
+		</header>
+		<div class="list__excerpt">
+			The Problem
+While working on a piece of our anonymous telemetry and analytics system, our goal was to be able to handle a large amount of POST requests from millions of endpoints. The web handler would receive a JSON document that may contain a collection of many payloads that needed to be written to Amazon S3, in order for our map-reduce systems to later operate on this data.
+Link
+		</div>
+	</div>
+</article>
+<article class="list__item post clearfix">
 	<div class="list__content clearfix">
 		<header class="list__header">
 			<h3 class="list__title post__title ">
@@ -211,22 +229,6 @@ Part 4
 		</div>
 	</div>
 </article>
-<article class="list__item post clearfix">
-	<div class="list__content clearfix">
-		<header class="list__header">
-			<h3 class="list__title post__title ">
-				<a href="/post/2017/integrating-akka-streams-and-akka-actors/" rel="bookmark">Integrating Akka Streams and Akka Actors</a>
-			</h3>
-			<div class="list__meta meta">
-				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
-				<time class="list__meta-date" datetime="2017-11-11T00:00:00">2017/11/11</time>
-			</div>
-		</header>
-		<div class="list__excerpt">
-			In the first article of this series, I demonstrated the most basic patterns for integrating Akka Actors and the Akka Streams API. In the second article, I began developing an example to show how actors compliment streams, providing fault-tolerance and life-cycle management. In the third article, I extended this example to demonstrate how actors can be used to distribute streaming workloads in an Akka cluster, as well as provide location transparency for streams.
-		</div>
-	</div>
-</article>
 
 		
 
@@ -257,6 +259,7 @@ Part 4
 	<div class="widget__content">
 		<ul class="widget__list">
 			<li class="widget__item"><a class="widget__link" href="/post/2018/100-numpy-exercises/">100 numpy exercises</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/2018/always-start-with-a-stupid-model-no-exceptions/">Always start with a stupid model, no exceptions.</a></li>
 			<li class="widget__item"><a class="widget__link" href="/post/2018/awesome-deep-learning-papers-and-other-resources/">Awesome Deep learning papers and other resources</a></li>
 			<li class="widget__item"><a class="widget__link" href="/post/2018/deploy-hugo-as-a-github-pages-project/">Deploy Hugo as a GitHub Pages project</a></li>
 			<li class="widget__item"><a class="widget__link" href="/post/scala-machine-learning-projects/">Scala Machine Learning Projects</a></li>
@@ -265,7 +268,6 @@ Part 4
 			<li class="widget__item"><a class="widget__link" href="/post/2018/awesome-r/">AWESOME R</a></li>
 			<li class="widget__item"><a class="widget__link" href="/post/2018/building-r-widgets/">Building R Widgets </a></li>
 			<li class="widget__item"><a class="widget__link" href="/post/interactive-visualization-in-r/">Interactive visualization in R</a></li>
-			<li class="widget__item"><a class="widget__link" href="/post/2018/intro-to-shiny-r-markdown-html-widgets/">Intro to Shiny, R Markdown, &amp; HTML Widgets</a></li>
 		</ul>
 	</div>
 </div>
