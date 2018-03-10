@@ -6,10 +6,19 @@
     <description>Recent content in Nlp on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 31 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/nlp/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to solve 90% of NLP problems: a step-by-step guide</title>
+      <link>https://obaydakov.github.io/post/2018/how-to-solve-90-of-nlp-problems-a-step-by-step-guide/</link>
+      <pubDate>Fri, 09 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/how-to-solve-90-of-nlp-problems-a-step-by-step-guide/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>CakeChat: Emotional Generative Dialog System</title>

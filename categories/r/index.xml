@@ -6,10 +6,21 @@
     <description>Recent content in R on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>THE TIDY TIME SERIES PLATFORM: TIBBLETIME </title>
+      <link>https://obaydakov.github.io/post/2018/the-tidy-time-series-platform-tibbletime/</link>
+      <pubDate>Fri, 09 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/the-tidy-time-series-platform-tibbletime/</guid>
+      <description>We’re happy to announce the third release of the tibbletime package. This is a huge update, mainly due to a complete rewrite of the package.
+It contains a ton of new functionality and a number of breaking changes that existing users need to be aware of.
+All of the changes have been well documented in the NEWS file, but it’s worthwhile to touch on a few of them here and discuss the future of the package.</description>
+    </item>
     
     <item>
       <title>AWESOME R</title>

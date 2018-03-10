@@ -6,10 +6,30 @@
     <description>Recent content in Math on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/math/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>P=?NP</title>
+      <link>https://obaydakov.github.io/post/2018/p-np/</link>
+      <pubDate>Sat, 10 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/p-np/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The P=NP Question and Gödel’s Lost Letter</title>
+      <link>https://obaydakov.github.io/post/2018/the-p-np-question-and-g%C3%B6del-s-lost-letter/</link>
+      <pubDate>Sat, 10 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/the-p-np-question-and-g%C3%B6del-s-lost-letter/</guid>
+      <description>A personal view of the theory of computation
+The Blog of Scott Aaronson
+P = ? NP</description>
+    </item>
     
     <item>
       <title>Math books</title>

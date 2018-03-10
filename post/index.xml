@@ -6,10 +6,30 @@
     <description>Recent content in Posts on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>P=?NP</title>
+      <link>https://obaydakov.github.io/post/2018/p-np/</link>
+      <pubDate>Sat, 10 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/p-np/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The P=NP Question and Gödel’s Lost Letter</title>
+      <link>https://obaydakov.github.io/post/2018/the-p-np-question-and-g%C3%B6del-s-lost-letter/</link>
+      <pubDate>Sat, 10 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/the-p-np-question-and-g%C3%B6del-s-lost-letter/</guid>
+      <description>A personal view of the theory of computation
+The Blog of Scott Aaronson
+P = ? NP</description>
+    </item>
     
     <item>
       <title>100 numpy exercises</title>
@@ -53,12 +73,51 @@ Updating website with Hugo and Blogdown</description>
     </item>
     
     <item>
+      <title>How to setup and structure a spark application in scala</title>
+      <link>https://obaydakov.github.io/post/2018/how-to-setup-and-structure-a-spark-application-in-scala/</link>
+      <pubDate>Fri, 09 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/how-to-setup-and-structure-a-spark-application-in-scala/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>How to solve 90% of NLP problems: a step-by-step guide</title>
+      <link>https://obaydakov.github.io/post/2018/how-to-solve-90-of-nlp-problems-a-step-by-step-guide/</link>
+      <pubDate>Fri, 09 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/how-to-solve-90-of-nlp-problems-a-step-by-step-guide/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
       <title>Scala Machine Learning Projects</title>
       <link>https://obaydakov.github.io/post/scala-machine-learning-projects/</link>
       <pubDate>Fri, 09 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/post/scala-machine-learning-projects/</guid>
       <description>Link</description>
+    </item>
+    
+    <item>
+      <title>THE TIDY TIME SERIES PLATFORM: TIBBLETIME </title>
+      <link>https://obaydakov.github.io/post/2018/the-tidy-time-series-platform-tibbletime/</link>
+      <pubDate>Fri, 09 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/the-tidy-time-series-platform-tibbletime/</guid>
+      <description>We’re happy to announce the third release of the tibbletime package. This is a huge update, mainly due to a complete rewrite of the package.
+It contains a ton of new functionality and a number of breaking changes that existing users need to be aware of.
+All of the changes have been well documented in the NEWS file, but it’s worthwhile to touch on a few of them here and discuss the future of the package.</description>
+    </item>
+    
+    <item>
+      <title>Zero to Blockchain - An IBM Redbooks course</title>
+      <link>https://obaydakov.github.io/post/2018/zero-to-blockchain-an-ibm-redbooks-course/</link>
+      <pubDate>Fri, 09 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/zero-to-blockchain-an-ibm-redbooks-course/</guid>
+      <description>Learn how to develop blockchain solutions using Hyperledger Composer on Hyperledger Fabric Version 1.0+. This 15 chapter tutorial takes you from no experience to building a complete blockchain application.
+Link</description>
     </item>
     
     <item>
