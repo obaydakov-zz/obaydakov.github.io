@@ -6,10 +6,22 @@
     <description>Recent content in Tools on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/tools/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Deploy Hugo as a GitHub Pages project</title>
+      <link>https://obaydakov.github.io/post/2018/deploy-hugo-as-a-github-pages-project/</link>
+      <pubDate>Fri, 09 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/deploy-hugo-as-a-github-pages-project/</guid>
+      <description>Link
+Setup a blog with Hugo and Github Pages
+Hosting a Hugo site on GitHub&amp;rsquo;s User Pages
+Deploy Hugo-Academic on Github Pages</description>
+    </item>
     
     <item>
       <title>Awesome ETL</title>

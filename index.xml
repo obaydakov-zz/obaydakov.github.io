@@ -30,6 +30,18 @@
     </item>
     
     <item>
+      <title>Deploy Hugo as a GitHub Pages project</title>
+      <link>https://obaydakov.github.io/post/2018/deploy-hugo-as-a-github-pages-project/</link>
+      <pubDate>Fri, 09 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/deploy-hugo-as-a-github-pages-project/</guid>
+      <description>Link
+Setup a blog with Hugo and Github Pages
+Hosting a Hugo site on GitHub&amp;rsquo;s User Pages
+Deploy Hugo-Academic on Github Pages</description>
+    </item>
+    
+    <item>
       <title>Scala Machine Learning Projects</title>
       <link>https://obaydakov.github.io/post/scala-machine-learning-projects/</link>
       <pubDate>Fri, 09 Mar 2018 00:00:00 +0000</pubDate>
