@@ -6,10 +6,19 @@
     <description>Recent content in Python on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Как быстро написать и выкатить в продакшн алгоритм машинного обучения</title>
+      <link>https://obaydakov.github.io/post/2018/%D0%BA%D0%B0%D0%BA-%D0%B1%D1%8B%D1%81%D1%82%D1%80%D0%BE-%D0%BD%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C-%D0%B8-%D0%B2%D1%8B%D0%BA%D0%B0%D1%82%D0%B8%D1%82%D1%8C-%D0%B2-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%BA%D1%88%D0%BD-%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC-%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F/</link>
+      <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/%D0%BA%D0%B0%D0%BA-%D0%B1%D1%8B%D1%81%D1%82%D1%80%D0%BE-%D0%BD%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C-%D0%B8-%D0%B2%D1%8B%D0%BA%D0%B0%D1%82%D0%B8%D1%82%D1%8C-%D0%B2-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%BA%D1%88%D0%BD-%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC-%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Открытый курс по машинному обучению</title>

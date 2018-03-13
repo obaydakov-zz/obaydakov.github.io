@@ -6,10 +6,28 @@
     <description>Recent content in Anomaly Detection on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/anomaly-detection/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Combined outlier detection with dplyr and ruler</title>
+      <link>https://obaydakov.github.io/post/2018/combined-outlier-detection-with-dplyr-and-ruler/</link>
+      <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/combined-outlier-detection-with-dplyr-and-ruler/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Compare outlier detection methods with the OutliersO3 package</title>
+      <link>https://obaydakov.github.io/post/2018/compare-outlier-detection-methods-with-the-outlierso3-package/</link>
+      <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/compare-outlier-detection-methods-with-the-outlierso3-package/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>OutliersO3: Draws Overview of Outliers (O3) Plots</title>
