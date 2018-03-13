@@ -6,10 +6,20 @@
     <description>Recent content in Kafka on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/kafka/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Big, fast, easy data with KSQL</title>
+      <link>https://obaydakov.github.io/post/2018/big-fast-easy-data-with-ksql/</link>
+      <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/big-fast-easy-data-with-ksql/</guid>
+      <description>A look at the new streaming SQL engine for Apache Kafka.
+Link</description>
+    </item>
     
     <item>
       <title>Kafka Streams API</title>
