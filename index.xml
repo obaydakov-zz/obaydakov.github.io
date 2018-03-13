@@ -30,6 +30,16 @@
     </item>
     
     <item>
+      <title>Dockerizing a Shiny App</title>
+      <link>https://obaydakov.github.io/post/2018/dockerizing-a-shiny-app/</link>
+      <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/dockerizing-a-shiny-app/</guid>
+      <description>Link
+Some Tools for Writing Shiny Apps</description>
+    </item>
+    
+    <item>
       <title>KAGGLE ENSEMBLING GUIDE</title>
       <link>https://obaydakov.github.io/post/2018/kaggle-ensembling-guide/</link>
       <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>

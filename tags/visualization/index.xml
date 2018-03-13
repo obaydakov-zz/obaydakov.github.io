@@ -6,10 +6,20 @@
     <description>Recent content in Visualization on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/visualization/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Dockerizing a Shiny App</title>
+      <link>https://obaydakov.github.io/post/2018/dockerizing-a-shiny-app/</link>
+      <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/dockerizing-a-shiny-app/</guid>
+      <description>Link
+Some Tools for Writing Shiny Apps</description>
+    </item>
     
     <item>
       <title>AWESOME R</title>
