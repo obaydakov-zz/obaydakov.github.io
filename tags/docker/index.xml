@@ -6,10 +6,46 @@
     <description>Recent content in Docker on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/docker/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Getting Started with Microservices using Go, gRPC and Kubernetes</title>
+      <link>https://obaydakov.github.io/post/2018/getting-started-with-microservices-using-go-grpc-and-kubernetes/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/getting-started-with-microservices-using-go-grpc-and-kubernetes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to Keep Your Development Environment Clean</title>
+      <link>https://obaydakov.github.io/post/2018/how-to-keep-your-development-environment-clean/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/how-to-keep-your-development-environment-clean/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Box</title>
+      <link>https://obaydakov.github.io/post/2018/machine-box/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/machine-box/</guid>
+      <description>Example with Golang</description>
+    </item>
+    
+    <item>
+      <title>Multi-Stage Docker Builds for Kubernetes</title>
+      <link>https://obaydakov.github.io/post/2018/multi-stage-docker-builds-for-kubernetes/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/multi-stage-docker-builds-for-kubernetes/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Opinionated stacks of ready-to-run Jupyter applications in Docker</title>
