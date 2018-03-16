@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>https://obaydakov.github.io/post/2018/how-to-predict-icu-mortality-with-digital-health-data-dl4j-apache-spark-and-cloudera/</loc>
+    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://obaydakov.github.io/post/2018/how-to-keep-your-development-environment-clean/</loc>
     <lastmod>2018-03-15T00:00:00+00:00</lastmod>
   </url>
@@ -24,6 +29,11 @@
   
   <url>
     <loc>https://obaydakov.github.io/post/2018/multi-stage-docker-builds-for-kubernetes/</loc>
+    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/skil-ce-a-free-machine-learning-platform/</loc>
     <lastmod>2018-03-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -2185,7 +2195,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/big-data/</loc>
-    <lastmod>2018-03-13T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
