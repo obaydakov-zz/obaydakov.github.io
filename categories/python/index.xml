@@ -6,10 +6,30 @@
     <description>Recent content in Python on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mlxtend (machine learning extensions) is a Python library of useful tools for the day-to-day data science tasks.</title>
+      <link>https://obaydakov.github.io/post/2018/mlxtend-machine-learning-extensions/</link>
+      <pubDate>Sat, 17 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/mlxtend-machine-learning-extensions/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>AI-Blocks</title>
+      <link>https://obaydakov.github.io/post/2018/ai-blocks/</link>
+      <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/ai-blocks/</guid>
+      <description>The concept of AI-Blocs is to have a simple scene with draggable objects that have scripts attached to them. The model can be run directly on the editor or be exported to a standalone script that runs on Tensorflow.
+
+Tutorial</description>
+    </item>
     
     <item>
       <title>Bitcoin price forecasting with deep learning algorithms</title>
