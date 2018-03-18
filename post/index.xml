@@ -6,10 +6,28 @@
     <description>Recent content in Posts on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>HOME caret Wiki</title>
+      <link>https://obaydakov.github.io/post/2018/home-caret-wiki/</link>
+      <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/home-caret-wiki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HOME of the R parallel</title>
+      <link>https://obaydakov.github.io/post/2018/home-of-the-r-parallel/</link>
+      <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/home-of-the-r-parallel/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Mlxtend (machine learning extensions) is a Python library of useful tools for the day-to-day data science tasks.</title>
