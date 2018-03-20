@@ -6,10 +6,19 @@
     <description>Recent content in Golang on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/golang/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Implementing gRPC service in Golang</title>
+      <link>https://obaydakov.github.io/post/2018/implementing-grpc-service-in-golang/</link>
+      <pubDate>Tue, 20 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/implementing-grpc-service-in-golang/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Build an Image Recognition API with Go and TensorFlow</title>
