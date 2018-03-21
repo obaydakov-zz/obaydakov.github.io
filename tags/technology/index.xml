@@ -12,11 +12,29 @@
     
     
     <item>
+      <title>Design Patterns for Machine Learning in Production</title>
+      <link>https://obaydakov.github.io/post/2018/design-patterns-for-machine-learning-in-production/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/design-patterns-for-machine-learning-in-production/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
       <title>First time with Kaggle: A ConvNet to classify toxic comments with Keras</title>
       <link>https://obaydakov.github.io/post/2018/first-time-with-kaggle-a-convnet-to-classify-toxic-comments-with-keras/</link>
       <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/post/2018/first-time-with-kaggle-a-convnet-to-classify-toxic-comments-with-keras/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Scala Machine Learning Projects, published by Packt</title>
+      <link>https://obaydakov.github.io/post/2018/scala-machine-learning-projects-published-by-packt/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/scala-machine-learning-projects-published-by-packt/</guid>
       <description>Link</description>
     </item>
     

@@ -23,6 +23,11 @@
   </url>
   
   <url>
+    <loc>https://obaydakov.github.io/post/2018/convolutional-neural-networks/</loc>
+    <lastmod>2018-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://obaydakov.github.io/post/2018/data-visualization-with-bokeh-in-python/</loc>
     <lastmod>2018-03-21T00:00:00+00:00</lastmod>
   </url>
@@ -38,7 +43,17 @@
   </url>
   
   <url>
+    <loc>https://obaydakov.github.io/post/2018/design-patterns-for-machine-learning-in-production/</loc>
+    <lastmod>2018-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://obaydakov.github.io/post/2018/first-time-with-kaggle-a-convnet-to-classify-toxic-comments-with-keras/</loc>
+    <lastmod>2018-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/forecasting-principles-and-practice-r/</loc>
     <lastmod>2018-03-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -68,6 +83,11 @@
   </url>
   
   <url>
+    <loc>https://obaydakov.github.io/post/2018/mathologer-youtube/</loc>
+    <lastmod>2018-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://obaydakov.github.io/post/2018/neural-machine-translation-using-seq2seq-with-keras/</loc>
     <lastmod>2018-03-21T00:00:00+00:00</lastmod>
   </url>
@@ -88,12 +108,22 @@
   </url>
   
   <url>
+    <loc>https://obaydakov.github.io/post/2018/r-markdown-notebooks-for-deep-learning-with-r/</loc>
+    <lastmod>2018-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://obaydakov.github.io/post/2018/r-code-and-reproducible-model-development-with-dvc/</loc>
     <lastmod>2018-03-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/post/2018/rstudio-code-for-udacity-s-exploratory-data-analysis-with-r-course/</loc>
+    <lastmod>2018-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/scala-machine-learning-projects-published-by-packt/</loc>
     <lastmod>2018-03-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -118,7 +148,32 @@
   </url>
   
   <url>
+    <loc>https://obaydakov.github.io/post/2018/sibscience-youtube/</loc>
+    <lastmod>2018-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-%D0%BC%D0%B0%D0%BB%D1%8B%D1%85-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/</loc>
+    <lastmod>2018-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/%D0%B3%D0%B5%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%8F-%D0%B8-%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D1%8B-%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D1%81%D0%B0%D0%B2%D0%B2%D0%B0%D1%82%D0%B5%D0%B5%D0%B2/</loc>
+    <lastmod>2018-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D1%8B%D0%B9-%D0%BA%D0%BB%D1%83%D0%B1-youtube/</loc>
+    <lastmod>2018-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://obaydakov.github.io/post/2018/%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0-%D0%B2%D0%B5%D0%B1-%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%BE%D0%B2-%D0%BD%D0%B0-golang-%D1%87%D0%B0%D1%81%D1%82%D1%8C-2/</loc>
+    <lastmod>2018-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/%D1%83%D1%80%D0%BE%D0%BA%D0%B8-%D0%B0%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%BE%D0%B3%D0%BE-%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0-%D0%B4%D0%BB%D1%8F-%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D1%85/</loc>
     <lastmod>2018-03-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -2612,7 +2667,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/math/</loc>
-    <lastmod>2018-03-10T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2672,13 +2727,13 @@
   
   <url>
     <loc>https://obaydakov.github.io/tags/scala/</loc>
-    <lastmod>2018-03-09T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/categories/scala/</loc>
-    <lastmod>2018-03-09T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2708,7 +2763,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/tools/</loc>
-    <lastmod>2018-03-20T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
