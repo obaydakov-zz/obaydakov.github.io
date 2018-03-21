@@ -28,6 +28,11 @@
   </url>
   
   <url>
+    <loc>https://obaydakov.github.io/post/2018/data-pipelines-and-versioning-with-the-pachyderm-go-client/</loc>
+    <lastmod>2018-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://obaydakov.github.io/post/2018/enigma-emulator-in-go/</loc>
     <lastmod>2018-03-20T00:00:00+00:00</lastmod>
   </url>
@@ -2318,7 +2323,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/automated-ml/</loc>
-    <lastmod>2018-03-17T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2378,7 +2383,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/tags/docker/</loc>
-    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

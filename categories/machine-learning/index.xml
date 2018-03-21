@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Data Pipelines and Versioning with the Pachyderm Go Client</title>
+      <link>https://obaydakov.github.io/post/2018/data-pipelines-and-versioning-with-the-pachyderm-go-client/</link>
+      <pubDate>Tue, 20 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/data-pipelines-and-versioning-with-the-pachyderm-go-client/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
       <title>Mlxtend (machine learning extensions) is a Python library of useful tools for the day-to-day data science tasks.</title>
       <link>https://obaydakov.github.io/post/2018/mlxtend-machine-learning-extensions/</link>
       <pubDate>Sat, 17 Mar 2018 00:00:00 +0000</pubDate>

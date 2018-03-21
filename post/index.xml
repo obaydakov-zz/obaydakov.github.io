@@ -57,6 +57,15 @@
     </item>
     
     <item>
+      <title>Data Pipelines and Versioning with the Pachyderm Go Client</title>
+      <link>https://obaydakov.github.io/post/2018/data-pipelines-and-versioning-with-the-pachyderm-go-client/</link>
+      <pubDate>Tue, 20 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/data-pipelines-and-versioning-with-the-pachyderm-go-client/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
       <title>Enigma emulator in Go</title>
       <link>https://obaydakov.github.io/post/2018/enigma-emulator-in-go/</link>
       <pubDate>Tue, 20 Mar 2018 00:00:00 +0000</pubDate>
