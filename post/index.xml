@@ -76,6 +76,15 @@ Part 2</description>
     </item>
     
     <item>
+      <title>First time with Kaggle: A ConvNet to classify toxic comments with Keras</title>
+      <link>https://obaydakov.github.io/post/2018/first-time-with-kaggle-a-convnet-to-classify-toxic-comments-with-keras/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/first-time-with-kaggle-a-convnet-to-classify-toxic-comments-with-keras/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
       <title>Gradient Descent Algorithm and Its Variants</title>
       <link>https://obaydakov.github.io/post/2018/gradient-descent-algorithm-and-its-variants/</link>
       <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
@@ -117,6 +126,15 @@ Part 2</description>
       <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/post/2018/ml-model-ensembling-with-fast-iterations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Machine Translation — Using seq2seq with Keras</title>
+      <link>https://obaydakov.github.io/post/2018/neural-machine-translation-using-seq2seq-with-keras/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/neural-machine-translation-using-seq2seq-with-keras/</guid>
       <description></description>
     </item>
     
