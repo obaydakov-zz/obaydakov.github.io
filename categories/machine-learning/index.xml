@@ -6,10 +6,19 @@
     <description>Recent content in Machine Learning on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A little bit of Machine Learning: Playing with Google&#39;s Prediction API</title>
+      <link>https://obaydakov.github.io/post/2018/a-little-bit-of-machine-learning-playing-with-google-s-prediction-api/</link>
+      <pubDate>Tue, 20 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/a-little-bit-of-machine-learning-playing-with-google-s-prediction-api/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Mlxtend (machine learning extensions) is a Python library of useful tools for the day-to-day data science tasks.</title>

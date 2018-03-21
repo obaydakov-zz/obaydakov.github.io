@@ -6,10 +6,19 @@
     <description>Recent content in Kafka on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/kafka/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Simple messaging framework using Go TCP server and Kafka</title>
+      <link>https://obaydakov.github.io/post/2018/simple-messaging-framework-using-go-tcp-server-and-kafka/</link>
+      <pubDate>Tue, 20 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/simple-messaging-framework-using-go-tcp-server-and-kafka/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Big, fast, easy data with KSQL</title>

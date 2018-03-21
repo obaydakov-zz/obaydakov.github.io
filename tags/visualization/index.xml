@@ -21,6 +21,33 @@
     </item>
     
     <item>
+      <title>Go execution tracer</title>
+      <link>https://obaydakov.github.io/post/2018/go-execution-tracer/</link>
+      <pubDate>Tue, 20 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/go-execution-tracer/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>The Go type system for newcomers</title>
+      <link>https://obaydakov.github.io/post/2018/the-go-type-system-for-newcomers/</link>
+      <pubDate>Tue, 20 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/the-go-type-system-for-newcomers/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Two ways of merging N channels in Go</title>
+      <link>https://obaydakov.github.io/post/2018/two-ways-of-merging-n-channels-in-go/</link>
+      <pubDate>Tue, 20 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/two-ways-of-merging-n-channels-in-go/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
       <title>FACETS - KNOW YOUR DATA</title>
       <link>https://obaydakov.github.io/post/2018/facets-know-your-data/</link>
       <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
