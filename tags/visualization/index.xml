@@ -6,10 +6,28 @@
     <description>Recent content in Visualization on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/visualization/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>5 Quick and Easy Data Visualizations in Python with Code</title>
+      <link>https://obaydakov.github.io/post/2018/5-quick-and-easy-data-visualizations-in-python-with-code/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/5-quick-and-easy-data-visualizations-in-python-with-code/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>RStudio code for Udacity&#39;s &#34;Exploratory Data Analysis With R&#34; course</title>
+      <link>https://obaydakov.github.io/post/2018/rstudio-code-for-udacity-s-exploratory-data-analysis-with-r-course/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/rstudio-code-for-udacity-s-exploratory-data-analysis-with-r-course/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Apache Superset</title>
@@ -87,10 +105,10 @@ Visualizing Trees | Partition + Sankey</description>
     
     <item>
       <title>Interactive visualization in R</title>
-      <link>https://obaydakov.github.io/post/interactive-visualization-in-r/</link>
+      <link>https://obaydakov.github.io/post/2018/interactive-visualization-in-r/</link>
       <pubDate>Wed, 07 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/interactive-visualization-in-r/</guid>
+      <guid>https://obaydakov.github.io/post/2018/interactive-visualization-in-r/</guid>
       <description>Link</description>
     </item>
     
@@ -180,10 +198,10 @@ Link</description>
     
     <item>
       <title>A practical guide to Numero</title>
-      <link>https://obaydakov.github.io/post/a-practical-guide-to-numero/</link>
+      <link>https://obaydakov.github.io/post/2018/a-practical-guide-to-numero/</link>
       <pubDate>Sat, 24 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/a-practical-guide-to-numero/</guid>
+      <guid>https://obaydakov.github.io/post/2018/a-practical-guide-to-numero/</guid>
       <description>Numero v1.0.3: Implements an unsupervised statistical framework for defining subgroups in complex datasets based on visual cues Makinen et al. (2011). The vignette shows how to use the package.</description>
     </item>
     
@@ -444,10 +462,10 @@ H2O 2017 Summit</description>
     
     <item>
       <title>Observable is a better way to code</title>
-      <link>https://obaydakov.github.io/post/observable-is-a-better-way-to-code/</link>
+      <link>https://obaydakov.github.io/post/2018/observable-is-a-better-way-to-code/</link>
       <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/observable-is-a-better-way-to-code/</guid>
+      <guid>https://obaydakov.github.io/post/2018/observable-is-a-better-way-to-code/</guid>
       <description></description>
     </item>
     

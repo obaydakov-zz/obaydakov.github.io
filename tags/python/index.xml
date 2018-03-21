@@ -6,10 +6,110 @@
     <description>Recent content in Python on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A step-by-step guide to get started with Applied Machine Learning</title>
+      <link>https://obaydakov.github.io/post/2018/a-step-by-step-guide-to-get-started-with-applied-machine-learning/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/a-step-by-step-guide-to-get-started-with-applied-machine-learning/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Build, Develop and Deploy a Machine Learning Model to predict cars price using Gradient Boosting</title>
+      <link>https://obaydakov.github.io/post/2018/build-develop-and-deploy-a-machine-learning-model-to-predict-cars-price-using-gradient-boosting/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/build-develop-and-deploy-a-machine-learning-model-to-predict-cars-price-using-gradient-boosting/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Data Visualization with Bokeh in Python</title>
+      <link>https://obaydakov.github.io/post/2018/data-visualization-with-bokeh-in-python/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/data-visualization-with-bokeh-in-python/</guid>
+      <description>Part 1
+Part 2</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning in Python</title>
+      <link>https://obaydakov.github.io/post/2018/deep-learning-in-python/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/deep-learning-in-python/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Gradient Descent Algorithm and Its Variants</title>
+      <link>https://obaydakov.github.io/post/2018/gradient-descent-algorithm-and-its-variants/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/gradient-descent-algorithm-and-its-variants/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to train custom Word Embeddings using GPU on AWS</title>
+      <link>https://obaydakov.github.io/post/2018/how-to-train-custom-word-embeddings-using-gpu-on-aws/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/how-to-train-custom-word-embeddings-using-gpu-on-aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kaggle Planet Competition: How to land in top 4%</title>
+      <link>https://obaydakov.github.io/post/2018/kaggle-planet-competition-how-to-land-in-top-4/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/kaggle-planet-competition-how-to-land-in-top-4/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Long Short Term Memory</title>
+      <link>https://obaydakov.github.io/post/2018/long-short-term-memory/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/long-short-term-memory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming Assignments and Lectures</title>
+      <link>https://obaydakov.github.io/post/2018/programming-assignments-and-lectures/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/programming-assignments-and-lectures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming Assignments and Lectures for Stanford&#39;s CS 224: Natural Language Processing with Deep Learning</title>
+      <link>https://obaydakov.github.io/post/2018/programming-assignments-and-lectures-for-stanford-s-cs-224-natural-language-processing-with-deep-learning/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/programming-assignments-and-lectures-for-stanford-s-cs-224-natural-language-processing-with-deep-learning/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Time Series Forecasting</title>
+      <link>https://obaydakov.github.io/post/2018/time-series-forecasting/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/time-series-forecasting/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Mlxtend (machine learning extensions) is a Python library of useful tools for the day-to-day data science tasks.</title>
@@ -125,19 +225,19 @@ Link</description>
     
     <item>
       <title>Let&#39;s learn how to develop RESTful APIs with Python and Flask</title>
-      <link>https://obaydakov.github.io/post/let-s-learn-how-to-develop-restful-apis-with-python-and-flask/</link>
+      <link>https://obaydakov.github.io/post/2018/let-s-learn-how-to-develop-restful-apis-with-python-and-flask/</link>
       <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/let-s-learn-how-to-develop-restful-apis-with-python-and-flask/</guid>
+      <guid>https://obaydakov.github.io/post/2018/let-s-learn-how-to-develop-restful-apis-with-python-and-flask/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pyro is a universal probabilistic programming language (PPL) written in Python </title>
-      <link>https://obaydakov.github.io/post/pyro-is-a-universal-probabilistic-programming-language-ppl-written-in-python/</link>
+      <link>https://obaydakov.github.io/post/2018/pyro-is-a-universal-probabilistic-programming-language-ppl-written-in-python/</link>
       <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/pyro-is-a-universal-probabilistic-programming-language-ppl-written-in-python/</guid>
+      <guid>https://obaydakov.github.io/post/2018/pyro-is-a-universal-probabilistic-programming-language-ppl-written-in-python/</guid>
       <description></description>
     </item>
     
@@ -170,10 +270,10 @@ Link</description>
     
     <item>
       <title>Creating a server-less Telegram bot with AWS Lambda and AWS API Gateway</title>
-      <link>https://obaydakov.github.io/post/creating-a-server-less-telegram-bot-with-aws-lambda-and-aws-api-gateway/</link>
+      <link>https://obaydakov.github.io/post/2018/creating-a-server-less-telegram-bot-with-aws-lambda-and-aws-api-gateway/</link>
       <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/creating-a-server-less-telegram-bot-with-aws-lambda-and-aws-api-gateway/</guid>
+      <guid>https://obaydakov.github.io/post/2018/creating-a-server-less-telegram-bot-with-aws-lambda-and-aws-api-gateway/</guid>
       <description>Building a Serverless Chatbot w/ AWS, Zappa, Telegram, and api.ai
 Telegram Bot using AWS API Gateway and AWS Lamda
 Creating Serverless Functions with Python and AWS Lambda
@@ -183,10 +283,10 @@ I built a serverless Telegram bot over the weekend. Here’s what I learned.</de
     
     <item>
       <title>Zappa - Serverless Python</title>
-      <link>https://obaydakov.github.io/post/zappa-serverless-python/</link>
+      <link>https://obaydakov.github.io/post/2018/zappa-serverless-python/</link>
       <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/zappa-serverless-python/</guid>
+      <guid>https://obaydakov.github.io/post/2018/zappa-serverless-python/</guid>
       <description></description>
     </item>
     

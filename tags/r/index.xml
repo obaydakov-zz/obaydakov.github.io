@@ -6,10 +6,37 @@
     <description>Recent content in R on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/r/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A step-by-step guide to get started with Applied Machine Learning</title>
+      <link>https://obaydakov.github.io/post/2018/a-step-by-step-guide-to-get-started-with-applied-machine-learning/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/a-step-by-step-guide-to-get-started-with-applied-machine-learning/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>R Machine Learning</title>
+      <link>https://obaydakov.github.io/post/2018/r-machine-learning/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/r-machine-learning/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>RStudio code for Udacity&#39;s &#34;Exploratory Data Analysis With R&#34; course</title>
+      <link>https://obaydakov.github.io/post/2018/rstudio-code-for-udacity-s-exploratory-data-analysis-with-r-course/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/rstudio-code-for-udacity-s-exploratory-data-analysis-with-r-course/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>HOME caret Wiki</title>
@@ -149,10 +176,10 @@ Create tabs of View() output for each chained pipe</description>
     
     <item>
       <title>A practical guide to Numero</title>
-      <link>https://obaydakov.github.io/post/a-practical-guide-to-numero/</link>
+      <link>https://obaydakov.github.io/post/2018/a-practical-guide-to-numero/</link>
       <pubDate>Sat, 24 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/a-practical-guide-to-numero/</guid>
+      <guid>https://obaydakov.github.io/post/2018/a-practical-guide-to-numero/</guid>
       <description>Numero v1.0.3: Implements an unsupervised statistical framework for defining subgroups in complex datasets based on visual cues Makinen et al. (2011). The vignette shows how to use the package.</description>
     </item>
     
@@ -504,10 +531,10 @@ R Studio Tensor Flow</description>
     
     <item>
       <title>tfruns: Track and Visualize Training Runs - TensorFLow &#43; R</title>
-      <link>https://obaydakov.github.io/post/tfruns-track-and-visualize-training-runs-tensorflow-r/</link>
+      <link>https://obaydakov.github.io/post/2018/tfruns-track-and-visualize-training-runs-tensorflow-r/</link>
       <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/tfruns-track-and-visualize-training-runs-tensorflow-r/</guid>
+      <guid>https://obaydakov.github.io/post/2018/tfruns-track-and-visualize-training-runs-tensorflow-r/</guid>
       <description></description>
     </item>
     

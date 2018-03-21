@@ -6,10 +6,19 @@
     <description>Recent content in Big Data on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/big-data/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Spark Memory Management</title>
+      <link>https://obaydakov.github.io/post/2018/spark-memory-management/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/spark-memory-management/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Go для больших данных</title>
@@ -62,10 +71,10 @@ Streaming SQL for Apache Kafka</description>
     
     <item>
       <title>Scala Machine Learning Projects</title>
-      <link>https://obaydakov.github.io/post/scala-machine-learning-projects/</link>
+      <link>https://obaydakov.github.io/post/2018/scala-machine-learning-projects/</link>
       <pubDate>Fri, 09 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/scala-machine-learning-projects/</guid>
+      <guid>https://obaydakov.github.io/post/2018/scala-machine-learning-projects/</guid>
       <description>Link</description>
     </item>
     
@@ -220,10 +229,10 @@ Google Cloud Tutorial Part 2 (with GPUs)</description>
     
     <item>
       <title>The Road to Streaming Graph Analysis</title>
-      <link>https://obaydakov.github.io/post/the-road-to-streaming-graph-analysis/</link>
+      <link>https://obaydakov.github.io/post/2018/the-road-to-streaming-graph-analysis/</link>
       <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/the-road-to-streaming-graph-analysis/</guid>
+      <guid>https://obaydakov.github.io/post/2018/the-road-to-streaming-graph-analysis/</guid>
       <description></description>
     </item>
     
