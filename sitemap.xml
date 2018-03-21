@@ -58,6 +58,11 @@
   </url>
   
   <url>
+    <loc>https://obaydakov.github.io/post/2018/ml-model-ensembling-with-fast-iterations/</loc>
+    <lastmod>2018-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://obaydakov.github.io/post/2018/programming-assignments-and-lectures/</loc>
     <lastmod>2018-03-21T00:00:00+00:00</lastmod>
   </url>
@@ -69,6 +74,11 @@
   
   <url>
     <loc>https://obaydakov.github.io/post/2018/r-machine-learning/</loc>
+    <lastmod>2018-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/r-code-and-reproducible-model-development-with-dvc/</loc>
     <lastmod>2018-03-21T00:00:00+00:00</lastmod>
   </url>
   

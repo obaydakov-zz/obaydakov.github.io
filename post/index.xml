@@ -112,6 +112,15 @@ Part 2</description>
     </item>
     
     <item>
+      <title>ML Model Ensembling with Fast Iterations</title>
+      <link>https://obaydakov.github.io/post/2018/ml-model-ensembling-with-fast-iterations/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/ml-model-ensembling-with-fast-iterations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Programming Assignments and Lectures</title>
       <link>https://obaydakov.github.io/post/2018/programming-assignments-and-lectures/</link>
       <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
@@ -135,6 +144,15 @@ Part 2</description>
       <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/post/2018/r-machine-learning/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>R code and reproducible model development with DVC</title>
+      <link>https://obaydakov.github.io/post/2018/r-code-and-reproducible-model-development-with-dvc/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/r-code-and-reproducible-model-development-with-dvc/</guid>
       <description>Link</description>
     </item>
     
