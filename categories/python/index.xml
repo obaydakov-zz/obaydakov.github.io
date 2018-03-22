@@ -58,6 +58,17 @@ Part 2</description>
     </item>
     
     <item>
+      <title>Deeplearning4j Tutorials</title>
+      <link>https://obaydakov.github.io/post/2018/deeplearning4j-tutorials/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/deeplearning4j-tutorials/</guid>
+      <description>Link
+A Scala wrapper for Deeplearning4j, inspired by Keras. Scala + DL + Spark + GPUs
+Deep Learning for Scala/Java</description>
+    </item>
+    
+    <item>
       <title>Gradient Descent Algorithm and Its Variants</title>
       <link>https://obaydakov.github.io/post/2018/gradient-descent-algorithm-and-its-variants/</link>
       <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
@@ -108,6 +119,15 @@ Part 2</description>
       <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/post/2018/programming-assignments-and-lectures-for-stanford-s-cs-224-natural-language-processing-with-deep-learning/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Sparkling Water Pipeline Productionalization¶</title>
+      <link>https://obaydakov.github.io/post/2018/sparkling-water-pipeline-productionalization/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/sparkling-water-pipeline-productionalization/</guid>
       <description>Link</description>
     </item>
     

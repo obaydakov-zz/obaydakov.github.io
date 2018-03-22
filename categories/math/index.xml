@@ -21,6 +21,17 @@
     </item>
     
     <item>
+      <title>Minigo: A minimalist Go engine modeled after AlphaGo Zero, built on MuGo</title>
+      <link>https://obaydakov.github.io/post/2018/minigo-a-minimalist-go-engine-modeled-after-alphago-zero-built-on-mugo/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/minigo-a-minimalist-go-engine-modeled-after-alphago-zero-built-on-mugo/</guid>
+      <description>Link
+How to build your own AlphaZero AI using Python and Keras
+AlphaGo Zero Explained In One Diagram</description>
+    </item>
+    
+    <item>
       <title>sibscience - youtube</title>
       <link>https://obaydakov.github.io/post/2018/sibscience-youtube/</link>
       <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>

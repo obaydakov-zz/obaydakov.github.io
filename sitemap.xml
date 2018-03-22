@@ -18,7 +18,22 @@
   </url>
   
   <url>
+    <loc>https://obaydakov.github.io/post/2018/advanced-kubernetes-course/</loc>
+    <lastmod>2018-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/apache-mxnet-a-flexible-and-efficient-library-for-deep-learning/</loc>
+    <lastmod>2018-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://obaydakov.github.io/post/2018/build-develop-and-deploy-a-machine-learning-model-to-predict-cars-price-using-gradient-boosting/</loc>
+    <lastmod>2018-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/chaincode-for-go-developers-part-1-writing-blockchain-chaincode-in-go-for-hyperledger-fabric/</loc>
     <lastmod>2018-03-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -39,6 +54,11 @@
   
   <url>
     <loc>https://obaydakov.github.io/post/2018/deep-learning-in-python/</loc>
+    <lastmod>2018-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/deeplearning4j-tutorials/</loc>
     <lastmod>2018-03-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -73,6 +93,11 @@
   </url>
   
   <url>
+    <loc>https://obaydakov.github.io/post/2018/keras-resources/</loc>
+    <lastmod>2018-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://obaydakov.github.io/post/2018/long-short-term-memory/</loc>
     <lastmod>2018-03-21T00:00:00+00:00</lastmod>
   </url>
@@ -88,7 +113,27 @@
   </url>
   
   <url>
+    <loc>https://obaydakov.github.io/post/2018/minigo-a-minimalist-go-engine-modeled-after-alphago-zero-built-on-mugo/</loc>
+    <lastmod>2018-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/monitoring-apache-spark-with-prometheus-on-kubernetes/</loc>
+    <lastmod>2018-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/new-r-package-that-makes-xgboost-interpretable/</loc>
+    <lastmod>2018-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://obaydakov.github.io/post/2018/neural-machine-translation-using-seq2seq-with-keras/</loc>
+    <lastmod>2018-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/optimization-for-deep-learning-highlights-in-2017/</loc>
     <lastmod>2018-03-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -123,6 +168,11 @@
   </url>
   
   <url>
+    <loc>https://obaydakov.github.io/post/2018/running-zeppelin-spark-notebooks-on-kubernetes/</loc>
+    <lastmod>2018-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://obaydakov.github.io/post/2018/scala-machine-learning-projects-published-by-packt/</loc>
     <lastmod>2018-03-21T00:00:00+00:00</lastmod>
   </url>
@@ -134,6 +184,11 @@
   
   <url>
     <loc>https://obaydakov.github.io/post/2018/spark-memory-management/</loc>
+    <lastmod>2018-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/sparkling-water-pipeline-productionalization/</loc>
     <lastmod>2018-03-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -2541,7 +2596,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/blockchain/</loc>
-    <lastmod>2018-03-09T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Chaincode for Go developers, Part 1, Writing Blockchain chaincode in Go for Hyperledger Fabric</title>
+      <link>https://obaydakov.github.io/post/2018/chaincode-for-go-developers-part-1-writing-blockchain-chaincode-in-go-for-hyperledger-fabric/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/chaincode-for-go-developers-part-1-writing-blockchain-chaincode-in-go-for-hyperledger-fabric/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
       <title>Self Deploying Kubernetes Applications</title>
       <link>https://obaydakov.github.io/post/2018/self-deploying-kubernetes-applications/</link>
       <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>

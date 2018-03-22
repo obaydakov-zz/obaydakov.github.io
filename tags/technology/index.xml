@@ -12,6 +12,45 @@
     
     
     <item>
+      <title>Advanced Kubernetes course</title>
+      <link>https://obaydakov.github.io/post/2018/advanced-kubernetes-course/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/advanced-kubernetes-course/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Apache MXNet A flexible and efficient library for deep learning.</title>
+      <link>https://obaydakov.github.io/post/2018/apache-mxnet-a-flexible-and-efficient-library-for-deep-learning/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/apache-mxnet-a-flexible-and-efficient-library-for-deep-learning/</guid>
+      <description>Link
+Deep Learning - The Straight Dope</description>
+    </item>
+    
+    <item>
+      <title>Chaincode for Go developers, Part 1, Writing Blockchain chaincode in Go for Hyperledger Fabric</title>
+      <link>https://obaydakov.github.io/post/2018/chaincode-for-go-developers-part-1-writing-blockchain-chaincode-in-go-for-hyperledger-fabric/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/chaincode-for-go-developers-part-1-writing-blockchain-chaincode-in-go-for-hyperledger-fabric/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Deeplearning4j Tutorials</title>
+      <link>https://obaydakov.github.io/post/2018/deeplearning4j-tutorials/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/deeplearning4j-tutorials/</guid>
+      <description>Link
+A Scala wrapper for Deeplearning4j, inspired by Keras. Scala + DL + Spark + GPUs
+Deep Learning for Scala/Java</description>
+    </item>
+    
+    <item>
       <title>Design Patterns for Machine Learning in Production</title>
       <link>https://obaydakov.github.io/post/2018/design-patterns-for-machine-learning-in-production/</link>
       <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
@@ -26,6 +65,33 @@
       <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/post/2018/first-time-with-kaggle-a-convnet-to-classify-toxic-comments-with-keras/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Keras resources</title>
+      <link>https://obaydakov.github.io/post/2018/keras-resources/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/keras-resources/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Monitoring Apache Spark with Prometheus on Kubernetes</title>
+      <link>https://obaydakov.github.io/post/2018/monitoring-apache-spark-with-prometheus-on-kubernetes/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/monitoring-apache-spark-with-prometheus-on-kubernetes/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Running Zeppelin Spark notebooks on Kubernetes</title>
+      <link>https://obaydakov.github.io/post/2018/running-zeppelin-spark-notebooks-on-kubernetes/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/running-zeppelin-spark-notebooks-on-kubernetes/</guid>
       <description>Link</description>
     </item>
     

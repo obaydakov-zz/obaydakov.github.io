@@ -30,6 +30,16 @@
     </item>
     
     <item>
+      <title>Apache MXNet A flexible and efficient library for deep learning.</title>
+      <link>https://obaydakov.github.io/post/2018/apache-mxnet-a-flexible-and-efficient-library-for-deep-learning/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/apache-mxnet-a-flexible-and-efficient-library-for-deep-learning/</guid>
+      <description>Link
+Deep Learning - The Straight Dope</description>
+    </item>
+    
+    <item>
       <title>Build, Develop and Deploy a Machine Learning Model to predict cars price using Gradient Boosting</title>
       <link>https://obaydakov.github.io/post/2018/build-develop-and-deploy-a-machine-learning-model-to-predict-cars-price-using-gradient-boosting/</link>
       <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
@@ -84,6 +94,35 @@
     </item>
     
     <item>
+      <title>Minigo: A minimalist Go engine modeled after AlphaGo Zero, built on MuGo</title>
+      <link>https://obaydakov.github.io/post/2018/minigo-a-minimalist-go-engine-modeled-after-alphago-zero-built-on-mugo/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/minigo-a-minimalist-go-engine-modeled-after-alphago-zero-built-on-mugo/</guid>
+      <description>Link
+How to build your own AlphaZero AI using Python and Keras
+AlphaGo Zero Explained In One Diagram</description>
+    </item>
+    
+    <item>
+      <title>Monitoring Apache Spark with Prometheus on Kubernetes</title>
+      <link>https://obaydakov.github.io/post/2018/monitoring-apache-spark-with-prometheus-on-kubernetes/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/monitoring-apache-spark-with-prometheus-on-kubernetes/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>NEW R package that makes XGBoost interpretable</title>
+      <link>https://obaydakov.github.io/post/2018/new-r-package-that-makes-xgboost-interpretable/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/new-r-package-that-makes-xgboost-interpretable/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
       <title>Programming Assignments and Lectures</title>
       <link>https://obaydakov.github.io/post/2018/programming-assignments-and-lectures/</link>
       <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
@@ -107,6 +146,15 @@
       <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/post/2018/rstudio-code-for-udacity-s-exploratory-data-analysis-with-r-course/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Running Zeppelin Spark notebooks on Kubernetes</title>
+      <link>https://obaydakov.github.io/post/2018/running-zeppelin-spark-notebooks-on-kubernetes/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/running-zeppelin-spark-notebooks-on-kubernetes/</guid>
       <description>Link</description>
     </item>
     

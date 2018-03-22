@@ -21,6 +21,16 @@
     </item>
     
     <item>
+      <title>Apache MXNet A flexible and efficient library for deep learning.</title>
+      <link>https://obaydakov.github.io/post/2018/apache-mxnet-a-flexible-and-efficient-library-for-deep-learning/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/apache-mxnet-a-flexible-and-efficient-library-for-deep-learning/</guid>
+      <description>Link
+Deep Learning - The Straight Dope</description>
+    </item>
+    
+    <item>
       <title>Convolutional Neural Networks</title>
       <link>https://obaydakov.github.io/post/2018/convolutional-neural-networks/</link>
       <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
@@ -49,6 +59,17 @@ Stackoverflow</description>
     </item>
     
     <item>
+      <title>Deeplearning4j Tutorials</title>
+      <link>https://obaydakov.github.io/post/2018/deeplearning4j-tutorials/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/deeplearning4j-tutorials/</guid>
+      <description>Link
+A Scala wrapper for Deeplearning4j, inspired by Keras. Scala + DL + Spark + GPUs
+Deep Learning for Scala/Java</description>
+    </item>
+    
+    <item>
       <title>First time with Kaggle: A ConvNet to classify toxic comments with Keras</title>
       <link>https://obaydakov.github.io/post/2018/first-time-with-kaggle-a-convnet-to-classify-toxic-comments-with-keras/</link>
       <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
@@ -67,6 +88,15 @@ Stackoverflow</description>
     </item>
     
     <item>
+      <title>Keras resources</title>
+      <link>https://obaydakov.github.io/post/2018/keras-resources/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/keras-resources/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
       <title>Long Short Term Memory</title>
       <link>https://obaydakov.github.io/post/2018/long-short-term-memory/</link>
       <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
@@ -81,6 +111,15 @@ Stackoverflow</description>
       <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/post/2018/neural-machine-translation-using-seq2seq-with-keras/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization for Deep Learning Highlights in 2017</title>
+      <link>https://obaydakov.github.io/post/2018/optimization-for-deep-learning-highlights-in-2017/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/optimization-for-deep-learning-highlights-in-2017/</guid>
       <description></description>
     </item>
     

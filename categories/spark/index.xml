@@ -12,6 +12,24 @@
     
     
     <item>
+      <title>Monitoring Apache Spark with Prometheus on Kubernetes</title>
+      <link>https://obaydakov.github.io/post/2018/monitoring-apache-spark-with-prometheus-on-kubernetes/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/monitoring-apache-spark-with-prometheus-on-kubernetes/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Running Zeppelin Spark notebooks on Kubernetes</title>
+      <link>https://obaydakov.github.io/post/2018/running-zeppelin-spark-notebooks-on-kubernetes/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/running-zeppelin-spark-notebooks-on-kubernetes/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
       <title>Scala Machine Learning Projects, published by Packt</title>
       <link>https://obaydakov.github.io/post/2018/scala-machine-learning-projects-published-by-packt/</link>
       <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
@@ -26,6 +44,15 @@
       <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/post/2018/spark-memory-management/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Sparkling Water Pipeline Productionalization¶</title>
+      <link>https://obaydakov.github.io/post/2018/sparkling-water-pipeline-productionalization/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/sparkling-water-pipeline-productionalization/</guid>
       <description>Link</description>
     </item>
     

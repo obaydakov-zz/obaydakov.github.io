@@ -6,10 +6,19 @@
     <description>Recent content in Blockchain on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/blockchain/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Chaincode for Go developers, Part 1, Writing Blockchain chaincode in Go for Hyperledger Fabric</title>
+      <link>https://obaydakov.github.io/post/2018/chaincode-for-go-developers-part-1-writing-blockchain-chaincode-in-go-for-hyperledger-fabric/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/chaincode-for-go-developers-part-1-writing-blockchain-chaincode-in-go-for-hyperledger-fabric/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Zero to Blockchain - An IBM Redbooks course</title>

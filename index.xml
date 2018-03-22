@@ -39,11 +39,39 @@
     </item>
     
     <item>
+      <title>Advanced Kubernetes course</title>
+      <link>https://obaydakov.github.io/post/2018/advanced-kubernetes-course/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/advanced-kubernetes-course/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Apache MXNet A flexible and efficient library for deep learning.</title>
+      <link>https://obaydakov.github.io/post/2018/apache-mxnet-a-flexible-and-efficient-library-for-deep-learning/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/apache-mxnet-a-flexible-and-efficient-library-for-deep-learning/</guid>
+      <description>Link
+Deep Learning - The Straight Dope</description>
+    </item>
+    
+    <item>
       <title>Build, Develop and Deploy a Machine Learning Model to predict cars price using Gradient Boosting</title>
       <link>https://obaydakov.github.io/post/2018/build-develop-and-deploy-a-machine-learning-model-to-predict-cars-price-using-gradient-boosting/</link>
       <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/post/2018/build-develop-and-deploy-a-machine-learning-model-to-predict-cars-price-using-gradient-boosting/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Chaincode for Go developers, Part 1, Writing Blockchain chaincode in Go for Hyperledger Fabric</title>
+      <link>https://obaydakov.github.io/post/2018/chaincode-for-go-developers-part-1-writing-blockchain-chaincode-in-go-for-hyperledger-fabric/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/chaincode-for-go-developers-part-1-writing-blockchain-chaincode-in-go-for-hyperledger-fabric/</guid>
       <description>Link</description>
     </item>
     
@@ -83,6 +111,17 @@ Part 2</description>
       
       <guid>https://obaydakov.github.io/post/2018/deep-learning-in-python/</guid>
       <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Deeplearning4j Tutorials</title>
+      <link>https://obaydakov.github.io/post/2018/deeplearning4j-tutorials/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/deeplearning4j-tutorials/</guid>
+      <description>Link
+A Scala wrapper for Deeplearning4j, inspired by Keras. Scala + DL + Spark + GPUs
+Deep Learning for Scala/Java</description>
     </item>
     
     <item>
@@ -140,6 +179,15 @@ Part 2</description>
     </item>
     
     <item>
+      <title>Keras resources</title>
+      <link>https://obaydakov.github.io/post/2018/keras-resources/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/keras-resources/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
       <title>Long Short Term Memory</title>
       <link>https://obaydakov.github.io/post/2018/long-short-term-memory/</link>
       <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
@@ -167,11 +215,49 @@ Part 2</description>
     </item>
     
     <item>
+      <title>Minigo: A minimalist Go engine modeled after AlphaGo Zero, built on MuGo</title>
+      <link>https://obaydakov.github.io/post/2018/minigo-a-minimalist-go-engine-modeled-after-alphago-zero-built-on-mugo/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/minigo-a-minimalist-go-engine-modeled-after-alphago-zero-built-on-mugo/</guid>
+      <description>Link
+How to build your own AlphaZero AI using Python and Keras
+AlphaGo Zero Explained In One Diagram</description>
+    </item>
+    
+    <item>
+      <title>Monitoring Apache Spark with Prometheus on Kubernetes</title>
+      <link>https://obaydakov.github.io/post/2018/monitoring-apache-spark-with-prometheus-on-kubernetes/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/monitoring-apache-spark-with-prometheus-on-kubernetes/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>NEW R package that makes XGBoost interpretable</title>
+      <link>https://obaydakov.github.io/post/2018/new-r-package-that-makes-xgboost-interpretable/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/new-r-package-that-makes-xgboost-interpretable/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
       <title>Neural Machine Translation — Using seq2seq with Keras</title>
       <link>https://obaydakov.github.io/post/2018/neural-machine-translation-using-seq2seq-with-keras/</link>
       <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/post/2018/neural-machine-translation-using-seq2seq-with-keras/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization for Deep Learning Highlights in 2017</title>
+      <link>https://obaydakov.github.io/post/2018/optimization-for-deep-learning-highlights-in-2017/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/optimization-for-deep-learning-highlights-in-2017/</guid>
       <description></description>
     </item>
     
@@ -230,6 +316,15 @@ Part 2</description>
     </item>
     
     <item>
+      <title>Running Zeppelin Spark notebooks on Kubernetes</title>
+      <link>https://obaydakov.github.io/post/2018/running-zeppelin-spark-notebooks-on-kubernetes/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/running-zeppelin-spark-notebooks-on-kubernetes/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
       <title>Scala Machine Learning Projects, published by Packt</title>
       <link>https://obaydakov.github.io/post/2018/scala-machine-learning-projects-published-by-packt/</link>
       <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
@@ -253,6 +348,15 @@ Part 2</description>
       <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/post/2018/spark-memory-management/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Sparkling Water Pipeline Productionalization¶</title>
+      <link>https://obaydakov.github.io/post/2018/sparkling-water-pipeline-productionalization/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/sparkling-water-pipeline-productionalization/</guid>
       <description>Link</description>
     </item>
     

@@ -40,6 +40,26 @@ Stackoverflow</description>
     </item>
     
     <item>
+      <title>Minigo: A minimalist Go engine modeled after AlphaGo Zero, built on MuGo</title>
+      <link>https://obaydakov.github.io/post/2018/minigo-a-minimalist-go-engine-modeled-after-alphago-zero-built-on-mugo/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/minigo-a-minimalist-go-engine-modeled-after-alphago-zero-built-on-mugo/</guid>
+      <description>Link
+How to build your own AlphaZero AI using Python and Keras
+AlphaGo Zero Explained In One Diagram</description>
+    </item>
+    
+    <item>
+      <title>Optimization for Deep Learning Highlights in 2017</title>
+      <link>https://obaydakov.github.io/post/2018/optimization-for-deep-learning-highlights-in-2017/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/optimization-for-deep-learning-highlights-in-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Why, How and When to apply Feature Selection</title>
       <link>https://obaydakov.github.io/post/2018/why-how-and-when-to-apply-feature-selection/</link>
       <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>

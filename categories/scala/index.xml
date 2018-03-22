@@ -12,6 +12,17 @@
     
     
     <item>
+      <title>Deeplearning4j Tutorials</title>
+      <link>https://obaydakov.github.io/post/2018/deeplearning4j-tutorials/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/deeplearning4j-tutorials/</guid>
+      <description>Link
+A Scala wrapper for Deeplearning4j, inspired by Keras. Scala + DL + Spark + GPUs
+Deep Learning for Scala/Java</description>
+    </item>
+    
+    <item>
       <title>Scala Machine Learning Projects, published by Packt</title>
       <link>https://obaydakov.github.io/post/2018/scala-machine-learning-projects-published-by-packt/</link>
       <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
