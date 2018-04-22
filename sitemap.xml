@@ -8,12 +8,22 @@
   </url>
   
   <url>
+    <loc>https://obaydakov.github.io/post/2018/caret-package-a-practical-guide-to-machine-learning-in-r/</loc>
+    <lastmod>2018-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://obaydakov.github.io/post/2018/detecting-outliers-in-time-series-ls-ao-tc-using-tsoutliers-package-in-r/</loc>
     <lastmod>2018-04-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/post/2018/developing-apps-on-kubernetes/</loc>
+    <lastmod>2018-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/diagram-and-graph-generating-library-for-akka-streams/</loc>
     <lastmod>2018-04-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -89,6 +99,11 @@
   
   <url>
     <loc>https://obaydakov.github.io/post/2018/supercharge-machine-learning/</loc>
+    <lastmod>2018-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/the-best-of-python-a-collection-of-my-favorite-articles-from-2017-and-2018/</loc>
     <lastmod>2018-04-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -2685,7 +2700,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/akka/</loc>
-    <lastmod>2018-02-09T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2739,7 +2754,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/</loc>
-    <lastmod>2018-02-09T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2961,7 +2976,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/tags/visualization/</loc>
-    <lastmod>2018-03-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

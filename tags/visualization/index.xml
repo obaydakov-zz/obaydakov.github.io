@@ -6,10 +6,19 @@
     <description>Recent content in Visualization on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/visualization/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Diagram- and graph-generating library for Akka Streams</title>
+      <link>https://obaydakov.github.io/post/2018/diagram-and-graph-generating-library-for-akka-streams/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/diagram-and-graph-generating-library-for-akka-streams/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>5 Quick and Easy Data Visualizations in Python with Code</title>

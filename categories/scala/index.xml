@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Diagram- and graph-generating library for Akka Streams</title>
+      <link>https://obaydakov.github.io/post/2018/diagram-and-graph-generating-library-for-akka-streams/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/diagram-and-graph-generating-library-for-akka-streams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Spark Dataframes transformations with state Monad</title>
       <link>https://obaydakov.github.io/post/2018/spark-dataframes-transformations-with-state-monad/</link>
       <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
