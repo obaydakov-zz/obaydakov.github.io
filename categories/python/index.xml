@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Featuretools An open source framework for automated feature engineering</title>
+      <link>https://obaydakov.github.io/post/2018/featuretools-an-open-source-framework-for-automated-feature-engineering/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/featuretools-an-open-source-framework-for-automated-feature-engineering/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
       <title>Keras Project Template</title>
       <link>https://obaydakov.github.io/post/2018/keras-project-template/</link>
       <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
@@ -30,6 +39,15 @@
     </item>
     
     <item>
+      <title>Meta model &#43; NLP example pipeline</title>
+      <link>https://obaydakov.github.io/post/2018/meta-model-nlp-example-pipeline/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/meta-model-nlp-example-pipeline/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
       <title>Microsoft Machine Learning for Apache </title>
       <link>https://obaydakov.github.io/post/2018/microsoft-machine-learning-for-apache/</link>
       <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
@@ -38,6 +56,33 @@
       <description>MMLSpark provides a number of deep learning and data science tools for Apache Spark, including seamless integration of Spark Machine Learning pipelines with Microsoft Cognitive Toolkit (CNTK) and OpenCV, enabling you to quickly create powerful, highly-scalable predictive and analytical models for large image and text datasets.
 MMLSpark requires Scala 2.11, Spark 2.1+, and either Python 2.7 or Python 3.5+. See the API documentation for Scala and for PySpark.
 Link</description>
+    </item>
+    
+    <item>
+      <title>Predictive Modeling w/ Dask, JupyterHub &amp; Kubernetes</title>
+      <link>https://obaydakov.github.io/post/2018/predictive-modeling-w-dask-jupyterhub-kubernetes/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/predictive-modeling-w-dask-jupyterhub-kubernetes/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Python &amp; Big Data: Airflow , Jupyter Notebook with Hadoop 3, Spark &amp; Presto</title>
+      <link>https://obaydakov.github.io/post/2018/python-big-data-airflow-jupyter-notebook-with-hadoop-3-spark-presto/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/python-big-data-airflow-jupyter-notebook-with-hadoop-3-spark-presto/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>R Interface to Python</title>
+      <link>https://obaydakov.github.io/post/2018/r-interface-to-python/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/r-interface-to-python/</guid>
+      <description>Link</description>
     </item>
     
     <item>

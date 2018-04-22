@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Tidy anomaly detection</title>
+      <link>https://obaydakov.github.io/post/2018/tidy-anomaly-detection/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/tidy-anomaly-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Combined outlier detection with dplyr and ruler</title>
       <link>https://obaydakov.github.io/post/2018/combined-outlier-detection-with-dplyr-and-ruler/</link>
       <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>

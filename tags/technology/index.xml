@@ -41,6 +41,25 @@ Link</description>
     </item>
     
     <item>
+      <title>Of Streams and Tables in Kafka and Stream Processing</title>
+      <link>https://obaydakov.github.io/post/of-streams-and-tables-in-kafka-and-stream-processing/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/of-streams-and-tables-in-kafka-and-stream-processing/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Spark Dataframes transformations with state Monad</title>
+      <link>https://obaydakov.github.io/post/2018/spark-dataframes-transformations-with-state-monad/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/spark-dataframes-transformations-with-state-monad/</guid>
+      <description>Link
+Functional Data Transformations</description>
+    </item>
+    
+    <item>
       <title>Supercharge Machine Learning</title>
       <link>https://obaydakov.github.io/post/2018/supercharge-machine-learning/</link>
       <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
@@ -48,6 +67,16 @@ Link</description>
       <guid>https://obaydakov.github.io/post/2018/supercharge-machine-learning/</guid>
       <description>Comet lets you track code, experiments, and results on ML projects. It’s fast, simple, and free for open source projects.
 Link</description>
+    </item>
+    
+    <item>
+      <title>What is BigDL</title>
+      <link>https://obaydakov.github.io/post/2018/what-is-bigdl/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/what-is-bigdl/</guid>
+      <description>BigDL is a distributed deep learning library for Apache Spark; with BigDL, users can write their deep learning applications as standard Spark programs, which can directly run on top of existing Spark or Hadoop clusters.
+Rich deep learning support. Modeled after Torch, BigDL provides comprehensive support for deep learning, including numeric computing (via Tensor) and high level neural networks; in addition, users can load pre-trained Caffe or Torch or Keras models into Spark programs using BigDL.</description>
     </item>
     
     <item>

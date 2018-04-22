@@ -6,10 +6,46 @@
     <description>Recent content in Automated Ml on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/automated-ml/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Featuretools An open source framework for automated feature engineering</title>
+      <link>https://obaydakov.github.io/post/2018/featuretools-an-open-source-framework-for-automated-feature-engineering/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/featuretools-an-open-source-framework-for-automated-feature-engineering/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Meta model &#43; NLP example pipeline</title>
+      <link>https://obaydakov.github.io/post/2018/meta-model-nlp-example-pipeline/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/meta-model-nlp-example-pipeline/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Predictive Modeling w/ Dask, JupyterHub &amp; Kubernetes</title>
+      <link>https://obaydakov.github.io/post/2018/predictive-modeling-w-dask-jupyterhub-kubernetes/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/predictive-modeling-w-dask-jupyterhub-kubernetes/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Python &amp; Big Data: Airflow , Jupyter Notebook with Hadoop 3, Spark &amp; Presto</title>
+      <link>https://obaydakov.github.io/post/2018/python-big-data-airflow-jupyter-notebook-with-hadoop-3-spark-presto/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/python-big-data-airflow-jupyter-notebook-with-hadoop-3-spark-presto/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>A step-by-step guide to get started with Applied Machine Learning</title>

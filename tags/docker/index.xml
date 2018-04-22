@@ -30,6 +30,24 @@
     </item>
     
     <item>
+      <title>Predictive Modeling w/ Dask, JupyterHub &amp; Kubernetes</title>
+      <link>https://obaydakov.github.io/post/2018/predictive-modeling-w-dask-jupyterhub-kubernetes/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/predictive-modeling-w-dask-jupyterhub-kubernetes/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Python &amp; Big Data: Airflow , Jupyter Notebook with Hadoop 3, Spark &amp; Presto</title>
+      <link>https://obaydakov.github.io/post/2018/python-big-data-airflow-jupyter-notebook-with-hadoop-3-spark-presto/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/python-big-data-airflow-jupyter-notebook-with-hadoop-3-spark-presto/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
       <title>R configurations for Docker</title>
       <link>https://obaydakov.github.io/post/2018/r-configurations-for-docker/</link>
       <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>

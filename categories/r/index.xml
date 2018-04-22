@@ -21,12 +21,30 @@
     </item>
     
     <item>
+      <title>R Interface to Python</title>
+      <link>https://obaydakov.github.io/post/2018/r-interface-to-python/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/r-interface-to-python/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
       <title>R configurations for Docker</title>
       <link>https://obaydakov.github.io/post/2018/r-configurations-for-docker/</link>
       <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/post/2018/r-configurations-for-docker/</guid>
       <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Tidy anomaly detection</title>
+      <link>https://obaydakov.github.io/post/2018/tidy-anomaly-detection/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/tidy-anomaly-detection/</guid>
+      <description></description>
     </item>
     
     <item>

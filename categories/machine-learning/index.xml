@@ -39,11 +39,29 @@
     </item>
     
     <item>
+      <title>Featuretools An open source framework for automated feature engineering</title>
+      <link>https://obaydakov.github.io/post/2018/featuretools-an-open-source-framework-for-automated-feature-engineering/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/featuretools-an-open-source-framework-for-automated-feature-engineering/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
       <title>LDA in Python – How to grid search best topic models?</title>
       <link>https://obaydakov.github.io/post/2018/lda-in-python-how-to-grid-search-best-topic-models/</link>
       <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/post/2018/lda-in-python-how-to-grid-search-best-topic-models/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Meta model &#43; NLP example pipeline</title>
+      <link>https://obaydakov.github.io/post/2018/meta-model-nlp-example-pipeline/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/meta-model-nlp-example-pipeline/</guid>
       <description>Link</description>
     </item>
     
@@ -59,6 +77,15 @@ Link</description>
     </item>
     
     <item>
+      <title>R Interface to Python</title>
+      <link>https://obaydakov.github.io/post/2018/r-interface-to-python/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/r-interface-to-python/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
       <title>Supercharge Machine Learning</title>
       <link>https://obaydakov.github.io/post/2018/supercharge-machine-learning/</link>
       <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
@@ -66,6 +93,25 @@ Link</description>
       <guid>https://obaydakov.github.io/post/2018/supercharge-machine-learning/</guid>
       <description>Comet lets you track code, experiments, and results on ML projects. It’s fast, simple, and free for open source projects.
 Link</description>
+    </item>
+    
+    <item>
+      <title>Tidy anomaly detection</title>
+      <link>https://obaydakov.github.io/post/2018/tidy-anomaly-detection/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/tidy-anomaly-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What is BigDL</title>
+      <link>https://obaydakov.github.io/post/2018/what-is-bigdl/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/what-is-bigdl/</guid>
+      <description>BigDL is a distributed deep learning library for Apache Spark; with BigDL, users can write their deep learning applications as standard Spark programs, which can directly run on top of existing Spark or Hadoop clusters.
+Rich deep learning support. Modeled after Torch, BigDL provides comprehensive support for deep learning, including numeric computing (via Tensor) and high level neural networks; in addition, users can load pre-trained Caffe or Torch or Keras models into Spark programs using BigDL.</description>
     </item>
     
     <item>
