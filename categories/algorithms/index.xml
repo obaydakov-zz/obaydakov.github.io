@@ -6,10 +6,19 @@
     <description>Recent content in Algorithms on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/algorithms/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Dimension Reduction - Autoencoders</title>
+      <link>https://obaydakov.github.io/post/2018/dimension-reduction-autoencoders/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/dimension-reduction-autoencoders/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Interactive Python coding interview challenges (algorithms and data structures). Includes Anki flashcards.</title>
