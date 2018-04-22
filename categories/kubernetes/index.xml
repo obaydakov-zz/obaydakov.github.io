@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Developing apps on Kubernetes</title>
+      <link>https://obaydakov.github.io/post/2018/developing-apps-on-kubernetes/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/developing-apps-on-kubernetes/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
       <title>Go and Redis running on Kubernetes with Minukube </title>
       <link>https://obaydakov.github.io/post/2018/go-and-redis-running-on-kubernetes-with-minukube/</link>
       <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>

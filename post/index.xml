@@ -12,11 +12,29 @@
     
     
     <item>
+      <title>A birds-eye view of optimization algorithms</title>
+      <link>https://obaydakov.github.io/post/2018/a-birds-eye-view-of-optimization-algorithms/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/a-birds-eye-view-of-optimization-algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Detecting Outliers in Time Series (LS/AO/TC) using tsoutliers package in R</title>
       <link>https://obaydakov.github.io/post/2018/detecting-outliers-in-time-series-ls-ao-tc-using-tsoutliers-package-in-r/</link>
       <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/post/2018/detecting-outliers-in-time-series-ls-ao-tc-using-tsoutliers-package-in-r/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Developing apps on Kubernetes</title>
+      <link>https://obaydakov.github.io/post/2018/developing-apps-on-kubernetes/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/developing-apps-on-kubernetes/</guid>
       <description>Link</description>
     </item>
     
@@ -83,6 +101,16 @@ Link</description>
       
       <guid>https://obaydakov.github.io/post/2018/r-configurations-for-docker/</guid>
       <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Supercharge Machine Learning</title>
+      <link>https://obaydakov.github.io/post/2018/supercharge-machine-learning/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/supercharge-machine-learning/</guid>
+      <description>Comet lets you track code, experiments, and results on ML projects. It’s fast, simple, and free for open source projects.
+Link</description>
     </item>
     
     <item>

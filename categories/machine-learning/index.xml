@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>A birds-eye view of optimization algorithms</title>
+      <link>https://obaydakov.github.io/post/2018/a-birds-eye-view-of-optimization-algorithms/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/a-birds-eye-view-of-optimization-algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Detecting Outliers in Time Series (LS/AO/TC) using tsoutliers package in R</title>
       <link>https://obaydakov.github.io/post/2018/detecting-outliers-in-time-series-ls-ao-tc-using-tsoutliers-package-in-r/</link>
       <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
@@ -46,6 +55,16 @@
       <guid>https://obaydakov.github.io/post/2018/microsoft-machine-learning-for-apache/</guid>
       <description>MMLSpark provides a number of deep learning and data science tools for Apache Spark, including seamless integration of Spark Machine Learning pipelines with Microsoft Cognitive Toolkit (CNTK) and OpenCV, enabling you to quickly create powerful, highly-scalable predictive and analytical models for large image and text datasets.
 MMLSpark requires Scala 2.11, Spark 2.1+, and either Python 2.7 or Python 3.5+. See the API documentation for Scala and for PySpark.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Supercharge Machine Learning</title>
+      <link>https://obaydakov.github.io/post/2018/supercharge-machine-learning/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/supercharge-machine-learning/</guid>
+      <description>Comet lets you track code, experiments, and results on ML projects. It’s fast, simple, and free for open source projects.
 Link</description>
     </item>
     

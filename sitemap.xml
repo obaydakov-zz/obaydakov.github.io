@@ -3,7 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://obaydakov.github.io/post/2018/a-birds-eye-view-of-optimization-algorithms/</loc>
+    <lastmod>2018-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://obaydakov.github.io/post/2018/detecting-outliers-in-time-series-ls-ao-tc-using-tsoutliers-package-in-r/</loc>
+    <lastmod>2018-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/developing-apps-on-kubernetes/</loc>
     <lastmod>2018-04-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -39,6 +49,11 @@
   
   <url>
     <loc>https://obaydakov.github.io/post/2018/r-configurations-for-docker/</loc>
+    <lastmod>2018-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/supercharge-machine-learning/</loc>
     <lastmod>2018-04-22T00:00:00+00:00</lastmod>
   </url>
   
