@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>An implementation of the AlphaZero algorithm for Gomoku (also called Gobang or Five in a Row)</title>
+      <link>https://obaydakov.github.io/post/2018/an-implementation-of-the-alphazero-algorithm-for-gomoku-also-called-gobang-or-five-in-a-row/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/an-implementation-of-the-alphazero-algorithm-for-gomoku-also-called-gobang-or-five-in-a-row/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
       <title>Dimension Reduction - Autoencoders</title>
       <link>https://obaydakov.github.io/post/2018/dimension-reduction-autoencoders/</link>
       <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>

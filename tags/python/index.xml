@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>An implementation of the AlphaZero algorithm for Gomoku (also called Gobang or Five in a Row)</title>
+      <link>https://obaydakov.github.io/post/2018/an-implementation-of-the-alphazero-algorithm-for-gomoku-also-called-gobang-or-five-in-a-row/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/an-implementation-of-the-alphazero-algorithm-for-gomoku-also-called-gobang-or-five-in-a-row/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
       <title>Dimension Reduction - Autoencoders</title>
       <link>https://obaydakov.github.io/post/2018/dimension-reduction-autoencoders/</link>
       <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
@@ -27,6 +36,24 @@
       
       <guid>https://obaydakov.github.io/post/2018/featuretools-an-open-source-framework-for-automated-feature-engineering/</guid>
       <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Hands-On Data Science Education</title>
+      <link>https://obaydakov.github.io/post/2018/hands-on-data-science-education/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/hands-on-data-science-education/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>How to build your own AlphaZero AI using Python and Keras</title>
+      <link>https://obaydakov.github.io/post/how-to-build-your-own-alphazero-ai-using-python-and-keras/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/how-to-build-your-own-alphazero-ai-using-python-and-keras/</guid>
+      <description></description>
     </item>
     
     <item>

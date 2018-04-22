@@ -12,12 +12,31 @@
     
     
     <item>
+      <title>An implementation of the AlphaZero algorithm for Gomoku (also called Gobang or Five in a Row)</title>
+      <link>https://obaydakov.github.io/post/2018/an-implementation-of-the-alphazero-algorithm-for-gomoku-also-called-gobang-or-five-in-a-row/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/an-implementation-of-the-alphazero-algorithm-for-gomoku-also-called-gobang-or-five-in-a-row/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
       <title>Featuretools An open source framework for automated feature engineering</title>
       <link>https://obaydakov.github.io/post/2018/featuretools-an-open-source-framework-for-automated-feature-engineering/</link>
       <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/post/2018/featuretools-an-open-source-framework-for-automated-feature-engineering/</guid>
       <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Interpretable Machine Learning - A Guide for Making Black Box Models Explainable.</title>
+      <link>https://obaydakov.github.io/post/2018/interpretable-machine-learning-a-guide-for-making-black-box-models-explainable/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/interpretable-machine-learning-a-guide-for-making-black-box-models-explainable/</guid>
+      <description>Machine learning has a huge potential to improve products, processes and research. But machines usually don’t give an explanation for their predictions, which creates a barrier for the adoption of machine learning. This book is about making machine learning models and their decisions interpretable.
+After exploring the concepts of interpretability, you will learn about simple, interpretable models and how to interpret them. The later chapters focus on general model-agnostic tools for analysing complex models and making their decisions interpretable.</description>
     </item>
     
     <item>
@@ -53,6 +72,15 @@
       <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/post/2018/python-big-data-airflow-jupyter-notebook-with-hadoop-3-spark-presto/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Turn any Jupyter notebook into a REST API</title>
+      <link>https://obaydakov.github.io/post/2018/turn-any-jupyter-notebook-into-a-rest-api/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/turn-any-jupyter-notebook-into-a-rest-api/</guid>
       <description>Link</description>
     </item>
     

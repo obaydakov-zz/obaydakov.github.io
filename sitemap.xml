@@ -3,7 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://obaydakov.github.io/post/2018/ggplot2-axis-ticks-a-guide-to-customize-tick-marks-and-labels/</loc>
+    <lastmod>2018-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://obaydakov.github.io/post/2018/a-birds-eye-view-of-optimization-algorithms/</loc>
+    <lastmod>2018-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/an-implementation-of-the-alphazero-algorithm-for-gomoku-also-called-gobang-or-five-in-a-row/</loc>
     <lastmod>2018-04-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -43,7 +53,22 @@
   </url>
   
   <url>
+    <loc>https://obaydakov.github.io/post/2018/hands-on-data-science-education/</loc>
+    <lastmod>2018-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/how-to-build-your-own-alphazero-ai-using-python-and-keras/</loc>
+    <lastmod>2018-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://obaydakov.github.io/post/2018/interactive-go-programming-with-jupyter/</loc>
+    <lastmod>2018-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/interpretable-machine-learning-a-guide-for-making-black-box-models-explainable/</loc>
     <lastmod>2018-04-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -118,7 +143,22 @@
   </url>
   
   <url>
+    <loc>https://obaydakov.github.io/post/2018/top-5-best-jupyter-notebook-extensions/</loc>
+    <lastmod>2018-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/turn-any-jupyter-notebook-into-a-rest-api/</loc>
+    <lastmod>2018-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://obaydakov.github.io/post/2018/what-is-bigdl/</loc>
+    <lastmod>2018-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/what-s-the-difference-between-data-science-machine-learning-and-artificial-intelligence/</loc>
     <lastmod>2018-04-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -2753,7 +2793,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/tags/books/</loc>
-    <lastmod>2018-03-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2849,7 +2889,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/kaggle/</loc>
-    <lastmod>2018-03-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2963,13 +3003,13 @@
   
   <url>
     <loc>https://obaydakov.github.io/tags/theory/</loc>
-    <lastmod>2018-03-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/categories/tools/</loc>
-    <lastmod>2018-03-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

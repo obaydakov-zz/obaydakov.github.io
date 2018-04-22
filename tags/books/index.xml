@@ -6,10 +6,20 @@
     <description>Recent content in Books on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/books/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Interpretable Machine Learning - A Guide for Making Black Box Models Explainable.</title>
+      <link>https://obaydakov.github.io/post/2018/interpretable-machine-learning-a-guide-for-making-black-box-models-explainable/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/interpretable-machine-learning-a-guide-for-making-black-box-models-explainable/</guid>
+      <description>Machine learning has a huge potential to improve products, processes and research. But machines usually don’t give an explanation for their predictions, which creates a barrier for the adoption of machine learning. This book is about making machine learning models and their decisions interpretable.
+After exploring the concepts of interpretability, you will learn about simple, interpretable models and how to interpret them. The later chapters focus on general model-agnostic tools for analysing complex models and making their decisions interpretable.</description>
+    </item>
     
     <item>
       <title>12 Useful Things to Know about Machine Learning</title>

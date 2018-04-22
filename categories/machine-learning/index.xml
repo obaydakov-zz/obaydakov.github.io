@@ -57,6 +57,34 @@
     </item>
     
     <item>
+      <title>Hands-On Data Science Education</title>
+      <link>https://obaydakov.github.io/post/2018/hands-on-data-science-education/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/hands-on-data-science-education/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>How to build your own AlphaZero AI using Python and Keras</title>
+      <link>https://obaydakov.github.io/post/how-to-build-your-own-alphazero-ai-using-python-and-keras/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/how-to-build-your-own-alphazero-ai-using-python-and-keras/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interpretable Machine Learning - A Guide for Making Black Box Models Explainable.</title>
+      <link>https://obaydakov.github.io/post/2018/interpretable-machine-learning-a-guide-for-making-black-box-models-explainable/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/interpretable-machine-learning-a-guide-for-making-black-box-models-explainable/</guid>
+      <description>Machine learning has a huge potential to improve products, processes and research. But machines usually don’t give an explanation for their predictions, which creates a barrier for the adoption of machine learning. This book is about making machine learning models and their decisions interpretable.
+After exploring the concepts of interpretability, you will learn about simple, interpretable models and how to interpret them. The later chapters focus on general model-agnostic tools for analysing complex models and making their decisions interpretable.</description>
+    </item>
+    
+    <item>
       <title>LDA in Python – How to grid search best topic models?</title>
       <link>https://obaydakov.github.io/post/2018/lda-in-python-how-to-grid-search-best-topic-models/</link>
       <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
@@ -123,6 +151,24 @@ Link</description>
     </item>
     
     <item>
+      <title>Top 5 Best Jupyter Notebook Extensions</title>
+      <link>https://obaydakov.github.io/post/2018/top-5-best-jupyter-notebook-extensions/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/top-5-best-jupyter-notebook-extensions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Turn any Jupyter notebook into a REST API</title>
+      <link>https://obaydakov.github.io/post/2018/turn-any-jupyter-notebook-into-a-rest-api/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/turn-any-jupyter-notebook-into-a-rest-api/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
       <title>What is BigDL</title>
       <link>https://obaydakov.github.io/post/2018/what-is-bigdl/</link>
       <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
@@ -130,6 +176,15 @@ Link</description>
       <guid>https://obaydakov.github.io/post/2018/what-is-bigdl/</guid>
       <description>BigDL is a distributed deep learning library for Apache Spark; with BigDL, users can write their deep learning applications as standard Spark programs, which can directly run on top of existing Spark or Hadoop clusters.
 Rich deep learning support. Modeled after Torch, BigDL provides comprehensive support for deep learning, including numeric computing (via Tensor) and high level neural networks; in addition, users can load pre-trained Caffe or Torch or Keras models into Spark programs using BigDL.</description>
+    </item>
+    
+    <item>
+      <title>What&#39;s the difference between data science, machine learning, and artificial intelligence?</title>
+      <link>https://obaydakov.github.io/post/2018/what-s-the-difference-between-data-science-machine-learning-and-artificial-intelligence/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/what-s-the-difference-between-data-science-machine-learning-and-artificial-intelligence/</guid>
+      <description></description>
     </item>
     
     <item>
