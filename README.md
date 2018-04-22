@@ -1,1 +1,0 @@
-# obaydakov.github.io
