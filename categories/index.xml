@@ -48,6 +48,15 @@
     </item>
     
     <item>
+      <title>Azure</title>
+      <link>https://obaydakov.github.io/categories/azure/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/categories/azure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Big Data</title>
       <link>https://obaydakov.github.io/categories/big-data/</link>
       <pubDate>Thu, 22 Mar 2018 00:00:00 +0000</pubDate>
@@ -59,7 +68,7 @@
     <item>
       <title>Blockchain</title>
       <link>https://obaydakov.github.io/categories/blockchain/</link>
-      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/categories/blockchain/</guid>
       <description></description>
@@ -95,7 +104,7 @@
     <item>
       <title>Golang</title>
       <link>https://obaydakov.github.io/categories/golang/</link>
-      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/categories/golang/</guid>
       <description></description>
@@ -140,7 +149,7 @@
     <item>
       <title>Kubernetes</title>
       <link>https://obaydakov.github.io/categories/kubernetes/</link>
-      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/categories/kubernetes/</guid>
       <description></description>
@@ -185,7 +194,7 @@
     <item>
       <title>Python</title>
       <link>https://obaydakov.github.io/categories/python/</link>
-      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/categories/python/</guid>
       <description></description>
@@ -194,7 +203,7 @@
     <item>
       <title>R</title>
       <link>https://obaydakov.github.io/categories/r/</link>
-      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/categories/r/</guid>
       <description></description>

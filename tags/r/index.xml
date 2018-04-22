@@ -6,10 +6,19 @@
     <description>Recent content in R on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/r/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Detecting Outliers in Time Series (LS/AO/TC) using tsoutliers package in R</title>
+      <link>https://obaydakov.github.io/post/2018/detecting-outliers-in-time-series-ls-ao-tc-using-tsoutliers-package-in-r/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/detecting-outliers-in-time-series-ls-ao-tc-using-tsoutliers-package-in-r/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>A step-by-step guide to get started with Applied Machine Learning</title>

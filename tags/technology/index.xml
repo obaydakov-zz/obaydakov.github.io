@@ -6,10 +6,40 @@
     <description>Recent content in Technology on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Interactive Go programming with Jupyter</title>
+      <link>https://obaydakov.github.io/post/2018/interactive-go-programming-with-jupyter/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/interactive-go-programming-with-jupyter/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Microsoft Machine Learning for Apache </title>
+      <link>https://obaydakov.github.io/post/2018/microsoft-machine-learning-for-apache/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/microsoft-machine-learning-for-apache/</guid>
+      <description>MMLSpark provides a number of deep learning and data science tools for Apache Spark, including seamless integration of Spark Machine Learning pipelines with Microsoft Cognitive Toolkit (CNTK) and OpenCV, enabling you to quickly create powerful, highly-scalable predictive and analytical models for large image and text datasets.
+MMLSpark requires Scala 2.11, Spark 2.1+, and either Python 2.7 or Python 3.5+. See the API documentation for Scala and for PySpark.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Руководство по началу работы с IBM Blockchain для разработчиков</title>
+      <link>https://obaydakov.github.io/post/2018/%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE-%D0%BF%D0%BE-%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D1%83-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D1%81-ibm-blockchain-%D0%B4%D0%BB%D1%8F-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%BE%D0%B2/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE-%D0%BF%D0%BE-%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D1%83-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D1%81-ibm-blockchain-%D0%B4%D0%BB%D1%8F-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%BE%D0%B2/</guid>
+      <description>Link
+Блокчейн для всех</description>
+    </item>
     
     <item>
       <title>Introducing Qubole’s Spark Tuning Tool</title>
