@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>R configurations for Docker</title>
+      <link>https://obaydakov.github.io/post/2018/r-configurations-for-docker/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/r-configurations-for-docker/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
       <title>Self Deploying Kubernetes Applications</title>
       <link>https://obaydakov.github.io/post/2018/self-deploying-kubernetes-applications/</link>
       <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>

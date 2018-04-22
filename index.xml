@@ -48,6 +48,24 @@
     </item>
     
     <item>
+      <title>Keras Project Template</title>
+      <link>https://obaydakov.github.io/post/2018/keras-project-template/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/keras-project-template/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>LDA in Python – How to grid search best topic models?</title>
+      <link>https://obaydakov.github.io/post/2018/lda-in-python-how-to-grid-search-best-topic-models/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/lda-in-python-how-to-grid-search-best-topic-models/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
       <title>Microsoft Machine Learning for Apache </title>
       <link>https://obaydakov.github.io/post/2018/microsoft-machine-learning-for-apache/</link>
       <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
@@ -56,6 +74,15 @@
       <description>MMLSpark provides a number of deep learning and data science tools for Apache Spark, including seamless integration of Spark Machine Learning pipelines with Microsoft Cognitive Toolkit (CNTK) and OpenCV, enabling you to quickly create powerful, highly-scalable predictive and analytical models for large image and text datasets.
 MMLSpark requires Scala 2.11, Spark 2.1+, and either Python 2.7 or Python 3.5+. See the API documentation for Scala and for PySpark.
 Link</description>
+    </item>
+    
+    <item>
+      <title>R configurations for Docker</title>
+      <link>https://obaydakov.github.io/post/2018/r-configurations-for-docker/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/r-configurations-for-docker/</guid>
+      <description>Link</description>
     </item>
     
     <item>
