@@ -6,10 +6,55 @@
     <description>Recent content in Machine Learning on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Building a Go-playing bot with Eclipse Deeplearning4J</title>
+      <link>https://obaydakov.github.io/post/2018/building-a-go-playing-bot-with-eclipse-deeplearning4j/</link>
+      <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/building-a-go-playing-bot-with-eclipse-deeplearning4j/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Google AI algorithm masters ancient game of Go</title>
+      <link>https://obaydakov.github.io/post/2018/google-ai-algorithm-masters-ancient-game-of-go/</link>
+      <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/google-ai-algorithm-masters-ancient-game-of-go/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Learning to score final positions in the game of Go</title>
+      <link>https://obaydakov.github.io/post/2018/learning-to-score-final-positions-in-the-game-of-go/</link>
+      <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/learning-to-score-final-positions-in-the-game-of-go/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Mastering the Game of Go without Human Knowledge</title>
+      <link>https://obaydakov.github.io/post/2018/mastering-the-game-of-go-without-human-knowledge/</link>
+      <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/mastering-the-game-of-go-without-human-knowledge/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Mastering the game of Go with deep neural networks and tree search</title>
+      <link>https://obaydakov.github.io/post/2018/mastering-the-game-of-go-with-deep-neural-networks-and-tree-search/</link>
+      <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/mastering-the-game-of-go-with-deep-neural-networks-and-tree-search/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>A birds-eye view of optimization algorithms</title>

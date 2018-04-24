@@ -6,10 +6,128 @@
     <description>Recent content in Posts on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Comprehensive Guide to Understand and Implement Text Classification in Python</title>
+      <link>https://obaydakov.github.io/post/2018/a-comprehensive-guide-to-understand-and-implement-text-classification-in-python/</link>
+      <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/a-comprehensive-guide-to-understand-and-implement-text-classification-in-python/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Building a Go-playing bot with Eclipse Deeplearning4J</title>
+      <link>https://obaydakov.github.io/post/2018/building-a-go-playing-bot-with-eclipse-deeplearning4j/</link>
+      <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/building-a-go-playing-bot-with-eclipse-deeplearning4j/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Google AI algorithm masters ancient game of Go</title>
+      <link>https://obaydakov.github.io/post/2018/google-ai-algorithm-masters-ancient-game-of-go/</link>
+      <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/google-ai-algorithm-masters-ancient-game-of-go/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Learning to score final positions in the game of Go</title>
+      <link>https://obaydakov.github.io/post/2018/learning-to-score-final-positions-in-the-game-of-go/</link>
+      <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/learning-to-score-final-positions-in-the-game-of-go/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Mastering the Game of Go without Human Knowledge</title>
+      <link>https://obaydakov.github.io/post/2018/mastering-the-game-of-go-without-human-knowledge/</link>
+      <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/mastering-the-game-of-go-without-human-knowledge/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Mastering the game of Go with deep neural networks and tree search</title>
+      <link>https://obaydakov.github.io/post/2018/mastering-the-game-of-go-with-deep-neural-networks-and-tree-search/</link>
+      <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/mastering-the-game-of-go-with-deep-neural-networks-and-tree-search/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Packaging Shiny applications: A deep dive</title>
+      <link>https://obaydakov.github.io/post/2018/packaging-shiny-applications-a-deep-dive/</link>
+      <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/packaging-shiny-applications-a-deep-dive/</guid>
+      <description>](https://www.mango-solutions.com/blog/packaging-shiny-applications-a-deep-dive)</description>
+    </item>
+    
+    <item>
+      <title>R Programming By Example</title>
+      <link>https://obaydakov.github.io/post/2018/r-programming-by-example/</link>
+      <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/r-programming-by-example/</guid>
+      <description>](https://github.com/PacktPublishing/R-Programming-By-Example)</description>
+    </item>
+    
+    <item>
+      <title>Semantic dashboard – new open source R Shiny package</title>
+      <link>https://obaydakov.github.io/post/2018/semantic-dashboard-new-open-source-r-shiny-package/</link>
+      <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/semantic-dashboard-new-open-source-r-shiny-package/</guid>
+      <description>Link
+Themes</description>
+    </item>
+    
+    <item>
+      <title>Supervised text vectorization tool</title>
+      <link>https://obaydakov.github.io/post/2018/supervised-text-vectorization-tool/</link>
+      <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/supervised-text-vectorization-tool/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Understanding implicit in Scala</title>
+      <link>https://obaydakov.github.io/post/2018/understanding-implicit-in-scala/</link>
+      <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/understanding-implicit-in-scala/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Using Apache Drill with R</title>
+      <link>https://obaydakov.github.io/post/2018/using-apache-drill-with-r/</link>
+      <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/using-apache-drill-with-r/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>fasttextM: Fast Multilingual Word Embeddings</title>
+      <link>https://obaydakov.github.io/post/2018/fasttextm-fast-multilingual-word-embeddings/</link>
+      <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/fasttextm-fast-multilingual-word-embeddings/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>  ggplot2 axis ticks : A guide to customize tick marks and labels</title>

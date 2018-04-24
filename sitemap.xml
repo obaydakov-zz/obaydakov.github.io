@@ -3,6 +3,71 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://obaydakov.github.io/post/2018/a-comprehensive-guide-to-understand-and-implement-text-classification-in-python/</loc>
+    <lastmod>2018-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/building-a-go-playing-bot-with-eclipse-deeplearning4j/</loc>
+    <lastmod>2018-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/google-ai-algorithm-masters-ancient-game-of-go/</loc>
+    <lastmod>2018-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/learning-to-score-final-positions-in-the-game-of-go/</loc>
+    <lastmod>2018-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/mastering-the-game-of-go-without-human-knowledge/</loc>
+    <lastmod>2018-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/mastering-the-game-of-go-with-deep-neural-networks-and-tree-search/</loc>
+    <lastmod>2018-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/packaging-shiny-applications-a-deep-dive/</loc>
+    <lastmod>2018-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/r-programming-by-example/</loc>
+    <lastmod>2018-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/semantic-dashboard-new-open-source-r-shiny-package/</loc>
+    <lastmod>2018-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/supervised-text-vectorization-tool/</loc>
+    <lastmod>2018-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/understanding-implicit-in-scala/</loc>
+    <lastmod>2018-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/using-apache-drill-with-r/</loc>
+    <lastmod>2018-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/fasttextm-fast-multilingual-word-embeddings/</loc>
+    <lastmod>2018-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://obaydakov.github.io/post/2018/ggplot2-axis-ticks-a-guide-to-customize-tick-marks-and-labels/</loc>
     <lastmod>2018-04-22T00:00:00+00:00</lastmod>
   </url>
@@ -2781,7 +2846,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/big-data/</loc>
-    <lastmod>2018-04-22T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2823,7 +2888,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/deep-learning/</loc>
-    <lastmod>2018-04-22T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2848,6 +2913,12 @@
   <url>
     <loc>https://obaydakov.github.io/tags/github/</loc>
     <lastmod>2018-02-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/tags/go/</loc>
+    <lastmod>2018-04-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2907,7 +2978,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/machine-learning/</loc>
-    <lastmod>2018-04-22T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2931,43 +3002,43 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/nlp/</loc>
-    <lastmod>2018-04-22T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/</loc>
-    <lastmod>2018-04-22T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/post/</loc>
-    <lastmod>2018-04-22T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/tags/python/</loc>
-    <lastmod>2018-04-22T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/categories/python/</loc>
-    <lastmod>2018-04-22T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/tags/r/</loc>
-    <lastmod>2018-04-22T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/categories/r/</loc>
-    <lastmod>2018-04-22T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2979,7 +3050,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/scala/</loc>
-    <lastmod>2018-04-22T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2997,7 +3068,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/tags/technology/</loc>
-    <lastmod>2018-04-22T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3021,7 +3092,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/tags/visualization/</loc>
-    <lastmod>2018-04-22T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

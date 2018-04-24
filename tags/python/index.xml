@@ -6,10 +6,28 @@
     <description>Recent content in Python on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Comprehensive Guide to Understand and Implement Text Classification in Python</title>
+      <link>https://obaydakov.github.io/post/2018/a-comprehensive-guide-to-understand-and-implement-text-classification-in-python/</link>
+      <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/a-comprehensive-guide-to-understand-and-implement-text-classification-in-python/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Supervised text vectorization tool</title>
+      <link>https://obaydakov.github.io/post/2018/supervised-text-vectorization-tool/</link>
+      <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/supervised-text-vectorization-tool/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>An implementation of the AlphaZero algorithm for Gomoku (also called Gobang or Five in a Row)</title>

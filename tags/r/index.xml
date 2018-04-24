@@ -6,10 +6,46 @@
     <description>Recent content in R on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/r/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Packaging Shiny applications: A deep dive</title>
+      <link>https://obaydakov.github.io/post/2018/packaging-shiny-applications-a-deep-dive/</link>
+      <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/packaging-shiny-applications-a-deep-dive/</guid>
+      <description>](https://www.mango-solutions.com/blog/packaging-shiny-applications-a-deep-dive)</description>
+    </item>
+    
+    <item>
+      <title>R Programming By Example</title>
+      <link>https://obaydakov.github.io/post/2018/r-programming-by-example/</link>
+      <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/r-programming-by-example/</guid>
+      <description>](https://github.com/PacktPublishing/R-Programming-By-Example)</description>
+    </item>
+    
+    <item>
+      <title>Using Apache Drill with R</title>
+      <link>https://obaydakov.github.io/post/2018/using-apache-drill-with-r/</link>
+      <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/using-apache-drill-with-r/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>fasttextM: Fast Multilingual Word Embeddings</title>
+      <link>https://obaydakov.github.io/post/2018/fasttextm-fast-multilingual-word-embeddings/</link>
+      <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/fasttextm-fast-multilingual-word-embeddings/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Caret Package – A Practical Guide to Machine Learning in R</title>

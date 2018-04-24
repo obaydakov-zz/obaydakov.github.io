@@ -6,10 +6,28 @@
     <description>Recent content in Technology on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Packaging Shiny applications: A deep dive</title>
+      <link>https://obaydakov.github.io/post/2018/packaging-shiny-applications-a-deep-dive/</link>
+      <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/packaging-shiny-applications-a-deep-dive/</guid>
+      <description>](https://www.mango-solutions.com/blog/packaging-shiny-applications-a-deep-dive)</description>
+    </item>
+    
+    <item>
+      <title>Understanding implicit in Scala</title>
+      <link>https://obaydakov.github.io/post/2018/understanding-implicit-in-scala/</link>
+      <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/understanding-implicit-in-scala/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>A birds-eye view of optimization algorithms</title>

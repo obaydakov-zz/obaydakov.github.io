@@ -6,10 +6,20 @@
     <description>Recent content in Visualization on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/visualization/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Semantic dashboard – new open source R Shiny package</title>
+      <link>https://obaydakov.github.io/post/2018/semantic-dashboard-new-open-source-r-shiny-package/</link>
+      <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/semantic-dashboard-new-open-source-r-shiny-package/</guid>
+      <description>Link
+Themes</description>
+    </item>
     
     <item>
       <title>  ggplot2 axis ticks : A guide to customize tick marks and labels</title>
