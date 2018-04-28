@@ -21,12 +21,79 @@
     </item>
     
     <item>
+      <title>A Guide to Scaling Machine Learning Models in Production</title>
+      <link>https://obaydakov.github.io/post/2018/a-guide-to-scaling-machine-learning-models-in-production/</link>
+      <pubDate>Sat, 28 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/a-guide-to-scaling-machine-learning-models-in-production/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>ANOMALIZE: TIDY ANOMALY DETECTION</title>
+      <link>https://obaydakov.github.io/post/2018/anomalize-tidy-anomaly-detection/</link>
+      <pubDate>Sat, 28 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/anomalize-tidy-anomaly-detection/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Alpha Zero General (any game, any framework!)</title>
+      <link>https://obaydakov.github.io/post/2018/alpha-zero-general-any-game-any-framework/</link>
+      <pubDate>Sat, 28 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/alpha-zero-general-any-game-any-framework/</guid>
+      <description>** A clean implementation based on AlphaZero for any game in any framework + tutorial + Othello/Gobang/TicTacToe/Connect4
+A simplified, highly flexible, commented and (hopefully) easy to understand implementation of self-play based reinforcement learning based on the AlphaGo Zero paper (Silver et al). It is designed to be easy to adopt for any two-player turn-based adversarial game and any deep learning framework of your choice. A sample implementation has been provided for the game of Othello in PyTorch, Keras and TensorFlow.</description>
+    </item>
+    
+    <item>
+      <title>Automatic machine learning for data scientists</title>
+      <link>https://obaydakov.github.io/post/2018/automatic-machine-learning-for-data-scientists/</link>
+      <pubDate>Sat, 28 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/automatic-machine-learning-for-data-scientists/</guid>
+      <description>JustML provides automatic machine learning model selection, training and deployment in the cloud.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Classifying text with TensorFlow Estimators</title>
+      <link>https://obaydakov.github.io/post/2018/classifying-text-with-tensorflow-estimators/</link>
+      <pubDate>Sat, 28 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/classifying-text-with-tensorflow-estimators/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Model interoperability</title>
+      <link>https://obaydakov.github.io/post/2018/model-interoperability/</link>
+      <pubDate>Sat, 28 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/model-interoperability/</guid>
+      <description>The post will describe how the trained models can be persisted and reused across machine learning libraries and environments, i.e. how they can interoperate. To be more specific, let&amp;rsquo;s first introduce some definitions: a trained model is an artefact produced by a machine learning algorithm as part of training which can be used for inference.
+Library refers to a software package like scikit-learn or Tensorflow. An environment is roughly speaking a combination of hardware and operating system.</description>
+    </item>
+    
+    <item>
       <title>Monte-Carlo Search for Magic: The Gathering</title>
       <link>https://obaydakov.github.io/post/2018/monte-carlo-search-for-magic-the-gathering/</link>
       <pubDate>Sat, 28 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/post/2018/monte-carlo-search-for-magic-the-gathering/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>TIME SERIES DEEP LEARNING: FORECASTING SUNSPOTS WITH KERAS STATEFUL LSTM IN R</title>
+      <link>https://obaydakov.github.io/post/2018/time-series-deep-learning-forecasting-sunspots-with-keras-stateful-lstm-in-r/</link>
+      <pubDate>Sat, 28 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/time-series-deep-learning-forecasting-sunspots-with-keras-stateful-lstm-in-r/</guid>
+      <description>Time series prediction (forecasting) has experienced dramatic improvements in predictive accuracy as a result of the data science machine learning and deep learning evolution. As these ML/DL tools have evolved, businesses and financial institutions are now able to forecast better by applying these new technologies to solve old problems.
+In this article, we showcase the use of a special type of Deep Learning model called an LSTM (Long Short-Term Memory), which is useful for problems involving sequences with autocorrelation.</description>
     </item>
     
     <item>

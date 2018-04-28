@@ -6,10 +6,39 @@
     <description>Recent content in Automated Ml on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/automated-ml/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Guide to Scaling Machine Learning Models in Production</title>
+      <link>https://obaydakov.github.io/post/2018/a-guide-to-scaling-machine-learning-models-in-production/</link>
+      <pubDate>Sat, 28 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/a-guide-to-scaling-machine-learning-models-in-production/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Automatic machine learning for data scientists</title>
+      <link>https://obaydakov.github.io/post/2018/automatic-machine-learning-for-data-scientists/</link>
+      <pubDate>Sat, 28 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/automatic-machine-learning-for-data-scientists/</guid>
+      <description>JustML provides automatic machine learning model selection, training and deployment in the cloud.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Model interoperability</title>
+      <link>https://obaydakov.github.io/post/2018/model-interoperability/</link>
+      <pubDate>Sat, 28 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/model-interoperability/</guid>
+      <description>The post will describe how the trained models can be persisted and reused across machine learning libraries and environments, i.e. how they can interoperate. To be more specific, let&amp;rsquo;s first introduce some definitions: a trained model is an artefact produced by a machine learning algorithm as part of training which can be used for inference.
+Library refers to a software package like scikit-learn or Tensorflow. An environment is roughly speaking a combination of hardware and operating system.</description>
+    </item>
     
     <item>
       <title>An implementation of the AlphaZero algorithm for Gomoku (also called Gobang or Five in a Row)</title>

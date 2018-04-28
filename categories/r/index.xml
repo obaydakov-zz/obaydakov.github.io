@@ -6,10 +6,29 @@
     <description>Recent content in R on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ANOMALIZE: TIDY ANOMALY DETECTION</title>
+      <link>https://obaydakov.github.io/post/2018/anomalize-tidy-anomaly-detection/</link>
+      <pubDate>Sat, 28 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/anomalize-tidy-anomaly-detection/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>TIME SERIES DEEP LEARNING: FORECASTING SUNSPOTS WITH KERAS STATEFUL LSTM IN R</title>
+      <link>https://obaydakov.github.io/post/2018/time-series-deep-learning-forecasting-sunspots-with-keras-stateful-lstm-in-r/</link>
+      <pubDate>Sat, 28 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/time-series-deep-learning-forecasting-sunspots-with-keras-stateful-lstm-in-r/</guid>
+      <description>Time series prediction (forecasting) has experienced dramatic improvements in predictive accuracy as a result of the data science machine learning and deep learning evolution. As these ML/DL tools have evolved, businesses and financial institutions are now able to forecast better by applying these new technologies to solve old problems.
+In this article, we showcase the use of a special type of Deep Learning model called an LSTM (Long Short-Term Memory), which is useful for problems involving sequences with autocorrelation.</description>
+    </item>
     
     <item>
       <title>Packaging Shiny applications: A deep dive</title>

@@ -30,6 +30,28 @@
     </item>
     
     <item>
+      <title>Automatic machine learning for data scientists</title>
+      <link>https://obaydakov.github.io/post/2018/automatic-machine-learning-for-data-scientists/</link>
+      <pubDate>Sat, 28 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/automatic-machine-learning-for-data-scientists/</guid>
+      <description>JustML provides automatic machine learning model selection, training and deployment in the cloud.
+Link</description>
+    </item>
+    
+    <item>
+      <title>MMLSpark Serving</title>
+      <link>https://obaydakov.github.io/post/2018/mmlspark-serving/</link>
+      <pubDate>Sat, 28 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/mmlspark-serving/</guid>
+      <description>An engine for deploying Spark jobs as distributed web services
+ Distributed: Takes full advantage of Node, JVM, and thread level parallelism that Spark is famous for.
+ Fast: No single node bottlenecks, no round trips to Python. Requests can be routed directly to and from worker JVMs through network switches. Spin up a web service in a matter of seconds.
+ Deployable Anywhere: Works anywhere that runs Spark such as Databricks, HDInsight, AZTK, DSVMs, local, or on your own cluster.</description>
+    </item>
+    
+    <item>
       <title>Packaging Shiny applications: A deep dive</title>
       <link>https://obaydakov.github.io/post/2018/packaging-shiny-applications-a-deep-dive/</link>
       <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
