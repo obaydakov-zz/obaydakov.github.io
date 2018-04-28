@@ -6,10 +6,28 @@
     <description>Recent content in Technology on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Comparative Analysis of ChatBots APIs</title>
+      <link>https://obaydakov.github.io/post/2018/a-comparative-analysis-of-chatbots-apis/</link>
+      <pubDate>Sat, 28 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/a-comparative-analysis-of-chatbots-apis/</guid>
+      <description>](https://activewizards.com/blog/a-comparative-analysis-of-chatbots-apis/)</description>
+    </item>
+    
+    <item>
+      <title>AWS Serverless Application Model (AWS SAM) prescribes rules for expressing Serverless applications on AWS.</title>
+      <link>https://obaydakov.github.io/post/2018/aws-serverless-application-model-aws-sam-prescribes-rules-for-expressing-serverless-applications-on-aws/</link>
+      <pubDate>Sat, 28 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/aws-serverless-application-model-aws-sam-prescribes-rules-for-expressing-serverless-applications-on-aws/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Packaging Shiny applications: A deep dive</title>
