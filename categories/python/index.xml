@@ -6,10 +6,19 @@
     <description>Recent content in Python on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>TPOT is a Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.</title>
+      <link>https://obaydakov.github.io/post/2018/tpot-is-a-python-automated-machine-learning-tool-that-optimizes-machine-learning-pipelines-using-genetic-programming/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/tpot-is-a-python-automated-machine-learning-tool-that-optimizes-machine-learning-pipelines-using-genetic-programming/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Guide to Scaling Machine Learning Models in Production</title>

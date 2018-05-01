@@ -6,10 +6,75 @@
     <description>Recent content in Python on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>  Human in the loop: Bayesian rules enabling explainable AI</title>
+      <link>https://obaydakov.github.io/post/2018/human-in-the-loop-bayesian-rules-enabling-explainable-ai/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/human-in-the-loop-bayesian-rules-enabling-explainable-ai/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>CNTK tutorial</title>
+      <link>https://obaydakov.github.io/post/2018/cntk-tutorial/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/cntk-tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ELI5 is a Python library which allows to visualize and debug various Machine Learning models using unified API</title>
+      <link>https://obaydakov.github.io/post/2015/eli5-is-a-python-library-which-allows-to-visualize-and-debug-various-machine-learning-models-using-unified-api/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2015/eli5-is-a-python-library-which-allows-to-visualize-and-debug-various-machine-learning-models-using-unified-api/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Interpretable Machine Learning with Python</title>
+      <link>https://obaydakov.github.io/post/2018/interpretable-machine-learning-with-python/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/interpretable-machine-learning-with-python/</guid>
+      <description>Explaining behavior of Machine Learning models with eli5 library (Youtube)</description>
+    </item>
+    
+    <item>
+      <title>Interpretable Machine Learning with XGB</title>
+      <link>https://obaydakov.github.io/post/2018/interpretable-machine-learning-with-xgb/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/interpretable-machine-learning-with-xgb/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Polyaxon - a platform for building, training and monitoring large scale deep learning applications.</title>
+      <link>https://obaydakov.github.io/post/2018/polyaxon-a-platform-for-building-training-and-monitoring-large-scale-deep-learning-applications/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/polyaxon-a-platform-for-building-training-and-monitoring-large-scale-deep-learning-applications/</guid>
+      <description>Polyaxon deploys into any data center, cloud provider, or can be hosted and managed by Polyaxon, and it supports all the major deep learning frameworks such as Tensorflow, MXNet, Caffe, Torch, etc.
+Polyaxon makes it faster, easier, and more efficient to develop deep learning applications by managing workloads with smart container and node management. It also turns GPU servers into shared, self-service resources for your team or organization.
+Link</description>
+    </item>
+    
+    <item>
+      <title>TPOT is a Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.</title>
+      <link>https://obaydakov.github.io/post/2018/tpot-is-a-python-automated-machine-learning-tool-that-optimizes-machine-learning-pipelines-using-genetic-programming/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/tpot-is-a-python-automated-machine-learning-tool-that-optimizes-machine-learning-pipelines-using-genetic-programming/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Guide to Scaling Machine Learning Models in Production</title>

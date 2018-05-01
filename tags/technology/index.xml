@@ -6,10 +6,20 @@
     <description>Recent content in Technology on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ModelDB: A system to manage machine learning models</title>
+      <link>https://obaydakov.github.io/post/2018/modeldb-a-system-to-manage-machine-learning-models/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/modeldb-a-system-to-manage-machine-learning-models/</guid>
+      <description>Companies often build hundreds of models a day (e.g., churn, recommendation, credit default). However, there is no practical way to manage all the models that are built over time.
+This lack of tooling leads to insights being lost, resources wasted on re-generating old results, and difficulty collaborating. ModelDB is an end-to-end system that tracks models as they are built, extracts and stores relevant metadata (e.g., hyperparameters, data sources) for models, and makes this data available for easy querying and visualization.</description>
+    </item>
     
     <item>
       <title>A Comparative Analysis of ChatBots APIs</title>

@@ -6,10 +6,72 @@
     <description>Recent content in R on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/r/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Descriptive mAchine Learning EXplanations (DALEX)</title>
+      <link>https://obaydakov.github.io/post/2018/descriptive-machine-learning-explanations-dalex/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/descriptive-machine-learning-explanations-dalex/</guid>
+      <description>
+*** DALEX Stories
+ A gentle introduction to DALEX with examples
+ How to use DALEX with caret
+ How to use DALEX with xgboost package
+ Talk about DALEX at Complexity Institute / NTU February 2018
+ Talk about DALEX at SER / WTU April 2018
+  </description>
+    </item>
+    
+    <item>
+      <title>R package Greta - TensorFlow-based Bayesian models directly in R</title>
+      <link>https://obaydakov.github.io/post/2018/r-package-greta-tensorflow-based-bayesian-models-directly-in-r/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/r-package-greta-tensorflow-based-bayesian-models-directly-in-r/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>R package ‘live&#39;</title>
+      <link>https://obaydakov.github.io/post/2018/r-package-live/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/r-package-live/</guid>
+      <description>The live package approximates black box model (here SVM model) with a simpler white box model (here linear regression model) to explain the local structure of a black box model and in consequence to assess how features contribute into a single prediction.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Reticulated Shint</title>
+      <link>https://obaydakov.github.io/post/2018/reticulated-shint/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/reticulated-shint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The drake R package</title>
+      <link>https://obaydakov.github.io/post/2018/the-drake-r-package/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/the-drake-r-package/</guid>
+      <description>The drake package is a general-purpose workflow manager for data-driven tasks in R. It rebuilds intermediate data objects when their dependencies change, and it skips work when the results are already up to date. Not every runthrough starts from scratch, and completed workflows have tangible evidence of reproducibility. Drake is more scalable than knitr, more thorough than memoization, and more R-focused than other pipeline toolkits such as GNU Make, remake, and snakemake.</description>
+    </item>
+    
+    <item>
+      <title>“Top 40” R packages - Feb 2018</title>
+      <link>https://obaydakov.github.io/post/2018/top-40-r-packages-feb-2018/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/top-40-r-packages-feb-2018/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>ANOMALIZE: TIDY ANOMALY DETECTION</title>
