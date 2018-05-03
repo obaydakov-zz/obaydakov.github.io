@@ -6,10 +6,28 @@
     <description>Recent content in Python on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The best of Python: a collection of my favorite articles from 2017 and 2018 </title>
+      <link>https://obaydakov.github.io/post/2018/the-best-of-python-a-collection-of-my-favorite-articles-from-2017-and-2018/</link>
+      <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/the-best-of-python-a-collection-of-my-favorite-articles-from-2017-and-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding Feature Engineering — Deep Learning Methods for Text Data</title>
+      <link>https://obaydakov.github.io/post/2018/understanding-feature-engineering-deep-learning-methods-for-text-data/</link>
+      <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/understanding-feature-engineering-deep-learning-methods-for-text-data/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>TPOT is a Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.</title>
