@@ -6,10 +6,48 @@
     <description>Recent content in Theory on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/theory/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ideas on interpreting machine learning</title>
+      <link>https://obaydakov.github.io/post/2018/ideas-on-interpreting-machine-learning/</link>
+      <pubDate>Sat, 05 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/ideas-on-interpreting-machine-learning/</guid>
+      <description>Mix-and-match approaches for visualizing data and interpreting machine learning models and results.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning Interpretability Resources</title>
+      <link>https://obaydakov.github.io/post/2018/machine-learning-interpretability-resources/</link>
+      <pubDate>Sat, 05 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/machine-learning-interpretability-resources/</guid>
+      <description>Machine learning algorithms create potentially more accurate models than linear models, but any increase in accuracy over more traditional, better-understood, and more easily explainable techniques is not practical for those who must explain their models to regulators or customers. For many decades, the models created by machine learning algorithms were generally taken to be black-boxes. However, a recent flurry of research has introduced credible techniques for interpreting complex, machine-learned models. Materials presented here illustrate applications or adaptations of these techniques for practicing data scientists.</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning and Interpretability</title>
+      <link>https://obaydakov.github.io/post/2018/machine-learning-and-interpretability/</link>
+      <pubDate>Sat, 05 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/machine-learning-and-interpretability/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Practical Techniques for Interpreting Machine Learning Models</title>
+      <link>https://obaydakov.github.io/post/2018/practical-techniques-for-interpreting-machine-learning-models/</link>
+      <pubDate>Sat, 05 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/practical-techniques-for-interpreting-machine-learning-models/</guid>
+      <description>Introductory Open Source Examples Using Python, H2O, and XGBoost
+Link</description>
+    </item>
     
     <item>
       <title>Управление проектами машинного обучения с высокой ценой ошибки</title>

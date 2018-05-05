@@ -6,10 +6,37 @@
     <description>Recent content in Python on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A unified approach to explain the output of any machine learning model</title>
+      <link>https://obaydakov.github.io/post/2018/a-unified-approach-to-explain-the-output-of-any-machine-learning-model/</link>
+      <pubDate>Sat, 05 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/a-unified-approach-to-explain-the-output-of-any-machine-learning-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interpretable Machine Learning with Python</title>
+      <link>https://obaydakov.github.io/post/2018/interpretable-machine-learning-with-python/</link>
+      <pubDate>Sat, 05 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/interpretable-machine-learning-with-python/</guid>
+      <description>Usage of AI and machine learning models is likely to become more commonplace as larger swaths of the economy embrace automation and data-driven decision-making. While these predictive systems can be quite accurate, they are usually treated as inscrutable black boxes that produce only numeric predictions with no accompanying explanations. Unfortunately, recent studies and recent events have drawn attention to mathematical and sociological flaws in prominent weak AI and ML systems, but practitioners don’t often have the right tools to pry open machine learning models and debug them.</description>
+    </item>
+    
+    <item>
+      <title>LIME Xgboost</title>
+      <link>https://obaydakov.github.io/post/2018/lime-xgboost/</link>
+      <pubDate>Sat, 05 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/lime-xgboost/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>The best of Python: a collection of my favorite articles from 2017 and 2018 </title>
