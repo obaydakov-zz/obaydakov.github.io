@@ -6,10 +6,19 @@
     <description>Recent content in Go on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/go/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>General Game-Playing With Monte Carlo Tree Search</title>
+      <link>https://obaydakov.github.io/post/general-game-playing-with-monte-carlo-tree-search/</link>
+      <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/general-game-playing-with-monte-carlo-tree-search/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Alpha Zero General (any game, any framework!)</title>

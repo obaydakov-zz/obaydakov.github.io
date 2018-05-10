@@ -6,10 +6,19 @@
     <description>Recent content in Automated Ml on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/automated-ml/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Caret Package – A Practical Guide to Machine Learning in R</title>
+      <link>https://obaydakov.github.io/post/2018/caret-package-a-practical-guide-to-machine-learning-in-r/</link>
+      <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/caret-package-a-practical-guide-to-machine-learning-in-r/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Polyaxon - a platform for building, training and monitoring large scale deep learning applications.</title>

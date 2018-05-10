@@ -6,10 +6,30 @@
     <description>Recent content in Theory on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/theory/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Fractal AI</title>
+      <link>https://obaydakov.github.io/post/fractal-ai/</link>
+      <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/fractal-ai/</guid>
+      <description>Entropic and Fractal Intelligence
+Github
+Fractal AI - A Fragile Theory of Intelligence</description>
+    </item>
+    
+    <item>
+      <title>General Game-Playing With Monte Carlo Tree Search</title>
+      <link>https://obaydakov.github.io/post/general-game-playing-with-monte-carlo-tree-search/</link>
+      <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/general-game-playing-with-monte-carlo-tree-search/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Ideas on interpreting machine learning</title>

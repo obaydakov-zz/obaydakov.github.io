@@ -6,10 +6,19 @@
     <description>Recent content in Feature Selection on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/feature-selection/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Feature Selection – Ten Powerful Methods with Complete Examples</title>
+      <link>https://obaydakov.github.io/post/2018/feature-selection-ten-powerful-methods-with-complete-examples/</link>
+      <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/feature-selection-ten-powerful-methods-with-complete-examples/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Machine Learning with Kaggle: Feature Engineering</title>

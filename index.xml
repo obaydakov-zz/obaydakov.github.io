@@ -6,10 +6,66 @@
     <description>Recent content on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Caret Package – A Practical Guide to Machine Learning in R</title>
+      <link>https://obaydakov.github.io/post/2018/caret-package-a-practical-guide-to-machine-learning-in-r/</link>
+      <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/caret-package-a-practical-guide-to-machine-learning-in-r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature Selection – Ten Powerful Methods with Complete Examples</title>
+      <link>https://obaydakov.github.io/post/2018/feature-selection-ten-powerful-methods-with-complete-examples/</link>
+      <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/feature-selection-ten-powerful-methods-with-complete-examples/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fractal AI</title>
+      <link>https://obaydakov.github.io/post/fractal-ai/</link>
+      <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/fractal-ai/</guid>
+      <description>Entropic and Fractal Intelligence
+Github
+Fractal AI - A Fragile Theory of Intelligence</description>
+    </item>
+    
+    <item>
+      <title>General Game-Playing With Monte Carlo Tree Search</title>
+      <link>https://obaydakov.github.io/post/general-game-playing-with-monte-carlo-tree-search/</link>
+      <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/general-game-playing-with-monte-carlo-tree-search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Top 15 Evaluation Metrics for Classification Models</title>
+      <link>https://obaydakov.github.io/post/2018/top-15-evaluation-metrics-for-classification-models/</link>
+      <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/top-15-evaluation-metrics-for-classification-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topic Modeling with Gensim </title>
+      <link>https://obaydakov.github.io/post/2018/topic-modeling-with-gensim/</link>
+      <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/topic-modeling-with-gensim/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A unified approach to explain the output of any machine learning model</title>
