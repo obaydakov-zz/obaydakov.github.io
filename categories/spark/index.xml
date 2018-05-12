@@ -6,10 +6,57 @@
     <description>Recent content in Spark on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/spark/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A library for reading data from Akka Actors using Spark Streaming.</title>
+      <link>https://obaydakov.github.io/post/2018/a-library-for-reading-data-from-akka-actors-using-spark-streaming/</link>
+      <pubDate>Sat, 12 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/a-library-for-reading-data-from-akka-actors-using-spark-streaming/</guid>
+      <description>Link
+Apache Bahir Extensions for Apache Spark Downloads</description>
+    </item>
+    
+    <item>
+      <title>How to connect Akka Stream and Spark Streaming by turning creating a Flow element that feeds into an InputDstream</title>
+      <link>https://obaydakov.github.io/post/2018/how-to-connect-akka-stream-and-spark-streaming/</link>
+      <pubDate>Sat, 12 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/how-to-connect-akka-stream-and-spark-streaming/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Self-contained examples of Apache Spark streaming integrated with Apache Kafka.</title>
+      <link>https://obaydakov.github.io/post/2018/self-contained-examples-of-apache-spark-streaming-integrated-with-apache-kafka/</link>
+      <pubDate>Sat, 12 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/self-contained-examples-of-apache-spark-streaming-integrated-with-apache-kafka/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Structured Streaming in Apache Spark 2.2&#43; GitBook </title>
+      <link>https://obaydakov.github.io/post/2018/structured-streaming-in-apache-spark-2-2-gitbook/</link>
+      <pubDate>Sat, 12 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/structured-streaming-in-apache-spark-2-2-gitbook/</guid>
+      <description>Link
+E-book</description>
+    </item>
+    
+    <item>
+      <title>Using Spark SQL and Spark Streaming together</title>
+      <link>https://obaydakov.github.io/post/2018/using-spark-sql-and-spark-streaming-together/</link>
+      <pubDate>Sat, 12 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/using-spark-sql-and-spark-streaming-together/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>MMLSpark Serving</title>

@@ -6,10 +6,105 @@
     <description>Recent content in Kafka on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/kafka/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Akka Streams Kafka</title>
+      <link>https://obaydakov.github.io/post/2018/akka-streams-kafka/</link>
+      <pubDate>Sat, 12 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/akka-streams-kafka/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Communicating with kafka using akka actors</title>
+      <link>https://obaydakov.github.io/post/2018/communicating-with-kafka-using-akka-actors/</link>
+      <pubDate>Sat, 12 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/communicating-with-kafka-using-akka-actors/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Demo applications and code examples for Apache Kafka&#39;s Streams API</title>
+      <link>https://obaydakov.github.io/post/2018/demo-applications-and-code-examples-for-apache-kafka/</link>
+      <pubDate>Sat, 12 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/demo-applications-and-code-examples-for-apache-kafka/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Lightbend tutorial on writing microservices with Akka Streams, Kafka Streams, and Kafka</title>
+      <link>https://obaydakov.github.io/post/2018/lightbend-tutorial-on-writing-microservices-with-akka-streams-kafka-streams-and-kafka/</link>
+      <pubDate>Sat, 12 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/lightbend-tutorial-on-writing-microservices-with-akka-streams-kafka-streams-and-kafka/</guid>
+      <description>Link
+Video
+An umbrella project for multiple implementations of model serving
+Serving Machine Learning Models Book
+Operationalizing Machine Learning - Serving ML Models Video</description>
+    </item>
+    
+    <item>
+      <title>Self-Learning Kafka Streams With Scala </title>
+      <link>https://obaydakov.github.io/post/2018/self-learning-kafka-streams-with-scala/</link>
+      <pubDate>Sat, 12 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/self-learning-kafka-streams-with-scala/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Self-contained examples of Apache Spark streaming integrated with Apache Kafka.</title>
+      <link>https://obaydakov.github.io/post/2018/self-contained-examples-of-apache-spark-streaming-integrated-with-apache-kafka/</link>
+      <pubDate>Sat, 12 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/self-contained-examples-of-apache-spark-streaming-integrated-with-apache-kafka/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Structured Streaming in Apache Spark 2.2&#43; GitBook </title>
+      <link>https://obaydakov.github.io/post/2018/structured-streaming-in-apache-spark-2-2-gitbook/</link>
+      <pubDate>Sat, 12 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/structured-streaming-in-apache-spark-2-2-gitbook/</guid>
+      <description>Link
+E-book</description>
+    </item>
+    
+    <item>
+      <title>Thin Scala wrapper around Kafka Streams Java API</title>
+      <link>https://obaydakov.github.io/post/2018/thin-scala-wrapper-around-kafka-streams-java-api/</link>
+      <pubDate>Sat, 12 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/thin-scala-wrapper-around-kafka-streams-java-api/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Twitter Streaming API Example with Kafka Streams in Scala</title>
+      <link>https://obaydakov.github.io/post/2018/twitter-streaming-api-example-with-kafka-streams-in-scala/</link>
+      <pubDate>Sat, 12 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/twitter-streaming-api-example-with-kafka-streams-in-scala/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Using Spark SQL and Spark Streaming together</title>
+      <link>https://obaydakov.github.io/post/2018/using-spark-sql-and-spark-streaming-together/</link>
+      <pubDate>Sat, 12 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/using-spark-sql-and-spark-streaming-together/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Of Streams and Tables in Kafka and Stream Processing</title>
