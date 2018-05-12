@@ -22,20 +22,20 @@ Apache Bahir Extensions for Apache Spark Downloads</description>
     </item>
     
     <item>
+      <title>Akka Streams Flight Delay</title>
+      <link>https://obaydakov.github.io/post/2018/akkastream-flight-delay/</link>
+      <pubDate>Sat, 12 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/akkastream-flight-delay/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
       <title>Akka Streams Kafka</title>
       <link>https://obaydakov.github.io/post/2018/akka-streams-kafka/</link>
       <pubDate>Sat, 12 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/post/2018/akka-streams-kafka/</guid>
-      <description>Link</description>
-    </item>
-    
-    <item>
-      <title>AkkaStream Flight Delay</title>
-      <link>https://obaydakov.github.io/post/2018/akkastream-flight-delay/</link>
-      <pubDate>Sat, 12 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://obaydakov.github.io/post/2018/akkastream-flight-delay/</guid>
       <description>Link</description>
     </item>
     
