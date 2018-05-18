@@ -6,10 +6,19 @@
     <description>Recent content in Feature Selection on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/feature-selection/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Feature Engineering and Selection: A Practical Approach for Predictive Models</title>
+      <link>https://obaydakov.github.io/post/2018/feature-engineering-and-selection-a-practical-approach-for-predictive-models/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/feature-engineering-and-selection-a-practical-approach-for-predictive-models/</guid>
+      <description>Max Kuhn and Kjell Johnson</description>
+    </item>
     
     <item>
       <title>Feature Selection – Ten Powerful Methods with Complete Examples</title>

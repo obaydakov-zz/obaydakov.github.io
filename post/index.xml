@@ -6,10 +6,135 @@
     <description>Recent content in Posts on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Guide For Time Series Prediction Using Recurrent Neural Networks (LSTMs)</title>
+      <link>https://obaydakov.github.io/post/2018/a-guide-for-time-series-prediction-using-recurrent-neural-networks-lstms/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/a-guide-for-time-series-prediction-using-recurrent-neural-networks-lstms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Nonparametrics</title>
+      <link>https://obaydakov.github.io/post/2018/bayesian-nonparametrics/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/bayesian-nonparametrics/</guid>
+      <description>An introduction to the Dirichlet process and its applications
+Link</description>
+    </item>
+    
+    <item>
+      <title>DevOps Pipeline for a Machine Learning Project</title>
+      <link>https://obaydakov.github.io/post/2018/devops-pipeline-for-a-machine-learning-project/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/devops-pipeline-for-a-machine-learning-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature Engineering and Selection: A Practical Approach for Predictive Models</title>
+      <link>https://obaydakov.github.io/post/2018/feature-engineering-and-selection-a-practical-approach-for-predictive-models/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/feature-engineering-and-selection-a-practical-approach-for-predictive-models/</guid>
+      <description>Max Kuhn and Kjell Johnson</description>
+    </item>
+    
+    <item>
+      <title>Go AI program which implement the AlphaGo Zero paper</title>
+      <link>https://obaydakov.github.io/post/2018/go-ai-program-which-implement-the-alphago-zero-paper/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/go-ai-program-which-implement-the-alphago-zero-paper/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>H2O &#43; Kubeflow/Kubernetes How-To</title>
+      <link>https://obaydakov.github.io/post/2018/h2o-kubeflow-kubernetes-how-to/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/h2o-kubeflow-kubernetes-how-to/</guid>
+      <description>Walkthrough on how to deploy H2O 3 on Kubeflow
+Github</description>
+    </item>
+    
+    <item>
+      <title>KSONNET - STREAMLINE HOW YOU WRITE AND DEPLOY KUBERNETES CONFIGURATIONS</title>
+      <link>https://obaydakov.github.io/post/2018/ksonnet-streamline-how-you-write-and-deploy-kubernetes-configurations/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/ksonnet-streamline-how-you-write-and-deploy-kubernetes-configurations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kubeflow is an open, community driven project to make it easy to deploy and manage an ML stack on Kubernetes</title>
+      <link>https://obaydakov.github.io/post/2018/kubeflow-is-an-open-community-driven-project-to-make-it-easy-to-deploy-and-manage-an-ml-stack-on-kubernetes/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/kubeflow-is-an-open-community-driven-project-to-make-it-easy-to-deploy-and-manage-an-ml-stack-on-kubernetes/</guid>
+      <description>Machine Learning Toolkit for Kubernetes
+Example for end-to-end machine learning on Kubernetes using Kubeflow and Seldon Core
+A repository to host extended examples and tutorials
+Introduction to Kubeflow 2018/02/14</description>
+    </item>
+    
+    <item>
+      <title>Kubernetes  Container Training</title>
+      <link>https://obaydakov.github.io/post/2018/kubernetes-container-training/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/kubernetes-container-training/</guid>
+      <description>Link
+Github</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning on Kubernetes</title>
+      <link>https://obaydakov.github.io/post/2018/machine-learning-on-kubernetes/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/machine-learning-on-kubernetes/</guid>
+      <description>Machine Learning Kubernetes Rocks</description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Graphical Models Tutorial</title>
+      <link>https://obaydakov.github.io/post/2018/probabilistic-graphical-models-tutorial/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/probabilistic-graphical-models-tutorial/</guid>
+      <description>Parameter estimation and inference algorithms
+Link</description>
+    </item>
+    
+    <item>
+      <title>Time Series Anomaly Detection Algorithms</title>
+      <link>https://obaydakov.github.io/post/2018/time-series-anomaly-detection-algorithms/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/time-series-anomaly-detection-algorithms/</guid>
+      <description>The current state of anomaly detection techniques in plain language Link</description>
+    </item>
+    
+    <item>
+      <title>ntroducing Seldon Core Our new open-source framework for deploying machine learning models on Kubernetes.</title>
+      <link>https://obaydakov.github.io/post/2018/ntroducing-seldon-core-our-new-open-source-framework-for-deploying-machine-learning-models-on-kubernetes/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/ntroducing-seldon-core-our-new-open-source-framework-for-deploying-machine-learning-models-on-kubernetes/</guid>
+      <description>seldon-core
+seldon-server</description>
+    </item>
     
     <item>
       <title>A library for reading data from Akka Actors using Spark Streaming.</title>

@@ -13,7 +13,7 @@
 
 
 
-<meta property="og:updated_time" content="2017-10-28T00:00:00&#43;00:00"/>
+<meta property="og:updated_time" content="2017-11-11T00:00:00&#43;00:00"/>
 
 
 
@@ -58,11 +58,11 @@
 	<div class="list__content clearfix">
 		<header class="list__header">
 			<h3 class="list__title post__title ">
-				<a href="/post/2017/introduction-to-recursion-schemes-with-matryoshka/" rel="bookmark">Introduction to Recursion Schemes with Matryoshka</a>
+				<a href="/post/2017/fast-data-with-apache-flink-at-ing-lessons-learned-from-designing-and-building-a-large-streaming/" rel="bookmark">Fast Data with Apache Flink at ING lessons learned from designing and building a large streaming </a>
 			</h3>
 			<div class="list__meta meta">
 				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
-				<time class="list__meta-date" datetime="2017-10-28T00:00:00">2017/10/28</time>
+				<time class="list__meta-date" datetime="2017-11-11T00:00:00">2017/11/11</time>
 			</div>
 		</header>
 		<div class="list__excerpt">
@@ -74,18 +74,15 @@
 	<div class="list__content clearfix">
 		<header class="list__header">
 			<h3 class="list__title post__title ">
-				<a href="/post/2017/go-concurrency-patterns-pipelines-and-cancellation/" rel="bookmark">Go Concurrency Patterns: Pipelines and cancellation</a>
+				<a href="/post/2017/integrating-akka-streams-and-akka-actors/" rel="bookmark">Integrating Akka Streams and Akka Actors</a>
 			</h3>
 			<div class="list__meta meta">
 				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
-				<time class="list__meta-date" datetime="2017-10-27T00:00:00">2017/10/27</time>
+				<time class="list__meta-date" datetime="2017-11-11T00:00:00">2017/11/11</time>
 			</div>
 		</header>
 		<div class="list__excerpt">
-			Introduction
-Go&rsquo;s concurrency primitives make it easy to construct streaming data pipelines that make efficient use of I/O and multiple CPUs. This article presents examples of such pipelines, highlights subtleties that arise when operations fail, and introduces techniques for dealing with failures cleanly.
-What is a pipeline?
-There&rsquo;s no formal definition of a pipeline in Go; it&rsquo;s just one of many kinds of concurrent programs. Informally, a pipeline is a series of stages connected by channels, where each stage is a group of goroutines running the same function.
+			In the first article of this series, I demonstrated the most basic patterns for integrating Akka Actors and the Akka Streams API. In the second article, I began developing an example to show how actors compliment streams, providing fault-tolerance and life-cycle management. In the third article, I extended this example to demonstrate how actors can be used to distribute streaming workloads in an Akka cluster, as well as provide location transparency for streams.
 		</div>
 	</div>
 </article>
@@ -93,15 +90,17 @@ There&rsquo;s no formal definition of a pipeline in Go; it&rsquo;s just one of m
 	<div class="list__content clearfix">
 		<header class="list__header">
 			<h3 class="list__title post__title ">
-				<a href="/post/2017/adding-realtime-data-streaming-to-your-app/" rel="bookmark">Adding Realtime Data Streaming To Your App</a>
+				<a href="/post/2017/islands-in-the-stream-integrating-akka-streams-and-akka-actors/" rel="bookmark">Islands in the Stream Integrating Akka Streams and Akka Actors</a>
 			</h3>
 			<div class="list__meta meta">
 				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
-				<time class="list__meta-date" datetime="2017-10-26T00:00:00">2017/10/26</time>
+				<time class="list__meta-date" datetime="2017-11-11T00:00:00">2017/11/11</time>
 			</div>
 		</header>
 		<div class="list__excerpt">
-			“[Realtime] is about the ability to make better decisions and take meaningful actions at the right time. It’s about detecting fraud while someone is swiping a credit card, or triggering an offer while a shopper is standing on a checkout line, or placing an ad on a website while someone is reading a specific article. It’s about combining and analyzing data so you can take the right action, at the right time, and at the right place.
+			[]
+[]
+[]
 		</div>
 	</div>
 </article>
@@ -109,28 +108,11 @@ There&rsquo;s no formal definition of a pipeline in Go; it&rsquo;s just one of m
 	<div class="list__content clearfix">
 		<header class="list__header">
 			<h3 class="list__title post__title ">
-				<a href="/post/2017/divolte-collector/" rel="bookmark">Divolte Collector</a>
+				<a href="/post/2017/stream-driven-development-design-your-data-pipeline-with-akka-streams/" rel="bookmark">Stream Driven Development design your data pipeline with Akka Streams</a>
 			</h3>
 			<div class="list__meta meta">
 				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
-				<time class="list__meta-date" datetime="2017-10-26T00:00:00">2017/10/26</time>
-			</div>
-		</header>
-		<div class="list__excerpt">
-			Scalable clickstream collection for Hadoop and Kafka
-Divolte Collector is a scalable and performant server for collecting clickstream data in HDFS and on Kafka topics. It uses a JavaScript tag on the client side to gather user interaction data, similar to many other web tracking solutions. Divolte Collector can be used as the foundation to build anything from basic web analytics dashboarding to real-time recommender engines or banner optimization systems.
-		</div>
-	</div>
-</article>
-<article class="list__item post clearfix">
-	<div class="list__content clearfix">
-		<header class="list__header">
-			<h3 class="list__title post__title ">
-				<a href="/post/2017/microservice-in-real-tim-using-golf/" rel="bookmark">Microservice in real-tim using Golf</a>
-			</h3>
-			<div class="list__meta meta">
-				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
-				<time class="list__meta-date" datetime="2017-10-26T00:00:00">2017/10/26</time>
+				<time class="list__meta-date" datetime="2017-11-11T00:00:00">2017/11/11</time>
 			</div>
 		</header>
 		<div class="list__excerpt">
@@ -142,61 +124,16 @@ Divolte Collector is a scalable and performant server for collecting clickstream
 	<div class="list__content clearfix">
 		<header class="list__header">
 			<h3 class="list__title post__title ">
-				<a href="/post/2017/microservices-are-hard-an-invaluable-guide-to-microservices/" rel="bookmark">Microservices are hard — an invaluable guide to microservices</a>
+				<a href="/post/2017/designing-a-microservices-architecture-for-failure/" rel="bookmark">Designing a Microservices Architecture for Failure</a>
 			</h3>
 			<div class="list__meta meta">
 				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
-				<time class="list__meta-date" datetime="2017-10-26T00:00:00">2017/10/26</time>
+				<time class="list__meta-date" datetime="2017-11-10T00:00:00">2017/11/10</time>
 			</div>
 		</header>
 		<div class="list__excerpt">
-			Go + Microservices = Go kit
-Microservices are hard — an invaluable guide to microservices
-Watch the talks from the 2017 Microservices Practitioner Virtual Summit
-Microservices are hard — an invaluable guide to microservices.
-Containers Docker
-Orchestration Kubernetes
-Management Forge
-Api Gateway / Canary Ambassador
-Edge Proxy Envoy
-Monitoring Prometheus
-Local Testing Telepresence
-		</div>
-	</div>
-</article>
-<article class="list__item post clearfix">
-	<div class="list__content clearfix">
-		<header class="list__header">
-			<h3 class="list__title post__title ">
-				<a href="/post/2017/non-standard-clusterization-growing-neural-gas/" rel="bookmark">Non-standard clusterization - Growing Neural Gas</a>
-			</h3>
-			<div class="list__meta meta">
-				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
-				<time class="list__meta-date" datetime="2017-10-26T00:00:00">2017/10/26</time>
-			</div>
-		</header>
-		<div class="list__excerpt">
-			
-		</div>
-	</div>
-</article>
-<article class="list__item post clearfix">
-	<div class="list__content clearfix">
-		<header class="list__header">
-			<h3 class="list__title post__title ">
-				<a href="/post/2017/shine-semantic-package/" rel="bookmark">Shine semantic package</a>
-			</h3>
-			<div class="list__meta meta">
-				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
-				<time class="list__meta-date" datetime="2017-10-22T00:00:00">2017/10/22</time>
-			</div>
-		</header>
-		<div class="list__excerpt">
-			Shiny.semantic
-Semantic UI wrapper for Shiny
-With this library it’s easy to wrap Shiny with Semantic UI components. Add a few simple lines of code and some CSS classes to give your UI a fresh, modern and highly interactive look.
+			A Microservices architecture makes it possible to isolate failures through well-defined service boundaries. But like in every distributed system, there is a higher chance for network, hardware or application level issues. As a consequence of service dependencies, any component can be temporarily unavailable for their consumers. To minimize the impact of partial outages we need to build fault tolerant services that can gracefully respond to certain types of outages.
 Link
-How we built a Shiny App for 700 users?
 		</div>
 	</div>
 </article>
@@ -204,17 +141,15 @@ How we built a Shiny App for 700 users?
 	<div class="list__content clearfix">
 		<header class="list__header">
 			<h3 class="list__title post__title ">
-				<a href="/post/2017/how-to-setup-hyperledger-fabric-and-composer/" rel="bookmark">How to setup Hyperledger Fabric and Composer</a>
+				<a href="/post/2017/build-realtime-apis/" rel="bookmark">Build Realtime APIs</a>
 			</h3>
 			<div class="list__meta meta">
 				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
-				<time class="list__meta-date" datetime="2017-10-09T00:00:00">2017/10/09</time>
+				<time class="list__meta-date" datetime="2017-11-09T00:00:00">2017/11/09</time>
 			</div>
 		</header>
 		<div class="list__excerpt">
-			Hyperledger Fabric is a private blockchain network that provides a foundation for transactional enterprise application
-Hyperledger Composer is a framework to accelerate the development of applications built on top of Hyperledger Fabric
-Fabric and Composer are open source collaborative blockchain framework projects that is hosted by The Linux Foundation. The Fabric blockchain framework is built from the ground-up for enterprise level application, it is a permissioned network, meaning read/write access to the shared ledger and participation in the peer-to-peer network is restricted to invited and validated members, such restriction makes way for advantages like scalability and confidential transactions that are a fundamental requirements for most enterprise applications.
+			
 		</div>
 	</div>
 </article>
@@ -222,17 +157,66 @@ Fabric and Composer are open source collaborative blockchain framework projects 
 	<div class="list__content clearfix">
 		<header class="list__header">
 			<h3 class="list__title post__title ">
-				<a href="/post/2017/learn-blockchains-by-building-one/" rel="bookmark">Learn Blockchains by Building One</a>
+				<a href="/post/2017/go-data-science-tooling-packages-libraries-etc/" rel="bookmark">Go Data Science Tooling, Packages, Libraries, etc.</a>
 			</h3>
 			<div class="list__meta meta">
 				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
-				<time class="list__meta-date" datetime="2017-10-05T00:00:00">2017/10/05</time>
+				<time class="list__meta-date" datetime="2017-11-09T00:00:00">2017/11/09</time>
 			</div>
 		</header>
 		<div class="list__excerpt">
-			The fastest way to learn how Blockchains work is to build one
-You’re here because, like me, you’re psyched about the rise of Cryptocurrencies. And you want to know how Blockchains work—the fundamental technology behind them. But understanding Blockchains isn’t easy—or at least wasn’t for me. I trudged through dense videos, followed porous tutorials, and dealt with the amplified frustration of too few examples.
-I like learning by doing. It forces me to deal with the subject matter at a code level, which gets it sticking.
+			This is a curated list of well-maintained and developing tools, packages, libraries, etc. related to doing data science with Go.
+Link
+		</div>
+	</div>
+</article>
+<article class="list__item post clearfix">
+	<div class="list__content clearfix">
+		<header class="list__header">
+			<h3 class="list__title post__title ">
+				<a href="/post/2017/machine-learning-explorations/" rel="bookmark">Machine Learning Explorations</a>
+			</h3>
+			<div class="list__meta meta">
+				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
+				<time class="list__meta-date" datetime="2017-11-09T00:00:00">2017/11/09</time>
+			</div>
+		</header>
+		<div class="list__excerpt">
+			
+		</div>
+	</div>
+</article>
+<article class="list__item post clearfix">
+	<div class="list__content clearfix">
+		<header class="list__header">
+			<h3 class="list__title post__title ">
+				<a href="/post/2017/explore-predictive-maintenance-with-flexdashboard/" rel="bookmark">Explore Predictive Maintenance with flexdashboard</a>
+			</h3>
+			<div class="list__meta meta">
+				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
+				<time class="list__meta-date" datetime="2017-11-06T00:00:00">2017/11/06</time>
+			</div>
+		</header>
+		<div class="list__excerpt">
+			Predictive Maintenance is an increasingly popular strategy associated with Industry 4.0; it uses advanced analytics and machine learning to optimize machine costs and output (see Google Trends plot below).
+A common use case for Predictive Maintenance is to proactively monitor machines, so as to predict when a check-up is needed to reduce failure and maximize performance. In contrast to traditional maintenance, where each machine has to undergo regular routine check-ups, Predictive Maintenance can save costs and reduce downtime.
+		</div>
+	</div>
+</article>
+<article class="list__item post clearfix">
+	<div class="list__content clearfix">
+		<header class="list__header">
+			<h3 class="list__title post__title ">
+				<a href="/post/2017/getting-started-with-microservices/" rel="bookmark">GETTING STARTED WITH Microservices</a>
+			</h3>
+			<div class="list__meta meta">
+				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
+				<time class="list__meta-date" datetime="2017-11-06T00:00:00">2017/11/06</time>
+			</div>
+		</header>
+		<div class="list__excerpt">
+			The term “microservices” describes a new software development style that has grown from recent trends in software development/management practices—practices meant to increase the speed and efficiency of developing and managing software solutions at scale.
+Agile methods, DevOps culture, cloud, Linux containers, and the widespread adoption (both culturally and technically) of CI/CD methods across the industry are making it possible to build truly modular largescale service-optimized systems for both internal and commercial use.
 		</div>
 	</div>
 </article>
@@ -242,7 +226,7 @@ I like learning by doing. It forces me to deal with the subject matter at a code
 		
 <div class="pagination clearfix">
 	<a class="pagination__item pagination__item--prev" href="/page/51/">«</a>
-	<span class="pagination__item pagination__item--current">52/63</span>
+	<span class="pagination__item pagination__item--current">52/64</span>
 	<a class="pagination__item pagination__item--next" href="/page/53/">»</a>
 </div>
 
@@ -265,16 +249,16 @@ I like learning by doing. It forces me to deal with the subject matter at a code
 	<h4 class="widget__title">Recent Posts</h4>
 	<div class="widget__content">
 		<ul class="widget__list">
-			<li class="widget__item"><a class="widget__link" href="/post/2018/a-library-for-reading-data-from-akka-actors-using-spark-streaming/">A library for reading data from Akka Actors using Spark Streaming.</a></li>
-			<li class="widget__item"><a class="widget__link" href="/post/2018/akkastream-flight-delay/">Akka Streams Flight Delay</a></li>
-			<li class="widget__item"><a class="widget__link" href="/post/2018/akka-streams-kafka/">Akka Streams Kafka</a></li>
-			<li class="widget__item"><a class="widget__link" href="/post/2018/communicating-with-kafka-using-akka-actors/">Communicating with kafka using akka actors</a></li>
-			<li class="widget__item"><a class="widget__link" href="/post/2018/demo-applications-and-code-examples-for-apache-kafka/">Demo applications and code examples for Apache Kafka&#39;s Streams API</a></li>
-			<li class="widget__item"><a class="widget__link" href="/post/2018/how-to-connect-akka-stream-and-spark-streaming/">How to connect Akka Stream and Spark Streaming by turning creating a Flow element that feeds into an InputDstream</a></li>
-			<li class="widget__item"><a class="widget__link" href="/post/2018/lightbend-tutorial-on-writing-microservices-with-akka-streams-kafka-streams-and-kafka/">Lightbend tutorial on writing microservices with Akka Streams, Kafka Streams, and Kafka</a></li>
-			<li class="widget__item"><a class="widget__link" href="/post/2018/self-learning-kafka-streams-with-scala/">Self-Learning Kafka Streams With Scala </a></li>
-			<li class="widget__item"><a class="widget__link" href="/post/2018/self-contained-examples-of-apache-spark-streaming-integrated-with-apache-kafka/">Self-contained examples of Apache Spark streaming integrated with Apache Kafka.</a></li>
-			<li class="widget__item"><a class="widget__link" href="/post/2018/structured-streaming-in-apache-spark-2-2-gitbook/">Structured Streaming in Apache Spark 2.2&#43; GitBook </a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/2018/a-guide-for-time-series-prediction-using-recurrent-neural-networks-lstms/">A Guide For Time Series Prediction Using Recurrent Neural Networks (LSTMs)</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/2018/bayesian-nonparametrics/">Bayesian Nonparametrics</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/2018/devops-pipeline-for-a-machine-learning-project/">DevOps Pipeline for a Machine Learning Project</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/2018/feature-engineering-and-selection-a-practical-approach-for-predictive-models/">Feature Engineering and Selection: A Practical Approach for Predictive Models</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/2018/go-ai-program-which-implement-the-alphago-zero-paper/">Go AI program which implement the AlphaGo Zero paper</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/2018/h2o-kubeflow-kubernetes-how-to/">H2O &#43; Kubeflow/Kubernetes How-To</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/2018/ksonnet-streamline-how-you-write-and-deploy-kubernetes-configurations/">KSONNET - STREAMLINE HOW YOU WRITE AND DEPLOY KUBERNETES CONFIGURATIONS</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/2018/kubeflow-is-an-open-community-driven-project-to-make-it-easy-to-deploy-and-manage-an-ml-stack-on-kubernetes/">Kubeflow is an open, community driven project to make it easy to deploy and manage an ML stack on Kubernetes</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/2018/kubernetes-container-training/">Kubernetes  Container Training</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/2018/machine-learning-on-kubernetes/">Machine Learning on Kubernetes</a></li>
 		</ul>
 	</div>
 </div>

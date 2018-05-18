@@ -6,10 +6,48 @@
     <description>Recent content in Automated Ml on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/automated-ml/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>DevOps Pipeline for a Machine Learning Project</title>
+      <link>https://obaydakov.github.io/post/2018/devops-pipeline-for-a-machine-learning-project/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/devops-pipeline-for-a-machine-learning-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H2O &#43; Kubeflow/Kubernetes How-To</title>
+      <link>https://obaydakov.github.io/post/2018/h2o-kubeflow-kubernetes-how-to/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/h2o-kubeflow-kubernetes-how-to/</guid>
+      <description>Walkthrough on how to deploy H2O 3 on Kubeflow
+Github</description>
+    </item>
+    
+    <item>
+      <title>KSONNET - STREAMLINE HOW YOU WRITE AND DEPLOY KUBERNETES CONFIGURATIONS</title>
+      <link>https://obaydakov.github.io/post/2018/ksonnet-streamline-how-you-write-and-deploy-kubernetes-configurations/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/ksonnet-streamline-how-you-write-and-deploy-kubernetes-configurations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kubernetes  Container Training</title>
+      <link>https://obaydakov.github.io/post/2018/kubernetes-container-training/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/kubernetes-container-training/</guid>
+      <description>Link
+Github</description>
+    </item>
     
     <item>
       <title>Caret Package – A Practical Guide to Machine Learning in R</title>

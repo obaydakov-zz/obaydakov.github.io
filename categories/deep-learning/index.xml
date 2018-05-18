@@ -6,10 +6,19 @@
     <description>Recent content in Deep Learning on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Guide For Time Series Prediction Using Recurrent Neural Networks (LSTMs)</title>
+      <link>https://obaydakov.github.io/post/2018/a-guide-for-time-series-prediction-using-recurrent-neural-networks-lstms/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/a-guide-for-time-series-prediction-using-recurrent-neural-networks-lstms/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Polyaxon - a platform for building, training and monitoring large scale deep learning applications.</title>
