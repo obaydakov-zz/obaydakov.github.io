@@ -6,10 +6,19 @@
     <description>Recent content in Ml Interpretation on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/ml-interpretation/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>DALEX Workshop</title>
+      <link>https://obaydakov.github.io/post/2018/dalex-workshop/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/dalex-workshop/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A unified approach to explain the output of any machine learning model</title>

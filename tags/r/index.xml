@@ -6,10 +6,28 @@
     <description>Recent content in R on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/r/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>DALEX Workshop</title>
+      <link>https://obaydakov.github.io/post/2018/dalex-workshop/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/dalex-workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spark ML Pipelines for R</title>
+      <link>https://obaydakov.github.io/post/2018/spark-ml-pipelines-for-r/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/spark-ml-pipelines-for-r/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Caret Package – A Practical Guide to Machine Learning in R</title>

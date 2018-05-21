@@ -6,10 +6,219 @@
     <description>Recent content on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A framework for writing Spark 2.x applications in a pretty way</title>
+      <link>https://obaydakov.github.io/post/2018/a-framework-for-writing-spark-2-x-applications-in-a-pretty-way/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/a-framework-for-writing-spark-2-x-applications-in-a-pretty-way/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Composing Spark data pipelines</title>
+      <link>https://obaydakov.github.io/post/2018/composing-spark-data-pipelines/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/composing-spark-data-pipelines/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Create Docker images directly from sbt</title>
+      <link>https://obaydakov.github.io/post/2018/create-docker-images-directly-from-sbt/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/create-docker-images-directly-from-sbt/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>DALEX Workshop</title>
+      <link>https://obaydakov.github.io/post/2018/dalex-workshop/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/dalex-workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deeplearning4J Examples for Scala</title>
+      <link>https://obaydakov.github.io/post/2018/deeplearning4j-examples-for-scala/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/deeplearning4j-examples-for-scala/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Diagram- and graph-generating library for Akka Streams</title>
+      <link>https://obaydakov.github.io/post/2018/diagram-and-graph-generating-library-for-akka-streams/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/diagram-and-graph-generating-library-for-akka-streams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elegant regression results tables and plots in R: the finalfit package</title>
+      <link>https://obaydakov.github.io/post/2018/elegant-regression-results-tables-and-plots-in-r-the-finalfit-package/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/elegant-regression-results-tables-and-plots-in-r-the-finalfit-package/</guid>
+      <description>The finafit package brings together the day-to-day functions we use to generate final results tables and plots when modelling. I spent many years repeatedly manually copying results from R analyses and built these functions to automate our standard healthcare data workflow. It is particularly useful when undertaking a large study involving multiple different regression analyses. When combined with RMarkdown, the reporting becomes entirely automated. Its design follows Hadley Wickham’s tidy tool manifesto.</description>
+    </item>
+    
+    <item>
+      <title>Enterprise Dashboards with R Markdown</title>
+      <link>https://obaydakov.github.io/post/2018/enterprise-dashboards-with-r-markdown/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/enterprise-dashboards-with-r-markdown/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Extend Spark ML for your own model/transformer types</title>
+      <link>https://obaydakov.github.io/post/2018/extend-spark-ml-for-your-own-model-transformer-types/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/extend-spark-ml-for-your-own-model-transformer-types/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Functional Data Transformation with Spark</title>
+      <link>https://obaydakov.github.io/post/2018/functional-data-transformation-with-spark/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/functional-data-transformation-with-spark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Functional programming and Spark</title>
+      <link>https://obaydakov.github.io/post/2018/functional-programming-and-spark/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/functional-programming-and-spark/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Improving your project with SBT</title>
+      <link>https://obaydakov.github.io/post/2018/improving-your-project-with-sbt/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/improving-your-project-with-sbt/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>MLeap - xecution engine for machine learning pipelines</title>
+      <link>https://obaydakov.github.io/post/2018/mleap-xecution-engine-for-machine-learning-pipelines/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/mleap-xecution-engine-for-machine-learning-pipelines/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Polyaxon - an open source platform for reproducible machine learning at scale.</title>
+      <link>https://obaydakov.github.io/post/2018/polyaxon-an-open-source-platform-for-reproducible-machine-learning-at-scale/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/polyaxon-an-open-source-platform-for-reproducible-machine-learning-at-scale/</guid>
+      <description>[]()</description>
+    </item>
+    
+    <item>
+      <title>Scala Library/REPL for Machine Learning Research</title>
+      <link>https://obaydakov.github.io/post/2018/scala-library-repl-for-machine-learning-research/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/scala-library-repl-for-machine-learning-research/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Scala for Statistical Computing and Data Science Short Course</title>
+      <link>https://obaydakov.github.io/post/2018/scala-for-statistical-computing-and-data-science-short-course/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/scala-for-statistical-computing-and-data-science-short-course/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Scala helper modules for operating the Apache Kafka client library </title>
+      <link>https://obaydakov.github.io/post/2018/scala-helper-modules-for-operating-the-apache-kafka-client-library/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/scala-helper-modules-for-operating-the-apache-kafka-client-library/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Spark ML Pipelines for R</title>
+      <link>https://obaydakov.github.io/post/2018/spark-ml-pipelines-for-r/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/spark-ml-pipelines-for-r/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Spark Streaming - State and DStreams</title>
+      <link>https://obaydakov.github.io/post/2018/spark-streaming-state-and-dstreams/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/spark-streaming-state-and-dstreams/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>TensorFlow API for the Scala Programming Language</title>
+      <link>https://obaydakov.github.io/post/2018/tensorflow-api-for-the-scala-programming-language/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/tensorflow-api-for-the-scala-programming-language/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Type classes in Scala</title>
+      <link>https://obaydakov.github.io/post/2018/type-classes-in-scala/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/type-classes-in-scala/</guid>
+      <description>Type classes are a powerful and flexible concept that adds ad-hoc polymorphism to Scala. They are not a first-class citizen in the language, but other built-in mechanisms allow writing them in Scala. This is the reason why they are not so obvious to spot in code and one can have some confusion over what the ‘correct’ way of writing them is.
+List
+Example</description>
+    </item>
+    
+    <item>
+      <title>sbt plugin to create a class diagram</title>
+      <link>https://obaydakov.github.io/post/2018/sbt-plugin-to-create-a-class-diagram/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/sbt-plugin-to-create-a-class-diagram/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>sparklyr 0.8</title>
+      <link>https://obaydakov.github.io/post/2018/sparklyr-0-8/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/sparklyr-0-8/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Kubeapps - The Easiest Way to Deploy Applications in Your Kubernetes Cluster</title>

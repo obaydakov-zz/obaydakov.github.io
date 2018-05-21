@@ -6,10 +6,28 @@
     <description>Recent content in Deep Learning on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Deeplearning4J Examples for Scala</title>
+      <link>https://obaydakov.github.io/post/2018/deeplearning4j-examples-for-scala/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/deeplearning4j-examples-for-scala/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>TensorFlow API for the Scala Programming Language</title>
+      <link>https://obaydakov.github.io/post/2018/tensorflow-api-for-the-scala-programming-language/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/tensorflow-api-for-the-scala-programming-language/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>A Guide For Time Series Prediction Using Recurrent Neural Networks (LSTMs)</title>

@@ -6,10 +6,19 @@
     <description>Recent content in Kafka on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/kafka/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Scala helper modules for operating the Apache Kafka client library </title>
+      <link>https://obaydakov.github.io/post/2018/scala-helper-modules-for-operating-the-apache-kafka-client-library/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/scala-helper-modules-for-operating-the-apache-kafka-client-library/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Akka Streams Kafka</title>

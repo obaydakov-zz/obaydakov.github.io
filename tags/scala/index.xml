@@ -6,10 +6,127 @@
     <description>Recent content in Scala on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/scala/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A framework for writing Spark 2.x applications in a pretty way</title>
+      <link>https://obaydakov.github.io/post/2018/a-framework-for-writing-spark-2-x-applications-in-a-pretty-way/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/a-framework-for-writing-spark-2-x-applications-in-a-pretty-way/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Composing Spark data pipelines</title>
+      <link>https://obaydakov.github.io/post/2018/composing-spark-data-pipelines/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/composing-spark-data-pipelines/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Create Docker images directly from sbt</title>
+      <link>https://obaydakov.github.io/post/2018/create-docker-images-directly-from-sbt/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/create-docker-images-directly-from-sbt/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Deeplearning4J Examples for Scala</title>
+      <link>https://obaydakov.github.io/post/2018/deeplearning4j-examples-for-scala/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/deeplearning4j-examples-for-scala/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Diagram- and graph-generating library for Akka Streams</title>
+      <link>https://obaydakov.github.io/post/2018/diagram-and-graph-generating-library-for-akka-streams/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/diagram-and-graph-generating-library-for-akka-streams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extend Spark ML for your own model/transformer types</title>
+      <link>https://obaydakov.github.io/post/2018/extend-spark-ml-for-your-own-model-transformer-types/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/extend-spark-ml-for-your-own-model-transformer-types/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Functional Data Transformation with Spark</title>
+      <link>https://obaydakov.github.io/post/2018/functional-data-transformation-with-spark/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/functional-data-transformation-with-spark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Functional programming and Spark</title>
+      <link>https://obaydakov.github.io/post/2018/functional-programming-and-spark/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/functional-programming-and-spark/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Scala Library/REPL for Machine Learning Research</title>
+      <link>https://obaydakov.github.io/post/2018/scala-library-repl-for-machine-learning-research/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/scala-library-repl-for-machine-learning-research/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Scala for Statistical Computing and Data Science Short Course</title>
+      <link>https://obaydakov.github.io/post/2018/scala-for-statistical-computing-and-data-science-short-course/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/scala-for-statistical-computing-and-data-science-short-course/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Scala helper modules for operating the Apache Kafka client library </title>
+      <link>https://obaydakov.github.io/post/2018/scala-helper-modules-for-operating-the-apache-kafka-client-library/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/scala-helper-modules-for-operating-the-apache-kafka-client-library/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>TensorFlow API for the Scala Programming Language</title>
+      <link>https://obaydakov.github.io/post/2018/tensorflow-api-for-the-scala-programming-language/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/tensorflow-api-for-the-scala-programming-language/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>sbt plugin to create a class diagram</title>
+      <link>https://obaydakov.github.io/post/2018/sbt-plugin-to-create-a-class-diagram/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/sbt-plugin-to-create-a-class-diagram/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>A library for reading data from Akka Actors using Spark Streaming.</title>

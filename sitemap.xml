@@ -3,6 +3,121 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://obaydakov.github.io/post/2018/a-framework-for-writing-spark-2-x-applications-in-a-pretty-way/</loc>
+    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/composing-spark-data-pipelines/</loc>
+    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/create-docker-images-directly-from-sbt/</loc>
+    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/dalex-workshop/</loc>
+    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/deeplearning4j-examples-for-scala/</loc>
+    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/diagram-and-graph-generating-library-for-akka-streams/</loc>
+    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/elegant-regression-results-tables-and-plots-in-r-the-finalfit-package/</loc>
+    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/enterprise-dashboards-with-r-markdown/</loc>
+    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/extend-spark-ml-for-your-own-model-transformer-types/</loc>
+    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/functional-data-transformation-with-spark/</loc>
+    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/functional-programming-and-spark/</loc>
+    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/improving-your-project-with-sbt/</loc>
+    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/mleap-xecution-engine-for-machine-learning-pipelines/</loc>
+    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/polyaxon-an-open-source-platform-for-reproducible-machine-learning-at-scale/</loc>
+    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/scala-library-repl-for-machine-learning-research/</loc>
+    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/scala-for-statistical-computing-and-data-science-short-course/</loc>
+    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/scala-helper-modules-for-operating-the-apache-kafka-client-library/</loc>
+    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/spark-ml-pipelines-for-r/</loc>
+    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/spark-streaming-state-and-dstreams/</loc>
+    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/tensorflow-api-for-the-scala-programming-language/</loc>
+    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/type-classes-in-scala/</loc>
+    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/sbt-plugin-to-create-a-class-diagram/</loc>
+    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/sparklyr-0-8/</loc>
+    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://obaydakov.github.io/post/2018/kubeapps-the-easiest-way-to-deploy-applications-in-your-kubernetes-cluster/</loc>
     <lastmod>2018-05-19T00:00:00+00:00</lastmod>
   </url>
@@ -3200,7 +3315,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/akka/</loc>
-    <lastmod>2018-05-12T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3218,7 +3333,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/automated-ml/</loc>
-    <lastmod>2018-05-18T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3254,7 +3369,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/</loc>
-    <lastmod>2018-05-12T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3278,7 +3393,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/deep-learning/</loc>
-    <lastmod>2018-05-18T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3344,7 +3459,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/kafka/</loc>
-    <lastmod>2018-05-12T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3368,7 +3483,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/machine-learning/</loc>
-    <lastmod>2018-05-18T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3392,7 +3507,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/ml-interpretation/</loc>
-    <lastmod>2018-05-05T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3404,13 +3519,13 @@
   
   <url>
     <loc>https://obaydakov.github.io/</loc>
-    <lastmod>2018-05-19T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/post/</loc>
-    <lastmod>2018-05-19T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3428,31 +3543,31 @@
   
   <url>
     <loc>https://obaydakov.github.io/tags/r/</loc>
-    <lastmod>2018-05-10T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/categories/r/</loc>
-    <lastmod>2018-05-10T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/tags/scala/</loc>
-    <lastmod>2018-05-12T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/categories/scala/</loc>
-    <lastmod>2018-05-12T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/categories/spark/</loc>
-    <lastmod>2018-05-12T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3464,7 +3579,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/tags/technology/</loc>
-    <lastmod>2018-05-19T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3488,7 +3603,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/tags/visualization/</loc>
-    <lastmod>2018-05-05T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
