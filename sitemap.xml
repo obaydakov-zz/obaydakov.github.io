@@ -3,6 +3,56 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://obaydakov.github.io/post/2018/a-recipe-for-recipes/</loc>
+    <lastmod>2018-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/akka-stream-kafka-complete-stream-when-reached-end-of-log/</loc>
+    <lastmod>2018-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/akka-streams-cookbook/</loc>
+    <lastmod>2018-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/akka-streams-from-zero-to-kafka/</loc>
+    <lastmod>2018-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/algorithm-behind-alphago-and-alphago-zero/</loc>
+    <lastmod>2018-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/demo-code-for-the-sparklyr-talk-at-sdss-2018/</loc>
+    <lastmod>2018-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/functional-programming-with-kafka-streams-and-scala/</loc>
+    <lastmod>2018-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/kafka-streams-dsl-vs-processor-api/</loc>
+    <lastmod>2018-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/rules-of-machine-learning-best-practices-for-ml-engineering/</loc>
+    <lastmod>2018-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/simply-explained-akka-streams-backpressure/</loc>
+    <lastmod>2018-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://obaydakov.github.io/post/2018/a-framework-for-writing-spark-2-x-applications-in-a-pretty-way/</loc>
     <lastmod>2018-05-21T00:00:00+00:00</lastmod>
   </url>
@@ -153,6 +203,11 @@
   </url>
   
   <url>
+    <loc>https://obaydakov.github.io/post/2018/introducing-seldon-core-our-new-open-source-framework-for-deploying-machine-learning-models-on-kubernetes/</loc>
+    <lastmod>2018-05-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://obaydakov.github.io/post/2018/ksonnet-streamline-how-you-write-and-deploy-kubernetes-configurations/</loc>
     <lastmod>2018-05-18T00:00:00+00:00</lastmod>
   </url>
@@ -179,11 +234,6 @@
   
   <url>
     <loc>https://obaydakov.github.io/post/2018/time-series-anomaly-detection-algorithms/</loc>
-    <lastmod>2018-05-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://obaydakov.github.io/post/2018/ntroducing-seldon-core-our-new-open-source-framework-for-deploying-machine-learning-models-on-kubernetes/</loc>
     <lastmod>2018-05-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -3315,7 +3365,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/akka/</loc>
-    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3333,7 +3383,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/automated-ml/</loc>
-    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3369,7 +3419,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/</loc>
-    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3423,18 +3473,18 @@
   
   <url>
     <loc>https://obaydakov.github.io/tags/go/</loc>
+    <lastmod>2018-05-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/categories/golang/</loc>
     <lastmod>2018-05-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/tags/golang/</loc>
-    <lastmod>2018-05-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://obaydakov.github.io/categories/golang/</loc>
     <lastmod>2018-05-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -3459,7 +3509,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/kafka/</loc>
-    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3483,7 +3533,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/machine-learning/</loc>
-    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3519,19 +3569,13 @@
   
   <url>
     <loc>https://obaydakov.github.io/</loc>
-    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/post/</loc>
-    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://obaydakov.github.io/tags/python/</loc>
-    <lastmod>2018-05-10T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3542,32 +3586,38 @@
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/tags/r/</loc>
-    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
+    <loc>https://obaydakov.github.io/tags/python/</loc>
+    <lastmod>2018-05-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/categories/r/</loc>
-    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/tags/scala/</loc>
-    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
+    <loc>https://obaydakov.github.io/tags/r/</loc>
+    <lastmod>2018-05-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/categories/scala/</loc>
-    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/tags/scala/</loc>
+    <lastmod>2018-05-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/categories/spark/</loc>
-    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3585,7 +3635,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/tags/theory/</loc>
-    <lastmod>2018-05-18T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

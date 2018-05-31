@@ -6,10 +6,28 @@
     <description>Recent content in R on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/r/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A recipe for recipes</title>
+      <link>https://obaydakov.github.io/post/2018/a-recipe-for-recipes/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/a-recipe-for-recipes/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Demo code for the &#39;sparklyr&#39; talk at SDSS 2018</title>
+      <link>https://obaydakov.github.io/post/2018/demo-code-for-the-sparklyr-talk-at-sdss-2018/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/demo-code-for-the-sparklyr-talk-at-sdss-2018/</guid>
+      <description>Github</description>
+    </item>
     
     <item>
       <title>DALEX Workshop</title>

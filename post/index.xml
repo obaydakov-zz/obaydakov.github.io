@@ -6,10 +6,101 @@
     <description>Recent content in Posts on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A recipe for recipes</title>
+      <link>https://obaydakov.github.io/post/2018/a-recipe-for-recipes/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/a-recipe-for-recipes/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Akka Stream Kafka, complete stream when reached end of log</title>
+      <link>https://obaydakov.github.io/post/2018/akka-stream-kafka-complete-stream-when-reached-end-of-log/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/akka-stream-kafka-complete-stream-when-reached-end-of-log/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Akka Streams Cookbook</title>
+      <link>https://obaydakov.github.io/post/2018/akka-streams-cookbook/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/akka-streams-cookbook/</guid>
+      <description>This is a collection of patterns to demonstrate various usage of the Akka Streams API by solving small targeted problems in the format of “recipes”. The purpose of this page is to give inspiration and ideas how to approach various small tasks involving streams. The recipes in this page can be used directly as-is, but they are most powerful as starting points: customization of the code snippets is warmly encouraged.</description>
+    </item>
+    
+    <item>
+      <title>Akka Streams From Zero to Kafka</title>
+      <link>https://obaydakov.github.io/post/2018/akka-streams-from-zero-to-kafka/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/akka-streams-from-zero-to-kafka/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Algorithm behind AlphaGo and AlphaGo Zero</title>
+      <link>https://obaydakov.github.io/post/2018/algorithm-behind-alphago-and-alphago-zero/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/algorithm-behind-alphago-and-alphago-zero/</guid>
+      <description>Briefly review of AlphaGo and AlphaGo Zero algorithm. How it works, and how it learns from self-play.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Demo code for the &#39;sparklyr&#39; talk at SDSS 2018</title>
+      <link>https://obaydakov.github.io/post/2018/demo-code-for-the-sparklyr-talk-at-sdss-2018/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/demo-code-for-the-sparklyr-talk-at-sdss-2018/</guid>
+      <description>Github</description>
+    </item>
+    
+    <item>
+      <title>Functional Programming with Kafka Streams and Scala</title>
+      <link>https://obaydakov.github.io/post/2018/functional-programming-with-kafka-streams-and-scala/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/functional-programming-with-kafka-streams-and-scala/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Kafka Streams DSL vs Processor API</title>
+      <link>https://obaydakov.github.io/post/2018/kafka-streams-dsl-vs-processor-api/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/kafka-streams-dsl-vs-processor-api/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Rules of Machine Learning: Best Practices for ML Engineering</title>
+      <link>https://obaydakov.github.io/post/2018/rules-of-machine-learning-best-practices-for-ml-engineering/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/rules-of-machine-learning-best-practices-for-ml-engineering/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Simply explained: Akka Streams Backpressure</title>
+      <link>https://obaydakov.github.io/post/2018/simply-explained-akka-streams-backpressure/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/simply-explained-akka-streams-backpressure/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>A framework for writing Spark 2.x applications in a pretty way</title>
@@ -134,7 +225,7 @@
       <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/post/2018/polyaxon-an-open-source-platform-for-reproducible-machine-learning-at-scale/</guid>
-      <description>[]()</description>
+      <description></description>
     </item>
     
     <item>
@@ -286,6 +377,16 @@ Github</description>
     </item>
     
     <item>
+      <title>Introducing Seldon Core Our new open-source framework for deploying machine learning models on Kubernetes.</title>
+      <link>https://obaydakov.github.io/post/2018/introducing-seldon-core-our-new-open-source-framework-for-deploying-machine-learning-models-on-kubernetes/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/introducing-seldon-core-our-new-open-source-framework-for-deploying-machine-learning-models-on-kubernetes/</guid>
+      <description>seldon-core
+seldon-server</description>
+    </item>
+    
+    <item>
       <title>KSONNET - STREAMLINE HOW YOU WRITE AND DEPLOY KUBERNETES CONFIGURATIONS</title>
       <link>https://obaydakov.github.io/post/2018/ksonnet-streamline-how-you-write-and-deploy-kubernetes-configurations/</link>
       <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
@@ -342,16 +443,6 @@ Link</description>
       
       <guid>https://obaydakov.github.io/post/2018/time-series-anomaly-detection-algorithms/</guid>
       <description>The current state of anomaly detection techniques in plain language Link</description>
-    </item>
-    
-    <item>
-      <title>ntroducing Seldon Core Our new open-source framework for deploying machine learning models on Kubernetes.</title>
-      <link>https://obaydakov.github.io/post/2018/ntroducing-seldon-core-our-new-open-source-framework-for-deploying-machine-learning-models-on-kubernetes/</link>
-      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://obaydakov.github.io/post/2018/ntroducing-seldon-core-our-new-open-source-framework-for-deploying-machine-learning-models-on-kubernetes/</guid>
-      <description>seldon-core
-seldon-server</description>
     </item>
     
     <item>

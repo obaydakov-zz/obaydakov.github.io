@@ -6,10 +6,19 @@
     <description>Recent content in Automated Ml on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/automated-ml/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Rules of Machine Learning: Best Practices for ML Engineering</title>
+      <link>https://obaydakov.github.io/post/2018/rules-of-machine-learning-best-practices-for-ml-engineering/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/rules-of-machine-learning-best-practices-for-ml-engineering/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>MLeap - xecution engine for machine learning pipelines</title>
@@ -26,7 +35,7 @@
       <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/post/2018/polyaxon-an-open-source-platform-for-reproducible-machine-learning-at-scale/</guid>
-      <description>[]()</description>
+      <description></description>
     </item>
     
     <item>

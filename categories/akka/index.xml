@@ -6,10 +6,64 @@
     <description>Recent content in Akka on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/akka/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Akka Stream Kafka, complete stream when reached end of log</title>
+      <link>https://obaydakov.github.io/post/2018/akka-stream-kafka-complete-stream-when-reached-end-of-log/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/akka-stream-kafka-complete-stream-when-reached-end-of-log/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Akka Streams Cookbook</title>
+      <link>https://obaydakov.github.io/post/2018/akka-streams-cookbook/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/akka-streams-cookbook/</guid>
+      <description>This is a collection of patterns to demonstrate various usage of the Akka Streams API by solving small targeted problems in the format of “recipes”. The purpose of this page is to give inspiration and ideas how to approach various small tasks involving streams. The recipes in this page can be used directly as-is, but they are most powerful as starting points: customization of the code snippets is warmly encouraged.</description>
+    </item>
+    
+    <item>
+      <title>Akka Streams From Zero to Kafka</title>
+      <link>https://obaydakov.github.io/post/2018/akka-streams-from-zero-to-kafka/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/akka-streams-from-zero-to-kafka/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Functional Programming with Kafka Streams and Scala</title>
+      <link>https://obaydakov.github.io/post/2018/functional-programming-with-kafka-streams-and-scala/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/functional-programming-with-kafka-streams-and-scala/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Kafka Streams DSL vs Processor API</title>
+      <link>https://obaydakov.github.io/post/2018/kafka-streams-dsl-vs-processor-api/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/kafka-streams-dsl-vs-processor-api/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Simply explained: Akka Streams Backpressure</title>
+      <link>https://obaydakov.github.io/post/2018/simply-explained-akka-streams-backpressure/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/simply-explained-akka-streams-backpressure/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Diagram- and graph-generating library for Akka Streams</title>

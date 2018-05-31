@@ -31,6 +31,16 @@ Github</description>
     </item>
     
     <item>
+      <title>Introducing Seldon Core Our new open-source framework for deploying machine learning models on Kubernetes.</title>
+      <link>https://obaydakov.github.io/post/2018/introducing-seldon-core-our-new-open-source-framework-for-deploying-machine-learning-models-on-kubernetes/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/introducing-seldon-core-our-new-open-source-framework-for-deploying-machine-learning-models-on-kubernetes/</guid>
+      <description>seldon-core
+seldon-server</description>
+    </item>
+    
+    <item>
       <title>KSONNET - STREAMLINE HOW YOU WRITE AND DEPLOY KUBERNETES CONFIGURATIONS</title>
       <link>https://obaydakov.github.io/post/2018/ksonnet-streamline-how-you-write-and-deploy-kubernetes-configurations/</link>
       <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
@@ -68,16 +78,6 @@ Github</description>
       
       <guid>https://obaydakov.github.io/post/2018/machine-learning-on-kubernetes/</guid>
       <description>Machine Learning Kubernetes Rocks</description>
-    </item>
-    
-    <item>
-      <title>ntroducing Seldon Core Our new open-source framework for deploying machine learning models on Kubernetes.</title>
-      <link>https://obaydakov.github.io/post/2018/ntroducing-seldon-core-our-new-open-source-framework-for-deploying-machine-learning-models-on-kubernetes/</link>
-      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://obaydakov.github.io/post/2018/ntroducing-seldon-core-our-new-open-source-framework-for-deploying-machine-learning-models-on-kubernetes/</guid>
-      <description>seldon-core
-seldon-server</description>
     </item>
     
     <item>

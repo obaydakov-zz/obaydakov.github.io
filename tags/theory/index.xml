@@ -6,10 +6,29 @@
     <description>Recent content in Theory on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/theory/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Algorithm behind AlphaGo and AlphaGo Zero</title>
+      <link>https://obaydakov.github.io/post/2018/algorithm-behind-alphago-and-alphago-zero/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/algorithm-behind-alphago-and-alphago-zero/</guid>
+      <description>Briefly review of AlphaGo and AlphaGo Zero algorithm. How it works, and how it learns from self-play.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Rules of Machine Learning: Best Practices for ML Engineering</title>
+      <link>https://obaydakov.github.io/post/2018/rules-of-machine-learning-best-practices-for-ml-engineering/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/rules-of-machine-learning-best-practices-for-ml-engineering/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>A Guide For Time Series Prediction Using Recurrent Neural Networks (LSTMs)</title>
