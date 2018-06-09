@@ -6,10 +6,19 @@
     <description>Recent content in Theory on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/theory/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Why GDPR will Make Machine Learning not so legal</title>
+      <link>https://obaydakov.github.io/post/2018/why-gdpr-will-make-machine-learning-not-so-legal/</link>
+      <pubDate>Sat, 09 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/why-gdpr-will-make-machine-learning-not-so-legal/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Algorithm behind AlphaGo and AlphaGo Zero</title>
