@@ -6,10 +6,28 @@
     <description>Recent content in Nlp on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/nlp/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Curated list of 2vec-type embedding models</title>
+      <link>https://obaydakov.github.io/post/2018/curated-list-of-2vec-type-embedding-models/</link>
+      <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/curated-list-of-2vec-type-embedding-models/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Getting started in Natural Language Processing (NLP)</title>
+      <link>https://obaydakov.github.io/post/2018/getting-started-in-natural-language-processing-nlp/</link>
+      <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/getting-started-in-natural-language-processing-nlp/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Topic Modeling with Gensim </title>

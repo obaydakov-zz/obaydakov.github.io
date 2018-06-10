@@ -6,10 +6,64 @@
     <description>Recent content in Posts on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Curated list of 2vec-type embedding models</title>
+      <link>https://obaydakov.github.io/post/2018/curated-list-of-2vec-type-embedding-models/</link>
+      <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/curated-list-of-2vec-type-embedding-models/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Effortless Exception Logging in R: loggit!</title>
+      <link>https://obaydakov.github.io/post/2018/effortless-exception-logging-in-r-loggit/</link>
+      <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/effortless-exception-logging-in-r-loggit/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Getting started in Natural Language Processing (NLP)</title>
+      <link>https://obaydakov.github.io/post/2018/getting-started-in-natural-language-processing-nlp/</link>
+      <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/getting-started-in-natural-language-processing-nlp/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Hyperdash - Machine Learning Monitoring.  Worry-free tracking for your training</title>
+      <link>https://obaydakov.github.io/post/2018/hyperdash-machine-learning-monitoring-worry-free-tracking-for-your-training/</link>
+      <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/hyperdash-machine-learning-monitoring-worry-free-tracking-for-your-training/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalameta</title>
+      <link>https://obaydakov.github.io/post/2018/scalameta/</link>
+      <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/scalameta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semiotic is an opinionated framework optimized to enable effective communication through data visualization.</title>
+      <link>https://obaydakov.github.io/post/2018/semiotic-is-an-opinionated-framework-optimized-to-enable-effective-communication-through-data-visualization/</link>
+      <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/semiotic-is-an-opinionated-framework-optimized-to-enable-effective-communication-through-data-visualization/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Data Governance and GDPR with Apache Kafka</title>
@@ -660,10 +714,10 @@ E-book</description>
     
     <item>
       <title>Fractal AI</title>
-      <link>https://obaydakov.github.io/post/fractal-ai/</link>
+      <link>https://obaydakov.github.io/post/2018/fractal-ai/</link>
       <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/fractal-ai/</guid>
+      <guid>https://obaydakov.github.io/post/2018/fractal-ai/</guid>
       <description>Entropic and Fractal Intelligence
 Github
 Fractal AI - A Fragile Theory of Intelligence</description>
@@ -671,10 +725,10 @@ Fractal AI - A Fragile Theory of Intelligence</description>
     
     <item>
       <title>General Game-Playing With Monte Carlo Tree Search</title>
-      <link>https://obaydakov.github.io/post/general-game-playing-with-monte-carlo-tree-search/</link>
+      <link>https://obaydakov.github.io/post/2018/general-game-playing-with-monte-carlo-tree-search/</link>
       <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/general-game-playing-with-monte-carlo-tree-search/</guid>
+      <guid>https://obaydakov.github.io/post/2018/general-game-playing-with-monte-carlo-tree-search/</guid>
       <description></description>
     </item>
     
@@ -809,10 +863,10 @@ R Graph Gallery</description>
     
     <item>
       <title>Top Tutorials To Learn Kubernetes</title>
-      <link>https://obaydakov.github.io/post/top-tutorials-to-learn-kubernetes/</link>
+      <link>https://obaydakov.github.io/post/2018/top-tutorials-to-learn-kubernetes/</link>
       <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/top-tutorials-to-learn-kubernetes/</guid>
+      <guid>https://obaydakov.github.io/post/2018/top-tutorials-to-learn-kubernetes/</guid>
       <description></description>
     </item>
     
@@ -1333,10 +1387,10 @@ Themes</description>
     
     <item>
       <title>How to build your own AlphaZero AI using Python and Keras</title>
-      <link>https://obaydakov.github.io/post/how-to-build-your-own-alphazero-ai-using-python-and-keras/</link>
+      <link>https://obaydakov.github.io/post/2018/how-to-build-your-own-alphazero-ai-using-python-and-keras/</link>
       <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/how-to-build-your-own-alphazero-ai-using-python-and-keras/</guid>
+      <guid>https://obaydakov.github.io/post/2018/how-to-build-your-own-alphazero-ai-using-python-and-keras/</guid>
       <description></description>
     </item>
     
@@ -1408,10 +1462,10 @@ Link</description>
     
     <item>
       <title>Of Streams and Tables in Kafka and Stream Processing</title>
-      <link>https://obaydakov.github.io/post/of-streams-and-tables-in-kafka-and-stream-processing/</link>
+      <link>https://obaydakov.github.io/post/2018/of-streams-and-tables-in-kafka-and-stream-processing/</link>
       <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/of-streams-and-tables-in-kafka-and-stream-processing/</guid>
+      <guid>https://obaydakov.github.io/post/2018/of-streams-and-tables-in-kafka-and-stream-processing/</guid>
       <description>Link</description>
     </item>
     

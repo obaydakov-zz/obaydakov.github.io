@@ -6,10 +6,28 @@
     <description>Recent content in Technology on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hyperdash - Machine Learning Monitoring.  Worry-free tracking for your training</title>
+      <link>https://obaydakov.github.io/post/2018/hyperdash-machine-learning-monitoring-worry-free-tracking-for-your-training/</link>
+      <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/hyperdash-machine-learning-monitoring-worry-free-tracking-for-your-training/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalameta</title>
+      <link>https://obaydakov.github.io/post/2018/scalameta/</link>
+      <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/scalameta/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Data Governance and GDPR with Apache Kafka</title>
@@ -219,10 +237,10 @@ Github</description>
     
     <item>
       <title>Top Tutorials To Learn Kubernetes</title>
-      <link>https://obaydakov.github.io/post/top-tutorials-to-learn-kubernetes/</link>
+      <link>https://obaydakov.github.io/post/2018/top-tutorials-to-learn-kubernetes/</link>
       <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/top-tutorials-to-learn-kubernetes/</guid>
+      <guid>https://obaydakov.github.io/post/2018/top-tutorials-to-learn-kubernetes/</guid>
       <description></description>
     </item>
     
@@ -325,10 +343,10 @@ Link</description>
     
     <item>
       <title>Of Streams and Tables in Kafka and Stream Processing</title>
-      <link>https://obaydakov.github.io/post/of-streams-and-tables-in-kafka-and-stream-processing/</link>
+      <link>https://obaydakov.github.io/post/2018/of-streams-and-tables-in-kafka-and-stream-processing/</link>
       <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/of-streams-and-tables-in-kafka-and-stream-processing/</guid>
+      <guid>https://obaydakov.github.io/post/2018/of-streams-and-tables-in-kafka-and-stream-processing/</guid>
       <description>Link</description>
     </item>
     
