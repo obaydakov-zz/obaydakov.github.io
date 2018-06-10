@@ -12,11 +12,56 @@
     
     
     <item>
+      <title>Applied Cloud Deep Semantic Recognition: Advanced Anomaly Detection</title>
+      <link>https://obaydakov.github.io/post/2018/applied-cloud-deep-semantic-recognition-advanced-anomaly-detection/</link>
+      <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/applied-cloud-deep-semantic-recognition-advanced-anomaly-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CHAID and caret – a good combo</title>
+      <link>https://obaydakov.github.io/post/2018/chaid-and-caret-a-good-combo/</link>
+      <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/chaid-and-caret-a-good-combo/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Ceteris Paribus Plots</title>
+      <link>https://obaydakov.github.io/post/2018/ceteris-paribus-plots/</link>
+      <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/ceteris-paribus-plots/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
       <title>Curated list of 2vec-type embedding models</title>
       <link>https://obaydakov.github.io/post/2018/curated-list-of-2vec-type-embedding-models/</link>
       <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/post/2018/curated-list-of-2vec-type-embedding-models/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Data Science for Startups: Data Pipelines</title>
+      <link>https://obaydakov.github.io/post/2018/data-science-for-startups-data-pipelines/</link>
+      <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/data-science-for-startups-data-pipelines/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Database bulk update and inline editing in a Shiny Application</title>
+      <link>https://obaydakov.github.io/post/2018/database-bulk-update-and-inline-editing-in-a-shiny-application/</link>
+      <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/database-bulk-update-and-inline-editing-in-a-shiny-application/</guid>
       <description>Link</description>
     </item>
     
@@ -39,12 +84,39 @@
     </item>
     
     <item>
+      <title>How To Plot With Patchwork</title>
+      <link>https://obaydakov.github.io/post/2018/how-to-plot-with-patchwork/</link>
+      <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/how-to-plot-with-patchwork/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
       <title>Hyperdash - Machine Learning Monitoring.  Worry-free tracking for your training</title>
       <link>https://obaydakov.github.io/post/2018/hyperdash-machine-learning-monitoring-worry-free-tracking-for-your-training/</link>
       <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/post/2018/hyperdash-machine-learning-monitoring-worry-free-tracking-for-your-training/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Intuitively Understanding Convolutions for Deep Learning</title>
+      <link>https://obaydakov.github.io/post/2018/intuitively-understanding-convolutions-for-deep-learning/</link>
+      <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/intuitively-understanding-convolutions-for-deep-learning/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Must know Information Theory concepts in Deep Learning (AI)</title>
+      <link>https://obaydakov.github.io/post/2018/must-know-information-theory-concepts-in-deep-learning-ai/</link>
+      <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/must-know-information-theory-concepts-in-deep-learning-ai/</guid>
+      <description>Link</description>
     </item>
     
     <item>
@@ -63,6 +135,24 @@
       
       <guid>https://obaydakov.github.io/post/2018/semiotic-is-an-opinionated-framework-optimized-to-enable-effective-communication-through-data-visualization/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Sentiment analysis: 10 applications and 4 services</title>
+      <link>https://obaydakov.github.io/post/2018/sentiment-analysis-10-applications-and-4-services/</link>
+      <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/sentiment-analysis-10-applications-and-4-services/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>The Big List of DS/ML Interview Resources</title>
+      <link>https://obaydakov.github.io/post/2018/the-big-list-of-ds-ml-interview-resources/</link>
+      <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/the-big-list-of-ds-ml-interview-resources/</guid>
+      <description>Link</description>
     </item>
     
     <item>
@@ -6571,6 +6661,15 @@ thumbnail: &amp;ldquo; Hortonworks, Inc. � (NASDAQ: HDP), a leading innovator 
       
       <guid>https://obaydakov.github.io/post/2017/2017-12-03-explain-explain-explain/</guid>
       <description>code{white-space: pre;} pre:not([class]) { background-color: white; }  if (window.hljs) { hljs.configure({languages: []}); hljs.initHighlightingOnLoad(); if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) { window.setTimeout(function() { hljs.initHighlighting(); }, 0); } }  h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://obaydakov.github.io/post/2018/2018-06-10-information-security-anomaly-detection-and-threat-hunting-with-anomalize/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/2018-06-10-information-security-anomaly-detection-and-threat-hunting-with-anomalize/</guid>
+      <description></description>
     </item>
     
   </channel>

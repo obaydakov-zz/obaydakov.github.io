@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Anomaly Detection</title>
       <link>https://obaydakov.github.io/tags/anomaly-detection/</link>
-      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/tags/anomaly-detection/</guid>
       <description></description>
@@ -98,6 +98,15 @@
       <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/tags/hyperparameters-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Job Interview</title>
+      <link>https://obaydakov.github.io/tags/job-interview/</link>
+      <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/tags/job-interview/</guid>
       <description></description>
     </item>
     

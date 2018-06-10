@@ -3,7 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://obaydakov.github.io/post/2018/applied-cloud-deep-semantic-recognition-advanced-anomaly-detection/</loc>
+    <lastmod>2018-06-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/chaid-and-caret-a-good-combo/</loc>
+    <lastmod>2018-06-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/ceteris-paribus-plots/</loc>
+    <lastmod>2018-06-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://obaydakov.github.io/post/2018/curated-list-of-2vec-type-embedding-models/</loc>
+    <lastmod>2018-06-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/data-science-for-startups-data-pipelines/</loc>
+    <lastmod>2018-06-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/database-bulk-update-and-inline-editing-in-a-shiny-application/</loc>
     <lastmod>2018-06-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -18,7 +43,22 @@
   </url>
   
   <url>
+    <loc>https://obaydakov.github.io/post/2018/how-to-plot-with-patchwork/</loc>
+    <lastmod>2018-06-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://obaydakov.github.io/post/2018/hyperdash-machine-learning-monitoring-worry-free-tracking-for-your-training/</loc>
+    <lastmod>2018-06-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/intuitively-understanding-convolutions-for-deep-learning/</loc>
+    <lastmod>2018-06-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/must-know-information-theory-concepts-in-deep-learning-ai/</loc>
     <lastmod>2018-06-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -29,6 +69,16 @@
   
   <url>
     <loc>https://obaydakov.github.io/post/2018/semiotic-is-an-opinionated-framework-optimized-to-enable-effective-communication-through-data-visualization/</loc>
+    <lastmod>2018-06-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/sentiment-analysis-10-applications-and-4-services/</loc>
+    <lastmod>2018-06-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/the-big-list-of-ds-ml-interview-resources/</loc>
     <lastmod>2018-06-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -3429,6 +3479,10 @@
   </url>
   
   <url>
+    <loc>https://obaydakov.github.io/post/2018/2018-06-10-information-security-anomaly-detection-and-threat-hunting-with-anomalize/</loc>
+  </url>
+  
+  <url>
     <loc>https://obaydakov.github.io/categories/akka/</loc>
     <lastmod>2018-05-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -3442,7 +3496,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/tags/anomaly-detection/</loc>
-    <lastmod>2018-05-18T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3508,7 +3562,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/deep-learning/</loc>
-    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3573,6 +3627,12 @@
   </url>
   
   <url>
+    <loc>https://obaydakov.github.io/tags/job-interview/</loc>
+    <lastmod>2018-06-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://obaydakov.github.io/categories/kafka/</loc>
     <lastmod>2018-06-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -3622,7 +3682,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/ml-interpretation/</loc>
-    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3688,7 +3748,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/tags/</loc>
-    <lastmod>2018-05-18T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

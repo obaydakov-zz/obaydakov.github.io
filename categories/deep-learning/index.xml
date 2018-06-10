@@ -6,10 +6,19 @@
     <description>Recent content in Deep Learning on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Intuitively Understanding Convolutions for Deep Learning</title>
+      <link>https://obaydakov.github.io/post/2018/intuitively-understanding-convolutions-for-deep-learning/</link>
+      <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/intuitively-understanding-convolutions-for-deep-learning/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Deeplearning4J Examples for Scala</title>
