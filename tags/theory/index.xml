@@ -6,10 +6,46 @@
     <description>Recent content in Theory on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/theory/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>&#34;Why Should I Trust You?&#34;: Explaining the Predictions of Any Classifier</title>
+      <link>https://obaydakov.github.io/post/2018/why-should-i-trust-you-explaining-the-predictions-of-any-classifier/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/why-should-i-trust-you-explaining-the-predictions-of-any-classifier/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>A Friendly Introduction to Cross-Entropy Loss</title>
+      <link>https://obaydakov.github.io/post/2018/a-friendly-introduction-to-cross-entropy-loss/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/a-friendly-introduction-to-cross-entropy-loss/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>The Building Blocks of Interpretability</title>
+      <link>https://obaydakov.github.io/post/2018/the-building-blocks-of-interpretability/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/the-building-blocks-of-interpretability/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>The Seven Pillars of Causal Reasoning with Reflections on Machine Learning</title>
+      <link>https://obaydakov.github.io/post/2018/the-seven-pillars-of-causal-reasoning-with-reflections-on-machine-learning/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/the-seven-pillars-of-causal-reasoning-with-reflections-on-machine-learning/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Curated list of 2vec-type embedding models</title>

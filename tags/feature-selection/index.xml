@@ -6,10 +6,19 @@
     <description>Recent content in Feature Selection on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/feature-selection/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>lineselect - a fast, flexible, and performant feature selection package for python.</title>
+      <link>https://obaydakov.github.io/post/2018/lineselect-a-fast-flexible-and-performant-feature-selection-package-for-python/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/lineselect-a-fast-flexible-and-performant-feature-selection-package-for-python/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Feature Engineering and Selection: A Practical Approach for Predictive Models</title>

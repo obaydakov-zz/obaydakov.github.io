@@ -6,10 +6,28 @@
     <description>Recent content in R on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Anomaly Detection in R</title>
+      <link>https://obaydakov.github.io/post/2018/anomaly-detection-in-r/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/anomaly-detection-in-r/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>anomalize - R package for anomaly detection</title>
+      <link>https://obaydakov.github.io/post/2018/anomalize-r-package-for-anomaly-detection/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/anomalize-r-package-for-anomaly-detection/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>CHAID and caret – a good combo</title>

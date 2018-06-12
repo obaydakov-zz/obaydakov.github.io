@@ -3,6 +3,101 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://obaydakov.github.io/post/2018/why-should-i-trust-you-explaining-the-predictions-of-any-classifier/</loc>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/a-friendly-introduction-to-cross-entropy-loss/</loc>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/a-scalable-keras-deep-learning-rest-api/</loc>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/announcing-lime-explaining-the-predictions-of-black-box-models/</loc>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/anomaly-detection-in-r/</loc>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/building-a-simple-keras-deep-learning-rest-ap/</loc>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/cookiecutter-data-science-a-logical-reasonably-standardized-but-flexible-project-structure-for-doing-and-sharing-data-science-work/</loc>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/create-outstanding-dashboards-with-the-new-semantic-dashboard-package/</loc>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/predicting-fraud-with-autoencoders-and-keras/</loc>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/the-bias-and-fairness-audit-toolkit-for-machine-learning/</loc>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/the-building-blocks-of-interpretability/</loc>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/the-seven-pillars-of-causal-reasoning-with-reflections-on-machine-learning/</loc>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/time-series-forecasting-with-recurrent-neural-networks/</loc>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/torus-a-toolkit-for-docker-first-data-science/</loc>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/vaex-lazy-out-of-core-dataframes-for-python/</loc>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/anomalize-r-package-for-anomaly-detection/</loc>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/lime-v0-4-the-kitten-picture-edition/</loc>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/lineselect-a-fast-flexible-and-performant-feature-selection-package-for-python/</loc>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/mlflow-an-open-source-platform-for-the-complete-machine-learning-lifecycle/</loc>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://obaydakov.github.io/post/2018/applied-cloud-deep-semantic-recognition-advanced-anomaly-detection/</loc>
     <lastmod>2018-06-10T00:00:00+00:00</lastmod>
   </url>
@@ -3496,13 +3591,13 @@
   
   <url>
     <loc>https://obaydakov.github.io/tags/anomaly-detection/</loc>
-    <lastmod>2018-06-10T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/categories/automated-ml/</loc>
-    <lastmod>2018-06-10T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3520,7 +3615,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/big-data/</loc>
-    <lastmod>2018-06-09T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3562,19 +3657,19 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/deep-learning/</loc>
-    <lastmod>2018-06-10T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/tags/docker/</loc>
-    <lastmod>2018-05-19T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/tags/feature-selection/</loc>
-    <lastmod>2018-05-18T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3658,7 +3753,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/machine-learning/</loc>
-    <lastmod>2018-06-10T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3682,7 +3777,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/ml-interpretation/</loc>
-    <lastmod>2018-06-10T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3694,37 +3789,37 @@
   
   <url>
     <loc>https://obaydakov.github.io/</loc>
-    <lastmod>2018-06-10T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/post/</loc>
-    <lastmod>2018-06-10T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/tags/python/</loc>
-    <lastmod>2018-05-10T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/categories/python/</loc>
-    <lastmod>2018-05-10T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/tags/r/</loc>
-    <lastmod>2018-06-10T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/categories/r/</loc>
-    <lastmod>2018-06-10T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3748,7 +3843,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/tags/</loc>
-    <lastmod>2018-06-10T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3760,7 +3855,13 @@
   
   <url>
     <loc>https://obaydakov.github.io/tags/theory/</loc>
-    <lastmod>2018-06-10T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/tags/tools/</loc>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3778,7 +3879,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/tags/visualization/</loc>
-    <lastmod>2018-06-10T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

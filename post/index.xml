@@ -6,10 +6,181 @@
     <description>Recent content in Posts on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>&#34;Why Should I Trust You?&#34;: Explaining the Predictions of Any Classifier</title>
+      <link>https://obaydakov.github.io/post/2018/why-should-i-trust-you-explaining-the-predictions-of-any-classifier/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/why-should-i-trust-you-explaining-the-predictions-of-any-classifier/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>A Friendly Introduction to Cross-Entropy Loss</title>
+      <link>https://obaydakov.github.io/post/2018/a-friendly-introduction-to-cross-entropy-loss/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/a-friendly-introduction-to-cross-entropy-loss/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>A scalable Keras &#43; deep learning REST API</title>
+      <link>https://obaydakov.github.io/post/2018/a-scalable-keras-deep-learning-rest-api/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/a-scalable-keras-deep-learning-rest-api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Announcing lime - Explaining the predictions of black-box models</title>
+      <link>https://obaydakov.github.io/post/2018/announcing-lime-explaining-the-predictions-of-black-box-models/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/announcing-lime-explaining-the-predictions-of-black-box-models/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Anomaly Detection in R</title>
+      <link>https://obaydakov.github.io/post/2018/anomaly-detection-in-r/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/anomaly-detection-in-r/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Building a simple Keras &#43; deep learning REST AP</title>
+      <link>https://obaydakov.github.io/post/2018/building-a-simple-keras-deep-learning-rest-ap/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/building-a-simple-keras-deep-learning-rest-ap/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Cookiecutter Data Science A logical, reasonably standardized, but flexible project structure for doing and sharing data science work</title>
+      <link>https://obaydakov.github.io/post/2018/cookiecutter-data-science-a-logical-reasonably-standardized-but-flexible-project-structure-for-doing-and-sharing-data-science-work/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/cookiecutter-data-science-a-logical-reasonably-standardized-but-flexible-project-structure-for-doing-and-sharing-data-science-work/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Create outstanding dashboards with the new semantic.dashboard package</title>
+      <link>https://obaydakov.github.io/post/2018/create-outstanding-dashboards-with-the-new-semantic-dashboard-package/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/create-outstanding-dashboards-with-the-new-semantic-dashboard-package/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Predicting Fraud with Autoencoders and Keras</title>
+      <link>https://obaydakov.github.io/post/2018/predicting-fraud-with-autoencoders-and-keras/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/predicting-fraud-with-autoencoders-and-keras/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>The Bias and Fairness Audit Toolkit for Machine Learning</title>
+      <link>https://obaydakov.github.io/post/2018/the-bias-and-fairness-audit-toolkit-for-machine-learning/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/the-bias-and-fairness-audit-toolkit-for-machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Building Blocks of Interpretability</title>
+      <link>https://obaydakov.github.io/post/2018/the-building-blocks-of-interpretability/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/the-building-blocks-of-interpretability/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>The Seven Pillars of Causal Reasoning with Reflections on Machine Learning</title>
+      <link>https://obaydakov.github.io/post/2018/the-seven-pillars-of-causal-reasoning-with-reflections-on-machine-learning/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/the-seven-pillars-of-causal-reasoning-with-reflections-on-machine-learning/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Time Series Forecasting with Recurrent Neural Networks</title>
+      <link>https://obaydakov.github.io/post/2018/time-series-forecasting-with-recurrent-neural-networks/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/time-series-forecasting-with-recurrent-neural-networks/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Torus: A Toolkit For Docker-First Data Science</title>
+      <link>https://obaydakov.github.io/post/2018/torus-a-toolkit-for-docker-first-data-science/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/torus-a-toolkit-for-docker-first-data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vaex: Lazy Out-of-Core DataFrames for Python</title>
+      <link>https://obaydakov.github.io/post/2018/vaex-lazy-out-of-core-dataframes-for-python/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/vaex-lazy-out-of-core-dataframes-for-python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>anomalize - R package for anomaly detection</title>
+      <link>https://obaydakov.github.io/post/2018/anomalize-r-package-for-anomaly-detection/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/anomalize-r-package-for-anomaly-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lime v0.4: The kitten picture edition</title>
+      <link>https://obaydakov.github.io/post/2018/lime-v0-4-the-kitten-picture-edition/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/lime-v0-4-the-kitten-picture-edition/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>lineselect - a fast, flexible, and performant feature selection package for python.</title>
+      <link>https://obaydakov.github.io/post/2018/lineselect-a-fast-flexible-and-performant-feature-selection-package-for-python/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/lineselect-a-fast-flexible-and-performant-feature-selection-package-for-python/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>mlflow - An open source platform for the complete machine learning lifecycle</title>
+      <link>https://obaydakov.github.io/post/2018/mlflow-an-open-source-platform-for-the-complete-machine-learning-lifecycle/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/mlflow-an-open-source-platform-for-the-complete-machine-learning-lifecycle/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Applied Cloud Deep Semantic Recognition: Advanced Anomaly Detection</title>

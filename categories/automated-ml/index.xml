@@ -6,10 +6,46 @@
     <description>Recent content in Automated Ml on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/automated-ml/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A scalable Keras &#43; deep learning REST API</title>
+      <link>https://obaydakov.github.io/post/2018/a-scalable-keras-deep-learning-rest-api/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/a-scalable-keras-deep-learning-rest-api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building a simple Keras &#43; deep learning REST AP</title>
+      <link>https://obaydakov.github.io/post/2018/building-a-simple-keras-deep-learning-rest-ap/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/building-a-simple-keras-deep-learning-rest-ap/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Torus: A Toolkit For Docker-First Data Science</title>
+      <link>https://obaydakov.github.io/post/2018/torus-a-toolkit-for-docker-first-data-science/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/torus-a-toolkit-for-docker-first-data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mlflow - An open source platform for the complete machine learning lifecycle</title>
+      <link>https://obaydakov.github.io/post/2018/mlflow-an-open-source-platform-for-the-complete-machine-learning-lifecycle/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/mlflow-an-open-source-platform-for-the-complete-machine-learning-lifecycle/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Data Science for Startups: Data Pipelines</title>
