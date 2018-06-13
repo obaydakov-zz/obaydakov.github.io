@@ -6,10 +6,29 @@
     <description>Recent content in Python on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Deep learning in production with Keras, Redis, Flask, and Apache</title>
+      <link>https://obaydakov.github.io/post/2018/deep-learning-in-production-with-keras-redis-flask-and-apache/</link>
+      <pubDate>Wed, 13 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/deep-learning-in-production-with-keras-redis-flask-and-apache/</guid>
+      <description>Part 1
+Part 2</description>
+    </item>
+    
+    <item>
+      <title>Keras: Multiple outputs and multiple losses</title>
+      <link>https://obaydakov.github.io/post/2018/keras-multiple-outputs-and-multiple-losses/</link>
+      <pubDate>Wed, 13 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/keras-multiple-outputs-and-multiple-losses/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A scalable Keras &#43; deep learning REST API</title>
