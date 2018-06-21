@@ -6,10 +6,28 @@
     <description>Recent content in Scala on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/scala/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Windowing data in Akka Streams</title>
+      <link>https://obaydakov.github.io/post/2018/windowing-data-in-akka-streams/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/windowing-data-in-akka-streams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Windowing data in Big Data Streams - Spark, Flink, Kafka, Akka</title>
+      <link>https://obaydakov.github.io/post/2018/windowing-data-in-big-data-streams-spark-flink-kafka-akka/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/windowing-data-in-big-data-streams-spark-flink-kafka-akka/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Scalameta</title>

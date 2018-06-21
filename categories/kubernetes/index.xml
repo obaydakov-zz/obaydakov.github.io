@@ -6,10 +6,28 @@
     <description>Recent content in Kubernetes on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/kubernetes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Kafka Streams, Akka, Kubernetes experiments</title>
+      <link>https://obaydakov.github.io/post/2018/kafka-streams-akka-kubernetes-experiments/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/kafka-streams-akka-kubernetes-experiments/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Running akka-cluster on Kubernetes</title>
+      <link>https://obaydakov.github.io/post/2018/running-akka-cluster-on-kubernetes/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/running-akka-cluster-on-kubernetes/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Kubeapps - The Easiest Way to Deploy Applications in Your Kubernetes Cluster</title>

@@ -3,6 +3,51 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://obaydakov.github.io/post/2018/akka-streams-examples/</loc>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/automated-feature-engineering-in-python/</loc>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/event-sourcing-using-kafka/</loc>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/how-to-easily-do-topic-modeling-with-lsa-plsa-lda-lda2vec/</loc>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/kafka-streams-akka-kubernetes-experiments/</loc>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/running-akka-cluster-on-kubernetes/</loc>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/windowing-data-in-akka-streams/</loc>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/windowing-data-in-big-data-streams-spark-flink-kafka-akka/</loc>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F-%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B8%D1%85-%D0%BE%D0%B1%D1%8A%D0%B5%D0%BC%D0%BE%D0%B2-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%BD%D0%B0-apache-spark-%D1%81-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%D0%BC-%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D1%85-%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B5%D0%B9-%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F/</loc>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://obaydakov.github.io/post/2018/deep-learning-in-production-with-keras-redis-flask-and-apache/</loc>
     <lastmod>2018-06-13T00:00:00+00:00</lastmod>
   </url>
@@ -3619,7 +3664,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/akka/</loc>
-    <lastmod>2018-05-31T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3673,7 +3718,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/</loc>
-    <lastmod>2018-05-31T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3709,7 +3754,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/tags/feature-selection/</loc>
-    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3769,7 +3814,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/kafka/</loc>
-    <lastmod>2018-06-09T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3781,7 +3826,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/kubernetes/</loc>
-    <lastmod>2018-05-19T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3793,7 +3838,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/machine-learning/</loc>
-    <lastmod>2018-06-13T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3823,31 +3868,31 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/nlp/</loc>
-    <lastmod>2018-06-10T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/</loc>
-    <lastmod>2018-06-13T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/post/</loc>
-    <lastmod>2018-06-13T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/tags/python/</loc>
-    <lastmod>2018-06-13T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/categories/python/</loc>
-    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3865,19 +3910,19 @@
   
   <url>
     <loc>https://obaydakov.github.io/tags/scala/</loc>
-    <lastmod>2018-06-09T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/categories/scala/</loc>
-    <lastmod>2018-06-10T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/categories/spark/</loc>
-    <lastmod>2018-06-09T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3889,7 +3934,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/tags/technology/</loc>
-    <lastmod>2018-06-13T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

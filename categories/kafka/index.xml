@@ -6,10 +6,28 @@
     <description>Recent content in Kafka on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/kafka/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Event sourcing using Kafka</title>
+      <link>https://obaydakov.github.io/post/2018/event-sourcing-using-kafka/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/event-sourcing-using-kafka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kafka Streams, Akka, Kubernetes experiments</title>
+      <link>https://obaydakov.github.io/post/2018/kafka-streams-akka-kubernetes-experiments/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/kafka-streams-akka-kubernetes-experiments/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Data Governance and GDPR with Apache Kafka</title>
