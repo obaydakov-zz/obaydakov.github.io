@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://obaydakov.github.io/post/2018/ai-infrastructure-for-enterprise/</loc>
+    <lastmod>2018-06-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/on-deep-tensor-networks-and-the-nature-of-non-linearity/</loc>
+    <lastmod>2018-06-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/twitter-meets-tensorflow/</loc>
+    <lastmod>2018-06-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/visualizing-ml-models-with-lime/</loc>
+    <lastmod>2018-06-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://obaydakov.github.io/post/2018/akka-streams-examples/</loc>
     <lastmod>2018-06-21T00:00:00+00:00</lastmod>
   </url>
@@ -3682,7 +3702,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/automated-ml/</loc>
-    <lastmod>2018-06-13T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3742,7 +3762,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/deep-learning/</loc>
-    <lastmod>2018-06-13T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3838,7 +3858,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/machine-learning/</loc>
-    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3862,7 +3882,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/ml-interpretation/</loc>
-    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3874,13 +3894,13 @@
   
   <url>
     <loc>https://obaydakov.github.io/</loc>
-    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/post/</loc>
-    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3898,13 +3918,13 @@
   
   <url>
     <loc>https://obaydakov.github.io/tags/r/</loc>
-    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/categories/r/</loc>
-    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3934,13 +3954,13 @@
   
   <url>
     <loc>https://obaydakov.github.io/tags/technology/</loc>
-    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/tags/theory/</loc>
-    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
