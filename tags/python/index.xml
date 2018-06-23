@@ -6,10 +6,28 @@
     <description>Recent content in Python on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Beginner’s Guide to Implementing Long Short-Term Memory Networks (LSTM)</title>
+      <link>https://obaydakov.github.io/post/2018/a-beginner-s-guide-to-implementing-long-short-term-memory-networks-lstm/</link>
+      <pubDate>Sat, 23 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/a-beginner-s-guide-to-implementing-long-short-term-memory-networks-lstm/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Guide to saving &amp; hosting your first machine learning model</title>
+      <link>https://obaydakov.github.io/post/2018/guide-to-saving-hosting-your-first-machine-learning-model/</link>
+      <pubDate>Sat, 23 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/guide-to-saving-hosting-your-first-machine-learning-model/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>How to easily do Topic Modeling with LSA, PLSA, LDA &amp; lda2Vec</title>
