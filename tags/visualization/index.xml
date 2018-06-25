@@ -6,10 +6,19 @@
     <description>Recent content in Visualization on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/visualization/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>BeakerX is a collection of kernels and extensions to the Jupyter interactive computing environment</title>
+      <link>https://obaydakov.github.io/post/2018/beakerx-is-a-collection-of-kernels-and-extensions-to-the-jupyter-interactive-computing-environment/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/beakerx-is-a-collection-of-kernels-and-extensions-to-the-jupyter-interactive-computing-environment/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Create outstanding dashboards with the new semantic.dashboard package</title>

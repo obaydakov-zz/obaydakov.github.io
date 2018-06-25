@@ -6,10 +6,37 @@
     <description>Recent content in Spark on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/spark/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>BeakerX is a collection of kernels and extensions to the Jupyter interactive computing environment</title>
+      <link>https://obaydakov.github.io/post/2018/beakerx-is-a-collection-of-kernels-and-extensions-to-the-jupyter-interactive-computing-environment/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/beakerx-is-a-collection-of-kernels-and-extensions-to-the-jupyter-interactive-computing-environment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MLflow: Infrastructure for the Complete ML Lifecycle</title>
+      <link>https://obaydakov.github.io/post/2018/mlflow-infrastructure-for-the-complete-ml-lifecycle/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/mlflow-infrastructure-for-the-complete-ml-lifecycle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project Hydrogen: State-of-the-Art Deep Learning on Apache Spark </title>
+      <link>https://obaydakov.github.io/post/2018/project-hydrogen-state-of-the-art-deep-learning-on-apache-spark/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/project-hydrogen-state-of-the-art-deep-learning-on-apache-spark/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Windowing data in Big Data Streams - Spark, Flink, Kafka, Akka</title>
