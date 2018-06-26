@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://obaydakov.github.io/post/2018/concept-drift-monitoring-model-quality-in-streaming-machine-learning-applications/</loc>
+    <lastmod>2018-06-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/hydro-serving-is-a-machine-learning-serving-cluster/</loc>
+    <lastmod>2018-06-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/hydrosphere-mist-is-a-serverless-proxy-for-spark-cluster/</loc>
+    <lastmod>2018-06-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/mlt-the-keras-of-kubernetes/</loc>
+    <lastmod>2018-06-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://obaydakov.github.io/post/2018/aerosolve-a-machine-learning-package-built-for-humans/</loc>
     <lastmod>2018-06-25T00:00:00+00:00</lastmod>
   </url>
@@ -3752,7 +3772,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/automated-ml/</loc>
-    <lastmod>2018-06-25T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3896,7 +3916,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/kubernetes/</loc>
-    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3908,7 +3928,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/machine-learning/</loc>
-    <lastmod>2018-06-25T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3944,13 +3964,13 @@
   
   <url>
     <loc>https://obaydakov.github.io/</loc>
-    <lastmod>2018-06-25T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/post/</loc>
-    <lastmod>2018-06-25T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3980,7 +4000,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/tags/scala/</loc>
-    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3992,7 +4012,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/spark/</loc>
-    <lastmod>2018-06-25T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4004,7 +4024,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/tags/technology/</loc>
-    <lastmod>2018-06-25T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

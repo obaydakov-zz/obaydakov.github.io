@@ -6,10 +6,28 @@
     <description>Recent content in Spark on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/spark/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hydro Serving is a Machine Learning Serving cluster.</title>
+      <link>https://obaydakov.github.io/post/2018/hydro-serving-is-a-machine-learning-serving-cluster/</link>
+      <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/hydro-serving-is-a-machine-learning-serving-cluster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hydrosphere Mist is a serverless proxy for Spark cluster</title>
+      <link>https://obaydakov.github.io/post/2018/hydrosphere-mist-is-a-serverless-proxy-for-spark-cluster/</link>
+      <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/hydrosphere-mist-is-a-serverless-proxy-for-spark-cluster/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>BeakerX is a collection of kernels and extensions to the Jupyter interactive computing environment</title>

@@ -6,10 +6,46 @@
     <description>Recent content on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Concept Drift: Monitoring Model Quality in Streaming Machine Learning Applications</title>
+      <link>https://obaydakov.github.io/post/2018/concept-drift-monitoring-model-quality-in-streaming-machine-learning-applications/</link>
+      <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/concept-drift-monitoring-model-quality-in-streaming-machine-learning-applications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hydro Serving is a Machine Learning Serving cluster.</title>
+      <link>https://obaydakov.github.io/post/2018/hydro-serving-is-a-machine-learning-serving-cluster/</link>
+      <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/hydro-serving-is-a-machine-learning-serving-cluster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hydrosphere Mist is a serverless proxy for Spark cluster</title>
+      <link>https://obaydakov.github.io/post/2018/hydrosphere-mist-is-a-serverless-proxy-for-spark-cluster/</link>
+      <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/hydrosphere-mist-is-a-serverless-proxy-for-spark-cluster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MLT: The Keras of Kubernetes</title>
+      <link>https://obaydakov.github.io/post/2018/mlt-the-keras-of-kubernetes/</link>
+      <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/mlt-the-keras-of-kubernetes/</guid>
+      <description>ML Container Templates</description>
+    </item>
     
     <item>
       <title>Aerosolve - a machine learning package built for humans.</title>
