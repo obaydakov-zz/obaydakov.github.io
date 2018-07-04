@@ -6,10 +6,37 @@
     <description>Recent content in Deep Learning on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Analytics Zoo makes it easy to build deep learning application on Spark and BigDL</title>
+      <link>https://obaydakov.github.io/post/2018/analytics-zoo-makes-it-easy-to-build-deep-learning-application-on-spark-and-bigdl/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/analytics-zoo-makes-it-easy-to-build-deep-learning-application-on-spark-and-bigdl/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Dive into Deep Learning with Scala</title>
+      <link>https://obaydakov.github.io/post/2018/dive-into-deep-learning-with-scala/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/dive-into-deep-learning-with-scala/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UNDERSTANDING DEEP LEARNING FOR OBJECT DETECTION</title>
+      <link>https://obaydakov.github.io/post/2018/understanding-deep-learning-for-object-detection/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/understanding-deep-learning-for-object-detection/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>A Beginner’s Guide to Implementing Long Short-Term Memory Networks (LSTM)</title>

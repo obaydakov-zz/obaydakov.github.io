@@ -6,10 +6,19 @@
     <description>Recent content in Python on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Curated list of resources about Apache Airflow</title>
+      <link>https://obaydakov.github.io/post/2018/curated-list-of-resources-about-apache-airflow/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/curated-list-of-resources-about-apache-airflow/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Guide to saving &amp; hosting your first machine learning model</title>

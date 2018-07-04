@@ -6,10 +6,37 @@
     <description>Recent content in Technology on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Analytics Zoo makes it easy to build deep learning application on Spark and BigDL</title>
+      <link>https://obaydakov.github.io/post/2018/analytics-zoo-makes-it-easy-to-build-deep-learning-application-on-spark-and-bigdl/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/analytics-zoo-makes-it-easy-to-build-deep-learning-application-on-spark-and-bigdl/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Serverless Functions for Kubernetes</title>
+      <link>https://obaydakov.github.io/post/2018/serverless-functions-for-kubernetes/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/serverless-functions-for-kubernetes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using SQL to query Kafka, MongoDB, MySQL, PostgreSQL and Redis with Presto</title>
+      <link>https://obaydakov.github.io/post/2018/using-sql-to-query-kafka-mongodb-mysql-postgresql-and-redis-with-presto/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/using-sql-to-query-kafka-mongodb-mysql-postgresql-and-redis-with-presto/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Concept Drift: Monitoring Model Quality in Streaming Machine Learning Applications</title>

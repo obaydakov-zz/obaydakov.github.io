@@ -6,10 +6,55 @@
     <description>Recent content in Scala on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/scala/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Crash Course in Category Theory - Bartosz Milewski</title>
+      <link>https://obaydakov.github.io/post/2018/a-crash-course-in-category-theory-bartosz-milewski/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/a-crash-course-in-category-theory-bartosz-milewski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A pragmatic introduction to Category Theory</title>
+      <link>https://obaydakov.github.io/post/2018/a-pragmatic-introduction-to-category-theory/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/a-pragmatic-introduction-to-category-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demistifying the Monad in Scala, Part 2: A Category Theory Approach</title>
+      <link>https://obaydakov.github.io/post/2018/demistifying-the-monad-in-scala-part-2-a-category-theory-approach/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/demistifying-the-monad-in-scala-part-2-a-category-theory-approach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dive into Deep Learning with Scala</title>
+      <link>https://obaydakov.github.io/post/2018/dive-into-deep-learning-with-scala/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/dive-into-deep-learning-with-scala/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From design patterns to category theory </title>
+      <link>https://obaydakov.github.io/post/2018/from-design-patterns-to-category-theory/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/from-design-patterns-to-category-theory/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Hydrosphere Mist is a serverless proxy for Spark cluster</title>

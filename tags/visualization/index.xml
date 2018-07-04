@@ -6,10 +6,46 @@
     <description>Recent content in Visualization on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/visualization/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>12 extensions to ggplot2 for more powerful R visualizations</title>
+      <link>https://obaydakov.github.io/post/2018/12-extensions-to-ggplot2-for-more-powerful-r-visualizations/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/12-extensions-to-ggplot2-for-more-powerful-r-visualizations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A pick of the best R packages for interactive plot and visualisation</title>
+      <link>https://obaydakov.github.io/post/2018/a-pick-of-the-best-r-packages-for-interactive-plot-and-visualisation/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/a-pick-of-the-best-r-packages-for-interactive-plot-and-visualisation/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>R - Enterprise-ready dashboards</title>
+      <link>https://obaydakov.github.io/post/2018/r-enterprise-ready-dashboards/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/r-enterprise-ready-dashboards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The R Shiny packages you need for your web apps!</title>
+      <link>https://obaydakov.github.io/post/2018/the-r-shiny-packages-you-need-for-your-web-apps/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/the-r-shiny-packages-you-need-for-your-web-apps/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>BeakerX is a collection of kernels and extensions to the Jupyter interactive computing environment</title>
