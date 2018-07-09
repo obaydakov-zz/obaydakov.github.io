@@ -6,10 +6,28 @@
     <description>Recent content in Spark on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/spark/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Dr. Elephant is a job and flow-level performance monitoring and tuning tool for Apache Hadoop and Apache Spark</title>
+      <link>https://obaydakov.github.io/post/2018/dr-elephant-is-a-job-and-flow-level-performance-monitoring-and-tuning-tool-for-apache-hadoop-and-apache-spark/</link>
+      <pubDate>Mon, 09 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/dr-elephant-is-a-job-and-flow-level-performance-monitoring-and-tuning-tool-for-apache-hadoop-and-apache-spark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Realtime prediction using Spark Structured Streaming, XGBoost and Scala</title>
+      <link>https://obaydakov.github.io/post/2018/realtime-prediction-using-spark-structured-streaming-xgboost-and-scala/</link>
+      <pubDate>Mon, 09 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/realtime-prediction-using-spark-structured-streaming-xgboost-and-scala/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Analytics Zoo makes it easy to build deep learning application on Spark and BigDL</title>

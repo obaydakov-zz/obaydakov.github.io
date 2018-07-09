@@ -6,10 +6,19 @@
     <description>Recent content in Kafka on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/kafka/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Machine Learning &#43; Kafka Streams Examples</title>
+      <link>https://obaydakov.github.io/post/2018/machine-learning-kafka-streams-examples/</link>
+      <pubDate>Mon, 09 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/machine-learning-kafka-streams-examples/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Using SQL to query Kafka, MongoDB, MySQL, PostgreSQL and Redis with Presto</title>

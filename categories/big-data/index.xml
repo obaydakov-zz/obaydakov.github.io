@@ -6,10 +6,19 @@
     <description>Recent content in Big Data on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/big-data/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Dr. Elephant is a job and flow-level performance monitoring and tuning tool for Apache Hadoop and Apache Spark</title>
+      <link>https://obaydakov.github.io/post/2018/dr-elephant-is-a-job-and-flow-level-performance-monitoring-and-tuning-tool-for-apache-hadoop-and-apache-spark/</link>
+      <pubDate>Mon, 09 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/dr-elephant-is-a-job-and-flow-level-performance-monitoring-and-tuning-tool-for-apache-hadoop-and-apache-spark/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Vaex: Lazy Out-of-Core DataFrames for Python</title>
