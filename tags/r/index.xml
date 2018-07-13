@@ -6,10 +6,28 @@
     <description>Recent content in R on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/r/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>https://towardsdatascience.com/visualising-how-users-start-their-journey-on-your-website-with-ga-bigquery-and-r-aa56fa39e386</title>
+      <link>https://obaydakov.github.io/post/https-towardsdatascience-com-visualising-how-users-start-their-journey-on-your-website-with-ga-bigquery-and-r-aa56fa39e386/</link>
+      <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/https-towardsdatascience-com-visualising-how-users-start-their-journey-on-your-website-with-ga-bigquery-and-r-aa56fa39e386/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>‘Meta’ machine learning packages in R</title>
+      <link>https://obaydakov.github.io/post/2018/meta-machine-learning-packages-in-r/</link>
+      <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/meta-machine-learning-packages-in-r/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>modelDown: a website generator for your predictive models</title>

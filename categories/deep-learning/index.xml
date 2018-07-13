@@ -6,10 +6,46 @@
     <description>Recent content in Deep Learning on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Deep LEarning Studio stock prediction</title>
+      <link>https://obaydakov.github.io/post/2018/deep-learning-studio-stock-prediction/</link>
+      <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/deep-learning-studio-stock-prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning Studio</title>
+      <link>https://obaydakov.github.io/post/2018/deep-learning-studio/</link>
+      <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/deep-learning-studio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DEEP LEARNING AT SCALE WITH BIGDL ON APACHE SPARK AND IBM DSX</title>
+      <link>https://obaydakov.github.io/post/2018/deep-learning-at-scale-with-bigdl-on-apache-spark-and-ibm-dsx/</link>
+      <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/deep-learning-at-scale-with-bigdl-on-apache-spark-and-ibm-dsx/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Deep learning for time-series data</title>
+      <link>https://obaydakov.github.io/post/2018/deep-learning-for-time-series-data/</link>
+      <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/deep-learning-for-time-series-data/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Analytics Zoo makes it easy to build deep learning application on Spark and BigDL</title>

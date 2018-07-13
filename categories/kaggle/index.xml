@@ -6,10 +6,19 @@
     <description>Recent content in Kaggle on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/kaggle/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cooking up a data science project using Kaggle Datasets and Kernels</title>
+      <link>https://obaydakov.github.io/post/2018/cooking-up-a-data-science-project-using-kaggle-datasets-and-kernels/</link>
+      <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/cooking-up-a-data-science-project-using-kaggle-datasets-and-kernels/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Hands-On Data Science Education</title>

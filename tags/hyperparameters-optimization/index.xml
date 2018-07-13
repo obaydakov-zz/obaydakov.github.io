@@ -6,10 +6,19 @@
     <description>Recent content in Hyperparameters Optimization on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/hyperparameters-optimization/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tuning Hyperparameters (part I): SuccessiveHalving</title>
+      <link>https://obaydakov.github.io/post/2018/tuning-hyperparameters-part-i-successivehalving/</link>
+      <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/tuning-hyperparameters-part-i-successivehalving/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Hyperparameter tuning in Cloud Machine Learning Engine using Bayesian Optimization</title>

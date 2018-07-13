@@ -6,10 +6,28 @@
     <description>Recent content in Tools on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/tools/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Deep LEarning Studio stock prediction</title>
+      <link>https://obaydakov.github.io/post/2018/deep-learning-studio-stock-prediction/</link>
+      <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/deep-learning-studio-stock-prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning Studio</title>
+      <link>https://obaydakov.github.io/post/2018/deep-learning-studio/</link>
+      <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/deep-learning-studio/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Bias and Fairness Audit Toolkit for Machine Learning</title>
