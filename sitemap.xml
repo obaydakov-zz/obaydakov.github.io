@@ -13,12 +13,12 @@
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2018/deep-learning-studio-stock-prediction/</loc>
+    <loc>https://obaydakov.github.io/post/2018/deep-learning-studio/</loc>
     <lastmod>2018-07-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/post/2018/deep-learning-studio/</loc>
+    <loc>https://obaydakov.github.io/post/2018/deep-learning-studio-stock-prediction/</loc>
     <lastmod>2018-07-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -4048,13 +4048,13 @@
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/categories/golang/</loc>
+    <loc>https://obaydakov.github.io/tags/golang/</loc>
     <lastmod>2018-05-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/tags/golang/</loc>
+    <loc>https://obaydakov.github.io/categories/golang/</loc>
     <lastmod>2018-05-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -4156,19 +4156,13 @@
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/categories/python/</loc>
-    <lastmod>2018-07-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://obaydakov.github.io/tags/python/</loc>
     <lastmod>2018-07-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/categories/r/</loc>
+    <loc>https://obaydakov.github.io/categories/python/</loc>
     <lastmod>2018-07-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -4180,14 +4174,20 @@
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/categories/scala/</loc>
-    <lastmod>2018-07-04T00:00:00+00:00</lastmod>
+    <loc>https://obaydakov.github.io/categories/r/</loc>
+    <lastmod>2018-07-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/tags/scala/</loc>
     <lastmod>2018-07-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/categories/scala/</loc>
+    <lastmod>2018-07-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4216,14 +4216,14 @@
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/categories/tools/</loc>
-    <lastmod>2018-06-10T00:00:00+00:00</lastmod>
+    <loc>https://obaydakov.github.io/tags/tools/</loc>
+    <lastmod>2018-07-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://obaydakov.github.io/tags/tools/</loc>
-    <lastmod>2018-07-13T00:00:00+00:00</lastmod>
+    <loc>https://obaydakov.github.io/categories/tools/</loc>
+    <lastmod>2018-06-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
