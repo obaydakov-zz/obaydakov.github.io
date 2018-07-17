@@ -6,10 +6,41 @@
     <description>Recent content in Kubernetes on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/kubernetes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Docker tutorial for reproducible research.</title>
+      <link>https://obaydakov.github.io/post/2018/a-docker-tutorial-for-reproducible-research/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/a-docker-tutorial-for-reproducible-research/</guid>
+      <description>This is an introduction to Docker designed for participants with knowledge about R and RStudio. The introduction is intended to be helping people who need Docker for a project. We first explain what Docker is and why it is useful. Then we go into the the details on how to use it for a reproducible transportable project.
+Link</description>
+    </item>
+    
+    <item>
+      <title>A robust method to automagically dockerize your R Shiny Application</title>
+      <link>https://obaydakov.github.io/post/2018/a-robust-method-to-automagically-dockerize-your-r-shiny-application/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/a-robust-method-to-automagically-dockerize-your-r-shiny-application/</guid>
+      <description>Dockerize Your Shiny App
+Within the working directory of a shiny application, run in R:
+rize::shiny_dockerize()
+Link</description>
+    </item>
+    
+    <item>
+      <title>Docker for the UseR</title>
+      <link>https://obaydakov.github.io/post/2018/docker-for-the-user/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/docker-for-the-user/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>OpenFaaS - Serverless Functions Made Simple¶</title>

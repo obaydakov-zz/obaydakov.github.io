@@ -6,10 +6,19 @@
     <description>Recent content in Scala on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/scala/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Anomaly detection of monitoring data in Scala ecosystem</title>
+      <link>https://obaydakov.github.io/post/2018/anomaly-detection-of-monitoring-data-in-scala-ecosystem/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/anomaly-detection-of-monitoring-data-in-scala-ecosystem/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>A Crash Course in Category Theory - Bartosz Milewski</title>

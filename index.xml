@@ -6,10 +6,172 @@
     <description>Recent content on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Docker tutorial for reproducible research.</title>
+      <link>https://obaydakov.github.io/post/2018/a-docker-tutorial-for-reproducible-research/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/a-docker-tutorial-for-reproducible-research/</guid>
+      <description>This is an introduction to Docker designed for participants with knowledge about R and RStudio. The introduction is intended to be helping people who need Docker for a project. We first explain what Docker is and why it is useful. Then we go into the the details on how to use it for a reproducible transportable project.
+Link</description>
+    </item>
+    
+    <item>
+      <title>A robust method to automagically dockerize your R Shiny Application</title>
+      <link>https://obaydakov.github.io/post/2018/a-robust-method-to-automagically-dockerize-your-r-shiny-application/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/a-robust-method-to-automagically-dockerize-your-r-shiny-application/</guid>
+      <description>Dockerize Your Shiny App
+Within the working directory of a shiny application, run in R:
+rize::shiny_dockerize()
+Link</description>
+    </item>
+    
+    <item>
+      <title>Anomaly detection of monitoring data in Scala ecosystem</title>
+      <link>https://obaydakov.github.io/post/2018/anomaly-detection-of-monitoring-data-in-scala-ecosystem/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/anomaly-detection-of-monitoring-data-in-scala-ecosystem/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Causal Inference Book</title>
+      <link>https://obaydakov.github.io/post/2018/causal-inference-book/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/causal-inference-book/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Code for Tensorflow Machine Learning Cookbook </title>
+      <link>https://obaydakov.github.io/post/2018/code-for-tensorflow-machine-learning-cookbook/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/code-for-tensorflow-machine-learning-cookbook/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>DeepLog: Anomaly Detection and Diagnosis from System Logs through Deep Learning</title>
+      <link>https://obaydakov.github.io/post/2018/deeplog-anomaly-detection-and-diagnosis-from-system-logs-through-deep-learning/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/deeplog-anomaly-detection-and-diagnosis-from-system-logs-through-deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design Patterns for Production NLP Systems</title>
+      <link>https://obaydakov.github.io/post/2018/design-patterns-for-production-nlp-systems/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/design-patterns-for-production-nlp-systems/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Docker for the UseR</title>
+      <link>https://obaydakov.github.io/post/2018/docker-for-the-user/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/docker-for-the-user/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Friendly Machine Learning for the Web.</title>
+      <link>https://obaydakov.github.io/post/2018/friendly-machine-learning-for-the-web/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/friendly-machine-learning-for-the-web/</guid>
+      <description>Friendly Machine Learning for the Web.
+ml5.js aims to make machine learning approachable for a broad audience of artists, creative coders, and students. The library provides access to machine learning algorithms and models in the browser, building on top of TensorFlow.js with no other external dependencies.
+link</description>
+    </item>
+    
+    <item>
+      <title>From shallow to deep learning in fraud</title>
+      <link>https://obaydakov.github.io/post/2018/from-shallow-to-deep-learning-in-fraud/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/from-shallow-to-deep-learning-in-fraud/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Gradient - Effortless infrastructure for Machine Learning and Data Science</title>
+      <link>https://obaydakov.github.io/post/2018/effortless-infrastructure-for-machine-learning-and-data-science/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/effortless-infrastructure-for-machine-learning-and-data-science/</guid>
+      <description>What is Gradient° ? A suite of tools for exploring data, training neural networks, and running GPU compute jobs. Gradient° includes 1-click jupyter notebooks, a powerful job runner, and a python module to run any code with full power of the Paperspace GPU cloud.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Modeling Language Variation and Universals: A Survey on Typological Linguistics for Natural Language Processing</title>
+      <link>https://obaydakov.github.io/post/2018/modeling-language-variation-and-universals-a-survey-on-typological-linguistics-for-natural-language-processing/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/modeling-language-variation-and-universals-a-survey-on-typological-linguistics-for-natural-language-processing/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Training an LSTM network and sampling the resulting model in ml5.js</title>
+      <link>https://obaydakov.github.io/post/2018/training-an-lstm-network-and-sampling-the-resulting-model-in-ml5-js/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/training-an-lstm-network-and-sampling-the-resulting-model-in-ml5-js/</guid>
+      <description>How to train a language model using a LSTM neural network with your own custom dataset and use the resulting model inside ml5.js
+Link</description>
+    </item>
+    
+    <item>
+      <title>Understand the Concepts, Techniques and Mathematical Frameworks Used by Experts in Machine Learning</title>
+      <link>https://obaydakov.github.io/post/2018/understand-the-concepts-techniques-and-mathematical-frameworks-used-by-experts-in-machine-learning/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/understand-the-concepts-techniques-and-mathematical-frameworks-used-by-experts-in-machine-learning/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>binder - Turn a GitHub repo into a collection of interactive notebooks</title>
+      <link>https://obaydakov.github.io/post/2018/binder-turn-a-github-repo-into-a-collection-of-interactive-notebooks/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/binder-turn-a-github-repo-into-a-collection-of-interactive-notebooks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>future: Unified Parallel and Distributed Processing in R for Everyone</title>
+      <link>https://obaydakov.github.io/post/2018/future-unified-parallel-and-distributed-processing-in-r-for-everyone/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/future-unified-parallel-and-distributed-processing-in-r-for-everyone/</guid>
+      <description>The purpose of this package is to provide a lightweight and unified Future API for sequential and parallel processing of R expression via futures. The simplest way to evaluate an expression in parallel is to use &amp;lsquo;x %&amp;lt;-% { expression }&amp;rsquo; with &amp;lsquo;plan(multiprocess)&amp;rsquo;. This package implements sequential, multicore, multisession, and cluster futures. With these, R expressions can be evaluated on the local machine, in parallel a set of local machines, or distributed on a mix of local and remote machines.</description>
+    </item>
+    
+    <item>
+      <title>logo liftr aims to solve the problem of persistent reproducible reporting</title>
+      <link>https://obaydakov.github.io/post/2018/logo-liftr-aims-to-solve-the-problem-of-persistent-reproducible-reporting/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/logo-liftr-aims-to-solve-the-problem-of-persistent-reproducible-reporting/</guid>
+      <description>liftr aims to solve the problem of persistent reproducible reporting. To achieve this goal, it extends the R Markdown metadata format, and uses Docker to containerize and render R Markdown documents.
+Link</description>
+    </item>
     
     <item>
       <title>DATA SCIENCE FOR BUSINESS: 3 REASONS YOU NEED TO LEARN THE EXPECTED VALUE FRAMEWORK</title>

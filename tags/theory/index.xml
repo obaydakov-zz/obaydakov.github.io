@@ -6,10 +6,28 @@
     <description>Recent content in Theory on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/theory/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Causal Inference Book</title>
+      <link>https://obaydakov.github.io/post/2018/causal-inference-book/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/causal-inference-book/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Understand the Concepts, Techniques and Mathematical Frameworks Used by Experts in Machine Learning</title>
+      <link>https://obaydakov.github.io/post/2018/understand-the-concepts-techniques-and-mathematical-frameworks-used-by-experts-in-machine-learning/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/understand-the-concepts-techniques-and-mathematical-frameworks-used-by-experts-in-machine-learning/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Functional Programming and Category Theory</title>

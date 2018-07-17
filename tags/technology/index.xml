@@ -6,10 +6,59 @@
     <description>Recent content in Technology on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Design Patterns for Production NLP Systems</title>
+      <link>https://obaydakov.github.io/post/2018/design-patterns-for-production-nlp-systems/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/design-patterns-for-production-nlp-systems/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Friendly Machine Learning for the Web.</title>
+      <link>https://obaydakov.github.io/post/2018/friendly-machine-learning-for-the-web/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/friendly-machine-learning-for-the-web/</guid>
+      <description>Friendly Machine Learning for the Web.
+ml5.js aims to make machine learning approachable for a broad audience of artists, creative coders, and students. The library provides access to machine learning algorithms and models in the browser, building on top of TensorFlow.js with no other external dependencies.
+link</description>
+    </item>
+    
+    <item>
+      <title>Gradient - Effortless infrastructure for Machine Learning and Data Science</title>
+      <link>https://obaydakov.github.io/post/2018/effortless-infrastructure-for-machine-learning-and-data-science/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/effortless-infrastructure-for-machine-learning-and-data-science/</guid>
+      <description>What is Gradient° ? A suite of tools for exploring data, training neural networks, and running GPU compute jobs. Gradient° includes 1-click jupyter notebooks, a powerful job runner, and a python module to run any code with full power of the Paperspace GPU cloud.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Training an LSTM network and sampling the resulting model in ml5.js</title>
+      <link>https://obaydakov.github.io/post/2018/training-an-lstm-network-and-sampling-the-resulting-model-in-ml5-js/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/training-an-lstm-network-and-sampling-the-resulting-model-in-ml5-js/</guid>
+      <description>How to train a language model using a LSTM neural network with your own custom dataset and use the resulting model inside ml5.js
+Link</description>
+    </item>
+    
+    <item>
+      <title>binder - Turn a GitHub repo into a collection of interactive notebooks</title>
+      <link>https://obaydakov.github.io/post/2018/binder-turn-a-github-repo-into-a-collection-of-interactive-notebooks/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/binder-turn-a-github-repo-into-a-collection-of-interactive-notebooks/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Spark SQL. Немного об оптимизаторе запросов</title>

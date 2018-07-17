@@ -6,10 +6,60 @@
     <description>Recent content in R on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/r/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Docker tutorial for reproducible research.</title>
+      <link>https://obaydakov.github.io/post/2018/a-docker-tutorial-for-reproducible-research/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/a-docker-tutorial-for-reproducible-research/</guid>
+      <description>This is an introduction to Docker designed for participants with knowledge about R and RStudio. The introduction is intended to be helping people who need Docker for a project. We first explain what Docker is and why it is useful. Then we go into the the details on how to use it for a reproducible transportable project.
+Link</description>
+    </item>
+    
+    <item>
+      <title>A robust method to automagically dockerize your R Shiny Application</title>
+      <link>https://obaydakov.github.io/post/2018/a-robust-method-to-automagically-dockerize-your-r-shiny-application/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/a-robust-method-to-automagically-dockerize-your-r-shiny-application/</guid>
+      <description>Dockerize Your Shiny App
+Within the working directory of a shiny application, run in R:
+rize::shiny_dockerize()
+Link</description>
+    </item>
+    
+    <item>
+      <title>Docker for the UseR</title>
+      <link>https://obaydakov.github.io/post/2018/docker-for-the-user/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/docker-for-the-user/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>future: Unified Parallel and Distributed Processing in R for Everyone</title>
+      <link>https://obaydakov.github.io/post/2018/future-unified-parallel-and-distributed-processing-in-r-for-everyone/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/future-unified-parallel-and-distributed-processing-in-r-for-everyone/</guid>
+      <description>The purpose of this package is to provide a lightweight and unified Future API for sequential and parallel processing of R expression via futures. The simplest way to evaluate an expression in parallel is to use &amp;lsquo;x %&amp;lt;-% { expression }&amp;rsquo; with &amp;lsquo;plan(multiprocess)&amp;rsquo;. This package implements sequential, multicore, multisession, and cluster futures. With these, R expressions can be evaluated on the local machine, in parallel a set of local machines, or distributed on a mix of local and remote machines.</description>
+    </item>
+    
+    <item>
+      <title>logo liftr aims to solve the problem of persistent reproducible reporting</title>
+      <link>https://obaydakov.github.io/post/2018/logo-liftr-aims-to-solve-the-problem-of-persistent-reproducible-reporting/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/logo-liftr-aims-to-solve-the-problem-of-persistent-reproducible-reporting/</guid>
+      <description>liftr aims to solve the problem of persistent reproducible reporting. To achieve this goal, it extends the R Markdown metadata format, and uses Docker to containerize and render R Markdown documents.
+Link</description>
+    </item>
     
     <item>
       <title>DATA SCIENCE FOR BUSINESS: 3 REASONS YOU NEED TO LEARN THE EXPECTED VALUE FRAMEWORK</title>
