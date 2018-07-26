@@ -6,10 +6,29 @@
     <description>Recent content in Math on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/math/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Homotopy Type Theory</title>
+      <link>https://obaydakov.github.io/post/2018/homotopy-type-theory/</link>
+      <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/homotopy-type-theory/</guid>
+      <description>An intensional dependent type theory called the Calculus of Inductive Constructions (CIC) has implementations in proof assistants such as Coq and Agda. The Martin-Lof type theory can be seen as a fragment of CIC. The standard univalent model that allows one to use MLTT to formalize abstract mathematics in the univalent style has been informally checked to extend to some of the subsets of CIC.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Video tutorials for the Coq proof assistant</title>
+      <link>https://obaydakov.github.io/post/2018/video-tutorials-for-the-coq-proof-assistant/</link>
+      <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/video-tutorials-for-the-coq-proof-assistant/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Fractal AI</title>

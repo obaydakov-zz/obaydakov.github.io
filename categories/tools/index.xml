@@ -6,10 +6,28 @@
     <description>Recent content in Tools on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/tools/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Invoke is a Python (2.7 and 3.4&#43;) task execution tool &amp; library</title>
+      <link>https://obaydakov.github.io/post/2018/invoke-is-a-python-2-7-and-3-4-task-execution-tool-library/</link>
+      <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/invoke-is-a-python-2-7-and-3-4-task-execution-tool-library/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>NewSQL = NoSQL&#43;ACID</title>
+      <link>https://obaydakov.github.io/post/2018/newsql-nosql-acid/</link>
+      <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/newsql-nosql-acid/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Semiotic is an opinionated framework optimized to enable effective communication through data visualization.</title>

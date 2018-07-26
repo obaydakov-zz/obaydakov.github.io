@@ -6,10 +6,227 @@
     <description>Recent content in Posts on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>7 Container Design Patterns You Need to Know</title>
+      <link>https://obaydakov.github.io/post/2018/7-container-design-patterns-you-need-to-know/</link>
+      <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/7-container-design-patterns-you-need-to-know/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>A Hybrid Convolutional Variational Autoencoder for Text Generation</title>
+      <link>https://obaydakov.github.io/post/2018/a-hybrid-convolutional-variational-autoencoder-for-text-generation/</link>
+      <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/a-hybrid-convolutional-variational-autoencoder-for-text-generation/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Airframe is a collection of lightweight libraries useful for building full-fledged applications in Scala.</title>
+      <link>https://obaydakov.github.io/post/2018/airframe-is-a-collection-of-lightweight-libraries-useful-for-building-full-fledged-applications-in-scala/</link>
+      <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/airframe-is-a-collection-of-lightweight-libraries-useful-for-building-full-fledged-applications-in-scala/</guid>
+      <description>Airframe Log: A Modern Logging Library for Scala</description>
+    </item>
+    
+    <item>
+      <title>Classifying physical activity from smartphone data</title>
+      <link>https://obaydakov.github.io/post/2018/classifying-physical-activity-from-smartphone-data/</link>
+      <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/classifying-physical-activity-from-smartphone-data/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning	 for NLP (without Magic)</title>
+      <link>https://obaydakov.github.io/post/2018/deep-learning-for-nlp-without-magic/</link>
+      <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/deep-learning-for-nlp-without-magic/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Explaining Black-Box Machine Learning Models - Code Part 1: tabular data &#43; caret &#43; iml</title>
+      <link>https://obaydakov.github.io/post/2018/explaining-black-box-machine-learning-models-code-part-1-tabular-data-caret-iml/</link>
+      <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/explaining-black-box-machine-learning-models-code-part-1-tabular-data-caret-iml/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Exploring Tagless Final pattern for extensive and readable Scala code</title>
+      <link>https://obaydakov.github.io/post/exploring-tagless-final-pattern-for-extensive-and-readable-scala-code/</link>
+      <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/exploring-tagless-final-pattern-for-extensive-and-readable-scala-code/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Feature-wise transformations</title>
+      <link>https://obaydakov.github.io/post/2018/feature-wise-transformations/</link>
+      <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/feature-wise-transformations/</guid>
+      <description>A simple and surprisingly effective family of conditioning mechanisms.</description>
+    </item>
+    
+    <item>
+      <title>Getting Started with Kubernetes on your Windows Laptop with Minikube</title>
+      <link>https://obaydakov.github.io/post/2018/getting-started-with-kubernetes-on-your-windows-laptop-with-minikube/</link>
+      <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/getting-started-with-kubernetes-on-your-windows-laptop-with-minikube/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Homotopy Type Theory</title>
+      <link>https://obaydakov.github.io/post/2018/homotopy-type-theory/</link>
+      <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/homotopy-type-theory/</guid>
+      <description>An intensional dependent type theory called the Calculus of Inductive Constructions (CIC) has implementations in proof assistants such as Coq and Agda. The Martin-Lof type theory can be seen as a fragment of CIC. The standard univalent model that allows one to use MLTT to formalize abstract mathematics in the univalent style has been informally checked to extend to some of the subsets of CIC.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Implicits, type classes, and extension methods, part 1: with type classes in mind</title>
+      <link>https://obaydakov.github.io/post/2018/implicits-type-classes-and-extension-methods-part-1-with-type-classes-in-mind/</link>
+      <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/implicits-type-classes-and-extension-methods-part-1-with-type-classes-in-mind/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Invoke is a Python (2.7 and 3.4&#43;) task execution tool &amp; library</title>
+      <link>https://obaydakov.github.io/post/2018/invoke-is-a-python-2-7-and-3-4-task-execution-tool-library/</link>
+      <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/invoke-is-a-python-2-7-and-3-4-task-execution-tool-library/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Kubernetes Networking: Behind the scenes</title>
+      <link>https://obaydakov.github.io/post/2018/kubernetes-networking-behind-the-scenes/</link>
+      <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/kubernetes-networking-behind-the-scenes/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Let’s Code Real World App Using Purely Functional Techniques</title>
+      <link>https://obaydakov.github.io/post/2018/let-s-code-real-world-app-using-purely-functional-techniques/</link>
+      <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/let-s-code-real-world-app-using-purely-functional-techniques/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>NewSQL = NoSQL&#43;ACID</title>
+      <link>https://obaydakov.github.io/post/2018/newsql-nosql-acid/</link>
+      <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/newsql-nosql-acid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relearn your sbt</title>
+      <link>https://obaydakov.github.io/post/2018/relearn-your-sbt/</link>
+      <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/relearn-your-sbt/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Serverless Architectures on AWS in practice</title>
+      <link>https://obaydakov.github.io/post/2018/serverless-architectures-on-aws-in-practice/</link>
+      <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/serverless-architectures-on-aws-in-practice/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Video tutorials for the Coq proof assistant</title>
+      <link>https://obaydakov.github.io/post/2018/video-tutorials-for-the-coq-proof-assistant/</link>
+      <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/video-tutorials-for-the-coq-proof-assistant/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>WHAT IS CARDANO?</title>
+      <link>https://obaydakov.github.io/post/2018/what-is-cardano/</link>
+      <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/what-is-cardano/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Кросс-облачное программирование с Go Cloud</title>
+      <link>https://obaydakov.github.io/post/2018/%D0%BA%D1%80%D0%BE%D1%81%D1%81-%D0%BE%D0%B1%D0%BB%D0%B0%D1%87%D0%BD%D0%BE%D0%B5-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D1%81-go-cloud/</link>
+      <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/%D0%BA%D1%80%D0%BE%D1%81%D1%81-%D0%BE%D0%B1%D0%BB%D0%B0%D1%87%D0%BD%D0%BE%D0%B5-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D1%81-go-cloud/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Нейробайесовский подход к задачам машинного обучения. Лекция Дмитрия Ветрова в Яндексе</title>
+      <link>https://obaydakov.github.io/post/2018/%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%D0%B1%D0%B0%D0%B9%D0%B5%D1%81%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D0%BE%D0%B4%D1%85%D0%BE%D0%B4-%D0%BA-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%D0%BC-%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F-%D0%B4%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D1%8F-%D0%B2%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D0%B0-%D0%B2-%D1%8F%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%D0%B5/</link>
+      <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%D0%B1%D0%B0%D0%B9%D0%B5%D1%81%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D0%BE%D0%B4%D1%85%D0%BE%D0%B4-%D0%BA-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%D0%BC-%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F-%D0%B4%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D1%8F-%D0%B2%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D0%B0-%D0%B2-%D1%8F%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%D0%B5/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Нейросетевая игра в имитацию</title>
+      <link>https://obaydakov.github.io/post/2018/%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%D1%81%D0%B5%D1%82%D0%B5%D0%B2%D0%B0%D1%8F-%D0%B8%D0%B3%D1%80%D0%B0-%D0%B2-%D0%B8%D0%BC%D0%B8%D1%82%D0%B0%D1%86%D0%B8%D1%8E/</link>
+      <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%D1%81%D0%B5%D1%82%D0%B5%D0%B2%D0%B0%D1%8F-%D0%B8%D0%B3%D1%80%D0%B0-%D0%B2-%D0%B8%D0%BC%D0%B8%D1%82%D0%B0%D1%86%D0%B8%D1%8E/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Памятки по искусственному интеллекту, машинному обучению, глубокому обучению и большим данным</title>
+      <link>https://obaydakov.github.io/post/2018/%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D0%BA%D0%B8-%D0%BF%D0%BE-%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%BC%D1%83-%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D1%83-%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%BC%D1%83-%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8E-%D0%B3%D0%BB%D1%83%D0%B1%D0%BE%D0%BA%D0%BE%D0%BC%D1%83-%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8E-%D0%B8-%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B8%D0%BC-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC/</link>
+      <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D0%BA%D0%B8-%D0%BF%D0%BE-%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%BC%D1%83-%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D1%83-%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%BC%D1%83-%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8E-%D0%B3%D0%BB%D1%83%D0%B1%D0%BE%D0%BA%D0%BE%D0%BC%D1%83-%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8E-%D0%B8-%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B8%D0%BC-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Чудесный мир Word Embeddings: какие они бывают и зачем нужны?</title>
+      <link>https://obaydakov.github.io/post/2018/%D1%87%D1%83%D0%B4%D0%B5%D1%81%D0%BD%D1%8B%D0%B9-%D0%BC%D0%B8%D1%80-word-embeddings-%D0%BA%D0%B0%D0%BA%D0%B8%D0%B5-%D0%BE%D0%BD%D0%B8-%D0%B1%D1%8B%D0%B2%D0%B0%D1%8E%D1%82-%D0%B8-%D0%B7%D0%B0%D1%87%D0%B5%D0%BC-%D0%BD%D1%83%D0%B6%D0%BD%D1%8B/</link>
+      <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/%D1%87%D1%83%D0%B4%D0%B5%D1%81%D0%BD%D1%8B%D0%B9-%D0%BC%D0%B8%D1%80-word-embeddings-%D0%BA%D0%B0%D0%BA%D0%B8%D0%B5-%D0%BE%D0%BD%D0%B8-%D0%B1%D1%8B%D0%B2%D0%B0%D1%8E%D1%82-%D0%B8-%D0%B7%D0%B0%D1%87%D0%B5%D0%BC-%D0%BD%D1%83%D0%B6%D0%BD%D1%8B/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>A Docker tutorial for reproducible research.</title>

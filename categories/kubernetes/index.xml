@@ -6,10 +6,37 @@
     <description>Recent content in Kubernetes on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/kubernetes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>7 Container Design Patterns You Need to Know</title>
+      <link>https://obaydakov.github.io/post/2018/7-container-design-patterns-you-need-to-know/</link>
+      <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/7-container-design-patterns-you-need-to-know/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Getting Started with Kubernetes on your Windows Laptop with Minikube</title>
+      <link>https://obaydakov.github.io/post/2018/getting-started-with-kubernetes-on-your-windows-laptop-with-minikube/</link>
+      <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/getting-started-with-kubernetes-on-your-windows-laptop-with-minikube/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Kubernetes Networking: Behind the scenes</title>
+      <link>https://obaydakov.github.io/post/2018/kubernetes-networking-behind-the-scenes/</link>
+      <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/kubernetes-networking-behind-the-scenes/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>A Docker tutorial for reproducible research.</title>

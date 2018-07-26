@@ -6,10 +6,19 @@
     <description>Recent content in Python on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Invoke is a Python (2.7 and 3.4&#43;) task execution tool &amp; library</title>
+      <link>https://obaydakov.github.io/post/2018/invoke-is-a-python-2-7-and-3-4-task-execution-tool-library/</link>
+      <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/invoke-is-a-python-2-7-and-3-4-task-execution-tool-library/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Code for Tensorflow Machine Learning Cookbook </title>
