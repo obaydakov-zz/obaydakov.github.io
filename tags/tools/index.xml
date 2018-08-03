@@ -6,10 +6,100 @@
     <description>Recent content in Tools on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/tools/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A New Capability Maturity Model for Deep Learning</title>
+      <link>https://obaydakov.github.io/post/2018/a-new-capability-maturity-model-for-deep-learning/</link>
+      <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/a-new-capability-maturity-model-for-deep-learning/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>AI-BLOCKS - Start doing Machine Learning right now!</title>
+      <link>https://obaydakov.github.io/post/2018/ai-blocks-start-doing-machine-learning-right-now/</link>
+      <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/ai-blocks-start-doing-machine-learning-right-now/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Colaboratory is a free Jupyter notebook environment that requires no setup and runs entirely in the cloud</title>
+      <link>https://obaydakov.github.io/post/2018/colaboratory-is-a-free-jupyter-notebook-environment-that-requires-no-setup-and-runs-entirely-in-the-cloud/</link>
+      <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/colaboratory-is-a-free-jupyter-notebook-environment-that-requires-no-setup-and-runs-entirely-in-the-cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DALEX AND H2O: MACHINE LEARNING MODEL INTERPRETABILITY AND FEATURE EXPLANATION</title>
+      <link>https://obaydakov.github.io/post/2018/dalex-and-h2o-machine-learning-model-interpretability-and-feature-explanation/</link>
+      <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/dalex-and-h2o-machine-learning-model-interpretability-and-feature-explanation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Version Control Tutorial</title>
+      <link>https://obaydakov.github.io/post/2018/data-version-control-tutorial/</link>
+      <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/data-version-control-tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FAISS - A library for efficient similarity search and clustering of dense vectors.</title>
+      <link>https://obaydakov.github.io/post/2018/faiss-a-library-for-efficient-similarity-search-and-clustering-of-dense-vectors/</link>
+      <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/faiss-a-library-for-efficient-similarity-search-and-clustering-of-dense-vectors/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Jupyter Kernel Gateway</title>
+      <link>https://obaydakov.github.io/post/2018/jupyter-kernel-gateway/</link>
+      <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/jupyter-kernel-gateway/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PYRO - Deep Universal Probabilistic Programming</title>
+      <link>https://obaydakov.github.io/post/2018/pyro-deep-universal-probabilistic-programming/</link>
+      <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/pyro-deep-universal-probabilistic-programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What do machine learning practitioners actually do?</title>
+      <link>https://obaydakov.github.io/post/2018/what-do-machine-learning-practitioners-actually-do/</link>
+      <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/what-do-machine-learning-practitioners-actually-do/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Облачная система для управления данными из любого источника через единый интерфейс с помощью языка SQL</title>
+      <link>https://obaydakov.github.io/post/2018/%D0%BE%D0%B1%D0%BB%D0%B0%D1%87%D0%BD%D0%B0%D1%8F-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0-%D0%B4%D0%BB%D1%8F-%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC%D0%B8-%D0%B8%D0%B7-%D0%BB%D1%8E%D0%B1%D0%BE%D0%B3%D0%BE-%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B0-%D1%87%D0%B5%D1%80%D0%B5%D0%B7-%D0%B5%D0%B4%D0%B8%D0%BD%D1%8B%D0%B9-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81-%D1%81-%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D1%8C%D1%8E-%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0-sql/</link>
+      <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/%D0%BE%D0%B1%D0%BB%D0%B0%D1%87%D0%BD%D0%B0%D1%8F-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0-%D0%B4%D0%BB%D1%8F-%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC%D0%B8-%D0%B8%D0%B7-%D0%BB%D1%8E%D0%B1%D0%BE%D0%B3%D0%BE-%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B0-%D1%87%D0%B5%D1%80%D0%B5%D0%B7-%D0%B5%D0%B4%D0%B8%D0%BD%D1%8B%D0%B9-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81-%D1%81-%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D1%8C%D1%8E-%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0-sql/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Deep Learning Studio</title>

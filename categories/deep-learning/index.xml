@@ -6,10 +6,46 @@
     <description>Recent content in Deep Learning on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A New Capability Maturity Model for Deep Learning</title>
+      <link>https://obaydakov.github.io/post/2018/a-new-capability-maturity-model-for-deep-learning/</link>
+      <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/a-new-capability-maturity-model-for-deep-learning/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>GluonNLP: a Deep Learning Toolkit for Natural Language Processing (NLP)</title>
+      <link>https://obaydakov.github.io/post/2018/gluonnlp-a-deep-learning-toolkit-for-natural-language-processing-nlp/</link>
+      <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/gluonnlp-a-deep-learning-toolkit-for-natural-language-processing-nlp/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>R Interface to the Keras Deep Learning Library</title>
+      <link>https://obaydakov.github.io/post/2018/r-interface-to-the-keras-deep-learning-library/</link>
+      <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/r-interface-to-the-keras-deep-learning-library/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Using TensorFlow and the Serverless Framework for deep learning and image recognition</title>
+      <link>https://obaydakov.github.io/post/2018/using-tensorflow-and-the-serverless-framework-for-deep-learning-and-image-recognition/</link>
+      <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/using-tensorflow-and-the-serverless-framework-for-deep-learning-and-image-recognition/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Hybrid Convolutional Variational Autoencoder for Text Generation</title>

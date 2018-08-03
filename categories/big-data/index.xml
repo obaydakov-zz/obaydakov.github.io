@@ -6,10 +6,19 @@
     <description>Recent content in Big Data on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/big-data/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>vaex: visualization and exploration of big tabular data</title>
+      <link>https://obaydakov.github.io/post/2018/vaex-visualization-and-exploration-of-big-tabular-data/</link>
+      <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/vaex-visualization-and-exploration-of-big-tabular-data/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Spark SQL. Немного об оптимизаторе запросов</title>

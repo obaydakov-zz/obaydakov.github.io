@@ -6,10 +6,28 @@
     <description>Recent content in Automated Ml on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/automated-ml/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Learn to Build Machine Learning Services, Prototype Real Applications, and Deploy your Work to Users</title>
+      <link>https://obaydakov.github.io/post/learn-to-build-machine-learning-services-prototype-real-applications-and-deploy-your-work-to-users/</link>
+      <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/learn-to-build-machine-learning-services-prototype-real-applications-and-deploy-your-work-to-users/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pipeline.ai - Optimize and Deploy a Model Below</title>
+      <link>https://obaydakov.github.io/post/2018/pipeline-ai-optimize-and-deploy-a-model-below/</link>
+      <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/pipeline-ai-optimize-and-deploy-a-model-below/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>AUTOMATED FEATURE ENGINEERING</title>

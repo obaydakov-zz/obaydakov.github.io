@@ -6,10 +6,28 @@
     <description>Recent content in Scala on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/scala/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Akka Streams для простых смертных</title>
+      <link>https://obaydakov.github.io/post/2018/akka-streams-%D0%B4%D0%BB%D1%8F-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%8B%D1%85-%D1%81%D0%BC%D0%B5%D1%80%D1%82%D0%BD%D1%8B%D1%85/</link>
+      <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/akka-streams-%D0%B4%D0%BB%D1%8F-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%8B%D1%85-%D1%81%D0%BC%D0%B5%D1%80%D1%82%D0%BD%D1%8B%D1%85/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Patterns for Streaming Telemetry with Akka Streams</title>
+      <link>https://obaydakov.github.io/post/2018/patterns-for-streaming-telemetry-with-akka-streams/</link>
+      <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/patterns-for-streaming-telemetry-with-akka-streams/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Airframe is a collection of lightweight libraries useful for building full-fledged applications in Scala.</title>

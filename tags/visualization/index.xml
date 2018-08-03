@@ -6,10 +6,31 @@
     <description>Recent content in Visualization on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/visualization/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>FACETS - KNOW YOUR DATA</title>
+      <link>https://obaydakov.github.io/post/2018/facets-know-your-data/</link>
+      <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/facets-know-your-data/</guid>
+      <description>The power of machine learning comes from its ability to learn patterns from large amounts of data. Understanding your data is critical to building a powerful machine learning system.
+Facets contains two robust visualizations to aid in understanding and analyzing machine learning datasets. Get a sense of the shape of each feature of your dataset using Facets Overview, or explore individual observations using Facets Dive.
+Link
+Github</description>
+    </item>
+    
+    <item>
+      <title>vaex: visualization and exploration of big tabular data</title>
+      <link>https://obaydakov.github.io/post/2018/vaex-visualization-and-exploration-of-big-tabular-data/</link>
+      <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/vaex-visualization-and-exploration-of-big-tabular-data/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>From Data to Viz leads you to the most appropriate graph for your data</title>
