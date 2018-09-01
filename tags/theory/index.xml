@@ -6,10 +6,28 @@
     <description>Recent content in Theory on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/theory/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Awesome Nature language process</title>
+      <link>https://obaydakov.github.io/post/2018/awesome-nature-language-process/</link>
+      <pubDate>Sun, 12 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/awesome-nature-language-process/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Uniform Manifold Approximation and Projection</title>
+      <link>https://obaydakov.github.io/post/2018/uniform-manifold-approximation-and-projection/</link>
+      <pubDate>Sun, 12 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/uniform-manifold-approximation-and-projection/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>A Hybrid Convolutional Variational Autoencoder for Text Generation</title>

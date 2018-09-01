@@ -6,10 +6,28 @@
     <description>Recent content in Spark on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/spark/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microsoft Machine Learning for Apache Spark - MMLSpark</title>
+      <link>https://obaydakov.github.io/post/2018/microsoft-machine-learning-for-apache-spark-mmlspark/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/microsoft-machine-learning-for-apache-spark-mmlspark/</guid>
+      <description>[]()</description>
+    </item>
+    
+    <item>
+      <title>A library for exporting Spark ML models and pipelines to PFA</title>
+      <link>https://obaydakov.github.io/post/2018/a-library-for-exporting-spark-ml-models-and-pipelines-to-pfa/</link>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/a-library-for-exporting-spark-ml-models-and-pipelines-to-pfa/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Spark SQL. Немного об оптимизаторе запросов</title>

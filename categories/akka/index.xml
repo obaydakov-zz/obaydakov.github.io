@@ -6,10 +6,28 @@
     <description>Recent content in Akka on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/akka/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Functional Programming with Kafka Streams and Scala</title>
+      <link>https://obaydakov.github.io/post/2018/functional-programming-with-kafka-streams-and-scala/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/functional-programming-with-kafka-streams-and-scala/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Streaming data from PostgreSQL using Akka Streams, Akka Http and Doobie</title>
+      <link>https://obaydakov.github.io/post/2018/streaming-data-from-postgresql-using-akka-streams-akka-http-and-doobie/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/streaming-data-from-postgresql-using-akka-streams-akka-http-and-doobie/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Akka Streams для простых смертных</title>

@@ -6,10 +6,28 @@
     <description>Recent content in Hyperparameters Optimization on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/hyperparameters-optimization/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Grid Search Tuning of Keras Models</title>
+      <link>https://obaydakov.github.io/post/2018/grid-search-tuning-of-keras-models/</link>
+      <pubDate>Sun, 12 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/grid-search-tuning-of-keras-models/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Keras &#43; Hyperopt: A very simple wrapper for convenient hyperparameter optimization</title>
+      <link>https://obaydakov.github.io/post/2018/keras-hyperopt-a-very-simple-wrapper-for-convenient-hyperparameter-optimization/</link>
+      <pubDate>Sun, 12 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/keras-hyperopt-a-very-simple-wrapper-for-convenient-hyperparameter-optimization/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Tuning Hyperparameters (part I): SuccessiveHalving</title>

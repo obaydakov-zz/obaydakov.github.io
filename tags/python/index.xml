@@ -6,10 +6,46 @@
     <description>Recent content in Python on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microsoft Machine Learning for Apache Spark - MMLSpark</title>
+      <link>https://obaydakov.github.io/post/2018/microsoft-machine-learning-for-apache-spark-mmlspark/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/microsoft-machine-learning-for-apache-spark-mmlspark/</guid>
+      <description>[]()</description>
+    </item>
+    
+    <item>
+      <title>The Ultimate Guide to 12 Dimensionality Reduction Techniques</title>
+      <link>https://obaydakov.github.io/post/2018/the-ultimate-guide-to-12-dimensionality-reduction-techniques/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/the-ultimate-guide-to-12-dimensionality-reduction-techniques/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Auto-Keras is an open source software library for automated machine learning (AutoML)</title>
+      <link>https://obaydakov.github.io/post/2018/auto-keras-is-an-open-source-software-library-for-automated-machine-learning-automl/</link>
+      <pubDate>Sun, 12 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/auto-keras-is-an-open-source-software-library-for-automated-machine-learning-automl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How To Run R &amp; Python in SQL Server from Jupyter Notebooks or any IDE 1,703 views</title>
+      <link>https://obaydakov.github.io/post/2018/how-to-run-r-python-in-sql-server-from-jupyter-notebooks-or-any-ide-1-703-views/</link>
+      <pubDate>Sun, 12 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/how-to-run-r-python-in-sql-server-from-jupyter-notebooks-or-any-ide-1-703-views/</guid>
+      <description>Youtube</description>
+    </item>
     
     <item>
       <title>Invoke is a Python (2.7 and 3.4&#43;) task execution tool &amp; library</title>

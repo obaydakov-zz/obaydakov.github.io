@@ -6,10 +6,28 @@
     <description>Recent content in Docker on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/docker/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Fabric for Deep Learning (FfDL, pronounced fiddle) is a Deep Learning Platform offering TensorFlow, Caffe, PyTorch etc. as a Service on Kubernetes</title>
+      <link>https://obaydakov.github.io/post/2018/fabric-for-deep-learning-ffdl-pronounced-fiddle-is-a-deep-learning-platform-offering-tensorflow-caffe-pytorch-etc-as-a-service-on-kubernetes/</link>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/fabric-for-deep-learning-ffdl-pronounced-fiddle-is-a-deep-learning-platform-offering-tensorflow-caffe-pytorch-etc-as-a-service-on-kubernetes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bending Kubernetes to Your Needs</title>
+      <link>https://obaydakov.github.io/post/2018/bending-kubernetes-to-your-needs/</link>
+      <pubDate>Sun, 12 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/bending-kubernetes-to-your-needs/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Torus: A Toolkit For Docker-First Data Science</title>

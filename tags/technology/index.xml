@@ -6,10 +6,119 @@
     <description>Recent content in Technology on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to setup a Data Science function for your organisation</title>
+      <link>https://obaydakov.github.io/post/2018/how-to-setup-a-data-science-function-for-your-organisation/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/how-to-setup-a-data-science-function-for-your-organisation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Serverless Best Practices</title>
+      <link>https://obaydakov.github.io/post/2018/serverless-best-practices/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/serverless-best-practices/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Zero to JupyterHub with Kubernetes¶</title>
+      <link>https://obaydakov.github.io/post/2018/zero-to-jupyterhub-with-kubernetes/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/zero-to-jupyterhub-with-kubernetes/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>A library for exporting Spark ML models and pipelines to PFA</title>
+      <link>https://obaydakov.github.io/post/2018/a-library-for-exporting-spark-ml-models-and-pipelines-to-pfa/</link>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/a-library-for-exporting-spark-ml-models-and-pipelines-to-pfa/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Build and Deploy Scalable Machine Learning in Production With Kafka</title>
+      <link>https://obaydakov.github.io/post/2018/build-and-deploy-scalable-machine-learning-in-production-with-kafka/</link>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/build-and-deploy-scalable-machine-learning-in-production-with-kafka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IBM Code Model Asset Exchange</title>
+      <link>https://obaydakov.github.io/post/2018/ibm-code-model-asset-exchange/</link>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/ibm-code-model-asset-exchange/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>The Rise of the Model Servers</title>
+      <link>https://obaydakov.github.io/post/2018/the-rise-of-the-model-servers/</link>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/the-rise-of-the-model-servers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bending Kubernetes to Your Needs</title>
+      <link>https://obaydakov.github.io/post/2018/bending-kubernetes-to-your-needs/</link>
+      <pubDate>Sun, 12 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/bending-kubernetes-to-your-needs/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Deep Exploit - Fully automatic penetration test tool using Machine Learning.</title>
+      <link>https://obaydakov.github.io/post/2018/deep-exploit-fully-automatic-penetration-test-tool-using-machine-learning/</link>
+      <pubDate>Sun, 12 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/deep-exploit-fully-automatic-penetration-test-tool-using-machine-learning/</guid>
+      <description>Link
+Deep Exploit: Fully automatic penetration test tool using Machine Learning</description>
+    </item>
+    
+    <item>
+      <title>High Scalable Streaming Microservices with Kafka Streams</title>
+      <link>https://obaydakov.github.io/post/2018/high-scalable-streaming-microservices-with-kafka-streams/</link>
+      <pubDate>Sun, 12 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/high-scalable-streaming-microservices-with-kafka-streams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ten Techniques Learned From fast.ai</title>
+      <link>https://obaydakov.github.io/post/2018/ten-techniques-learned-from-fast-ai/</link>
+      <pubDate>Sun, 12 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/ten-techniques-learned-from-fast-ai/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Understanding Titanic Dataset with H2O’s AutoML, DALEX, and lares library</title>
+      <link>https://obaydakov.github.io/post/2018/understanding-titanic-dataset-with-h2o-s-automl-dalex-and-lares-library/</link>
+      <pubDate>Sun, 12 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/understanding-titanic-dataset-with-h2o-s-automl-dalex-and-lares-library/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>GluonNLP: a Deep Learning Toolkit for Natural Language Processing (NLP)</title>

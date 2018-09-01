@@ -6,10 +6,92 @@
     <description>Recent content in Deep Learning on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>An independent implementation of DeepMind&#39;s AlphaGoZero in Scala, using Deeplearning4J (DL4J)</title>
+      <link>https://obaydakov.github.io/post/2018/an-independent-implementation-of-deepmind-s-alphagozero-in-scala-using-deeplearning4j-dl4j/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/an-independent-implementation-of-deepmind-s-alphagozero-in-scala-using-deeplearning4j-dl4j/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning cheatsheet</title>
+      <link>https://obaydakov.github.io/post/2018/deep-learning-cheatsheet/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/deep-learning-cheatsheet/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Auto-Keras is an open source software library for automated machine learning (AutoML)</title>
+      <link>https://obaydakov.github.io/post/2018/auto-keras-is-an-open-source-software-library-for-automated-machine-learning-automl/</link>
+      <pubDate>Sun, 12 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/auto-keras-is-an-open-source-software-library-for-automated-machine-learning-automl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Awesome Nature language process</title>
+      <link>https://obaydakov.github.io/post/2018/awesome-nature-language-process/</link>
+      <pubDate>Sun, 12 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/awesome-nature-language-process/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Deep Exploit - Fully automatic penetration test tool using Machine Learning.</title>
+      <link>https://obaydakov.github.io/post/2018/deep-exploit-fully-automatic-penetration-test-tool-using-machine-learning/</link>
+      <pubDate>Sun, 12 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/deep-exploit-fully-automatic-penetration-test-tool-using-machine-learning/</guid>
+      <description>Link
+Deep Exploit: Fully automatic penetration test tool using Machine Learning</description>
+    </item>
+    
+    <item>
+      <title>Grid Search Tuning of Keras Models</title>
+      <link>https://obaydakov.github.io/post/2018/grid-search-tuning-of-keras-models/</link>
+      <pubDate>Sun, 12 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/grid-search-tuning-of-keras-models/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Keras &#43; Hyperopt: A very simple wrapper for convenient hyperparameter optimization</title>
+      <link>https://obaydakov.github.io/post/2018/keras-hyperopt-a-very-simple-wrapper-for-convenient-hyperparameter-optimization/</link>
+      <pubDate>Sun, 12 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/keras-hyperopt-a-very-simple-wrapper-for-convenient-hyperparameter-optimization/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Ten Techniques Learned From fast.ai</title>
+      <link>https://obaydakov.github.io/post/2018/ten-techniques-learned-from-fast-ai/</link>
+      <pubDate>Sun, 12 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/ten-techniques-learned-from-fast-ai/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Uniform Manifold Approximation and Projection</title>
+      <link>https://obaydakov.github.io/post/2018/uniform-manifold-approximation-and-projection/</link>
+      <pubDate>Sun, 12 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/uniform-manifold-approximation-and-projection/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>A New Capability Maturity Model for Deep Learning</title>

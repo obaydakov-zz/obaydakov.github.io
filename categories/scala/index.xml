@@ -6,10 +6,109 @@
     <description>Recent content in Scala on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/scala/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Angel is a high-performance distributed machine learning platform based on the philosophy of Parameter Server</title>
+      <link>https://obaydakov.github.io/post/2018/angel-is-a-high-performance-distributed-machine-learning-platform-based-on-the-philosophy-of-parameter-server/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/angel-is-a-high-performance-distributed-machine-learning-platform-based-on-the-philosophy-of-parameter-server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DI in Scala: guide Dependency Injection in Scala using MacWire</title>
+      <link>https://obaydakov.github.io/post/2018/di-in-scala-guide-dependency-injection-in-scala-using-macwire/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/di-in-scala-guide-dependency-injection-in-scala-using-macwire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DOOBIE - A principled JDBC layer for Scala.</title>
+      <link>https://obaydakov.github.io/post/2018/doobie-a-principled-jdbc-layer-for-scala/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/doobie-a-principled-jdbc-layer-for-scala/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Functional Programming with Effects</title>
+      <link>https://obaydakov.github.io/post/2018/functional-programming-with-effects/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/functional-programming-with-effects/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Functional Programming with Kafka Streams and Scala</title>
+      <link>https://obaydakov.github.io/post/2018/functional-programming-with-kafka-streams-and-scala/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/functional-programming-with-kafka-streams-and-scala/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Lecture slides, labs, and tutorials from our 8-week Scala course.</title>
+      <link>https://obaydakov.github.io/post/2018/lecture-slides-labs-and-tutorials-from-our-8-week-scala-course/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/lecture-slides-labs-and-tutorials-from-our-8-week-scala-course/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Populate Scala case classes from any data source</title>
+      <link>https://obaydakov.github.io/post/2018/populate-scala-case-classes-from-any-data-source/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/populate-scala-case-classes-from-any-data-source/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Streaming data from PostgreSQL using Akka Streams, Akka Http and Doobie</title>
+      <link>https://obaydakov.github.io/post/2018/streaming-data-from-postgresql-using-akka-streams-akka-http-and-doobie/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/streaming-data-from-postgresql-using-akka-streams-akka-http-and-doobie/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Typeclasses in FP Architecture</title>
+      <link>https://obaydakov.github.io/post/2018/typeclasses-in-fp-architecture/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/typeclasses-in-fp-architecture/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Model-first microservices with Scala and Cats</title>
+      <link>https://obaydakov.github.io/post/2018/model-first-microservices-with-scala-and-cats/</link>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/model-first-microservices-with-scala-and-cats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simple Kafka client for functional streams for scala</title>
+      <link>https://obaydakov.github.io/post/2018/simple-kafka-client-for-functional-streams-for-scala/</link>
+      <pubDate>Sun, 12 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/simple-kafka-client-for-functional-streams-for-scala/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Akka Streams для простых смертных</title>

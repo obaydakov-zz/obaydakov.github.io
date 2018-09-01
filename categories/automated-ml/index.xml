@@ -6,10 +6,91 @@
     <description>Recent content in Automated Ml on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/automated-ml/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Angel is a high-performance distributed machine learning platform based on the philosophy of Parameter Server</title>
+      <link>https://obaydakov.github.io/post/2018/angel-is-a-high-performance-distributed-machine-learning-platform-based-on-the-philosophy-of-parameter-server/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/angel-is-a-high-performance-distributed-machine-learning-platform-based-on-the-philosophy-of-parameter-server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microsoft Machine Learning for Apache Spark - MMLSpark</title>
+      <link>https://obaydakov.github.io/post/2018/microsoft-machine-learning-for-apache-spark-mmlspark/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/microsoft-machine-learning-for-apache-spark-mmlspark/</guid>
+      <description>[]()</description>
+    </item>
+    
+    <item>
+      <title>TransmogrifAI - Automated machine learning for structured data.</title>
+      <link>https://obaydakov.github.io/post/2018/transmogrifai-automated-machine-learning-for-structured-data/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/transmogrifai-automated-machine-learning-for-structured-data/</guid>
+      <description>Open Sourcing TransmogrifAI</description>
+    </item>
+    
+    <item>
+      <title>A library for exporting Spark ML models and pipelines to PFA</title>
+      <link>https://obaydakov.github.io/post/2018/a-library-for-exporting-spark-ml-models-and-pipelines-to-pfa/</link>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/a-library-for-exporting-spark-ml-models-and-pipelines-to-pfa/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Build and Deploy Scalable Machine Learning in Production With Kafka</title>
+      <link>https://obaydakov.github.io/post/2018/build-and-deploy-scalable-machine-learning-in-production-with-kafka/</link>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/build-and-deploy-scalable-machine-learning-in-production-with-kafka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fabric for Deep Learning (FfDL, pronounced fiddle) is a Deep Learning Platform offering TensorFlow, Caffe, PyTorch etc. as a Service on Kubernetes</title>
+      <link>https://obaydakov.github.io/post/2018/fabric-for-deep-learning-ffdl-pronounced-fiddle-is-a-deep-learning-platform-offering-tensorflow-caffe-pytorch-etc-as-a-service-on-kubernetes/</link>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/fabric-for-deep-learning-ffdl-pronounced-fiddle-is-a-deep-learning-platform-offering-tensorflow-caffe-pytorch-etc-as-a-service-on-kubernetes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IBM Code Model Asset Exchange</title>
+      <link>https://obaydakov.github.io/post/2018/ibm-code-model-asset-exchange/</link>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/ibm-code-model-asset-exchange/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>The Rise of the Model Servers</title>
+      <link>https://obaydakov.github.io/post/2018/the-rise-of-the-model-servers/</link>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/the-rise-of-the-model-servers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding Titanic Dataset with H2O’s AutoML, DALEX, and lares library</title>
+      <link>https://obaydakov.github.io/post/2018/understanding-titanic-dataset-with-h2o-s-automl-dalex-and-lares-library/</link>
+      <pubDate>Sun, 12 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/understanding-titanic-dataset-with-h2o-s-automl-dalex-and-lares-library/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Learn to Build Machine Learning Services, Prototype Real Applications, and Deploy your Work to Users</title>

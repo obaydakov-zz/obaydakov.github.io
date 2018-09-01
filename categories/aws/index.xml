@@ -6,10 +6,19 @@
     <description>Recent content in Aws on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/aws/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Serverless Best Practices</title>
+      <link>https://obaydakov.github.io/post/2018/serverless-best-practices/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/serverless-best-practices/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Using TensorFlow and the Serverless Framework for deep learning and image recognition</title>

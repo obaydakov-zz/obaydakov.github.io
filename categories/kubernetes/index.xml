@@ -6,10 +6,28 @@
     <description>Recent content in Kubernetes on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/kubernetes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Zero to JupyterHub with Kubernetes¶</title>
+      <link>https://obaydakov.github.io/post/2018/zero-to-jupyterhub-with-kubernetes/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/zero-to-jupyterhub-with-kubernetes/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Bending Kubernetes to Your Needs</title>
+      <link>https://obaydakov.github.io/post/2018/bending-kubernetes-to-your-needs/</link>
+      <pubDate>Sun, 12 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/bending-kubernetes-to-your-needs/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Running Cassandra in Kubernetes</title>

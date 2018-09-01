@@ -6,10 +6,46 @@
     <description>Recent content in Ml Interpretation on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/ml-interpretation/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Interpretable Machine Learning A Guide for Making Black Box Models Explainable</title>
+      <link>https://obaydakov.github.io/post/2018/interpretable-machine-learning-a-guide-for-making-black-box-models-explainable/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/interpretable-machine-learning-a-guide-for-making-black-box-models-explainable/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>DALEX: Descriptive mAchine Learning EXplanations</title>
+      <link>https://obaydakov.github.io/post/2018/dalex-descriptive-machine-learning-explanations/</link>
+      <pubDate>Sun, 12 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/dalex-descriptive-machine-learning-explanations/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Interpreting Machine Learning Models with the iml Package</title>
+      <link>https://obaydakov.github.io/post/2018/interpreting-machine-learning-models-with-the-iml-package/</link>
+      <pubDate>Sun, 12 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/interpreting-machine-learning-models-with-the-iml-package/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Understanding Titanic Dataset with H2O’s AutoML, DALEX, and lares library</title>
+      <link>https://obaydakov.github.io/post/2018/understanding-titanic-dataset-with-h2o-s-automl-dalex-and-lares-library/</link>
+      <pubDate>Sun, 12 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/understanding-titanic-dataset-with-h2o-s-automl-dalex-and-lares-library/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>DALEX AND H2O: MACHINE LEARNING MODEL INTERPRETABILITY AND FEATURE EXPLANATION</title>
