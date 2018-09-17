@@ -6,10 +6,73 @@
     <description>Recent content in Machine Learning on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Google Dataset Search</title>
+      <link>https://obaydakov.github.io/post/2018/google-dataset-search/</link>
+      <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/google-dataset-search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keystone Real-time Stream Processing Platform</title>
+      <link>https://obaydakov.github.io/post/2018/keystone-real-time-stream-processing-platform/</link>
+      <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/keystone-real-time-stream-processing-platform/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Mantra : A Deep Learning Development Kit</title>
+      <link>https://obaydakov.github.io/post/2018/mantra-a-deep-learning-development-kit/</link>
+      <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/mantra-a-deep-learning-development-kit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marmaray: An Open Source Generic Data Ingestion and Dispersal Framework and Library for Apache Hadoop</title>
+      <link>https://obaydakov.github.io/post/2018/marmaray-an-open-source-generic-data-ingestion-and-dispersal-framework-and-library-for-apache-hadoop/</link>
+      <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/marmaray-an-open-source-generic-data-ingestion-and-dispersal-framework-and-library-for-apache-hadoop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Putting the Power of Kafka into the Hands of Data Scientists</title>
+      <link>https://obaydakov.github.io/post/2018/putting-the-power-of-kafka-into-the-hands-of-data-scientists/</link>
+      <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/putting-the-power-of-kafka-into-the-hands-of-data-scientists/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>RStudio Cheat Sheets</title>
+      <link>https://obaydakov.github.io/post/2018/rstudio-cheat-sheets/</link>
+      <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/rstudio-cheat-sheets/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>TIME SERIES PREDICTION USING LSTM DEEP NEURAL NETWORKS</title>
+      <link>https://obaydakov.github.io/post/2018/time-series-prediction-using-lstm-deep-neural-networks/</link>
+      <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/time-series-prediction-using-lstm-deep-neural-networks/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An independent implementation of DeepMind&#39;s AlphaGoZero in Scala, using Deeplearning4J (DL4J)</title>
