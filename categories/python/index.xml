@@ -6,10 +6,37 @@
     <description>Recent content in Python on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>HoloViews is an open-source Python library designed to make data analysis and visualization seamless and simple</title>
+      <link>https://obaydakov.github.io/post/2018/holoviews-is-an-open-source-python-library-designed-to-make-data-analysis-and-visualization-seamless-and-simple/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/holoviews-is-an-open-source-python-library-designed-to-make-data-analysis-and-visualization-seamless-and-simple/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Mastering the mystical art of model deployment</title>
+      <link>https://obaydakov.github.io/post/2018/mastering-the-mystical-art-of-model-deployment/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/mastering-the-mystical-art-of-model-deployment/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Mean (likelihood) encoding for categorical variables with high cardinality and feature interactions: a comprehensive study with Python</title>
+      <link>https://obaydakov.github.io/post/2018/mean-likelihood-encoding-for-categorical-variables-with-high-cardinality-and-feature-interactions-a-comprehensive-study-with-python/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/mean-likelihood-encoding-for-categorical-variables-with-high-cardinality-and-feature-interactions-a-comprehensive-study-with-python/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Mantra : A Deep Learning Development Kit</title>

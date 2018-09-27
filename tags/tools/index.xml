@@ -6,10 +6,19 @@
     <description>Recent content in Tools on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/tools/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AI Infrastructure &amp; Machine Learning Operations (AIOps or MlOps)</title>
+      <link>https://obaydakov.github.io/post/2018/ai-infrastructure-machine-learning-operations-aiops-or-mlops/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/ai-infrastructure-machine-learning-operations-aiops-or-mlops/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Introducing Kafka-Kit: Tools for Scaling Kafka</title>

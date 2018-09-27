@@ -6,10 +6,46 @@
     <description>Recent content in Automated Ml on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/automated-ml/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>10 useful Google Cloud AI services for your next machine learning project [Tutorial]</title>
+      <link>https://obaydakov.github.io/post/2018/10-useful-google-cloud-ai-services-for-your-next-machine-learning-project-tutorial/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/10-useful-google-cloud-ai-services-for-your-next-machine-learning-project-tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI Infrastructure &amp; Machine Learning Operations (AIOps or MlOps)</title>
+      <link>https://obaydakov.github.io/post/2018/ai-infrastructure-machine-learning-operations-aiops-or-mlops/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/ai-infrastructure-machine-learning-operations-aiops-or-mlops/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>All-in-one Docker image for Deep Learning</title>
+      <link>https://obaydakov.github.io/post/2018/all-in-one-docker-image-for-deep-learning/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/all-in-one-docker-image-for-deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mastering the mystical art of model deployment</title>
+      <link>https://obaydakov.github.io/post/2018/mastering-the-mystical-art-of-model-deployment/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/mastering-the-mystical-art-of-model-deployment/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Mantra : A Deep Learning Development Kit</title>
@@ -121,10 +157,10 @@
     
     <item>
       <title>Learn to Build Machine Learning Services, Prototype Real Applications, and Deploy your Work to Users</title>
-      <link>https://obaydakov.github.io/post/learn-to-build-machine-learning-services-prototype-real-applications-and-deploy-your-work-to-users/</link>
+      <link>https://obaydakov.github.io/post/2018/learn-to-build-machine-learning-services-prototype-real-applications-and-deploy-your-work-to-users/</link>
       <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/learn-to-build-machine-learning-services-prototype-real-applications-and-deploy-your-work-to-users/</guid>
+      <guid>https://obaydakov.github.io/post/2018/learn-to-build-machine-learning-services-prototype-real-applications-and-deploy-your-work-to-users/</guid>
       <description></description>
     </item>
     

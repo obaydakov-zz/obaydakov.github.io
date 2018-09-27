@@ -6,10 +6,64 @@
     <description>Recent content in Deep Learning on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>10 useful Google Cloud AI services for your next machine learning project [Tutorial]</title>
+      <link>https://obaydakov.github.io/post/2018/10-useful-google-cloud-ai-services-for-your-next-machine-learning-project-tutorial/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/10-useful-google-cloud-ai-services-for-your-next-machine-learning-project-tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>All-in-one Docker image for Deep Learning</title>
+      <link>https://obaydakov.github.io/post/2018/all-in-one-docker-image-for-deep-learning/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/all-in-one-docker-image-for-deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building a blood cell classification model using Keras and tfjs</title>
+      <link>https://obaydakov.github.io/post/2018/building-a-blood-cell-classification-model-using-keras-and-tfjs/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/building-a-blood-cell-classification-model-using-keras-and-tfjs/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Freezing a Keras model</title>
+      <link>https://obaydakov.github.io/post/2018/freezing-a-keras-model/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/freezing-a-keras-model/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Mean (likelihood) encoding for categorical variables with high cardinality and feature interactions: a comprehensive study with Python</title>
+      <link>https://obaydakov.github.io/post/2018/mean-likelihood-encoding-for-categorical-variables-with-high-cardinality-and-feature-interactions-a-comprehensive-study-with-python/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/mean-likelihood-encoding-for-categorical-variables-with-high-cardinality-and-feature-interactions-a-comprehensive-study-with-python/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Using Machine Learning to Predict the Weather in Basel — Pt. 1 Data &amp; Baselines</title>
+      <link>https://obaydakov.github.io/post/2018/using-machine-learning-to-predict-the-weather-in-basel-pt-1-data-baselines/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/using-machine-learning-to-predict-the-weather-in-basel-pt-1-data-baselines/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>TIME SERIES PREDICTION USING LSTM DEEP NEURAL NETWORKS</title>

@@ -6,10 +6,28 @@
     <description>Recent content in Feature Selection on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/feature-selection/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Automated Features Generation for Text Data using textfeatures</title>
+      <link>https://obaydakov.github.io/post/2018/automated-features-generation-for-text-data-using-textfeatures/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/automated-features-generation-for-text-data-using-textfeatures/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Featuretools on Spark</title>
+      <link>https://obaydakov.github.io/post/2018/featuretools-on-spark/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/featuretools-on-spark/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Feature-wise transformations</title>

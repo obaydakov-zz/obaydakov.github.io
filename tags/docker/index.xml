@@ -6,10 +6,47 @@
     <description>Recent content in Docker on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/docker/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>All-in-one Docker image for Deep Learning</title>
+      <link>https://obaydakov.github.io/post/2018/all-in-one-docker-image-for-deep-learning/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/all-in-one-docker-image-for-deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apache Spark 2.3 with Native Kubernetes Support</title>
+      <link>https://obaydakov.github.io/post/2018/apache-spark-2-3-with-native-kubernetes-support/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/apache-spark-2-3-with-native-kubernetes-support/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to Dockerise a Scala and Akka HTTP Application</title>
+      <link>https://obaydakov.github.io/post/2018/how-to-dockerise-a-scala-and-akka-http-application/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/how-to-dockerise-a-scala-and-akka-http-application/</guid>
+      <description>Learn how to create a Dockerfile image of your Scala and Akka HTTP application</description>
+    </item>
+    
+    <item>
+      <title>Welcome to kubed-sh, the Kubernetes distributed shell for the casual cluster user</title>
+      <link>https://obaydakov.github.io/post/2018/welcome-to-kubed-sh-the-kubernetes-distributed-shell-for-the-casual-cluster-user/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/welcome-to-kubed-sh-the-kubernetes-distributed-shell-for-the-casual-cluster-user/</guid>
+      <description>Welcome to kubed-sh, the Kubernetes distributed shell for the casual cluster user. In a nutshell, kubed-sh lets you execute a program in a Kubernetes cluster without having to create a container image or learn new concepts.
+Link</description>
+    </item>
     
     <item>
       <title>Fabric for Deep Learning (FfDL, pronounced fiddle) is a Deep Learning Platform offering TensorFlow, Caffe, PyTorch etc. as a Service on Kubernetes</title>

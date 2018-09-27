@@ -6,10 +6,46 @@
     <description>Recent content in Visualization on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/visualization/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>EvilPlot is a combinator-based data visualization library written in Scala.</title>
+      <link>https://obaydakov.github.io/post/2018/evilplot-is-a-combinator-based-data-visualization-library-written-in-scala/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/evilplot-is-a-combinator-based-data-visualization-library-written-in-scala/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HoloViews is an open-source Python library designed to make data analysis and visualization seamless and simple</title>
+      <link>https://obaydakov.github.io/post/2018/holoviews-is-an-open-source-python-library-designed-to-make-data-analysis-and-visualization-seamless-and-simple/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/holoviews-is-an-open-source-python-library-designed-to-make-data-analysis-and-visualization-seamless-and-simple/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Using Machine Learning to Predict the Weather in Basel — Pt. 1 Data &amp; Baselines</title>
+      <link>https://obaydakov.github.io/post/2018/using-machine-learning-to-predict-the-weather-in-basel-pt-1-data-baselines/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/using-machine-learning-to-predict-the-weather-in-basel-pt-1-data-baselines/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>r2d3: R Interface to D3 Visualizations</title>
+      <link>https://obaydakov.github.io/post/2018/r2d3-r-interface-to-d3-visualizations/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/r2d3-r-interface-to-d3-visualizations/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Jupyter notebook viewer for macOS</title>
