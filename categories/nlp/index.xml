@@ -6,10 +6,19 @@
     <description>Recent content in Nlp on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/nlp/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Representing Books as vectors using the Word2Vec algorithm</title>
+      <link>https://obaydakov.github.io/post/2018/representing-books-as-vectors-using-the-word2vec-algorithm/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/representing-books-as-vectors-using-the-word2vec-algorithm/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Automated Features Generation for Text Data using textfeatures</title>

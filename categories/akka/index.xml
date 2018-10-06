@@ -6,10 +6,28 @@
     <description>Recent content in Akka on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/akka/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Actor per Request With Akka Http</title>
+      <link>https://obaydakov.github.io/post/2018/actor-per-request-with-akka-http/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/actor-per-request-with-akka-http/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Akka stream interface for gRPC</title>
+      <link>https://obaydakov.github.io/post/2018/akka-stream-interface-for-grpc/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/akka-stream-interface-for-grpc/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Kafka based Microservices with Akka Streams and Kafka Streams </title>

@@ -6,10 +6,46 @@
     <description>Recent content in Python on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A library for running membership inference attacks against ML models</title>
+      <link>https://obaydakov.github.io/post/2018/a-library-for-running-membership-inference-attacks-against-ml-models/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/a-library-for-running-membership-inference-attacks-against-ml-models/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Auto-Keras is an open source software library for automated machine learning (AutoML).</title>
+      <link>https://obaydakov.github.io/post/2018/auto-keras-is-an-open-source-software-library-for-automated-machine-learning-automl/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/auto-keras-is-an-open-source-software-library-for-automated-machine-learning-automl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to visualize decision trees</title>
+      <link>https://obaydakov.github.io/post/2018/how-to-visualize-decision-trees/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/how-to-visualize-decision-trees/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ML-Ensemble High performance ensemble learning in Python</title>
+      <link>https://obaydakov.github.io/post/2018/ml-ensemble-high-performance-ensemble-learning-in-python/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/ml-ensemble-high-performance-ensemble-learning-in-python/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>HoloViews is an open-source Python library designed to make data analysis and visualization seamless and simple</title>

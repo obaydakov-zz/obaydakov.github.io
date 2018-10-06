@@ -6,10 +6,28 @@
     <description>Recent content in Spark on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/spark/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A tutorial on the most important features and idioms of Scala that you need to use Spark&#39;s Scala APIs.</title>
+      <link>https://obaydakov.github.io/post/2018/a-tutorial-on-the-most-important-features-and-idioms-of-scala-that-you-need-to-use-spark-s-scala-apis/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/a-tutorial-on-the-most-important-features-and-idioms-of-scala-that-you-need-to-use-spark-s-scala-apis/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Cassandra Sink для Spark Structured Streaming</title>
+      <link>https://obaydakov.github.io/post/2018/cassandra-sink-%D0%B4%D0%BB%D1%8F-spark-structured-streaming/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/cassandra-sink-%D0%B4%D0%BB%D1%8F-spark-structured-streaming/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Apache Spark 2.3 with Native Kubernetes Support</title>

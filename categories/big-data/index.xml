@@ -6,10 +6,28 @@
     <description>Recent content in Big Data on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/big-data/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Azure for Enterprise Developers</title>
+      <link>https://obaydakov.github.io/post/2018/azure-for-enterprise-developers/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/azure-for-enterprise-developers/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Comparison ArangoDB vs. JanusGraph vs. Neo4j</title>
+      <link>https://obaydakov.github.io/post/2018/comparison-arangodb-vs-janusgraph-vs-neo4j/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/comparison-arangodb-vs-janusgraph-vs-neo4j/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Apache Spark 2.3 with Native Kubernetes Support</title>

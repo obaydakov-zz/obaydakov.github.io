@@ -6,10 +6,145 @@
     <description>Recent content in Scala on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/scala/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A tutorial on the most important features and idioms of Scala that you need to use Spark&#39;s Scala APIs.</title>
+      <link>https://obaydakov.github.io/post/2018/a-tutorial-on-the-most-important-features-and-idioms-of-scala-that-you-need-to-use-spark-s-scala-apis/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/a-tutorial-on-the-most-important-features-and-idioms-of-scala-that-you-need-to-use-spark-s-scala-apis/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Actor per Request With Akka Http</title>
+      <link>https://obaydakov.github.io/post/2018/actor-per-request-with-akka-http/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/actor-per-request-with-akka-http/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Akka stream interface for gRPC</title>
+      <link>https://obaydakov.github.io/post/2018/akka-stream-interface-for-grpc/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/akka-stream-interface-for-grpc/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Calling Scala code from R using rscala</title>
+      <link>https://obaydakov.github.io/post/2018/calling-scala-code-from-r-using-rscala/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/calling-scala-code-from-r-using-rscala/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Cassandra Sink для Spark Structured Streaming</title>
+      <link>https://obaydakov.github.io/post/2018/cassandra-sink-%D0%B4%D0%BB%D1%8F-spark-structured-streaming/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/cassandra-sink-%D0%B4%D0%BB%D1%8F-spark-structured-streaming/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Code, exercises, answers, and hints to go along with the book &#34;Functional Programming in Scala&#34;</title>
+      <link>https://obaydakov.github.io/post/2018/code-exercises-answers-and-hints-to-go-along-with-the-book-functional-programming-in-scala/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/code-exercises-answers-and-hints-to-go-along-with-the-book-functional-programming-in-scala/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Easing Into Cats, And The Case For Category Theory Inspired Abstractions</title>
+      <link>https://obaydakov.github.io/post/2018/easing-into-cats-and-the-case-for-category-theory-inspired-abstractions/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/easing-into-cats-and-the-case-for-category-theory-inspired-abstractions/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Free Monad vs Tagless Final</title>
+      <link>https://obaydakov.github.io/post/2018/free-monad-vs-tagless-final/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/free-monad-vs-tagless-final/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Functional Programming with Effects</title>
+      <link>https://obaydakov.github.io/post/2018/functional-programming-with-effects/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/functional-programming-with-effects/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>IO Monad and Monad Transformers for Rookies</title>
+      <link>https://obaydakov.github.io/post/2018/io-monad-and-monad-transformers-for-rookies/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/io-monad-and-monad-transformers-for-rookies/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Tagless final</title>
+      <link>https://obaydakov.github.io/post/2018/introduction-to-tagless-final/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/introduction-to-tagless-final/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Refactoring with Monads</title>
+      <link>https://obaydakov.github.io/post/2018/refactoring-with-monads/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/refactoring-with-monads/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>The underrated applicative functor</title>
+      <link>https://obaydakov.github.io/post/2018/the-underrated-applicative-functor/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/the-underrated-applicative-functor/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Understanding Scala Futures and Execution Contexts</title>
+      <link>https://obaydakov.github.io/post/2018/understanding-scala-futures-and-execution-contexts/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/understanding-scala-futures-and-execution-contexts/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Working with Arrows in Scala</title>
+      <link>https://obaydakov.github.io/post/2018/working-with-arrows-in-scala/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/working-with-arrows-in-scala/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Introduction to Reactive Extensions In Scala for Stream Processing</title>

@@ -6,10 +6,271 @@
     <description>Recent content on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A library for running membership inference attacks against ML models</title>
+      <link>https://obaydakov.github.io/post/2018/a-library-for-running-membership-inference-attacks-against-ml-models/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/a-library-for-running-membership-inference-attacks-against-ml-models/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>A tutorial on the most important features and idioms of Scala that you need to use Spark&#39;s Scala APIs.</title>
+      <link>https://obaydakov.github.io/post/2018/a-tutorial-on-the-most-important-features-and-idioms-of-scala-that-you-need-to-use-spark-s-scala-apis/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/a-tutorial-on-the-most-important-features-and-idioms-of-scala-that-you-need-to-use-spark-s-scala-apis/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>A unified approach to explain the output of any machine learning model.</title>
+      <link>https://obaydakov.github.io/post/2016/a-unified-approach-to-explain-the-output-of-any-machine-learning-model/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2016/a-unified-approach-to-explain-the-output-of-any-machine-learning-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Actor per Request With Akka Http</title>
+      <link>https://obaydakov.github.io/post/2018/actor-per-request-with-akka-http/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/actor-per-request-with-akka-http/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Akka stream interface for gRPC</title>
+      <link>https://obaydakov.github.io/post/2018/akka-stream-interface-for-grpc/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/akka-stream-interface-for-grpc/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>ArviZ: Exploratory analysis of Bayesian models</title>
+      <link>https://obaydakov.github.io/post/2018/arviz-exploratory-analysis-of-bayesian-models/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/arviz-exploratory-analysis-of-bayesian-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Auto-Keras is an open source software library for automated machine learning (AutoML).</title>
+      <link>https://obaydakov.github.io/post/2018/auto-keras-is-an-open-source-software-library-for-automated-machine-learning-automl/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/auto-keras-is-an-open-source-software-library-for-automated-machine-learning-automl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure for Enterprise Developers</title>
+      <link>https://obaydakov.github.io/post/2018/azure-for-enterprise-developers/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/azure-for-enterprise-developers/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Best Practices for Operating Containers</title>
+      <link>https://obaydakov.github.io/post/2018/best-practices-for-operating-containers/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/best-practices-for-operating-containers/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Calling Scala code from R using rscala</title>
+      <link>https://obaydakov.github.io/post/2018/calling-scala-code-from-r-using-rscala/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/calling-scala-code-from-r-using-rscala/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Cassandra Sink для Spark Structured Streaming</title>
+      <link>https://obaydakov.github.io/post/2018/cassandra-sink-%D0%B4%D0%BB%D1%8F-spark-structured-streaming/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/cassandra-sink-%D0%B4%D0%BB%D1%8F-spark-structured-streaming/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Code, exercises, answers, and hints to go along with the book &#34;Functional Programming in Scala&#34;</title>
+      <link>https://obaydakov.github.io/post/2018/code-exercises-answers-and-hints-to-go-along-with-the-book-functional-programming-in-scala/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/code-exercises-answers-and-hints-to-go-along-with-the-book-functional-programming-in-scala/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Comparison ArangoDB vs. JanusGraph vs. Neo4j</title>
+      <link>https://obaydakov.github.io/post/2018/comparison-arangodb-vs-janusgraph-vs-neo4j/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/comparison-arangodb-vs-janusgraph-vs-neo4j/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Easing Into Cats, And The Case For Category Theory Inspired Abstractions</title>
+      <link>https://obaydakov.github.io/post/2018/easing-into-cats-and-the-case-for-category-theory-inspired-abstractions/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/easing-into-cats-and-the-case-for-category-theory-inspired-abstractions/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Free Monad vs Tagless Final</title>
+      <link>https://obaydakov.github.io/post/2018/free-monad-vs-tagless-final/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/free-monad-vs-tagless-final/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>From Data to AI with the Machine Learning Canvas</title>
+      <link>https://obaydakov.github.io/post/2018/from-data-to-ai-with-the-machine-learning-canvas/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/from-data-to-ai-with-the-machine-learning-canvas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Functional Programming with Effects</title>
+      <link>https://obaydakov.github.io/post/2018/functional-programming-with-effects/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/functional-programming-with-effects/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>How to build a collaborative filtering model for personalized recommendations using TensorFlow and TensorFlow Transform</title>
+      <link>https://obaydakov.github.io/post/2018/how-to-build-a-collaborative-filtering-model-for-personalized-recommendations-using-tensorflow-and-tensorflow-transform/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/how-to-build-a-collaborative-filtering-model-for-personalized-recommendations-using-tensorflow-and-tensorflow-transform/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>How to visualize decision trees</title>
+      <link>https://obaydakov.github.io/post/2018/how-to-visualize-decision-trees/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/how-to-visualize-decision-trees/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IO Monad and Monad Transformers for Rookies</title>
+      <link>https://obaydakov.github.io/post/2018/io-monad-and-monad-transformers-for-rookies/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/io-monad-and-monad-transformers-for-rookies/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Interactive plots with Shiny</title>
+      <link>https://obaydakov.github.io/post/2018/interactive-plots-with-shiny/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/interactive-plots-with-shiny/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Tagless final</title>
+      <link>https://obaydakov.github.io/post/2018/introduction-to-tagless-final/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/introduction-to-tagless-final/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>ML-Ensemble High performance ensemble learning in Python</title>
+      <link>https://obaydakov.github.io/post/2018/ml-ensemble-high-performance-ensemble-learning-in-python/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/ml-ensemble-high-performance-ensemble-learning-in-python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recommendation System Algorithms</title>
+      <link>https://obaydakov.github.io/post/2018/recommendation-system-algorithms/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/recommendation-system-algorithms/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Refactoring with Monads</title>
+      <link>https://obaydakov.github.io/post/2018/refactoring-with-monads/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/refactoring-with-monads/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Representing Books as vectors using the Word2Vec algorithm</title>
+      <link>https://obaydakov.github.io/post/2018/representing-books-as-vectors-using-the-word2vec-algorithm/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/representing-books-as-vectors-using-the-word2vec-algorithm/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>The underrated applicative functor</title>
+      <link>https://obaydakov.github.io/post/2018/the-underrated-applicative-functor/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/the-underrated-applicative-functor/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Understanding Scala Futures and Execution Contexts</title>
+      <link>https://obaydakov.github.io/post/2018/understanding-scala-futures-and-execution-contexts/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/understanding-scala-futures-and-execution-contexts/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Working with Arrows in Scala</title>
+      <link>https://obaydakov.github.io/post/2018/working-with-arrows-in-scala/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/working-with-arrows-in-scala/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>10 useful Google Cloud AI services for your next machine learning project [Tutorial]</title>

@@ -6,10 +6,82 @@
     <description>Recent content in Machine Learning on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A library for running membership inference attacks against ML models</title>
+      <link>https://obaydakov.github.io/post/2018/a-library-for-running-membership-inference-attacks-against-ml-models/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/a-library-for-running-membership-inference-attacks-against-ml-models/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>A unified approach to explain the output of any machine learning model.</title>
+      <link>https://obaydakov.github.io/post/2016/a-unified-approach-to-explain-the-output-of-any-machine-learning-model/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2016/a-unified-approach-to-explain-the-output-of-any-machine-learning-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ArviZ: Exploratory analysis of Bayesian models</title>
+      <link>https://obaydakov.github.io/post/2018/arviz-exploratory-analysis-of-bayesian-models/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/arviz-exploratory-analysis-of-bayesian-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Data to AI with the Machine Learning Canvas</title>
+      <link>https://obaydakov.github.io/post/2018/from-data-to-ai-with-the-machine-learning-canvas/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/from-data-to-ai-with-the-machine-learning-canvas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to build a collaborative filtering model for personalized recommendations using TensorFlow and TensorFlow Transform</title>
+      <link>https://obaydakov.github.io/post/2018/how-to-build-a-collaborative-filtering-model-for-personalized-recommendations-using-tensorflow-and-tensorflow-transform/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/how-to-build-a-collaborative-filtering-model-for-personalized-recommendations-using-tensorflow-and-tensorflow-transform/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>ML-Ensemble High performance ensemble learning in Python</title>
+      <link>https://obaydakov.github.io/post/2018/ml-ensemble-high-performance-ensemble-learning-in-python/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/ml-ensemble-high-performance-ensemble-learning-in-python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recommendation System Algorithms</title>
+      <link>https://obaydakov.github.io/post/2018/recommendation-system-algorithms/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/recommendation-system-algorithms/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Representing Books as vectors using the Word2Vec algorithm</title>
+      <link>https://obaydakov.github.io/post/2018/representing-books-as-vectors-using-the-word2vec-algorithm/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/representing-books-as-vectors-using-the-word2vec-algorithm/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>10 useful Google Cloud AI services for your next machine learning project [Tutorial]</title>

@@ -6,10 +6,19 @@
     <description>Recent content in Theory on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/theory/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>From Data to AI with the Machine Learning Canvas</title>
+      <link>https://obaydakov.github.io/post/2018/from-data-to-ai-with-the-machine-learning-canvas/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/from-data-to-ai-with-the-machine-learning-canvas/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>CASE STUDY: HOW TO BUILD A HIGH PERFORMANCE DATA SCIENCE TEAM</title>
