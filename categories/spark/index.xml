@@ -30,6 +30,15 @@
     </item>
     
     <item>
+      <title>Functional programming and Spark: do they mix?</title>
+      <link>https://obaydakov.github.io/post/2018/functional-programming-and-spark-do-they-mix/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/functional-programming-and-spark-do-they-mix/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
       <title>Apache Spark 2.3 with Native Kubernetes Support</title>
       <link>https://obaydakov.github.io/post/2018/apache-spark-2-3-with-native-kubernetes-support/</link>
       <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>

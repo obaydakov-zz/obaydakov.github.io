@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>A COHESIVE &amp; PRAGMATIC FRAMEWORK OF FP SCALA LIBRARIES</title>
+      <link>https://obaydakov.github.io/post/2018/a-cohesive-pragmatic-framework-of-fp-scala-libraries/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/a-cohesive-pragmatic-framework-of-fp-scala-libraries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A tutorial on the most important features and idioms of Scala that you need to use Spark&#39;s Scala APIs.</title>
       <link>https://obaydakov.github.io/post/2018/a-tutorial-on-the-most-important-features-and-idioms-of-scala-that-you-need-to-use-spark-s-scala-apis/</link>
       <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
@@ -66,6 +75,15 @@
     </item>
     
     <item>
+      <title>Composing monadic functions with Kleisli</title>
+      <link>https://obaydakov.github.io/post/2018/composing-monadic-functions-with-kleisli/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/composing-monadic-functions-with-kleisli/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
       <title>Easing Into Cats, And The Case For Category Theory Inspired Abstractions</title>
       <link>https://obaydakov.github.io/post/2018/easing-into-cats-and-the-case-for-category-theory-inspired-abstractions/</link>
       <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
@@ -89,6 +107,15 @@
       <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/post/2018/functional-programming-with-effects/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Functional programming and Spark: do they mix?</title>
+      <link>https://obaydakov.github.io/post/2018/functional-programming-and-spark-do-they-mix/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/functional-programming-and-spark-do-they-mix/</guid>
       <description>Link</description>
     </item>
     
@@ -117,6 +144,16 @@
       
       <guid>https://obaydakov.github.io/post/2018/refactoring-with-monads/</guid>
       <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Scalaz 8 IO vs Akka (typed) actors vs Monix</title>
+      <link>https://obaydakov.github.io/post/2018/scalaz-8-io-vs-akka-typed-actors-vs-monix/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/scalaz-8-io-vs-akka-typed-actors-vs-monix/</guid>
+      <description>Part 2
+Part 3</description>
     </item>
     
     <item>

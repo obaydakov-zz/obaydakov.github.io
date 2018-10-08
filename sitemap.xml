@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://obaydakov.github.io/post/2018/a-cohesive-pragmatic-framework-of-fp-scala-libraries/</loc>
+    <lastmod>2018-10-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://obaydakov.github.io/post/2018/a-library-for-running-membership-inference-attacks-against-ml-models/</loc>
     <lastmod>2018-10-06T00:00:00+00:00</lastmod>
   </url>
@@ -68,6 +73,11 @@
   </url>
   
   <url>
+    <loc>https://obaydakov.github.io/post/2018/composing-monadic-functions-with-kleisli/</loc>
+    <lastmod>2018-10-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://obaydakov.github.io/post/2018/easing-into-cats-and-the-case-for-category-theory-inspired-abstractions/</loc>
     <lastmod>2018-10-06T00:00:00+00:00</lastmod>
   </url>
@@ -84,6 +94,11 @@
   
   <url>
     <loc>https://obaydakov.github.io/post/2018/functional-programming-with-effects/</loc>
+    <lastmod>2018-10-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/functional-programming-and-spark-do-they-mix/</loc>
     <lastmod>2018-10-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -129,6 +144,11 @@
   
   <url>
     <loc>https://obaydakov.github.io/post/2018/representing-books-as-vectors-using-the-word2vec-algorithm/</loc>
+    <lastmod>2018-10-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/scalaz-8-io-vs-akka-typed-actors-vs-monix/</loc>
     <lastmod>2018-10-06T00:00:00+00:00</lastmod>
   </url>
   

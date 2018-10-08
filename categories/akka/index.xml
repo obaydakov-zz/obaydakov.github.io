@@ -30,6 +30,16 @@
     </item>
     
     <item>
+      <title>Scalaz 8 IO vs Akka (typed) actors vs Monix</title>
+      <link>https://obaydakov.github.io/post/2018/scalaz-8-io-vs-akka-typed-actors-vs-monix/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/scalaz-8-io-vs-akka-typed-actors-vs-monix/</guid>
+      <description>Part 2
+Part 3</description>
+    </item>
+    
+    <item>
       <title>Kafka based Microservices with Akka Streams and Kafka Streams </title>
       <link>https://obaydakov.github.io/post/2018/kafka-based-microservices-with-akka-streams-and-kafka-streams/</link>
       <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
