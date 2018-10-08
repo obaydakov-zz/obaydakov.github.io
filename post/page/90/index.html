@@ -13,7 +13,7 @@
 
 
 
-<meta property="og:updated_time" content="2017-09-16T22:10:15&#43;00:00"/>
+<meta property="og:updated_time" content="2017-09-21T00:00:00&#43;00:00"/>
 
 
 
@@ -61,15 +61,16 @@
 	<div class="list__content clearfix">
 		<header class="list__header">
 			<h3 class="list__title post__title ">
-				<a href="/post/2017/mac-os-x-setup-guide/" rel="bookmark">Mac OS X Setup Guide</a>
+				<a href="/post/2017/hive-mysql-metastore-and-hiveserver2-setup/" rel="bookmark">Hive MySQL Metastore and HiveServer2 Setup</a>
 			</h3>
 			<div class="list__meta meta">
 				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
-				<time class="list__meta-date" datetime="2017-09-16T22:10:15">2017/09/16</time>
+				<time class="list__meta-date" datetime="2017-09-21T00:00:00">2017/09/21</time>
 			</div>
 		</header>
 		<div class="list__excerpt">
-			This guide covers the basics of setting up a development environment on a new Mac. Whether you are an experienced programmer or not, this guide is intended for everyone to use as a reference for setting up your environment or installing a languages/libraries.
+			By default, Hive comes with an embedded derby metastore; which stores the meta data and schema of Hive. However, it allows only one user in embedded mode. So it’s advisable to setup an external metastore. Below will be the architecture with MySQL as Metastore.
+HiveServer2 – As you can see for JDBC/ODBC communication Hive has a thrift server – HiveServer2. This service is required to do CRUD (DML/DDL) from a script or program (e.
 		</div>
 	</div>
 </article>
@@ -77,79 +78,15 @@
 	<div class="list__content clearfix">
 		<header class="list__header">
 			<h3 class="list__title post__title ">
-				<a href="/post/2017/generative-adversarial-networks-gans-engine-and-applications/" rel="bookmark">Generative Adversarial Networks (GANs): Engine and Applications</a>
+				<a href="/post/2017/ip-address-lookups-using-python/" rel="bookmark">IP Address lookups using Python</a>
 			</h3>
 			<div class="list__meta meta">
 				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
-				<time class="list__meta-date" datetime="2017-09-16T00:00:00">2017/09/16</time>
+				<time class="list__meta-date" datetime="2017-09-18T00:00:00">2017/09/18</time>
 			</div>
 		</header>
 		<div class="list__excerpt">
-			Generative adversarial networks (GANs) are a class of neural networks that are used in unsupervised machine learning. They help to solve such tasks as image generation from descriptions, getting high resolution images from low resolution ones, predicting which drug could treat a certain disease, retrieving images that contain a given pattern, etc.
-		</div>
-	</div>
-</article>
-<article class="list__item post clearfix">
-	<div class="list__content clearfix">
-		<header class="list__header">
-			<h3 class="list__title post__title ">
-				<a href="/post/2017/golang-development/" rel="bookmark">Golang development</a>
-			</h3>
-			<div class="list__meta meta">
-				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
-				<time class="list__meta-date" datetime="2017-09-16T00:00:00">2017/09/16</time>
-			</div>
-		</header>
-		<div class="list__excerpt">
-			Video
-		</div>
-	</div>
-</article>
-<article class="list__item post clearfix">
-	<div class="list__content clearfix">
-		<header class="list__header">
-			<h3 class="list__title post__title ">
-				<a href="/post/2017/visualize-patients-complaints-to-their-doctors-using-nifi-and-solr-banana/" rel="bookmark">Visualize patients&#39; complaints to their doctors using NiFi and Solr/Banana</a>
-			</h3>
-			<div class="list__meta meta">
-				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
-				<time class="list__meta-date" datetime="2017-09-16T00:00:00">2017/09/16</time>
-			</div>
-		</header>
-		<div class="list__excerpt">
-			Link
-		</div>
-	</div>
-</article>
-<article class="list__item post clearfix">
-	<div class="list__content clearfix">
-		<header class="list__header">
-			<h3 class="list__title post__title ">
-				<a href="/post/2017/adventures-in-machine-learning/" rel="bookmark">Adventures in Machine Learning New</a>
-			</h3>
-			<div class="list__meta meta">
-				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
-				<time class="list__meta-date" datetime="2017-08-17T00:00:00">2017/08/17</time>
-			</div>
-		</header>
-		<div class="list__excerpt">
-			Link
-		</div>
-	</div>
-</article>
-<article class="list__item post clearfix">
-	<div class="list__content clearfix">
-		<header class="list__header">
-			<h3 class="list__title post__title ">
-				<a href="/post/2017/awesome-r/" rel="bookmark">Awesome R</a>
-			</h3>
-			<div class="list__meta meta">
-				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
-				<time class="list__meta-date" datetime="2017-08-17T00:00:00">2017/08/17</time>
-			</div>
-		</header>
-		<div class="list__excerpt">
-			A curated list of awesome R frameworks, libraries and software.
+			Knowing the country to which an IP address is mapped is very helpful for localising an experience on a website and providing demographics information to website owners.
 Link
 		</div>
 	</div>
@@ -158,67 +95,144 @@ Link
 	<div class="list__content clearfix">
 		<header class="list__header">
 			<h3 class="list__title post__title ">
-				<a href="/post/2017/high-level-design-of-analytical-system-based-on-r/" rel="bookmark">High Level Design of Analytical system based on R</a>
+				<a href="/post/2017/0-to-microservice-in-5-minutes-with-go-and-minke/" rel="bookmark">0 to Microservice in 5 minutes with Go and Minke</a>
 			</h3>
 			<div class="list__meta meta">
 				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
-				<time class="list__meta-date" datetime="2017-08-14T00:00:00">2017/08/14</time>
+				<time class="list__meta-date" datetime="2017-09-17T00:00:00">2017/09/17</time>
+			</div>
+		</header>
+		<div class="list__excerpt">
+			0 to Microservice in 5 minutes with Go and Minke
+		</div>
+	</div>
+</article>
+<article class="list__item post clearfix">
+	<div class="list__content clearfix">
+		<header class="list__header">
+			<h3 class="list__title post__title ">
+				<a href="/post/2017/apache-bahir/" rel="bookmark">Apache Bahir</a>
+			</h3>
+			<div class="list__meta meta">
+				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
+				<time class="list__meta-date" datetime="2017-09-17T00:00:00">2017/09/17</time>
+			</div>
+		</header>
+		<div class="list__excerpt">
+			Apache Bahir provides extensions to multiple distributed analytic platforms, extending their reach with a diversity of streaming connectors and SQL data sources.
+Currently, Bahir provides extensions for Apache Spark and Apache Flink.
+Link
+		</div>
+	</div>
+</article>
+<article class="list__item post clearfix">
+	<div class="list__content clearfix">
+		<header class="list__header">
+			<h3 class="list__title post__title ">
+				<a href="/post/2017/automated-machine-learning-deploying-automl-to-the-cloud/" rel="bookmark">Automated Machine Learning: Deploying AutoML to the Cloud</a>
+			</h3>
+			<div class="list__meta meta">
+				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
+				<time class="list__meta-date" datetime="2017-09-17T00:00:00">2017/09/17</time>
+			</div>
+		</header>
+		<div class="list__excerpt">
+			[]https://content.pivotal.io/blog/automated-machine-learning-deploying-automl-to-the-cloud)
+What exactly is AutoML? AutoML is a broad term and technically could encompass the entire data science cycle from data exploration to model building. However, I have found it most commonly refers to automating feature preprocessing and selection, model algorithm selection, and hyperparameter tuning–steps located at the end of the data science process.
+ AutoML offers tangible benefits for model selection and optimization.  2.It&rsquo;s very easy to get started.
+		</div>
+	</div>
+</article>
+<article class="list__item post clearfix">
+	<div class="list__content clearfix">
+		<header class="list__header">
+			<h3 class="list__title post__title ">
+				<a href="/post/2017/high-performance-spark-examples/" rel="bookmark">High performance spark examples</a>
+			</h3>
+			<div class="list__meta meta">
+				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
+				<time class="list__meta-date" datetime="2017-09-17T00:00:00">2017/09/17</time>
+			</div>
+		</header>
+		<div class="list__excerpt">
+			Examples
+Book
+		</div>
+	</div>
+</article>
+<article class="list__item post clearfix">
+	<div class="list__content clearfix">
+		<header class="list__header">
+			<h3 class="list__title post__title ">
+				<a href="/post/2017/json-to-scala-cases-clases-and-a-ot-more/" rel="bookmark">JSON to Scala cases clases and a ot more ...</a>
+			</h3>
+			<div class="list__meta meta">
+				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
+				<time class="list__meta-date" datetime="2017-09-17T00:00:00">2017/09/17</time>
+			</div>
+		</header>
+		<div class="list__excerpt">
+			Link
+		</div>
+	</div>
+</article>
+<article class="list__item post clearfix">
+	<div class="list__content clearfix">
+		<header class="list__header">
+			<h3 class="list__title post__title ">
+				<a href="/post/2017/machine-learning-application-skeleton/" rel="bookmark">Machine Learning Application Skeleton</a>
+			</h3>
+			<div class="list__meta meta">
+				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
+				<time class="list__meta-date" datetime="2017-09-17T00:00:00">2017/09/17</time>
+			</div>
+		</header>
+		<div class="list__excerpt">
+			In this blog post I provide an overview of a Python skeleton application I made. This skeleton can help you bridge the gap between your model and a machine learning application.
+For example, you can use your existing Flask application, import it in run_app.py as app, and this will add the production ready features of Gunicorn.
+Link
+Code
+		</div>
+	</div>
+</article>
+<article class="list__item post clearfix">
+	<div class="list__content clearfix">
+		<header class="list__header">
+			<h3 class="list__title post__title ">
+				<a href="/post/2017/real-time-analytics-divolte-kafka-druid-superset/" rel="bookmark">Real time analytics: Divolte &#43; Kafka &#43; Druid &#43; Superset</a>
+			</h3>
+			<div class="list__meta meta">
+				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
+				<time class="list__meta-date" datetime="2017-09-17T00:00:00">2017/09/17</time>
+			</div>
+		</header>
+		<div class="list__excerpt">
+			In today&rsquo;s world you want to learn from your customers as fast as possible. This blog gives an introduction to setting up streaming analytics using open source technologies. We&rsquo;ll use Divolte, Kafka, Superset and Druid to set up a system that lets you instantaneously get a deeper understanding of your customers.
+Having your analytics in a streaming fashion enable you to continuously analyze your customer&rsquo;s behaviour and immediately take action on it.
+		</div>
+	</div>
+</article>
+<article class="list__item post clearfix">
+	<div class="list__content clearfix">
+		<header class="list__header">
+			<h3 class="list__title post__title ">
+				<a href="/post/2017/real-time-fraud-detection-with-microservices/" rel="bookmark">Real-Time Fraud Detection with Microservices</a>
+			</h3>
+			<div class="list__meta meta">
+				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
+				<time class="list__meta-date" datetime="2017-09-17T00:00:00">2017/09/17</time>
 			</div>
 		</header>
 		<div class="list__excerpt">
 			
-		</div>
-	</div>
-</article>
-<article class="list__item post clearfix">
-	<div class="list__content clearfix">
-		<header class="list__header">
-			<h3 class="list__title post__title ">
-				<a href="/post/2017/scalnet-a-scala-wrapper-for-deeplearning4j-inspired-by-keras-scala-dl-spark-gpus/" rel="bookmark">ScalNet - A Scala wrapper for Deeplearning4j, inspired by Keras. Scala &#43; DL &#43; Spark &#43; GPUs</a>
-			</h3>
-			<div class="list__meta meta">
-				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
-				<time class="list__meta-date" datetime="2017-08-14T00:00:00">2017/08/14</time>
-			</div>
-		</header>
-		<div class="list__excerpt">
-			ScalNet is a wrapper around Deeplearning4j emulating a Keras like API for deep learning. ScalNet is released under an Apache 2.0 license. By contributing code to this repository, you agree to make your contribution available under an Apache 2.0 license.
-Link
-		</div>
-	</div>
-</article>
-<article class="list__item post clearfix">
-	<div class="list__content clearfix">
-		<header class="list__header">
-			<h3 class="list__title post__title ">
-				<a href="/post/2017/an-overview-of-gradient-descent-optimization-algorithms/" rel="bookmark">An overview of gradient descent optimization algorithms</a>
-			</h3>
-			<div class="list__meta meta">
-				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
-				<time class="list__meta-date" datetime="2017-08-13T00:00:00">2017/08/13</time>
-			</div>
-		</header>
-		<div class="list__excerpt">
-			Gradient descent is one of the most popular algorithms to perform optimization and by far the most common way to optimize neural networks. At the same time, every state-of-the-art Deep Learning library contains implementations of various algorithms to optimize gradient descent (e.g. lasagne&rsquo;s, caffe&rsquo;s, and keras&rsquo; documentation). These algorithms, however, are often used as black-box optimizers, as practical explanations of their strengths and weaknesses are hard to come by.
-Link
-		</div>
-	</div>
-</article>
-<article class="list__item post clearfix">
-	<div class="list__content clearfix">
-		<header class="list__header">
-			<h3 class="list__title post__title ">
-				<a href="/post/2017/deep-learning-model-zoo/" rel="bookmark">Deep Learning Model Zoo</a>
-			</h3>
-			<div class="list__meta meta">
-				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
-				<time class="list__meta-date" datetime="2017-08-13T00:00:00">2017/08/13</time>
-			</div>
-		</header>
-		<div class="list__excerpt">
-			A collection of standalone TensorFlow models in Jupyter Notebooks
-Link
-Free Chapters from Introduction to Artificial Neural Networks and Deep Learning: A Practical Guide with Applications in Python
+
+Requirements
+ CloudFoundry (tested with pcfdev v0.21)
+ Apache Geode (tested with v1.0.0-incubating.M2) - to be replaced by GemFire 9.0 when that is released
+ PostgreSQL (tested with 9.5.3) - to be replaced by Greenplum server once GemFire 9.0 is released
+ Spring Cloud Dataflow (tested with SCDF v1.1.0.M2, CloudFoundry Deployer v1.1.0.M1)
+ Spark-redis (tested with v0.1.1) - installed in local maven repository
+  
 		</div>
 	</div>
 </article>
@@ -227,7 +241,7 @@ Free Chapters from Introduction to Artificial Neural Networks and Deep Learning:
 		
 <div class="pagination clearfix">
 	<a class="pagination__item pagination__item--prev" href="/post/page/89/">«</a>
-	<span class="pagination__item pagination__item--current">90/98</span>
+	<span class="pagination__item pagination__item--current">90/100</span>
 	<a class="pagination__item pagination__item--next" href="/post/page/91/">»</a>
 </div>
 
@@ -250,16 +264,16 @@ Free Chapters from Introduction to Artificial Neural Networks and Deep Learning:
 	<h4 class="widget__title">Recent Posts</h4>
 	<div class="widget__content">
 		<ul class="widget__list">
-			<li class="widget__item"><a class="widget__link" href="/post/2018/a-cohesive-pragmatic-framework-of-fp-scala-libraries/">A COHESIVE &amp; PRAGMATIC FRAMEWORK OF FP SCALA LIBRARIES</a></li>
-			<li class="widget__item"><a class="widget__link" href="/post/2018/a-library-for-running-membership-inference-attacks-against-ml-models/">A library for running membership inference attacks against ML models</a></li>
-			<li class="widget__item"><a class="widget__link" href="/post/2018/a-tutorial-on-the-most-important-features-and-idioms-of-scala-that-you-need-to-use-spark-s-scala-apis/">A tutorial on the most important features and idioms of Scala that you need to use Spark&#39;s Scala APIs.</a></li>
-			<li class="widget__item"><a class="widget__link" href="/post/2016/a-unified-approach-to-explain-the-output-of-any-machine-learning-model/">A unified approach to explain the output of any machine learning model.</a></li>
-			<li class="widget__item"><a class="widget__link" href="/post/2018/actor-per-request-with-akka-http/">Actor per Request With Akka Http</a></li>
-			<li class="widget__item"><a class="widget__link" href="/post/2018/akka-stream-interface-for-grpc/">Akka stream interface for gRPC</a></li>
-			<li class="widget__item"><a class="widget__link" href="/post/2018/arviz-exploratory-analysis-of-bayesian-models/">ArviZ: Exploratory analysis of Bayesian models</a></li>
-			<li class="widget__item"><a class="widget__link" href="/post/2018/auto-keras-is-an-open-source-software-library-for-automated-machine-learning-automl/">Auto-Keras is an open source software library for automated machine learning (AutoML).</a></li>
-			<li class="widget__item"><a class="widget__link" href="/post/2018/azure-for-enterprise-developers/">Azure for Enterprise Developers</a></li>
-			<li class="widget__item"><a class="widget__link" href="/post/2018/best-practices-for-operating-containers/">Best Practices for Operating Containers</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/2018/a-small-study-project-on-the-lagom-scala-microservice-framework/">A small study project on the Lagom Scala microservice framework.</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/2018/akka-actors-evolution-towards-type-safe-distributed-computations/">Akka Actors evolution. Towards type-safe distributed computations</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/2018/apache-kafka-streams-machine-learning-deep-learning/">Apache Kafka Streams &#43; Machine Learning / Deep Learning</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/2018/azure-data-architecture-guide/">Azure Data Architecture Guide</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/2018/best-practice-data-pipeline-architecture-on-aws-in-2018/">Best Practice Data Pipeline Architecture on AWS in 2018</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/2018/best-practices-for-real-time-data-pipelines-with-change-data-capture-and-spark/">Best Practices for Real Time Data Pipelines with Change Data Capture and Spark</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/2018/comparison-of-the-most-useful-text-processing-apis/">Comparison of the Most Useful Text Processing APIs</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/2018/deploy-your-first-deep-learning-model-on-kubernetes-with-python-keras-flask-and-docker/">Deploy Your First Deep Learning Model On Kubernetes With Python, Keras, Flask, and Docker</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/2018/engineers-shouldn-t-write-etl-a-guide-to-building-a-high-functioning-data-science-department/">Engineers Shouldn’t Write ETL: A Guide to Building a High Functioning Data Science Department</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/2018/how-to-deliver-on-machine-learning-projects/">How to deliver on Machine Learning projects</a></li>
 		</ul>
 	</div>
 </div>
@@ -288,6 +302,7 @@ Free Chapters from Introduction to Artificial Neural Networks and Deep Learning:
 			<li class="widget__item"><a class="widget__link" href="/categories/kubernetes">Kubernetes</a></li>
 			<li class="widget__item"><a class="widget__link" href="/categories/mac-os">Mac-Os</a></li>
 			<li class="widget__item"><a class="widget__link" href="/categories/machine-learning">Machine-Learning</a></li>
+			<li class="widget__item"><a class="widget__link" href="/categories/management">Management</a></li>
 			<li class="widget__item"><a class="widget__link" href="/categories/math">Math</a></li>
 			<li class="widget__item"><a class="widget__link" href="/categories/ml-interpretation">Ml-Interpretation</a></li>
 			<li class="widget__item"><a class="widget__link" href="/categories/nlp">Nlp</a></li>
@@ -311,6 +326,7 @@ Free Chapters from Introduction to Artificial Neural Networks and Deep Learning:
 		<a class="widget__link widget__link--taglist" href="/tags/configuration" title="configuration">configuration</a>
 		<a class="widget__link widget__link--taglist" href="/tags/docker" title="docker">docker</a>
 		<a class="widget__link widget__link--taglist" href="/tags/feature-selection" title="feature-selection">feature-selection</a>
+		<a class="widget__link widget__link--taglist" href="/tags/functional-programming" title="functional-programming">functional-programming</a>
 		<a class="widget__link widget__link--taglist" href="/tags/github" title="github">github</a>
 		<a class="widget__link widget__link--taglist" href="/tags/go" title="go">go</a>
 		<a class="widget__link widget__link--taglist" href="/tags/golang" title="golang">golang</a>
@@ -318,6 +334,7 @@ Free Chapters from Introduction to Artificial Neural Networks and Deep Learning:
 		<a class="widget__link widget__link--taglist" href="/tags/job-interview" title="job-interview">job-interview</a>
 		<a class="widget__link widget__link--taglist" href="/tags/meta-learning" title="meta-learning">meta-learning</a>
 		<a class="widget__link widget__link--taglist" href="/tags/microservices" title="microservices">microservices</a>
+		<a class="widget__link widget__link--taglist" href="/tags/other" title="other">other</a>
 		<a class="widget__link widget__link--taglist" href="/tags/python" title="python">python</a>
 		<a class="widget__link widget__link--taglist" href="/tags/r" title="r">r</a>
 		<a class="widget__link widget__link--taglist" href="/tags/scala" title="scala">scala</a>

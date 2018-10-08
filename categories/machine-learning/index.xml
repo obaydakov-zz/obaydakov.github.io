@@ -6,10 +6,46 @@
     <description>Recent content in Machine Learning on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Apache Kafka Streams &#43; Machine Learning / Deep Learning</title>
+      <link>https://obaydakov.github.io/post/2018/apache-kafka-streams-machine-learning-deep-learning/</link>
+      <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/apache-kafka-streams-machine-learning-deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of the Most Useful Text Processing APIs</title>
+      <link>https://obaydakov.github.io/post/2018/comparison-of-the-most-useful-text-processing-apis/</link>
+      <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/comparison-of-the-most-useful-text-processing-apis/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Deploy Your First Deep Learning Model On Kubernetes With Python, Keras, Flask, and Docker</title>
+      <link>https://obaydakov.github.io/post/2018/deploy-your-first-deep-learning-model-on-kubernetes-with-python-keras-flask-and-docker/</link>
+      <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/deploy-your-first-deep-learning-model-on-kubernetes-with-python-keras-flask-and-docker/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>How to deliver on Machine Learning projects</title>
+      <link>https://obaydakov.github.io/post/2018/how-to-deliver-on-machine-learning-projects/</link>
+      <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/how-to-deliver-on-machine-learning-projects/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A library for running membership inference attacks against ML models</title>
