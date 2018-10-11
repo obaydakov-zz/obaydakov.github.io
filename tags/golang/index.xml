@@ -6,10 +6,46 @@
     <description>Recent content in Golang on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/golang/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microservices in Golang -  Summary</title>
+      <link>https://obaydakov.github.io/post/2018/microservices-in-golang-summary/</link>
+      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/microservices-in-golang-summary/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Serverless Start-ups in Golang</title>
+      <link>https://obaydakov.github.io/post/2018/serverless-start-ups-in-golang/</link>
+      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/serverless-start-ups-in-golang/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Writing a service container in Go</title>
+      <link>https://obaydakov.github.io/post/2018/writing-a-service-container-in-go/</link>
+      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/writing-a-service-container-in-go/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Writing and running Go api&#39;s in Docker</title>
+      <link>https://obaydakov.github.io/post/2018/writing-and-running-go-api-s-in-docker/</link>
+      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/writing-and-running-go-api-s-in-docker/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Go AI program which implement the AlphaGo Zero paper</title>

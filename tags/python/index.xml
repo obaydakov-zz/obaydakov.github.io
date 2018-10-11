@@ -6,10 +6,58 @@
     <description>Recent content in Python on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>An online community for showcasing R &amp; Python tutorials.</title>
+      <link>https://obaydakov.github.io/post/2018/an-online-community-for-showcasing-r-python-tutorials/</link>
+      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/an-online-community-for-showcasing-r-python-tutorials/</guid>
+      <description>Advanced modeling
+H2O, AutiML, DALEX
+Anomaly Detection</description>
+    </item>
+    
+    <item>
+      <title>Announcing fast.ai part 1 now available as Kaggle Kernels</title>
+      <link>https://obaydakov.github.io/post/2018/announcing-fast-ai-part-1-now-available-as-kaggle-kernels/</link>
+      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/announcing-fast-ai-part-1-now-available-as-kaggle-kernels/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>NLP for hackers</title>
+      <link>https://obaydakov.github.io/post/2018/nlp-for-hackers/</link>
+      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/nlp-for-hackers/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Serverless Machine Learning: Manage Models, Not Servers</title>
+      <link>https://obaydakov.github.io/post/2018/serverless-machine-learning-manage-models-not-servers/</link>
+      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/serverless-machine-learning-manage-models-not-servers/</guid>
+      <description>Slides
+Code</description>
+    </item>
+    
+    <item>
+      <title>Обучение и тестирование нейронных сетей на PyTorch с помощью Ignite</title>
+      <link>https://obaydakov.github.io/post/2018/%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B8-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D1%85-%D1%81%D0%B5%D1%82%D0%B5%D0%B9-%D0%BD%D0%B0-pytorch-%D1%81-%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D1%8C%D1%8E-ignite/</link>
+      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B8-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D1%85-%D1%81%D0%B5%D1%82%D0%B5%D0%B9-%D0%BD%D0%B0-pytorch-%D1%81-%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D1%8C%D1%8E-ignite/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Deploy Your First Deep Learning Model On Kubernetes With Python, Keras, Flask, and Docker</title>

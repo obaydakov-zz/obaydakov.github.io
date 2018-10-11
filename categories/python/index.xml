@@ -6,10 +6,31 @@
     <description>Recent content in Python on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>An online community for showcasing R &amp; Python tutorials.</title>
+      <link>https://obaydakov.github.io/post/2018/an-online-community-for-showcasing-r-python-tutorials/</link>
+      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/an-online-community-for-showcasing-r-python-tutorials/</guid>
+      <description>Advanced modeling
+H2O, AutiML, DALEX
+Anomaly Detection</description>
+    </item>
+    
+    <item>
+      <title>Serverless Machine Learning: Manage Models, Not Servers</title>
+      <link>https://obaydakov.github.io/post/2018/serverless-machine-learning-manage-models-not-servers/</link>
+      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/serverless-machine-learning-manage-models-not-servers/</guid>
+      <description>Slides
+Code</description>
+    </item>
     
     <item>
       <title>Deploy Your First Deep Learning Model On Kubernetes With Python, Keras, Flask, and Docker</title>

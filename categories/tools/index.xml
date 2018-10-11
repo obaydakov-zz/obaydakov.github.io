@@ -6,10 +6,19 @@
     <description>Recent content in Tools on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/tools/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>De-duplicate and find matches in your Excel spreadsheet or database</title>
+      <link>https://obaydakov.github.io/post/2018/de-duplicate-and-find-matches-in-your-excel-spreadsheet-or-database/</link>
+      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/de-duplicate-and-find-matches-in-your-excel-spreadsheet-or-database/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Invoke is a Python (2.7 and 3.4&#43;) task execution tool &amp; library</title>

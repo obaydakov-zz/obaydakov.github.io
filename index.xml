@@ -6,10 +6,166 @@
     <description>Recent content on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>25 полезных инструментов Kubernetes: развёртывание и управление</title>
+      <link>https://obaydakov.github.io/post/2018/25-%D0%BF%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D1%8B%D1%85-%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D0%B2-kubernetes-%D1%80%D0%B0%D0%B7%D0%B2%D1%91%D1%80%D1%82%D1%8B%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B8-%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5/</link>
+      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/25-%D0%BF%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D1%8B%D1%85-%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D0%B2-kubernetes-%D1%80%D0%B0%D0%B7%D0%B2%D1%91%D1%80%D1%82%D1%8B%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B8-%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>A comprehensive introduction to Cats-mtl</title>
+      <link>https://obaydakov.github.io/post/2018/a-comprehensive-introduction-to-cats-mtl/</link>
+      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/a-comprehensive-introduction-to-cats-mtl/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>An online community for showcasing R &amp; Python tutorials.</title>
+      <link>https://obaydakov.github.io/post/2018/an-online-community-for-showcasing-r-python-tutorials/</link>
+      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/an-online-community-for-showcasing-r-python-tutorials/</guid>
+      <description>Advanced modeling
+H2O, AutiML, DALEX
+Anomaly Detection</description>
+    </item>
+    
+    <item>
+      <title>Announcing fast.ai part 1 now available as Kaggle Kernels</title>
+      <link>https://obaydakov.github.io/post/2018/announcing-fast-ai-part-1-now-available-as-kaggle-kernels/</link>
+      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/announcing-fast-ai-part-1-now-available-as-kaggle-kernels/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>De-duplicate and find matches in your Excel spreadsheet or database</title>
+      <link>https://obaydakov.github.io/post/2018/de-duplicate-and-find-matches-in-your-excel-spreadsheet-or-database/</link>
+      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/de-duplicate-and-find-matches-in-your-excel-spreadsheet-or-database/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Diving deep into what’s new with Azure Machine Learning</title>
+      <link>https://obaydakov.github.io/post/2018/diving-deep-into-what-s-new-with-azure-machine-learning/</link>
+      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/diving-deep-into-what-s-new-with-azure-machine-learning/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Free and tagless compared - how not to commit to a monad too early</title>
+      <link>https://obaydakov.github.io/post/2018/free-and-tagless-compared-how-not-to-commit-to-a-monad-too-early/</link>
+      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/free-and-tagless-compared-how-not-to-commit-to-a-monad-too-early/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>How to apply DevOps to Machine learning</title>
+      <link>https://obaydakov.github.io/post/2018/how-to-apply-devops-to-machine-learning/</link>
+      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/how-to-apply-devops-to-machine-learning/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Microservices in Golang -  Summary</title>
+      <link>https://obaydakov.github.io/post/2018/microservices-in-golang-summary/</link>
+      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/microservices-in-golang-summary/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>NLP for hackers</title>
+      <link>https://obaydakov.github.io/post/2018/nlp-for-hackers/</link>
+      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/nlp-for-hackers/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Serverless Machine Learning: Manage Models, Not Servers</title>
+      <link>https://obaydakov.github.io/post/2018/serverless-machine-learning-manage-models-not-servers/</link>
+      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/serverless-machine-learning-manage-models-not-servers/</guid>
+      <description>Slides
+Code</description>
+    </item>
+    
+    <item>
+      <title>Serverless Start-ups in Golang</title>
+      <link>https://obaydakov.github.io/post/2018/serverless-start-ups-in-golang/</link>
+      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/serverless-start-ups-in-golang/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>The “Gold Standard” for Data Science Project Management</title>
+      <link>https://obaydakov.github.io/post/2018/the-gold-standard-for-data-science-project-management/</link>
+      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/the-gold-standard-for-data-science-project-management/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Writing a service container in Go</title>
+      <link>https://obaydakov.github.io/post/2018/writing-a-service-container-in-go/</link>
+      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/writing-a-service-container-in-go/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Writing and running Go api&#39;s in Docker</title>
+      <link>https://obaydakov.github.io/post/2018/writing-and-running-go-api-s-in-docker/</link>
+      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/writing-and-running-go-api-s-in-docker/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Обучение и тестирование нейронных сетей на PyTorch с помощью Ignite</title>
+      <link>https://obaydakov.github.io/post/2018/%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B8-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D1%85-%D1%81%D0%B5%D1%82%D0%B5%D0%B9-%D0%BD%D0%B0-pytorch-%D1%81-%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D1%8C%D1%8E-ignite/</link>
+      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B8-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D1%85-%D1%81%D0%B5%D1%82%D0%B5%D0%B9-%D0%BD%D0%B0-pytorch-%D1%81-%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D1%8C%D1%8E-ignite/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Пример использования Microsoft Flow или Как подарить жене цветы</title>
+      <link>https://obaydakov.github.io/post/2018/%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-microsoft-flow-%D0%B8%D0%BB%D0%B8-%D0%BA%D0%B0%D0%BA-%D0%BF%D0%BE%D0%B4%D0%B0%D1%80%D0%B8%D1%82%D1%8C-%D0%B6%D0%B5%D0%BD%D0%B5-%D1%86%D0%B2%D0%B5%D1%82%D1%8B/</link>
+      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-microsoft-flow-%D0%B8%D0%BB%D0%B8-%D0%BA%D0%B0%D0%BA-%D0%BF%D0%BE%D0%B4%D0%B0%D1%80%D0%B8%D1%82%D1%8C-%D0%B6%D0%B5%D0%BD%D0%B5-%D1%86%D0%B2%D0%B5%D1%82%D1%8B/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>A small study project on the Lagom Scala microservice framework.</title>
