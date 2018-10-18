@@ -66,6 +66,15 @@
     </item>
     
     <item>
+      <title>Istio - Quick Start with Kubernetes</title>
+      <link>https://obaydakov.github.io/post/2018/istio-quick-start-with-kubernetes/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/istio-quick-start-with-kubernetes/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
       <title>Kubernetes Service Mesh</title>
       <link>https://obaydakov.github.io/post/2018/kubernetes-service-mesh/</link>
       <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
