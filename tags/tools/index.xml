@@ -6,10 +6,91 @@
     <description>Recent content in Tools on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/tools/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>An open source AutoML toolkit for neural architecture search and hyper-parameter tuning.</title>
+      <link>https://obaydakov.github.io/post/2018/an-open-source-automl-toolkit-for-neural-architecture-search-and-hyper-parameter-tuning/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/an-open-source-automl-toolkit-for-neural-architecture-search-and-hyper-parameter-tuning/</guid>
+      <description>Linl</description>
+    </item>
+    
+    <item>
+      <title>An open source platform for the machine learning lifecycle</title>
+      <link>https://obaydakov.github.io/post/2018/an-open-source-platform-for-the-machine-learning-lifecycle/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/an-open-source-platform-for-the-machine-learning-lifecycle/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Demo of kubeless, a serverless framework for Kubernetes</title>
+      <link>https://obaydakov.github.io/post/2018/demo-of-kubeless-a-serverless-framework-for-kubernetes/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/demo-of-kubeless-a-serverless-framework-for-kubernetes/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Fission - open source, Kubernetes-native Serverless Framework</title>
+      <link>https://obaydakov.github.io/post/2018/open-source-kubernetes-native-serverless-framework/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/open-source-kubernetes-native-serverless-framework/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to use the new features of IntelliJ Scala plugin 2018.2</title>
+      <link>https://obaydakov.github.io/post/2018/how-to-use-the-new-features-of-intellij-scala-plugin-2018-2/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/how-to-use-the-new-features-of-intellij-scala-plugin-2018-2/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Hyperledger Fabric single member network</title>
+      <link>https://obaydakov.github.io/post/2018/hyperledger-fabric-single-member-network/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/hyperledger-fabric-single-member-network/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Kafka Docs</title>
+      <link>https://obaydakov.github.io/post/2018/kafka-docs/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/kafka-docs/</guid>
+      <description>List</description>
+    </item>
+    
+    <item>
+      <title>Kubernetes: The Surprisingly Affordable Platform for Personal Projects</title>
+      <link>https://obaydakov.github.io/post/2018/kubernetes-the-surprisingly-affordable-platform-for-personal-projects/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/kubernetes-the-surprisingly-affordable-platform-for-personal-projects/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>MLflow with R</title>
+      <link>https://obaydakov.github.io/post/2018/mlflow-with-r/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/mlflow-with-r/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>25 полезных инструментов Kubernetes: развёртывание и управление</title>

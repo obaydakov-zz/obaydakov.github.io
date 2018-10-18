@@ -6,10 +6,325 @@
     <description>Recent content on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A boilerplate-free library for loading configuration files</title>
+      <link>https://obaydakov.github.io/post/2018/a-boilerplate-free-library-for-loading-configuration-files/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/a-boilerplate-free-library-for-loading-configuration-files/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>An open source AutoML toolkit for neural architecture search and hyper-parameter tuning.</title>
+      <link>https://obaydakov.github.io/post/2018/an-open-source-automl-toolkit-for-neural-architecture-search-and-hyper-parameter-tuning/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/an-open-source-automl-toolkit-for-neural-architecture-search-and-hyper-parameter-tuning/</guid>
+      <description>Linl</description>
+    </item>
+    
+    <item>
+      <title>An open source platform for the machine learning lifecycle</title>
+      <link>https://obaydakov.github.io/post/2018/an-open-source-platform-for-the-machine-learning-lifecycle/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/an-open-source-platform-for-the-machine-learning-lifecycle/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Anatomy of functional programming</title>
+      <link>https://obaydakov.github.io/post/2018/anatomy-of-functional-programming/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/anatomy-of-functional-programming/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Configuring a Supply Chain demo app with Strato in Azure</title>
+      <link>https://obaydakov.github.io/post/2018/configuring-a-supply-chain-demo-app-with-strato-in-azure/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/configuring-a-supply-chain-demo-app-with-strato-in-azure/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Create a functional Apache Spark cluster using Kubernetes and Docker.</title>
+      <link>https://obaydakov.github.io/post/2018/create-a-functional-apache-spark-cluster-using-kubernetes-and-docker/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/create-a-functional-apache-spark-cluster-using-kubernetes-and-docker/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Curated list of great Scala oriented (but not always) Functionnal Programming resources</title>
+      <link>https://obaydakov.github.io/post/2018/curated-list-of-great-scala-oriented-but-not-always-functionnal-programming-resources/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/curated-list-of-great-scala-oriented-but-not-always-functionnal-programming-resources/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Delivering Data Science for the Enterprise with Shiny (R) in Kubernetes</title>
+      <link>https://obaydakov.github.io/post/2018/delivering-data-science-for-the-enterprise-with-shiny-r-in-kubernetes/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/delivering-data-science-for-the-enterprise-with-shiny-r-in-kubernetes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demo of kubeless, a serverless framework for Kubernetes</title>
+      <link>https://obaydakov.github.io/post/2018/demo-of-kubeless-a-serverless-framework-for-kubernetes/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/demo-of-kubeless-a-serverless-framework-for-kubernetes/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Deploy Azure Blockchain Workbench</title>
+      <link>https://obaydakov.github.io/post/2018/deploy-azure-blockchain-workbench/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/deploy-azure-blockchain-workbench/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Deploying Scala code on Azure Functions</title>
+      <link>https://obaydakov.github.io/post/2018/deploying-scala-code-on-azure-functions/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/deploying-scala-code-on-azure-functions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design Patterns for Microservices</title>
+      <link>https://obaydakov.github.io/post/2018/design-patterns-for-microservices/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/design-patterns-for-microservices/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Easing Into Cats, And The Case For Category Theory Inspired Abstractions</title>
+      <link>https://obaydakov.github.io/post/2018/easing-into-cats-and-the-case-for-category-theory-inspired-abstractions/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/easing-into-cats-and-the-case-for-category-theory-inspired-abstractions/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Fission - open source, Kubernetes-native Serverless Framework</title>
+      <link>https://obaydakov.github.io/post/2018/open-source-kubernetes-native-serverless-framework/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/open-source-kubernetes-native-serverless-framework/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to Dockerise a Scala and Akka HTTP Application - the easy way</title>
+      <link>https://obaydakov.github.io/post/2018/how-to-dockerise-a-scala-and-akka-http-application-the-easy-way/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/how-to-dockerise-a-scala-and-akka-http-application-the-easy-way/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>How to deliver on Machine Learning projects</title>
+      <link>https://obaydakov.github.io/post/2018/how-to-deliver-on-machine-learning-projects/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/how-to-deliver-on-machine-learning-projects/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>How to use the new features of IntelliJ Scala plugin 2018.2</title>
+      <link>https://obaydakov.github.io/post/2018/how-to-use-the-new-features-of-intellij-scala-plugin-2018-2/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/how-to-use-the-new-features-of-intellij-scala-plugin-2018-2/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Hyperledger Fabric single member network</title>
+      <link>https://obaydakov.github.io/post/2018/hyperledger-fabric-single-member-network/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/hyperledger-fabric-single-member-network/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>IDE Container: RStudio Server, Shiny Server, and More</title>
+      <link>https://obaydakov.github.io/post/2018/ide-container-rstudio-server-shiny-server-and-more/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/ide-container-rstudio-server-shiny-server-and-more/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Implementing a Service Mesh with Istio to Simplify Microservices Communication</title>
+      <link>https://obaydakov.github.io/post/2018/implementing-a-service-mesh-with-istio-to-simplify-microservices-communication/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/implementing-a-service-mesh-with-istio-to-simplify-microservices-communication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive JavaScript Diagrams in HTML</title>
+      <link>https://obaydakov.github.io/post/2018/interactive-javascript-diagrams-in-html/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/interactive-javascript-diagrams-in-html/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Introducing Azure Blockchain Workbench</title>
+      <link>https://obaydakov.github.io/post/2018/introducing-azure-blockchain-workbench/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/introducing-azure-blockchain-workbench/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Kafka Docs</title>
+      <link>https://obaydakov.github.io/post/2018/kafka-docs/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/kafka-docs/</guid>
+      <description>List</description>
+    </item>
+    
+    <item>
+      <title>Kubernetes Service Mesh</title>
+      <link>https://obaydakov.github.io/post/2018/kubernetes-service-mesh/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/kubernetes-service-mesh/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Kubernetes: The Surprisingly Affordable Platform for Personal Projects</title>
+      <link>https://obaydakov.github.io/post/2018/kubernetes-the-surprisingly-affordable-platform-for-personal-projects/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/kubernetes-the-surprisingly-affordable-platform-for-personal-projects/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>MLflow with R</title>
+      <link>https://obaydakov.github.io/post/2018/mlflow-with-r/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/mlflow-with-r/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>New pretty id generator in scala-id-generator</title>
+      <link>https://obaydakov.github.io/post/2018/new-pretty-id-generator-in-scala-id-generator/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/new-pretty-id-generator-in-scala-id-generator/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Regularization in Machine Learning</title>
+      <link>https://obaydakov.github.io/post/2018/regularization-in-machine-learning/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/regularization-in-machine-learning/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Running akka-cluster on Kubernetes</title>
+      <link>https://obaydakov.github.io/post/2018/running-akka-cluster-on-kubernetes/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/running-akka-cluster-on-kubernetes/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Scala Clippy</title>
+      <link>https://obaydakov.github.io/post/2018/scala-clippy/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/scala-clippy/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Scala Resources</title>
+      <link>https://obaydakov.github.io/post/2018/scala-resources/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/scala-resources/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Serverless Machine Learning with TensorFlow.js</title>
+      <link>https://obaydakov.github.io/post/2018/serverless-machine-learning-with-tensorflow-js/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/serverless-machine-learning-with-tensorflow-js/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Spark Summit 2017 Video</title>
+      <link>https://obaydakov.github.io/post/2018/spark-summit-2017-video/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/spark-summit-2017-video/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>The latest news, resources and thoughts from the world of Functional programming</title>
+      <link>https://obaydakov.github.io/post/2018/the-latest-news-resources-and-thoughts-from-the-world-of-functional-programming/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/the-latest-news-resources-and-thoughts-from-the-world-of-functional-programming/</guid>
+      <description>Linik</description>
+    </item>
+    
+    <item>
+      <title>fs2 - Functional Streams for Scala</title>
+      <link>https://obaydakov.github.io/post/2018/fs2-functional-streams-for-scala/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/fs2-functional-streams-for-scala/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>25 полезных инструментов Kubernetes: развёртывание и управление</title>

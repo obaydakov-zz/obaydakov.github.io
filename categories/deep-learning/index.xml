@@ -6,10 +6,19 @@
     <description>Recent content in Deep Learning on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Serverless Machine Learning with TensorFlow.js</title>
+      <link>https://obaydakov.github.io/post/2018/serverless-machine-learning-with-tensorflow-js/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/serverless-machine-learning-with-tensorflow-js/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Announcing fast.ai part 1 now available as Kaggle Kernels</title>

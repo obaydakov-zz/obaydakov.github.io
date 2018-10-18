@@ -6,10 +6,55 @@
     <description>Recent content in Automated Ml on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/automated-ml/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>An open source AutoML toolkit for neural architecture search and hyper-parameter tuning.</title>
+      <link>https://obaydakov.github.io/post/2018/an-open-source-automl-toolkit-for-neural-architecture-search-and-hyper-parameter-tuning/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/an-open-source-automl-toolkit-for-neural-architecture-search-and-hyper-parameter-tuning/</guid>
+      <description>Linl</description>
+    </item>
+    
+    <item>
+      <title>An open source platform for the machine learning lifecycle</title>
+      <link>https://obaydakov.github.io/post/2018/an-open-source-platform-for-the-machine-learning-lifecycle/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/an-open-source-platform-for-the-machine-learning-lifecycle/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Design Patterns for Microservices</title>
+      <link>https://obaydakov.github.io/post/2018/design-patterns-for-microservices/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/design-patterns-for-microservices/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>How to deliver on Machine Learning projects</title>
+      <link>https://obaydakov.github.io/post/2018/how-to-deliver-on-machine-learning-projects/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/how-to-deliver-on-machine-learning-projects/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>MLflow with R</title>
+      <link>https://obaydakov.github.io/post/2018/mlflow-with-r/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/mlflow-with-r/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>How to apply DevOps to Machine learning</title>

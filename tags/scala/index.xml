@@ -6,10 +6,82 @@
     <description>Recent content in Scala on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/scala/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A boilerplate-free library for loading configuration files</title>
+      <link>https://obaydakov.github.io/post/2018/a-boilerplate-free-library-for-loading-configuration-files/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/a-boilerplate-free-library-for-loading-configuration-files/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Anatomy of functional programming</title>
+      <link>https://obaydakov.github.io/post/2018/anatomy-of-functional-programming/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/anatomy-of-functional-programming/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Curated list of great Scala oriented (but not always) Functionnal Programming resources</title>
+      <link>https://obaydakov.github.io/post/2018/curated-list-of-great-scala-oriented-but-not-always-functionnal-programming-resources/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/curated-list-of-great-scala-oriented-but-not-always-functionnal-programming-resources/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Deploying Scala code on Azure Functions</title>
+      <link>https://obaydakov.github.io/post/2018/deploying-scala-code-on-azure-functions/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/deploying-scala-code-on-azure-functions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New pretty id generator in scala-id-generator</title>
+      <link>https://obaydakov.github.io/post/2018/new-pretty-id-generator-in-scala-id-generator/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/new-pretty-id-generator-in-scala-id-generator/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Running akka-cluster on Kubernetes</title>
+      <link>https://obaydakov.github.io/post/2018/running-akka-cluster-on-kubernetes/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/running-akka-cluster-on-kubernetes/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Scala Clippy</title>
+      <link>https://obaydakov.github.io/post/2018/scala-clippy/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/scala-clippy/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Scala Resources</title>
+      <link>https://obaydakov.github.io/post/2018/scala-resources/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/scala-resources/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Akka Actors evolution. Towards type-safe distributed computations</title>

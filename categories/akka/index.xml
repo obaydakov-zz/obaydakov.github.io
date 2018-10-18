@@ -6,10 +6,28 @@
     <description>Recent content in Akka on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/akka/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to Dockerise a Scala and Akka HTTP Application - the easy way</title>
+      <link>https://obaydakov.github.io/post/2018/how-to-dockerise-a-scala-and-akka-http-application-the-easy-way/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/how-to-dockerise-a-scala-and-akka-http-application-the-easy-way/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Running akka-cluster on Kubernetes</title>
+      <link>https://obaydakov.github.io/post/2018/running-akka-cluster-on-kubernetes/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/running-akka-cluster-on-kubernetes/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Akka Actors evolution. Towards type-safe distributed computations</title>

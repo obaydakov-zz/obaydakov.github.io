@@ -6,10 +6,46 @@
     <description>Recent content in Azure on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/azure/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Configuring a Supply Chain demo app with Strato in Azure</title>
+      <link>https://obaydakov.github.io/post/2018/configuring-a-supply-chain-demo-app-with-strato-in-azure/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/configuring-a-supply-chain-demo-app-with-strato-in-azure/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Deploy Azure Blockchain Workbench</title>
+      <link>https://obaydakov.github.io/post/2018/deploy-azure-blockchain-workbench/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/deploy-azure-blockchain-workbench/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Deploying Scala code on Azure Functions</title>
+      <link>https://obaydakov.github.io/post/2018/deploying-scala-code-on-azure-functions/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/deploying-scala-code-on-azure-functions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introducing Azure Blockchain Workbench</title>
+      <link>https://obaydakov.github.io/post/2018/introducing-azure-blockchain-workbench/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/introducing-azure-blockchain-workbench/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Пример использования Microsoft Flow или Как подарить жене цветы</title>

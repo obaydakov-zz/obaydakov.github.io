@@ -6,10 +6,19 @@
     <description>Recent content in Python on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>An open source platform for the machine learning lifecycle</title>
+      <link>https://obaydakov.github.io/post/2018/an-open-source-platform-for-the-machine-learning-lifecycle/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/an-open-source-platform-for-the-machine-learning-lifecycle/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>An online community for showcasing R &amp; Python tutorials.</title>
