@@ -48,12 +48,27 @@
   </url>
   
   <url>
+    <loc>https://obaydakov.github.io/post/2018/fn-open-source-container-native-serverless-platform/</loc>
+    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://obaydakov.github.io/post/2018/free-vs-tagless-final/</loc>
     <lastmod>2018-10-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://obaydakov.github.io/post/2018/graphpipe-machine-learning-model-deployment-made-simple/</loc>
+    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://obaydakov.github.io/post/2018/john-de-goes-fp-to-the-max/</loc>
+    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/learn-to-build-mobile-and-web-apps-with-aws-amplify-and-serverless-framework/</loc>
     <lastmod>2018-10-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -73,6 +88,11 @@
   </url>
   
   <url>
+    <loc>https://obaydakov.github.io/post/2018/push-to-aws-with-bitbucket-pipelines-and-serverless/</loc>
+    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://obaydakov.github.io/post/2018/python-top-10-articles-for-the-past-month-v-oct-2018/</loc>
     <lastmod>2018-10-25T00:00:00+00:00</lastmod>
   </url>
@@ -83,12 +103,27 @@
   </url>
   
   <url>
+    <loc>https://obaydakov.github.io/post/2018/serverless-microservice-patterns-for-aws/</loc>
+    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/serverless-framework-tips-and-tricks/</loc>
+    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://obaydakov.github.io/post/2018/service-mesh-with-istio-on-kubernetes-in-5-steps/</loc>
     <lastmod>2018-10-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/post/2018/simple-akka-cluster-on-kubernetes-cluster/</loc>
+    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/the-best-5-use-cases-for-the-serverless-beginner/</loc>
     <lastmod>2018-10-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -5559,7 +5594,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/tags/microservices/</loc>
-    <lastmod>2018-10-11T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

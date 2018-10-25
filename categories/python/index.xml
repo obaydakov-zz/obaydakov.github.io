@@ -30,6 +30,26 @@
     </item>
     
     <item>
+      <title>Fn - Open Source. Container-native. Serverless platform.</title>
+      <link>https://obaydakov.github.io/post/2018/fn-open-source-container-native-serverless-platform/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/fn-open-source-container-native-serverless-platform/</guid>
+      <description>Link
+First steps in #serverless with fnproject.io
+Serverless and Recurrent Neural Networks with Fn, GraphPipe and TensorFlow</description>
+    </item>
+    
+    <item>
+      <title>Learn to build mobile and web apps with AWS Amplify and Serverless Framework</title>
+      <link>https://obaydakov.github.io/post/2018/learn-to-build-mobile-and-web-apps-with-aws-amplify-and-serverless-framework/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/learn-to-build-mobile-and-web-apps-with-aws-amplify-and-serverless-framework/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
       <title>Locust is an easy-to-use, distributed, user load testing tool. It is intended for load-testing web sites (or other systems) and figuring out how many concurrent users a system can handle.</title>
       <link>https://obaydakov.github.io/post/2018/locust-is-an-easy-to-use-distributed-user-load-testing-tool-it-is-intended-for-load-testing-web-sites-or-other-systems-and-figuring-out-how-many-concurrent-users-a-system-can-handle/</link>
       <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
@@ -40,11 +60,47 @@ Locust is completely event-based, and therefore it’s possible to support thous
     </item>
     
     <item>
+      <title>Push to AWS with Bitbucket Pipelines and serverless</title>
+      <link>https://obaydakov.github.io/post/2018/push-to-aws-with-bitbucket-pipelines-and-serverless/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/push-to-aws-with-bitbucket-pipelines-and-serverless/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
       <title>Python Top 10 Articles for the Past Month (v.Oct 2018)</title>
       <link>https://obaydakov.github.io/post/2018/python-top-10-articles-for-the-past-month-v-oct-2018/</link>
       <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/post/2018/python-top-10-articles-for-the-past-month-v-oct-2018/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Serverless Microservice Patterns for AWS</title>
+      <link>https://obaydakov.github.io/post/2018/serverless-microservice-patterns-for-aws/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/serverless-microservice-patterns-for-aws/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Serverless framework tips and tricks</title>
+      <link>https://obaydakov.github.io/post/2018/serverless-framework-tips-and-tricks/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/serverless-framework-tips-and-tricks/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>The Best 5 Use Cases For The Serverless Beginner</title>
+      <link>https://obaydakov.github.io/post/2018/the-best-5-use-cases-for-the-serverless-beginner/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/the-best-5-use-cases-for-the-serverless-beginner/</guid>
       <description>Link</description>
     </item>
     

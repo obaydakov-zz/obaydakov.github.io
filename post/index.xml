@@ -93,6 +93,17 @@
     </item>
     
     <item>
+      <title>Fn - Open Source. Container-native. Serverless platform.</title>
+      <link>https://obaydakov.github.io/post/2018/fn-open-source-container-native-serverless-platform/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/fn-open-source-container-native-serverless-platform/</guid>
+      <description>Link
+First steps in #serverless with fnproject.io
+Serverless and Recurrent Neural Networks with Fn, GraphPipe and TensorFlow</description>
+    </item>
+    
+    <item>
       <title>Free vs tagless final</title>
       <link>https://obaydakov.github.io/post/2018/free-vs-tagless-final/</link>
       <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
@@ -103,12 +114,30 @@ Link</description>
     </item>
     
     <item>
+      <title>GraphPipe - Machine Learning Model Deployment Made Simple</title>
+      <link>https://obaydakov.github.io/post/2018/graphpipe-machine-learning-model-deployment-made-simple/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/graphpipe-machine-learning-model-deployment-made-simple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>John De Goes - FP to the Max</title>
       <link>https://obaydakov.github.io/post/2018/john-de-goes-fp-to-the-max/</link>
       <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/post/2018/john-de-goes-fp-to-the-max/</guid>
       <description>What happens when you take a procedural program riddled with partial functions and effects, and incrementally refactor it to a purely functional program—and then dial it up to eleven? In this live coding session, John hopes you&amp;rsquo;ll be amused and a maybe little terrified as he shows you where pure FP leads on one of the simplest programs possible, pointing out both the benefits and the costs of pure functional programming, and giving you an appreciation for how functional programming techniques scale to and deliver the most benefit in very large teams and very large applications.</description>
+    </item>
+    
+    <item>
+      <title>Learn to build mobile and web apps with AWS Amplify and Serverless Framework</title>
+      <link>https://obaydakov.github.io/post/2018/learn-to-build-mobile-and-web-apps-with-aws-amplify-and-serverless-framework/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/learn-to-build-mobile-and-web-apps-with-aws-amplify-and-serverless-framework/</guid>
+      <description>Link</description>
     </item>
     
     <item>
@@ -140,6 +169,15 @@ Locust is completely event-based, and therefore it’s possible to support thous
     </item>
     
     <item>
+      <title>Push to AWS with Bitbucket Pipelines and serverless</title>
+      <link>https://obaydakov.github.io/post/2018/push-to-aws-with-bitbucket-pipelines-and-serverless/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/push-to-aws-with-bitbucket-pipelines-and-serverless/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
       <title>Python Top 10 Articles for the Past Month (v.Oct 2018)</title>
       <link>https://obaydakov.github.io/post/2018/python-top-10-articles-for-the-past-month-v-oct-2018/</link>
       <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
@@ -158,6 +196,24 @@ Locust is completely event-based, and therefore it’s possible to support thous
     </item>
     
     <item>
+      <title>Serverless Microservice Patterns for AWS</title>
+      <link>https://obaydakov.github.io/post/2018/serverless-microservice-patterns-for-aws/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/serverless-microservice-patterns-for-aws/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Serverless framework tips and tricks</title>
+      <link>https://obaydakov.github.io/post/2018/serverless-framework-tips-and-tricks/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/serverless-framework-tips-and-tricks/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
       <title>Service Mesh With Istio on Kubernetes in 5 Steps</title>
       <link>https://obaydakov.github.io/post/2018/service-mesh-with-istio-on-kubernetes-in-5-steps/</link>
       <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
@@ -172,6 +228,15 @@ Locust is completely event-based, and therefore it’s possible to support thous
       <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/post/2018/simple-akka-cluster-on-kubernetes-cluster/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>The Best 5 Use Cases For The Serverless Beginner</title>
+      <link>https://obaydakov.github.io/post/2018/the-best-5-use-cases-for-the-serverless-beginner/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/the-best-5-use-cases-for-the-serverless-beginner/</guid>
       <description>Link</description>
     </item>
     
