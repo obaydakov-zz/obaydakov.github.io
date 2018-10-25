@@ -6,10 +6,64 @@
     <description>Recent content in Technology on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Build a Python REST API with Serverless, Lambda, and DynamoDB</title>
+      <link>https://obaydakov.github.io/post/2018/build-a-python-rest-api-with-serverless-lambda-and-dynamodb/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/build-a-python-rest-api-with-serverless-lambda-and-dynamodb/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning and Reinforcement Learning Summer School, Toronto 2018</title>
+      <link>https://obaydakov.github.io/post/2018/deep-learning-and-reinforcement-learning-summer-school-toronto-2018/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/deep-learning-and-reinforcement-learning-summer-school-toronto-2018/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Python Top 10 Articles for the Past Month (v.Oct 2018)</title>
+      <link>https://obaydakov.github.io/post/2018/python-top-10-articles-for-the-past-month-v-oct-2018/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/python-top-10-articles-for-the-past-month-v-oct-2018/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Service Mesh With Istio on Kubernetes in 5 Steps</title>
+      <link>https://obaydakov.github.io/post/2018/service-mesh-with-istio-on-kubernetes-in-5-steps/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/service-mesh-with-istio-on-kubernetes-in-5-steps/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Simple akka cluster on kubernetes cluster</title>
+      <link>https://obaydakov.github.io/post/2018/simple-akka-cluster-on-kubernetes-cluster/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/simple-akka-cluster-on-kubernetes-cluster/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Using Kubeless for Kubernetes Events</title>
+      <link>https://obaydakov.github.io/post/2018/using-kubeless-for-kubernetes-events/</link>
+      <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/using-kubeless-for-kubernetes-events/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Configuring a Supply Chain demo app with Strato in Azure</title>

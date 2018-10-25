@@ -6,10 +6,37 @@
     <description>Recent content in Automated Ml on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/automated-ml/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Algorithmia  - Some Of Our Favorite Text Analysis Machine Learning APIs</title>
+      <link>https://obaydakov.github.io/post/2018/algorithmia-some-of-our-favorite-text-analysis-machine-learning-apis/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/algorithmia-some-of-our-favorite-text-analysis-machine-learning-apis/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Algorithmia - Deploy Your Model</title>
+      <link>https://obaydakov.github.io/post/2018/algorithmia-deploy-your-model/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/algorithmia-deploy-your-model/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Algorithmia - Developer Recipes</title>
+      <link>https://obaydakov.github.io/post/2018/algorithmia-developer-recipes/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/algorithmia-developer-recipes/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>An open source AutoML toolkit for neural architecture search and hyper-parameter tuning.</title>

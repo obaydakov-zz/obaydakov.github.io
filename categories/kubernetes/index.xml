@@ -6,10 +6,55 @@
     <description>Recent content in Kubernetes on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/kubernetes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Create a Kubernetes cluster with Azure Kubernetes Service and Terraform</title>
+      <link>https://obaydakov.github.io/post/2018/create-a-kubernetes-cluster-with-azure-kubernetes-service-and-terraform/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/create-a-kubernetes-cluster-with-azure-kubernetes-service-and-terraform/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>OpenFaaS - Serverless Functions Made Simple for Docker &amp; Kubernetes</title>
+      <link>https://obaydakov.github.io/post/2018/openfaas-serverless-functions-made-simple-for-docker-kubernetes/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/openfaas-serverless-functions-made-simple-for-docker-kubernetes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Service Mesh With Istio on Kubernetes in 5 Steps</title>
+      <link>https://obaydakov.github.io/post/2018/service-mesh-with-istio-on-kubernetes-in-5-steps/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/service-mesh-with-istio-on-kubernetes-in-5-steps/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Simple akka cluster on kubernetes cluster</title>
+      <link>https://obaydakov.github.io/post/2018/simple-akka-cluster-on-kubernetes-cluster/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/simple-akka-cluster-on-kubernetes-cluster/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Using Kubeless for Kubernetes Events</title>
+      <link>https://obaydakov.github.io/post/2018/using-kubeless-for-kubernetes-events/</link>
+      <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/using-kubeless-for-kubernetes-events/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Create a functional Apache Spark cluster using Kubernetes and Docker.</title>

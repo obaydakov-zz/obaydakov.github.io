@@ -6,10 +6,74 @@
     <description>Recent content in Python on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AWS Lambda &#43; Serverless Framework &#43; Python - A Step By Step Tutorial 1 “Hello World”</title>
+      <link>https://obaydakov.github.io/post/2018/aws-lambda-serverless-framework-python-a-step-by-step-tutorial-part-1-hello-world/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/aws-lambda-serverless-framework-python-a-step-by-step-tutorial-part-1-hello-world/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Build a Python REST API with Serverless, Lambda, and DynamoDB</title>
+      <link>https://obaydakov.github.io/post/2018/build-a-python-rest-api-with-serverless-lambda-and-dynamodb/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/build-a-python-rest-api-with-serverless-lambda-and-dynamodb/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Locust is an easy-to-use, distributed, user load testing tool. It is intended for load-testing web sites (or other systems) and figuring out how many concurrent users a system can handle.</title>
+      <link>https://obaydakov.github.io/post/2018/locust-is-an-easy-to-use-distributed-user-load-testing-tool-it-is-intended-for-load-testing-web-sites-or-other-systems-and-figuring-out-how-many-concurrent-users-a-system-can-handle/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/locust-is-an-easy-to-use-distributed-user-load-testing-tool-it-is-intended-for-load-testing-web-sites-or-other-systems-and-figuring-out-how-many-concurrent-users-a-system-can-handle/</guid>
+      <description>The idea is that during a test, a swarm of locusts will attack your website. The behavior of each locust (or test user if you will) is defined by you and the swarming process is monitored from a web UI in real-time. This will help you battle test and identify bottlenecks in your code before letting real users in.
+Locust is completely event-based, and therefore it’s possible to support thousands of concurrent users on a single machine.</description>
+    </item>
+    
+    <item>
+      <title>Python Top 10 Articles for the Past Month (v.Oct 2018)</title>
+      <link>https://obaydakov.github.io/post/2018/python-top-10-articles-for-the-past-month-v-oct-2018/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/python-top-10-articles-for-the-past-month-v-oct-2018/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>The Right Way™ to do Serverless in Python</title>
+      <link>https://obaydakov.github.io/post/2018/the-right-way-to-do-serverless-in-python/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/the-right-way-to-do-serverless-in-python/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Using TensorFlow and the Serverless Framework for deep learning and image recognition</title>
+      <link>https://obaydakov.github.io/post/2018/using-tensorflow-and-the-serverless-framework-for-deep-learning-and-image-recognition/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/using-tensorflow-and-the-serverless-framework-for-deep-learning-and-image-recognition/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Zappa - Serverless Python &#43; AWS</title>
+      <link>https://obaydakov.github.io/post/zappa-serverless-python-aws/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/zappa-serverless-python-aws/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>An open source platform for the machine learning lifecycle</title>

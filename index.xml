@@ -6,10 +6,246 @@
     <description>Recent content on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>50&#43; Useful Machine Learning &amp; Prediction APIs, 2018 Edition</title>
+      <link>https://obaydakov.github.io/post/2018/50-useful-machine-learning-prediction-apis-2018-edition/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/50-useful-machine-learning-prediction-apis-2018-edition/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>AWS Lambda &#43; Serverless Framework &#43; Python - A Step By Step Tutorial 1 “Hello World”</title>
+      <link>https://obaydakov.github.io/post/2018/aws-lambda-serverless-framework-python-a-step-by-step-tutorial-part-1-hello-world/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/aws-lambda-serverless-framework-python-a-step-by-step-tutorial-part-1-hello-world/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Akka / Akka Typed / Monix / ZIO compared</title>
+      <link>https://obaydakov.github.io/post/2018/akka-akka-typed-monix-zio-compared/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/akka-akka-typed-monix-zio-compared/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Algorithmia  - Some Of Our Favorite Text Analysis Machine Learning APIs</title>
+      <link>https://obaydakov.github.io/post/2018/algorithmia-some-of-our-favorite-text-analysis-machine-learning-apis/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/algorithmia-some-of-our-favorite-text-analysis-machine-learning-apis/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Algorithmia - Deploy Your Model</title>
+      <link>https://obaydakov.github.io/post/2018/algorithmia-deploy-your-model/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/algorithmia-deploy-your-model/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Algorithmia - Developer Recipes</title>
+      <link>https://obaydakov.github.io/post/2018/algorithmia-developer-recipes/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/algorithmia-developer-recipes/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Build a Python REST API with Serverless, Lambda, and DynamoDB</title>
+      <link>https://obaydakov.github.io/post/2018/build-a-python-rest-api-with-serverless-lambda-and-dynamodb/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/build-a-python-rest-api-with-serverless-lambda-and-dynamodb/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Create a Kubernetes cluster with Azure Kubernetes Service and Terraform</title>
+      <link>https://obaydakov.github.io/post/2018/create-a-kubernetes-cluster-with-azure-kubernetes-service-and-terraform/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/create-a-kubernetes-cluster-with-azure-kubernetes-service-and-terraform/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning and Reinforcement Learning Summer School, Toronto 2018</title>
+      <link>https://obaydakov.github.io/post/2018/deep-learning-and-reinforcement-learning-summer-school-toronto-2018/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/deep-learning-and-reinforcement-learning-summer-school-toronto-2018/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Free vs tagless final</title>
+      <link>https://obaydakov.github.io/post/2018/free-vs-tagless-final/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/free-vs-tagless-final/</guid>
+      <description>Example code and slides showing how to implement a hypothetical photo storage service in a couple of different ways: using the (cats) Free monad and using &amp;ldquo;tagless final&amp;rdquo; style.
+Link</description>
+    </item>
+    
+    <item>
+      <title>John De Goes - FP to the Max</title>
+      <link>https://obaydakov.github.io/post/2018/john-de-goes-fp-to-the-max/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/john-de-goes-fp-to-the-max/</guid>
+      <description>What happens when you take a procedural program riddled with partial functions and effects, and incrementally refactor it to a purely functional program—and then dial it up to eleven? In this live coding session, John hopes you&amp;rsquo;ll be amused and a maybe little terrified as he shows you where pure FP leads on one of the simplest programs possible, pointing out both the benefits and the costs of pure functional programming, and giving you an appreciation for how functional programming techniques scale to and deliver the most benefit in very large teams and very large applications.</description>
+    </item>
+    
+    <item>
+      <title>Locust is an easy-to-use, distributed, user load testing tool. It is intended for load-testing web sites (or other systems) and figuring out how many concurrent users a system can handle.</title>
+      <link>https://obaydakov.github.io/post/2018/locust-is-an-easy-to-use-distributed-user-load-testing-tool-it-is-intended-for-load-testing-web-sites-or-other-systems-and-figuring-out-how-many-concurrent-users-a-system-can-handle/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/locust-is-an-easy-to-use-distributed-user-load-testing-tool-it-is-intended-for-load-testing-web-sites-or-other-systems-and-figuring-out-how-many-concurrent-users-a-system-can-handle/</guid>
+      <description>The idea is that during a test, a swarm of locusts will attack your website. The behavior of each locust (or test user if you will) is defined by you and the swarming process is monitored from a web UI in real-time. This will help you battle test and identify bottlenecks in your code before letting real users in.
+Locust is completely event-based, and therefore it’s possible to support thousands of concurrent users on a single machine.</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning Open Source of the Month (v.Sep 2018)</title>
+      <link>https://obaydakov.github.io/post/2018/machine-learning-open-source-of-the-month-v-sep-2018/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/machine-learning-open-source-of-the-month-v-sep-2018/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>OpenFaaS - Serverless Functions Made Simple for Docker &amp; Kubernetes</title>
+      <link>https://obaydakov.github.io/post/2018/openfaas-serverless-functions-made-simple-for-docker-kubernetes/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/openfaas-serverless-functions-made-simple-for-docker-kubernetes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python Top 10 Articles for the Past Month (v.Oct 2018)</title>
+      <link>https://obaydakov.github.io/post/2018/python-top-10-articles-for-the-past-month-v-oct-2018/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/python-top-10-articles-for-the-past-month-v-oct-2018/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Scala sample code for Bartosz Milewski&#39;s Category Theory for Programmers</title>
+      <link>https://obaydakov.github.io/post/2018/scala-sample-code-for-bartosz-milewski-s-category-theory-for-programmers/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/scala-sample-code-for-bartosz-milewski-s-category-theory-for-programmers/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Service Mesh With Istio on Kubernetes in 5 Steps</title>
+      <link>https://obaydakov.github.io/post/2018/service-mesh-with-istio-on-kubernetes-in-5-steps/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/service-mesh-with-istio-on-kubernetes-in-5-steps/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Simple akka cluster on kubernetes cluster</title>
+      <link>https://obaydakov.github.io/post/2018/simple-akka-cluster-on-kubernetes-cluster/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/simple-akka-cluster-on-kubernetes-cluster/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>The Right Way™ to do Serverless in Python</title>
+      <link>https://obaydakov.github.io/post/2018/the-right-way-to-do-serverless-in-python/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/the-right-way-to-do-serverless-in-python/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>The new fast.ai research datasets collection, on AWS Open Data</title>
+      <link>https://obaydakov.github.io/post/2018/the-new-fast-ai-research-datasets-collection-on-aws-open-data/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/the-new-fast-ai-research-datasets-collection-on-aws-open-data/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Towards A Principled Bayesian Workflow</title>
+      <link>https://obaydakov.github.io/post/2018/towards-a-principled-bayesian-workflow/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/towards-a-principled-bayesian-workflow/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Using TensorFlow and the Serverless Framework for deep learning and image recognition</title>
+      <link>https://obaydakov.github.io/post/2018/using-tensorflow-and-the-serverless-framework-for-deep-learning-and-image-recognition/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/using-tensorflow-and-the-serverless-framework-for-deep-learning-and-image-recognition/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Zappa - Serverless Python &#43; AWS</title>
+      <link>https://obaydakov.github.io/post/zappa-serverless-python-aws/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/zappa-serverless-python-aws/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>visNetwork, an R package for interactive network visualization</title>
+      <link>https://obaydakov.github.io/post/2018/visnetwork-an-r-package-for-interactive-network-visualization/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/visnetwork-an-r-package-for-interactive-network-visualization/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Как правильно «фармить» Kaggle</title>
+      <link>https://obaydakov.github.io/post/2018/%D0%BA%D0%B0%D0%BA-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE-%D1%84%D0%B0%D1%80%D0%BC%D0%B8%D1%82%D1%8C-kaggle/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/%D0%BA%D0%B0%D0%BA-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE-%D1%84%D0%B0%D1%80%D0%BC%D0%B8%D1%82%D1%8C-kaggle/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Using Kubeless for Kubernetes Events</title>
+      <link>https://obaydakov.github.io/post/2018/using-kubeless-for-kubernetes-events/</link>
+      <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/using-kubeless-for-kubernetes-events/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>A boilerplate-free library for loading configuration files</title>

@@ -6,10 +6,64 @@
     <description>Recent content in Aws on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/aws/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AWS Lambda &#43; Serverless Framework &#43; Python - A Step By Step Tutorial 1 “Hello World”</title>
+      <link>https://obaydakov.github.io/post/2018/aws-lambda-serverless-framework-python-a-step-by-step-tutorial-part-1-hello-world/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/aws-lambda-serverless-framework-python-a-step-by-step-tutorial-part-1-hello-world/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Build a Python REST API with Serverless, Lambda, and DynamoDB</title>
+      <link>https://obaydakov.github.io/post/2018/build-a-python-rest-api-with-serverless-lambda-and-dynamodb/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/build-a-python-rest-api-with-serverless-lambda-and-dynamodb/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>The Right Way™ to do Serverless in Python</title>
+      <link>https://obaydakov.github.io/post/2018/the-right-way-to-do-serverless-in-python/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/the-right-way-to-do-serverless-in-python/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>The new fast.ai research datasets collection, on AWS Open Data</title>
+      <link>https://obaydakov.github.io/post/2018/the-new-fast-ai-research-datasets-collection-on-aws-open-data/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/the-new-fast-ai-research-datasets-collection-on-aws-open-data/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Using TensorFlow and the Serverless Framework for deep learning and image recognition</title>
+      <link>https://obaydakov.github.io/post/2018/using-tensorflow-and-the-serverless-framework-for-deep-learning-and-image-recognition/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/using-tensorflow-and-the-serverless-framework-for-deep-learning-and-image-recognition/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Zappa - Serverless Python &#43; AWS</title>
+      <link>https://obaydakov.github.io/post/zappa-serverless-python-aws/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/zappa-serverless-python-aws/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Diving deep into what’s new with Azure Machine Learning</title>

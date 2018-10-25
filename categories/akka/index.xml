@@ -6,10 +6,28 @@
     <description>Recent content in Akka on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/akka/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Akka / Akka Typed / Monix / ZIO compared</title>
+      <link>https://obaydakov.github.io/post/2018/akka-akka-typed-monix-zio-compared/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/akka-akka-typed-monix-zio-compared/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Simple akka cluster on kubernetes cluster</title>
+      <link>https://obaydakov.github.io/post/2018/simple-akka-cluster-on-kubernetes-cluster/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/simple-akka-cluster-on-kubernetes-cluster/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>How to Dockerise a Scala and Akka HTTP Application - the easy way</title>

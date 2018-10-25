@@ -6,10 +6,82 @@
     <description>Recent content in Machine Learning on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>50&#43; Useful Machine Learning &amp; Prediction APIs, 2018 Edition</title>
+      <link>https://obaydakov.github.io/post/2018/50-useful-machine-learning-prediction-apis-2018-edition/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/50-useful-machine-learning-prediction-apis-2018-edition/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Algorithmia  - Some Of Our Favorite Text Analysis Machine Learning APIs</title>
+      <link>https://obaydakov.github.io/post/2018/algorithmia-some-of-our-favorite-text-analysis-machine-learning-apis/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/algorithmia-some-of-our-favorite-text-analysis-machine-learning-apis/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Algorithmia - Deploy Your Model</title>
+      <link>https://obaydakov.github.io/post/2018/algorithmia-deploy-your-model/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/algorithmia-deploy-your-model/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Algorithmia - Developer Recipes</title>
+      <link>https://obaydakov.github.io/post/2018/algorithmia-developer-recipes/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/algorithmia-developer-recipes/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning and Reinforcement Learning Summer School, Toronto 2018</title>
+      <link>https://obaydakov.github.io/post/2018/deep-learning-and-reinforcement-learning-summer-school-toronto-2018/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/deep-learning-and-reinforcement-learning-summer-school-toronto-2018/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning Open Source of the Month (v.Sep 2018)</title>
+      <link>https://obaydakov.github.io/post/2018/machine-learning-open-source-of-the-month-v-sep-2018/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/machine-learning-open-source-of-the-month-v-sep-2018/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>The new fast.ai research datasets collection, on AWS Open Data</title>
+      <link>https://obaydakov.github.io/post/2018/the-new-fast-ai-research-datasets-collection-on-aws-open-data/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/the-new-fast-ai-research-datasets-collection-on-aws-open-data/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Towards A Principled Bayesian Workflow</title>
+      <link>https://obaydakov.github.io/post/2018/towards-a-principled-bayesian-workflow/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/towards-a-principled-bayesian-workflow/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>How to deliver on Machine Learning projects</title>
