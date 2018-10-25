@@ -3,12 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://obaydakov.github.io/post/2018/10-aws-lambda-use-cases-to-start-your-serverless-journey/</loc>
+    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://obaydakov.github.io/post/2018/50-useful-machine-learning-prediction-apis-2018-edition/</loc>
     <lastmod>2018-10-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/post/2018/aws-lambda-serverless-framework-python-a-step-by-step-tutorial-part-1-hello-world/</loc>
+    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/aws-lambda-pricing-how-much-it-costs-to-run-a-serverless-application/</loc>
     <lastmod>2018-10-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -73,6 +83,11 @@
   </url>
   
   <url>
+    <loc>https://obaydakov.github.io/post/2018/lessons-from-building-a-serverless-data-pipeline-with-aws-kinesis-and-lambda/</loc>
+    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://obaydakov.github.io/post/2018/locust-is-an-easy-to-use-distributed-user-load-testing-tool-it-is-intended-for-load-testing-web-sites-or-other-systems-and-figuring-out-how-many-concurrent-users-a-system-can-handle/</loc>
     <lastmod>2018-10-25T00:00:00+00:00</lastmod>
   </url>
@@ -98,7 +113,22 @@
   </url>
   
   <url>
+    <loc>https://obaydakov.github.io/post/2018/real-life-aws-infrastructure-cost-optimization-strategy/</loc>
+    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://obaydakov.github.io/post/2018/scala-sample-code-for-bartosz-milewski-s-category-theory-for-programmers/</loc>
+    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/serverless-best-practices/</loc>
+    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/serverless-devops-video-building-a-serverless-microservice/</loc>
     <lastmod>2018-10-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -129,6 +159,11 @@
   
   <url>
     <loc>https://obaydakov.github.io/post/2018/the-right-way-to-do-serverless-in-python/</loc>
+    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/the-serverlessops-blog/</loc>
     <lastmod>2018-10-25T00:00:00+00:00</lastmod>
   </url>
   

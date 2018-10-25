@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>10 AWS Lambda Use Cases to Start Your Serverless Journey</title>
+      <link>https://obaydakov.github.io/post/2018/10-aws-lambda-use-cases-to-start-your-serverless-journey/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/10-aws-lambda-use-cases-to-start-your-serverless-journey/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
       <title>50&#43; Useful Machine Learning &amp; Prediction APIs, 2018 Edition</title>
       <link>https://obaydakov.github.io/post/2018/50-useful-machine-learning-prediction-apis-2018-edition/</link>
       <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
@@ -26,6 +35,15 @@
       <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/post/2018/aws-lambda-serverless-framework-python-a-step-by-step-tutorial-part-1-hello-world/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>AWS Lambda Pricing: How Much it Costs to Run a Serverless Application?</title>
+      <link>https://obaydakov.github.io/post/2018/aws-lambda-pricing-how-much-it-costs-to-run-a-serverless-application/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/aws-lambda-pricing-how-much-it-costs-to-run-a-serverless-application/</guid>
       <description>Link</description>
     </item>
     
@@ -86,6 +104,15 @@ Serverless and Recurrent Neural Networks with Fn, GraphPipe and TensorFlow</desc
     </item>
     
     <item>
+      <title>Lessons from building a Serverless Data Pipeline with AWS Kinesis and Lambda</title>
+      <link>https://obaydakov.github.io/post/2018/lessons-from-building-a-serverless-data-pipeline-with-aws-kinesis-and-lambda/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/lessons-from-building-a-serverless-data-pipeline-with-aws-kinesis-and-lambda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Locust is an easy-to-use, distributed, user load testing tool. It is intended for load-testing web sites (or other systems) and figuring out how many concurrent users a system can handle.</title>
       <link>https://obaydakov.github.io/post/2018/locust-is-an-easy-to-use-distributed-user-load-testing-tool-it-is-intended-for-load-testing-web-sites-or-other-systems-and-figuring-out-how-many-concurrent-users-a-system-can-handle/</link>
       <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
@@ -114,6 +141,33 @@ Locust is completely event-based, and therefore it’s possible to support thous
     </item>
     
     <item>
+      <title>Real-life AWS infrastructure cost optimization strategy</title>
+      <link>https://obaydakov.github.io/post/2018/real-life-aws-infrastructure-cost-optimization-strategy/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/real-life-aws-infrastructure-cost-optimization-strategy/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Serverless Best Practices</title>
+      <link>https://obaydakov.github.io/post/2018/serverless-best-practices/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/serverless-best-practices/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Serverless DevOps Video: Building A Serverless Microservice</title>
+      <link>https://obaydakov.github.io/post/2018/serverless-devops-video-building-a-serverless-microservice/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/serverless-devops-video-building-a-serverless-microservice/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
       <title>Serverless framework tips and tricks</title>
       <link>https://obaydakov.github.io/post/2018/serverless-framework-tips-and-tricks/</link>
       <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
@@ -137,6 +191,15 @@ Locust is completely event-based, and therefore it’s possible to support thous
       <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/post/2018/the-right-way-to-do-serverless-in-python/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>The ServerlessOps Blog</title>
+      <link>https://obaydakov.github.io/post/2018/the-serverlessops-blog/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/the-serverlessops-blog/</guid>
       <description>Link</description>
     </item>
     

@@ -12,11 +12,29 @@
     
     
     <item>
+      <title>10 AWS Lambda Use Cases to Start Your Serverless Journey</title>
+      <link>https://obaydakov.github.io/post/2018/10-aws-lambda-use-cases-to-start-your-serverless-journey/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/10-aws-lambda-use-cases-to-start-your-serverless-journey/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
       <title>AWS Lambda &#43; Serverless Framework &#43; Python - A Step By Step Tutorial 1 “Hello World”</title>
       <link>https://obaydakov.github.io/post/2018/aws-lambda-serverless-framework-python-a-step-by-step-tutorial-part-1-hello-world/</link>
       <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/post/2018/aws-lambda-serverless-framework-python-a-step-by-step-tutorial-part-1-hello-world/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>AWS Lambda Pricing: How Much it Costs to Run a Serverless Application?</title>
+      <link>https://obaydakov.github.io/post/2018/aws-lambda-pricing-how-much-it-costs-to-run-a-serverless-application/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/aws-lambda-pricing-how-much-it-costs-to-run-a-serverless-application/</guid>
       <description>Link</description>
     </item>
     
@@ -50,11 +68,47 @@ Serverless and Recurrent Neural Networks with Fn, GraphPipe and TensorFlow</desc
     </item>
     
     <item>
+      <title>Lessons from building a Serverless Data Pipeline with AWS Kinesis and Lambda</title>
+      <link>https://obaydakov.github.io/post/2018/lessons-from-building-a-serverless-data-pipeline-with-aws-kinesis-and-lambda/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/lessons-from-building-a-serverless-data-pipeline-with-aws-kinesis-and-lambda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Push to AWS with Bitbucket Pipelines and serverless</title>
       <link>https://obaydakov.github.io/post/2018/push-to-aws-with-bitbucket-pipelines-and-serverless/</link>
       <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/post/2018/push-to-aws-with-bitbucket-pipelines-and-serverless/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Real-life AWS infrastructure cost optimization strategy</title>
+      <link>https://obaydakov.github.io/post/2018/real-life-aws-infrastructure-cost-optimization-strategy/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/real-life-aws-infrastructure-cost-optimization-strategy/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Serverless Best Practices</title>
+      <link>https://obaydakov.github.io/post/2018/serverless-best-practices/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/serverless-best-practices/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Serverless DevOps Video: Building A Serverless Microservice</title>
+      <link>https://obaydakov.github.io/post/2018/serverless-devops-video-building-a-serverless-microservice/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/serverless-devops-video-building-a-serverless-microservice/</guid>
       <description>Link</description>
     </item>
     
@@ -91,6 +145,15 @@ Serverless and Recurrent Neural Networks with Fn, GraphPipe and TensorFlow</desc
       <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/post/2018/the-right-way-to-do-serverless-in-python/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>The ServerlessOps Blog</title>
+      <link>https://obaydakov.github.io/post/2018/the-serverlessops-blog/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/the-serverlessops-blog/</guid>
       <description>Link</description>
     </item>
     
