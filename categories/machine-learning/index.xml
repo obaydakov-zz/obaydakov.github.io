@@ -6,10 +6,37 @@
     <description>Recent content in Machine Learning on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>23 great Pandas codes for Data Scientists</title>
+      <link>https://obaydakov.github.io/post/2018/23-great-pandas-codes-for-data-scientists/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/23-great-pandas-codes-for-data-scientists/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Comparison of top data science libraries for Python, R and Scala</title>
+      <link>https://obaydakov.github.io/post/2018/comparison-of-top-data-science-libraries-for-python-r-and-scala/</link>
+      <pubDate>Sun, 28 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/comparison-of-top-data-science-libraries-for-python-r-and-scala/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hyperparameter tuning for machine learning models</title>
+      <link>https://obaydakov.github.io/post/2018/hyperparameter-tuning-for-machine-learning-models/</link>
+      <pubDate>Sun, 28 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/hyperparameter-tuning-for-machine-learning-models/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>50&#43; Useful Machine Learning &amp; Prediction APIs, 2018 Edition</title>

@@ -3,6 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://obaydakov.github.io/post/2018/23-great-pandas-codes-for-data-scientists/</loc>
+    <lastmod>2018-10-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/deploying-keras-deep-learning-models-with-flask/</loc>
+    <lastmod>2018-10-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/building-android-apps-with-aws/</loc>
+    <lastmod>2018-10-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/comparison-of-top-data-science-libraries-for-python-r-and-scala/</loc>
+    <lastmod>2018-10-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/deep-dive-on-aws-mobile-hub-for-enterprise-mobile-applications/</loc>
+    <lastmod>2018-10-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/how-to-deploy-machine-learning-models-with-tensorflow/</loc>
+    <lastmod>2018-10-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/hyperparameter-tuning-for-machine-learning-models/</loc>
+    <lastmod>2018-10-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/lenses-for-philosophers/</loc>
+    <lastmod>2018-10-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://obaydakov.github.io/post/2018/10-aws-lambda-use-cases-to-start-your-serverless-journey/</loc>
     <lastmod>2018-10-25T00:00:00+00:00</lastmod>
   </url>
@@ -5437,19 +5477,19 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/automated-ml/</loc>
-    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/categories/aws/</loc>
-    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/categories/azure/</loc>
-    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5503,13 +5543,13 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/deep-learning/</loc>
-    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/tags/docker/</loc>
-    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5521,7 +5561,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/tags/functional-programming/</loc>
-    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5557,7 +5597,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/tags/hyperparameters-optimization/</loc>
-    <lastmod>2018-08-12T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5593,7 +5633,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/kubernetes/</loc>
-    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5605,7 +5645,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/machine-learning/</loc>
-    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5647,7 +5687,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/</loc>
-    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5659,19 +5699,19 @@
   
   <url>
     <loc>https://obaydakov.github.io/post/</loc>
-    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/tags/python/</loc>
-    <lastmod>2018-10-11T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/categories/python/</loc>
-    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5683,7 +5723,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/r/</loc>
-    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5695,7 +5735,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/scala/</loc>
-    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5713,7 +5753,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/tags/technology/</loc>
-    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5725,7 +5765,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/tags/tools/</loc>
-    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
