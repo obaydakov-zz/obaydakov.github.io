@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Automatedml on Oleg Baydakov</title>
+    <link>https://obaydakov.github.io/categories/automatedml/</link>
+    <description>Recent content in Automatedml on Oleg Baydakov</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://obaydakov.github.io/categories/automatedml/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Serving Inception Model with TensorFlow Serving and Kubernetes</title>
+      <link>https://obaydakov.github.io/post/2018/serving-inception-model-with-tensorflow-serving-and-kubernetes/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/serving-inception-model-with-tensorflow-serving-and-kubernetes/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Train and Serve TensorFlow Models at Scale with Kubernetes and Kubeflow on Azure</title>
+      <link>https://obaydakov.github.io/post/2018/train-and-serve-tensorflow-models-at-scale-with-kubernetes-and-kubeflow-on-azure/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/train-and-serve-tensorflow-models-at-scale-with-kubernetes-and-kubeflow-on-azure/</guid>
+      <description>Labs for Training and Serving TensorFlow Models with Kubernetes and Kubeflow on Azure Container Service (AKS)</description>
+    </item>
+    
+  </channel>
+</rss>

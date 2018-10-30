@@ -21,6 +21,24 @@
     </item>
     
     <item>
+      <title>Serving Inception Model with TensorFlow Serving and Kubernetes</title>
+      <link>https://obaydakov.github.io/post/2018/serving-inception-model-with-tensorflow-serving-and-kubernetes/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/serving-inception-model-with-tensorflow-serving-and-kubernetes/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Using TensorFlow and the Serverless Framework for deep learning and image recognition</title>
+      <link>https://obaydakov.github.io/post/2018/using-tensorflow-and-the-serverless-framework-for-deep-learning-and-image-recognition/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/using-tensorflow-and-the-serverless-framework-for-deep-learning-and-image-recognition/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
       <title>How to deploy Machine Learning models with TensorFlow</title>
       <link>https://obaydakov.github.io/post/2018/how-to-deploy-machine-learning-models-with-tensorflow/</link>
       <pubDate>Sun, 28 Oct 2018 00:00:00 +0000</pubDate>

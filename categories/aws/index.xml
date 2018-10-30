@@ -6,10 +6,55 @@
     <description>Recent content in Aws on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/aws/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Event Gateway React to any event on any cloud.</title>
+      <link>https://obaydakov.github.io/post/2018/event-gateway-react-to-any-event-on-any-cloud/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/event-gateway-react-to-any-event-on-any-cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Host your own CNCF CloudEvents compatible Event Gateway on Kubernetes, point to any FaaS</title>
+      <link>https://obaydakov.github.io/post/2018/host-your-own-cncf-cloudevents-compatible-event-gateway-on-kubernetes-point-to-any-faas/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/host-your-own-cncf-cloudevents-compatible-event-gateway-on-kubernetes-point-to-any-faas/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>How to use the Serverless Event Gateway: build a REST API and react to custom events</title>
+      <link>https://obaydakov.github.io/post/2018/how-to-use-the-serverless-event-gateway-build-a-rest-api-and-react-to-custom-events/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/how-to-use-the-serverless-event-gateway-build-a-rest-api-and-react-to-custom-events/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Kubeless brings functions as a service to Kubernetes </title>
+      <link>https://obaydakov.github.io/post/2018/kubeless-brings-functions-as-a-service-to-kubernetes/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/kubeless-brings-functions-as-a-service-to-kubernetes/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Using TensorFlow and the Serverless Framework for deep learning and image recognition</title>
+      <link>https://obaydakov.github.io/post/2018/using-tensorflow-and-the-serverless-framework-for-deep-learning-and-image-recognition/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/using-tensorflow-and-the-serverless-framework-for-deep-learning-and-image-recognition/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Building Android Apps with AWS</title>

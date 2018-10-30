@@ -6,10 +6,48 @@
     <description>Recent content in Technology on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to use ksonnet - Guestbook Tutorial Learn</title>
+      <link>https://obaydakov.github.io/post/2018/how-to-use-ksonnet-guestbook-tutorial-learn/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/how-to-use-ksonnet-guestbook-tutorial-learn/</guid>
+      <description>What is ksonnet? ksonnet is a configuration management tool for Kubernetes manifests. The goal of ksonnet is to improve developer experience by providing options beyond writing YAML or text templating.
+The typical use case for ksonnet is managing a Kubernetes manifest that differs slightly across environments (e.g. development, staging, production). ksonnet concisely creates a framework for building modular, composable, and reusable configuration management.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Kubeless brings functions as a service to Kubernetes </title>
+      <link>https://obaydakov.github.io/post/2018/kubeless-brings-functions-as-a-service-to-kubernetes/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/kubeless-brings-functions-as-a-service-to-kubernetes/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Serving Inception Model with TensorFlow Serving and Kubernetes</title>
+      <link>https://obaydakov.github.io/post/2018/serving-inception-model-with-tensorflow-serving-and-kubernetes/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/serving-inception-model-with-tensorflow-serving-and-kubernetes/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Train and Serve TensorFlow Models at Scale with Kubernetes and Kubeflow on Azure</title>
+      <link>https://obaydakov.github.io/post/2018/train-and-serve-tensorflow-models-at-scale-with-kubernetes-and-kubeflow-on-azure/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/train-and-serve-tensorflow-models-at-scale-with-kubernetes-and-kubeflow-on-azure/</guid>
+      <description>Labs for Training and Serving TensorFlow Models with Kubernetes and Kubeflow on Azure Container Service (AKS)</description>
+    </item>
     
     <item>
       <title>Deep Dive on AWS Mobile Hub for Enterprise Mobile Applications -</title>

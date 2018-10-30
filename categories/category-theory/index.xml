@@ -6,10 +6,55 @@
     <description>Recent content in Category Theory on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/category-theory/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Category Theory</title>
+      <link>https://obaydakov.github.io/post/2018/category-theory/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/category-theory/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Learning How to Learn Math</title>
+      <link>https://obaydakov.github.io/post/2018/learning-how-to-learn-math/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/learning-how-to-learn-math/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>The Comonad.Reader</title>
+      <link>https://obaydakov.github.io/post/2018/the-comonad-reader/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/the-comonad-reader/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Теория категорий для программистов (перевод глав книги Б. Милевски)</title>
+      <link>https://obaydakov.github.io/post/2018/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F-%D0%BA%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B9-%D0%B4%D0%BB%D1%8F-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%D0%BE%D0%B2-%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4-%D0%B3%D0%BB%D0%B0%D0%B2-%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8-%D0%B1-%D0%BC%D0%B8%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%B8/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F-%D0%BA%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B9-%D0%B4%D0%BB%D1%8F-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%D0%BE%D0%B2-%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4-%D0%B3%D0%BB%D0%B0%D0%B2-%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8-%D0%B1-%D0%BC%D0%B8%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%B8/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Учебник по Теории Категорий</title>
+      <link>https://obaydakov.github.io/post/2018/%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA-%D0%BF%D0%BE-%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D0%B8-%D0%BA%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B9/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA-%D0%BF%D0%BE-%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D0%B8-%D0%BA%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B9/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Scala sample code for Bartosz Milewski&#39;s Category Theory for Programmers</title>
