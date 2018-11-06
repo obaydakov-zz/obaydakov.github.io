@@ -6,10 +6,64 @@
     <description>Recent content on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Apache Spark, Zeppelin, Kafaka on Kubernetes series</title>
+      <link>https://obaydakov.github.io/post/2018/apache-spark-zeppelin-kafaka-on-kubernetes-series/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/apache-spark-zeppelin-kafaka-on-kubernetes-series/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>How to Make a Serverless GraphQL API using Lambda and DynamoDB</title>
+      <link>https://obaydakov.github.io/post/2018/how-to-make-a-serverless-graphql-api-using-lambda-and-dynamodb/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/how-to-make-a-serverless-graphql-api-using-lambda-and-dynamodb/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Kubeflow on Amazon EKS</title>
+      <link>https://obaydakov.github.io/post/2018/kubeflow-on-amazon-eks/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/kubeflow-on-amazon-eks/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Running MLflow on AWS to track your machine learning experiments</title>
+      <link>https://obaydakov.github.io/post/2018/running-mlflow-on-aws-to-track-your-machine-learning-experiments/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/running-mlflow-on-aws-to-track-your-machine-learning-experiments/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Running a scalable &amp; reliable GraphQL endpoint with Serverless</title>
+      <link>https://obaydakov.github.io/post/2018/running-a-scalable-reliable-graphql-endpoint-with-serverless/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/running-a-scalable-reliable-graphql-endpoint-with-serverless/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Serverless Component</title>
+      <link>https://obaydakov.github.io/post/2018/serverless-component/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/serverless-component/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>23 great Pandas codes for Data Scientists</title>

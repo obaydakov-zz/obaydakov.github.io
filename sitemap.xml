@@ -3,6 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://obaydakov.github.io/post/2018/apache-spark-zeppelin-kafaka-on-kubernetes-series/</loc>
+    <lastmod>2018-11-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/how-to-make-a-serverless-graphql-api-using-lambda-and-dynamodb/</loc>
+    <lastmod>2018-11-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/kubeflow-on-amazon-eks/</loc>
+    <lastmod>2018-11-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/running-mlflow-on-aws-to-track-your-machine-learning-experiments/</loc>
+    <lastmod>2018-11-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/running-a-scalable-reliable-graphql-endpoint-with-serverless/</loc>
+    <lastmod>2018-11-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/serverless-component/</loc>
+    <lastmod>2018-11-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://obaydakov.github.io/post/2018/23-great-pandas-codes-for-data-scientists/</loc>
     <lastmod>2018-10-30T00:00:00+00:00</lastmod>
   </url>
@@ -5547,7 +5577,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/automated-ml/</loc>
-    <lastmod>2018-10-30T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5559,7 +5589,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/aws/</loc>
-    <lastmod>2018-10-30T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5697,7 +5727,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/kafka/</loc>
-    <lastmod>2018-10-18T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5709,7 +5739,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/kubernetes/</loc>
-    <lastmod>2018-10-30T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5721,7 +5751,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/machine-learning/</loc>
-    <lastmod>2018-10-30T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5763,7 +5793,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/</loc>
-    <lastmod>2018-10-30T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5775,7 +5805,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/post/</loc>
-    <lastmod>2018-10-30T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5817,13 +5847,13 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/serverless/</loc>
-    <lastmod>2018-10-30T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/categories/spark/</loc>
-    <lastmod>2018-10-18T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5835,7 +5865,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/tags/technology/</loc>
-    <lastmod>2018-10-30T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5847,7 +5877,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/tags/tools/</loc>
-    <lastmod>2018-10-30T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
