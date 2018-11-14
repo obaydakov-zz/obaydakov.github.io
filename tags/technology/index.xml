@@ -6,10 +6,48 @@
     <description>Recent content in Technology on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AUTOML: METHODS, SYSTEMS, CHALLENGES</title>
+      <link>https://obaydakov.github.io/post/2018/automl-methods-systems-challenges/</link>
+      <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/automl-methods-systems-challenges/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning Operations (ML &#43; DevOps = MLOps)</title>
+      <link>https://obaydakov.github.io/post/2018/machine-learning-operations-ml-devops-mlops/</link>
+      <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/machine-learning-operations-ml-devops-mlops/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>WE DID IT AGAIN: WORLD CHAMPIONS IN AUTOML</title>
+      <link>https://obaydakov.github.io/post/2018/we-did-it-again-world-champions-in-automl/</link>
+      <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/we-did-it-again-world-champions-in-automl/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>What do machine learning practitioners actually do?</title>
+      <link>https://obaydakov.github.io/post/2018/what-do-machine-learning-practitioners-actually-do/</link>
+      <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/what-do-machine-learning-practitioners-actually-do/</guid>
+      <description>Part 1
+Part 2
+Part 3</description>
+    </item>
     
     <item>
       <title>Apache Spark, Zeppelin, Kafaka on Kubernetes series</title>
