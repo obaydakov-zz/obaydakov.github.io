@@ -6,10 +6,82 @@
     <description>Recent content in Technology on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ADDING DEVOPS FLAVOR TO KUBELESS</title>
+      <link>https://obaydakov.github.io/post/2018/adding-devops-flavor-to-kubeless/</link>
+      <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/adding-devops-flavor-to-kubeless/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>AWS Batch Example</title>
+      <link>https://obaydakov.github.io/post/2018/aws-batch-example/</link>
+      <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/aws-batch-example/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>AWS Samples </title>
+      <link>https://obaydakov.github.io/post/2018/aws-samples/</link>
+      <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/aws-samples/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Amazon DynamoDB Deep Dive: Advanced Design Patterns for DynamoDB </title>
+      <link>https://obaydakov.github.io/post/2018/amazon-dynamodb-deep-dive-advanced-design-patterns-for-dynamodb/</link>
+      <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/amazon-dynamodb-deep-dive-advanced-design-patterns-for-dynamodb/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Datadog&#39;s Lambda Layer: Monitor custom serverless metrics</title>
+      <link>https://obaydakov.github.io/post/2018/datadog-s-lambda-layer-monitor-custom-serverless-metrics/</link>
+      <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/datadog-s-lambda-layer-monitor-custom-serverless-metrics/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>How to monitor Lambda functions</title>
+      <link>https://obaydakov.github.io/post/2018/how-to-monitor-lambda-functions/</link>
+      <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/how-to-monitor-lambda-functions/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Running large batch processing pipelines on AWS Batch</title>
+      <link>https://obaydakov.github.io/post/2018/running-large-batch-processing-pipelines-on-aws-batch/</link>
+      <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/running-large-batch-processing-pipelines-on-aws-batch/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>The Data Science Workflow</title>
+      <link>https://obaydakov.github.io/post/2018/the-data-science-workflow/</link>
+      <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/the-data-science-workflow/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>AUTOML: METHODS, SYSTEMS, CHALLENGES</title>

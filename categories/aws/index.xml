@@ -6,10 +6,100 @@
     <description>Recent content in Aws on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/aws/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A python library to run your existing code on AWS Batch</title>
+      <link>https://obaydakov.github.io/post/2018/a-python-library-to-run-your-existing-code-on-aws-batch/</link>
+      <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/a-python-library-to-run-your-existing-code-on-aws-batch/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>AWS Batch Example</title>
+      <link>https://obaydakov.github.io/post/2018/aws-batch-example/</link>
+      <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/aws-batch-example/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>AWS Samples </title>
+      <link>https://obaydakov.github.io/post/2018/aws-samples/</link>
+      <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/aws-samples/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Amazon DynamoDB Deep Dive: Advanced Design Patterns for DynamoDB </title>
+      <link>https://obaydakov.github.io/post/2018/amazon-dynamodb-deep-dive-advanced-design-patterns-for-dynamodb/</link>
+      <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/amazon-dynamodb-deep-dive-advanced-design-patterns-for-dynamodb/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Datadog&#39;s Lambda Layer: Monitor custom serverless metrics</title>
+      <link>https://obaydakov.github.io/post/2018/datadog-s-lambda-layer-monitor-custom-serverless-metrics/</link>
+      <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/datadog-s-lambda-layer-monitor-custom-serverless-metrics/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>DynamoDB - Global Secondary Indexes</title>
+      <link>https://obaydakov.github.io/post/2018/dynamodb-global-secondary-indexes/</link>
+      <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/dynamodb-global-secondary-indexes/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>How to monitor Lambda functions</title>
+      <link>https://obaydakov.github.io/post/2018/how-to-monitor-lambda-functions/</link>
+      <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/how-to-monitor-lambda-functions/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Running large batch processing pipelines on AWS Batch</title>
+      <link>https://obaydakov.github.io/post/2018/running-large-batch-processing-pipelines-on-aws-batch/</link>
+      <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/running-large-batch-processing-pipelines-on-aws-batch/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Scan all elements from a dynamodb table using Python </title>
+      <link>https://obaydakov.github.io/post/2018/scan-all-elements-from-a-dynamodb-table-using-python/</link>
+      <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/scan-all-elements-from-a-dynamodb-table-using-python/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Scanamo: simpler DynamoDB access for Scala</title>
+      <link>https://obaydakov.github.io/post/2018/scanamo-simpler-dynamodb-access-for-scala/</link>
+      <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/scanamo-simpler-dynamodb-access-for-scala/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>How to Make a Serverless GraphQL API using Lambda and DynamoDB</title>

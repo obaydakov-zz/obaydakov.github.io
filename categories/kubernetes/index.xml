@@ -6,10 +6,28 @@
     <description>Recent content in Kubernetes on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/kubernetes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ADDING DEVOPS FLAVOR TO KUBELESS</title>
+      <link>https://obaydakov.github.io/post/2018/adding-devops-flavor-to-kubeless/</link>
+      <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/adding-devops-flavor-to-kubeless/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>AWS Samples </title>
+      <link>https://obaydakov.github.io/post/2018/aws-samples/</link>
+      <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/aws-samples/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>What is Kubeflow Pipelines?</title>

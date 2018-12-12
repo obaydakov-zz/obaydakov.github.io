@@ -6,10 +6,19 @@
     <description>Recent content in Scala on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/scala/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Scanamo: simpler DynamoDB access for Scala</title>
+      <link>https://obaydakov.github.io/post/2018/scanamo-simpler-dynamodb-access-for-scala/</link>
+      <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/scanamo-simpler-dynamodb-access-for-scala/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Curated list of great Scala oriented  Functional Programming resources</title>
