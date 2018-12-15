@@ -6,10 +6,19 @@
     <description>Recent content in Theory on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/theory/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ontology and Data Science</title>
+      <link>https://obaydakov.github.io/post/2018/ontology-and-data-science/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/ontology-and-data-science/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Bringing machine learning research to product commercialization</title>

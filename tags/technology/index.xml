@@ -6,10 +6,55 @@
     <description>Recent content in Technology on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AI Tales: Building Machine learning pipeline using Kubeflow and Minio</title>
+      <link>https://obaydakov.github.io/post/2018/ai-tales-building-machine-learning-pipeline-using-kubeflow-and-minio/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/ai-tales-building-machine-learning-pipeline-using-kubeflow-and-minio/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Hands-on Machine Learning Model Interpretation</title>
+      <link>https://obaydakov.github.io/post/2018/hands-on-machine-learning-model-interpretation/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/hands-on-machine-learning-model-interpretation/</guid>
+      <description>Lin</description>
+    </item>
+    
+    <item>
+      <title>Python and Slack: A Natural Match</title>
+      <link>https://obaydakov.github.io/post/2018/python-and-slack-a-natural-match/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/python-and-slack-a-natural-match/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Running Apache Spark jobs on AKS</title>
+      <link>https://obaydakov.github.io/post/2018/running-apache-spark-jobs-on-aks/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/running-apache-spark-jobs-on-aks/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Spark on Kubernetes</title>
+      <link>https://obaydakov.github.io/post/2018/spark-on-kubernetes/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/spark-on-kubernetes/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>ADDING DEVOPS FLAVOR TO KUBELESS</title>

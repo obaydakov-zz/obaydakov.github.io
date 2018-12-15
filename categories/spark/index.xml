@@ -6,10 +6,37 @@
     <description>Recent content in Spark on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/spark/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Realtime prediction using Spark Structured Streaming, XGBoost and Scala</title>
+      <link>https://obaydakov.github.io/post/2018/realtime-prediction-using-spark-structured-streaming-xgboost-and-scala/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/realtime-prediction-using-spark-structured-streaming-xgboost-and-scala/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Running Apache Spark jobs on AKS</title>
+      <link>https://obaydakov.github.io/post/2018/running-apache-spark-jobs-on-aks/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/running-apache-spark-jobs-on-aks/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Spark on Kubernetes</title>
+      <link>https://obaydakov.github.io/post/2018/spark-on-kubernetes/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/spark-on-kubernetes/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Apache Spark, Zeppelin, Kafaka on Kubernetes series</title>

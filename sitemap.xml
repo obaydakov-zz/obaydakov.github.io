@@ -3,6 +3,76 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://obaydakov.github.io/post/2018/ai-tales-building-machine-learning-pipeline-using-kubeflow-and-minio/</loc>
+    <lastmod>2018-12-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/alphazero-implementation-and-tutorial/</loc>
+    <lastmod>2018-12-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/docker-environment-for-data-science/</loc>
+    <lastmod>2018-12-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/hands-on-machine-learning-model-interpretation/</loc>
+    <lastmod>2018-12-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/homepage-towards-data-science-homedata-sciencemachine-learningprogrammingvisualizationaipickscontribute-using-mlr-for-machine-learning-in-r-a-step-by-step-approach-for-decision-trees/</loc>
+    <lastmod>2018-12-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/how-to-build-a-market-simulator-using-markov-chains-and-python/</loc>
+    <lastmod>2018-12-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/it-s-time-to-re-think-a-b-testing/</loc>
+    <lastmod>2018-12-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/mobile-ads-click-through-rate-ctr-prediction/</loc>
+    <lastmod>2018-12-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/ontology-and-data-science/</loc>
+    <lastmod>2018-12-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/python-and-slack-a-natural-match/</loc>
+    <lastmod>2018-12-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/realtime-prediction-using-spark-structured-streaming-xgboost-and-scala/</loc>
+    <lastmod>2018-12-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/running-apache-spark-jobs-on-aks/</loc>
+    <lastmod>2018-12-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/spark-on-kubernetes/</loc>
+    <lastmod>2018-12-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/tableau-like-drag-and-drop-gui-visualization-in-r/</loc>
+    <lastmod>2018-12-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://obaydakov.github.io/post/2018/a-python-library-to-run-your-existing-code-on-aws-batch/</loc>
     <lastmod>2018-12-09T00:00:00+00:00</lastmod>
   </url>
@@ -5690,7 +5760,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/algorithms/</loc>
-    <lastmod>2018-05-18T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5702,7 +5772,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/automated-ml/</loc>
-    <lastmod>2018-12-09T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5720,7 +5790,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/azure/</loc>
-    <lastmod>2018-10-30T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5780,7 +5850,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/tags/docker/</loc>
-    <lastmod>2018-11-14T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5864,7 +5934,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/kubernetes/</loc>
-    <lastmod>2018-12-09T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5876,13 +5946,13 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/machine-learning/</loc>
-    <lastmod>2018-12-09T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/categories/management/</loc>
-    <lastmod>2018-10-11T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5906,7 +5976,13 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/ml-interpretation/</loc>
-    <lastmod>2018-12-09T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/categories/mobile-games/</loc>
+    <lastmod>2018-12-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5918,7 +5994,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/</loc>
-    <lastmod>2018-12-09T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5930,43 +6006,43 @@
   
   <url>
     <loc>https://obaydakov.github.io/post/</loc>
-    <lastmod>2018-12-09T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/tags/python/</loc>
-    <lastmod>2018-12-09T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/categories/python/</loc>
-    <lastmod>2018-12-09T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/tags/r/</loc>
-    <lastmod>2018-10-11T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/categories/r/</loc>
-    <lastmod>2018-10-28T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/tags/scala/</loc>
-    <lastmod>2018-12-09T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/categories/scala/</loc>
-    <lastmod>2018-12-09T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5978,7 +6054,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/spark/</loc>
-    <lastmod>2018-11-06T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5990,13 +6066,13 @@
   
   <url>
     <loc>https://obaydakov.github.io/tags/technology/</loc>
-    <lastmod>2018-12-09T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/tags/theory/</loc>
-    <lastmod>2018-11-14T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -6020,7 +6096,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/tags/visualization/</loc>
-    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

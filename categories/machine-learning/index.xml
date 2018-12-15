@@ -6,10 +6,55 @@
     <description>Recent content in Machine Learning on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Docker Environment for data science</title>
+      <link>https://obaydakov.github.io/post/2018/docker-environment-for-data-science/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/docker-environment-for-data-science/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Hands-on Machine Learning Model Interpretation</title>
+      <link>https://obaydakov.github.io/post/2018/hands-on-machine-learning-model-interpretation/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/hands-on-machine-learning-model-interpretation/</guid>
+      <description>Lin</description>
+    </item>
+    
+    <item>
+      <title>How to Build a Market Simulator Using Markov Chains and Python</title>
+      <link>https://obaydakov.github.io/post/2018/how-to-build-a-market-simulator-using-markov-chains-and-python/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/how-to-build-a-market-simulator-using-markov-chains-and-python/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Mobile Ads Click-Through Rate (CTR) Prediction</title>
+      <link>https://obaydakov.github.io/post/2018/mobile-ads-click-through-rate-ctr-prediction/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/mobile-ads-click-through-rate-ctr-prediction/</guid>
+      <description>Mobile Ads Click-Through Rate (CTR) Prediction</description>
+    </item>
+    
+    <item>
+      <title>Ontology and Data Science</title>
+      <link>https://obaydakov.github.io/post/2018/ontology-and-data-science/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/ontology-and-data-science/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>SHAP -  A unified approach to explain the output of any machine learning model</title>

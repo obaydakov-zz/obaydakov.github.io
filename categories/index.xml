@@ -23,7 +23,7 @@
     <item>
       <title>Algorithms</title>
       <link>https://obaydakov.github.io/categories/algorithms/</link>
-      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/categories/algorithms/</guid>
       <description></description>
@@ -32,7 +32,7 @@
     <item>
       <title>Automated Ml</title>
       <link>https://obaydakov.github.io/categories/automated-ml/</link>
-      <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/categories/automated-ml/</guid>
       <description></description>
@@ -59,7 +59,7 @@
     <item>
       <title>Azure</title>
       <link>https://obaydakov.github.io/categories/azure/</link>
-      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/categories/azure/</guid>
       <description></description>
@@ -167,7 +167,7 @@
     <item>
       <title>Kubernetes</title>
       <link>https://obaydakov.github.io/categories/kubernetes/</link>
-      <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/categories/kubernetes/</guid>
       <description></description>
@@ -185,7 +185,7 @@
     <item>
       <title>Machine Learning</title>
       <link>https://obaydakov.github.io/categories/machine-learning/</link>
-      <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/categories/machine-learning/</guid>
       <description></description>
@@ -194,7 +194,7 @@
     <item>
       <title>Management</title>
       <link>https://obaydakov.github.io/categories/management/</link>
-      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/categories/management/</guid>
       <description></description>
@@ -212,9 +212,18 @@
     <item>
       <title>Ml Interpretation</title>
       <link>https://obaydakov.github.io/categories/ml-interpretation/</link>
-      <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/categories/ml-interpretation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobile Games</title>
+      <link>https://obaydakov.github.io/categories/mobile-games/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/categories/mobile-games/</guid>
       <description></description>
     </item>
     
@@ -230,7 +239,7 @@
     <item>
       <title>Python</title>
       <link>https://obaydakov.github.io/categories/python/</link>
-      <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/categories/python/</guid>
       <description></description>
@@ -239,7 +248,7 @@
     <item>
       <title>R</title>
       <link>https://obaydakov.github.io/categories/r/</link>
-      <pubDate>Sun, 28 Oct 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/categories/r/</guid>
       <description></description>
@@ -248,7 +257,7 @@
     <item>
       <title>Scala</title>
       <link>https://obaydakov.github.io/categories/scala/</link>
-      <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/categories/scala/</guid>
       <description></description>
@@ -266,7 +275,7 @@
     <item>
       <title>Spark</title>
       <link>https://obaydakov.github.io/categories/spark/</link>
-      <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/categories/spark/</guid>
       <description></description>

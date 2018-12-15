@@ -6,10 +6,37 @@
     <description>Recent content in Python on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AlphaZero implementation and tutorial</title>
+      <link>https://obaydakov.github.io/post/2018/alphazero-implementation-and-tutorial/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/alphazero-implementation-and-tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>It’s time to re-think A/B testing</title>
+      <link>https://obaydakov.github.io/post/2018/it-s-time-to-re-think-a-b-testing/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/it-s-time-to-re-think-a-b-testing/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Python and Slack: A Natural Match</title>
+      <link>https://obaydakov.github.io/post/2018/python-and-slack-a-natural-match/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/python-and-slack-a-natural-match/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>A python library to run your existing code on AWS Batch</title>

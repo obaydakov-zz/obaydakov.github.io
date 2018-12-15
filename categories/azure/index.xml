@@ -6,10 +6,19 @@
     <description>Recent content in Azure on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/azure/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Running Apache Spark jobs on AKS</title>
+      <link>https://obaydakov.github.io/post/2018/running-apache-spark-jobs-on-aks/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/running-apache-spark-jobs-on-aks/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Train and Serve TensorFlow Models at Scale with Kubernetes and Kubeflow on Azure</title>
