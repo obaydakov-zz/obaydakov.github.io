@@ -6,10 +6,19 @@
     <description>Recent content in Azure on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/azure/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to deploy a predictive service to Kubernetes with R and the AzureContainers package</title>
+      <link>https://obaydakov.github.io/post/2018/how-to-deploy-a-predictive-service-to-kubernetes-with-r-and-the-azurecontainers-package/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/how-to-deploy-a-predictive-service-to-kubernetes-with-r-and-the-azurecontainers-package/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Running Apache Spark jobs on AKS</title>

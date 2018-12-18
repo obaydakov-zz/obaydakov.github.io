@@ -6,10 +6,91 @@
     <description>Recent content in Posts on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A tool for compiling trained SKLearn models into other representations</title>
+      <link>https://obaydakov.github.io/post/2018/a-tool-for-compiling-trained-sklearn-models-into-other-representations/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/a-tool-for-compiling-trained-sklearn-models-into-other-representations/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Hands-on Machine Learning Model Interpretation</title>
+      <link>https://obaydakov.github.io/post/2018/hands-on-machine-learning-model-interpretation/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/hands-on-machine-learning-model-interpretation/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>How to deploy a predictive service to Kubernetes with R and the AzureContainers package</title>
+      <link>https://obaydakov.github.io/post/2018/how-to-deploy-a-predictive-service-to-kubernetes-with-r-and-the-azurecontainers-package/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/how-to-deploy-a-predictive-service-to-kubernetes-with-r-and-the-azurecontainers-package/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>In-database xgboost prediction with R</title>
+      <link>https://obaydakov.github.io/post/2018/in-database-xgboost-prediction-with-r/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/in-database-xgboost-prediction-with-r/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Modern HTTP benchmarking tool</title>
+      <link>https://obaydakov.github.io/post/2018/modern-http-benchmarking-tool/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/modern-http-benchmarking-tool/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Precompiled packages for AWS Lambda</title>
+      <link>https://obaydakov.github.io/post/2018/precompiled-packages-for-aws-lambda/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/precompiled-packages-for-aws-lambda/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Progress bar in your R terminal</title>
+      <link>https://obaydakov.github.io/post/2018/progress-bar-in-your-r-terminal/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/progress-bar-in-your-r-terminal/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>R application programming interface (API) for Deep Forest (Python)</title>
+      <link>https://obaydakov.github.io/post/2018/r-application-programming-interface-api-for-deep-forest-python/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/r-application-programming-interface-api-for-deep-forest-python/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Rich Command Line Applications</title>
+      <link>https://obaydakov.github.io/post/2018/rich-command-line-applications/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/rich-command-line-applications/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>AI Tales: Building Machine learning pipeline using Kubeflow and Minio</title>
@@ -26,7 +107,7 @@
       <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/post/2018/alphazero-implementation-and-tutorial/</guid>
-      <description></description>
+      <description>Link</description>
     </item>
     
     <item>

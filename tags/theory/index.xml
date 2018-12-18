@@ -6,10 +6,19 @@
     <description>Recent content in Theory on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/theory/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hands-on Machine Learning Model Interpretation</title>
+      <link>https://obaydakov.github.io/post/2018/hands-on-machine-learning-model-interpretation/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/hands-on-machine-learning-model-interpretation/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Ontology and Data Science</title>
