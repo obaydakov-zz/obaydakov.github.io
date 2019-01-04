@@ -6,10 +6,132 @@
     <description>Recent content in Tools on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/tools/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>BeakerX is a collection of kernels and extensions to the Jupyter interactive computing environment</title>
+      <link>https://obaydakov.github.io/post/2019/beakerx-is-a-collection-of-kernels-and-extensions-to-the-jupyter-interactive-computing-environment/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/beakerx-is-a-collection-of-kernels-and-extensions-to-the-jupyter-interactive-computing-environment/</guid>
+      <description>BeakerX is a collection of kernels and extensions to the Jupyter interactive computing environment. It provides JVM support, Spark cluster support, polyglot programming, interactive plots, tables, forms, publishing, and more. BeakerX supports:
+ Groovy, Scala, Clojure, Kotlin, Java, and SQL, including many magics;
+ Widgets for time-series plotting, tables, forms, and more (there are Python and JavaScript APIs in addition to the JVM languages);
+ Polyglot magics and autotranslation, allowing you to access multiple languages in the same noteobook, and seamlessly communicate between them;</description>
+    </item>
+    
+    <item>
+      <title>Bringing the best out of Jupyter Notebooks for Data Science</title>
+      <link>https://obaydakov.github.io/post/2019/bringing-the-best-out-of-jupyter-notebooks-for-data-science/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/bringing-the-best-out-of-jupyter-notebooks-for-data-science/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Collaborative Calculation in the Cloud</title>
+      <link>https://obaydakov.github.io/post/2019/collaborative-calculation-in-the-cloud/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/collaborative-calculation-in-the-cloud/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Curated list of awesome ETL frameworks, libraries, and software.</title>
+      <link>https://obaydakov.github.io/post/2019/curated-list-of-awesome-etl-frameworks-libraries-and-software/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/curated-list-of-awesome-etl-frameworks-libraries-and-software/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Curated list of awesome streaming frameworks, applications, etc</title>
+      <link>https://obaydakov.github.io/post/2019/curated-list-of-awesome-streaming-frameworks-applications-etc/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/curated-list-of-awesome-streaming-frameworks-applications-etc/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning for Unsupervised Insider Threat Detection in Structured Cybersecurity Data Streams</title>
+      <link>https://obaydakov.github.io/post/2019/deep-learning-for-unsupervised-insider-threat-detection-in-structured-cybersecurity-data-streams/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/deep-learning-for-unsupervised-insider-threat-detection-in-structured-cybersecurity-data-streams/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Fully automatic penetration test tool using Machine Learning.</title>
+      <link>https://obaydakov.github.io/post/2019/fully-automatic-penetration-test-tool-using-machine-learning/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/fully-automatic-penetration-test-tool-using-machine-learning/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>ML Lambda is an open source model management cluster for deploying, serving and monitoring machine learning models and ad-hoc algorithms.</title>
+      <link>https://obaydakov.github.io/post/2019/ml-lambda-is-an-open-source-model-management-cluster-for-deploying-serving-and-monitoring-machine-learning-models-and-ad-hoc-algorithms/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/ml-lambda-is-an-open-source-model-management-cluster-for-deploying-serving-and-monitoring-machine-learning-models-and-ad-hoc-algorithms/</guid>
+      <description>ML Lambda is an open source model management cluster for deploying, serving and monitoring machine learning models and ad-hoc algorithms. It enables you to get your models up and running in an instant on just about any infrastructure and using any of the available machine learning toolkits. It lets you monitor your models’ performance, analyse their inputs, observe models’ inference on given data and many more.
+ Installation page will help you to setup an instance of ML Lambda on your machine.</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning and Security</title>
+      <link>https://obaydakov.github.io/post/2019/machine-learning-and-security/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/machine-learning-and-security/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning for Cybersecurity 101</title>
+      <link>https://obaydakov.github.io/post/2019/machine-learning-for-cybersecurity-101/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/machine-learning-for-cybersecurity-101/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>OpenSource Time-Series Database</title>
+      <link>https://obaydakov.github.io/post/2019/opensource-time-series-database/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/opensource-time-series-database/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Reverse Engineering the Analyst: Building Machine Learning Models for the SOC</title>
+      <link>https://obaydakov.github.io/post/2019/reverse-engineering-the-analyst-building-machine-learning-models-for-the-soc/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/reverse-engineering-the-analyst-building-machine-learning-models-for-the-soc/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>SoS - Notebook environment for both interactive data analysis and batch data processing</title>
+      <link>https://obaydakov.github.io/post/2019/sos-notebook-environment-for-both-interactive-data-analysis-and-batch-data-processing/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/sos-notebook-environment-for-both-interactive-data-analysis-and-batch-data-processing/</guid>
+      <description>SoS (Script of Scripts) is the umbrella title for SoS Polyglot Notebook and SoS Workflow Engine. SoS Notebook is a customized Jupyter kernel with associated frontend extensions that allows the use of multiple kernels in one Jupyter notebook. SoS Workflow engine is a Python 3 based workflow engine designed to be readable, sharable, and suitable for daily data analysis.
+Link</description>
+    </item>
     
     <item>
       <title> Michelangelo, Uber’s Machine Learning Platform</title>

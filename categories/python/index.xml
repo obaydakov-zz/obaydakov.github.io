@@ -6,10 +6,38 @@
     <description>Recent content in Python on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title> Precompiled packages for AWS lambda</title>
+      <link>https://obaydakov.github.io/post/2019/precompiled-packages-for-aws-lambda/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/precompiled-packages-for-aws-lambda/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>LAMBDA LAYERS FOR PYTHON RUNTIME</title>
+      <link>https://obaydakov.github.io/post/2019/lambda-layers-for-python-runtime/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/lambda-layers-for-python-runtime/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>SoS - Notebook environment for both interactive data analysis and batch data processing</title>
+      <link>https://obaydakov.github.io/post/2019/sos-notebook-environment-for-both-interactive-data-analysis-and-batch-data-processing/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/sos-notebook-environment-for-both-interactive-data-analysis-and-batch-data-processing/</guid>
+      <description>SoS (Script of Scripts) is the umbrella title for SoS Polyglot Notebook and SoS Workflow Engine. SoS Notebook is a customized Jupyter kernel with associated frontend extensions that allows the use of multiple kernels in one Jupyter notebook. SoS Workflow engine is a Python 3 based workflow engine designed to be readable, sharable, and suitable for daily data analysis.
+Link</description>
+    </item>
     
     <item>
       <title>A tool for compiling trained SKLearn models into other representations</title>

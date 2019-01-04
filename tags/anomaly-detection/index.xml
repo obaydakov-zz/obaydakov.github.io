@@ -6,10 +6,46 @@
     <description>Recent content in Anomaly Detection on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/anomaly-detection/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Augmenting Cyber Security: How To Use Big Data Analytics For Anomaly Detection</title>
+      <link>https://obaydakov.github.io/post/2019/augmenting-cyber-security-how-to-use-big-data-analytics-for-anomaly-detection/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/augmenting-cyber-security-how-to-use-big-data-analytics-for-anomaly-detection/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Long Short Term Memory Networks for Anomaly Detection in Time Series</title>
+      <link>https://obaydakov.github.io/post/2019/long-short-term-memory-networks-for-anomaly-detection-in-time-series/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/long-short-term-memory-networks-for-anomaly-detection-in-time-series/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning for Cyber Security</title>
+      <link>https://obaydakov.github.io/post/2019/machine-learning-for-cyber-security/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/machine-learning-for-cyber-security/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Outlier Detection with Isolation Forest</title>
+      <link>https://obaydakov.github.io/post/2019/outlier-detection-with-isolation-forest/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/outlier-detection-with-isolation-forest/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Fraud Detection with Machine Learning</title>

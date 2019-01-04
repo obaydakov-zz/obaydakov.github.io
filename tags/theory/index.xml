@@ -6,10 +6,46 @@
     <description>Recent content in Theory on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/theory/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Taxonomy and Survey of Intrusion Detection System Design Techniques, Network Threats and Datasets</title>
+      <link>https://obaydakov.github.io/post/2019/a-taxonomy-and-survey-of-intrusion-detection-system-design-techniques-network-threats-and-datasets/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/a-taxonomy-and-survey-of-intrusion-detection-system-design-techniques-network-threats-and-datasets/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Anatomize Deep Learning with Information Theory</title>
+      <link>https://obaydakov.github.io/post/2019/anatomize-deep-learning-with-information-theory/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/anatomize-deep-learning-with-information-theory/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Flow-based Deep Generative Models</title>
+      <link>https://obaydakov.github.io/post/2019/flow-based-deep-generative-models/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/flow-based-deep-generative-models/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>How to Explain the Prediction of a Machine Learning Model?</title>
+      <link>https://obaydakov.github.io/post/2019/how-to-explain-the-prediction-of-a-machine-learning-model/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/how-to-explain-the-prediction-of-a-machine-learning-model/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Hands-on Machine Learning Model Interpretation</title>

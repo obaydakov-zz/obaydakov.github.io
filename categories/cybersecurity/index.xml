@@ -6,10 +6,82 @@
     <description>Recent content in Cybersecurity on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Taxonomy and Survey of Intrusion Detection System Design Techniques, Network Threats and Datasets</title>
+      <link>https://obaydakov.github.io/post/2019/a-taxonomy-and-survey-of-intrusion-detection-system-design-techniques-network-threats-and-datasets/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/a-taxonomy-and-survey-of-intrusion-detection-system-design-techniques-network-threats-and-datasets/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Augmenting Cyber Security: How To Use Big Data Analytics For Anomaly Detection</title>
+      <link>https://obaydakov.github.io/post/2019/augmenting-cyber-security-how-to-use-big-data-analytics-for-anomaly-detection/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/augmenting-cyber-security-how-to-use-big-data-analytics-for-anomaly-detection/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning for Unsupervised Insider Threat Detection in Structured Cybersecurity Data Streams</title>
+      <link>https://obaydakov.github.io/post/2019/deep-learning-for-unsupervised-insider-threat-detection-in-structured-cybersecurity-data-streams/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/deep-learning-for-unsupervised-insider-threat-detection-in-structured-cybersecurity-data-streams/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Fully automatic penetration test tool using Machine Learning.</title>
+      <link>https://obaydakov.github.io/post/2019/fully-automatic-penetration-test-tool-using-machine-learning/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/fully-automatic-penetration-test-tool-using-machine-learning/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning and Security</title>
+      <link>https://obaydakov.github.io/post/2019/machine-learning-and-security/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/machine-learning-and-security/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning for Cyber Security</title>
+      <link>https://obaydakov.github.io/post/2019/machine-learning-for-cyber-security/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/machine-learning-for-cyber-security/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning for Cybersecurity 101</title>
+      <link>https://obaydakov.github.io/post/2019/machine-learning-for-cybersecurity-101/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/machine-learning-for-cybersecurity-101/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Reverse Engineering the Analyst: Building Machine Learning Models for the SOC</title>
+      <link>https://obaydakov.github.io/post/2019/reverse-engineering-the-analyst-building-machine-learning-models-for-the-soc/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/reverse-engineering-the-analyst-building-machine-learning-models-for-the-soc/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>A library for running membership inference attacks against ML models</title>

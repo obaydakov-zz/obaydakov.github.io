@@ -6,10 +6,20 @@
     <description>Recent content in Automated Ml on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/automated-ml/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ML Lambda is an open source model management cluster for deploying, serving and monitoring machine learning models and ad-hoc algorithms.</title>
+      <link>https://obaydakov.github.io/post/2019/ml-lambda-is-an-open-source-model-management-cluster-for-deploying-serving-and-monitoring-machine-learning-models-and-ad-hoc-algorithms/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/ml-lambda-is-an-open-source-model-management-cluster-for-deploying-serving-and-monitoring-machine-learning-models-and-ad-hoc-algorithms/</guid>
+      <description>ML Lambda is an open source model management cluster for deploying, serving and monitoring machine learning models and ad-hoc algorithms. It enables you to get your models up and running in an instant on just about any infrastructure and using any of the available machine learning toolkits. It lets you monitor your models’ performance, analyse their inputs, observe models’ inference on given data and many more.
+ Installation page will help you to setup an instance of ML Lambda on your machine.</description>
+    </item>
     
     <item>
       <title>AI Tales: Building Machine learning pipeline using Kubeflow and Minio</title>

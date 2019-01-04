@@ -6,10 +6,37 @@
     <description>Recent content in Deep Learning on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Anatomize Deep Learning with Information Theory</title>
+      <link>https://obaydakov.github.io/post/2019/anatomize-deep-learning-with-information-theory/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/anatomize-deep-learning-with-information-theory/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning for Unsupervised Insider Threat Detection in Structured Cybersecurity Data Streams</title>
+      <link>https://obaydakov.github.io/post/2019/deep-learning-for-unsupervised-insider-threat-detection-in-structured-cybersecurity-data-streams/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/deep-learning-for-unsupervised-insider-threat-detection-in-structured-cybersecurity-data-streams/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Flow-based Deep Generative Models</title>
+      <link>https://obaydakov.github.io/post/2019/flow-based-deep-generative-models/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/flow-based-deep-generative-models/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Вариационные автокодировщики: теория и рабочий код</title>
