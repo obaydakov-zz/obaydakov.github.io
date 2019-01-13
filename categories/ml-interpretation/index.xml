@@ -6,10 +6,46 @@
     <description>Recent content in Ml Interpretation on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/ml-interpretation/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>3 Must-have tools if you&#39;re serious about machine learning</title>
+      <link>https://obaydakov.github.io/post/2019/3-must-have-tools-if-you-re-serious-about-machine-learning/</link>
+      <pubDate>Sun, 13 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/3-must-have-tools-if-you-re-serious-about-machine-learning/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>A unified approach to explain the output of any machine learning model.</title>
+      <link>https://obaydakov.github.io/post/2019/a-unified-approach-to-explain-the-output-of-any-machine-learning-model/</link>
+      <pubDate>Sun, 13 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/a-unified-approach-to-explain-the-output-of-any-machine-learning-model/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Explainable AI </title>
+      <link>https://obaydakov.github.io/post/2019/explainable-ai/</link>
+      <pubDate>Sun, 13 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/explainable-ai/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Opening the black box of Deep Neural Networks via Information</title>
+      <link>https://obaydakov.github.io/post/2019/opening-the-black-box-of-deep-neural-networks-via-information/</link>
+      <pubDate>Sun, 13 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/opening-the-black-box-of-deep-neural-networks-via-information/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>How to Explain the Prediction of a Machine Learning Model?</title>

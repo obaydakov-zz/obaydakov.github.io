@@ -6,10 +6,28 @@
     <description>Recent content in Algorithms on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/algorithms/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title> Bandit Algorithms Book</title>
+      <link>https://obaydakov.github.io/post/2019/bandit-algorithms-book/</link>
+      <pubDate>Sun, 13 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/bandit-algorithms-book/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>AlphaZero: Shedding new light on the grand games of chess, shogi and Go</title>
+      <link>https://obaydakov.github.io/post/2019/alphazero-shedding-new-light-on-the-grand-games-of-chess-shogi-and-go/</link>
+      <pubDate>Sun, 13 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/alphazero-shedding-new-light-on-the-grand-games-of-chess-shogi-and-go/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>AlphaZero implementation and tutorial</title>
