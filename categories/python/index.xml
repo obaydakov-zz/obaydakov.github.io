@@ -6,10 +6,28 @@
     <description>Recent content in Python on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>28 Jupyter Notebook tips, tricks, and shortcuts</title>
+      <link>https://obaydakov.github.io/post/2019/28-jupyter-notebook-tips-tricks-and-shortcuts/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/28-jupyter-notebook-tips-tricks-and-shortcuts/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>A gallery of interesting Jupyter Notebooks</title>
+      <link>https://obaydakov.github.io/post/2019/a-gallery-of-interesting-jupyter-notebooks/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/a-gallery-of-interesting-jupyter-notebooks/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>A unified approach to explain the output of any machine learning model.</title>
@@ -415,10 +433,10 @@ Locust is completely event-based, and therefore it’s possible to support thous
     
     <item>
       <title>Zappa - Serverless Python &#43; AWS</title>
-      <link>https://obaydakov.github.io/post/zappa-serverless-python-aws/</link>
+      <link>https://obaydakov.github.io/zappa-serverless-python-aws/</link>
       <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/zappa-serverless-python-aws/</guid>
+      <guid>https://obaydakov.github.io/zappa-serverless-python-aws/</guid>
       <description>Link</description>
     </item>
     

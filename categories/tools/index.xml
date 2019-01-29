@@ -6,10 +6,28 @@
     <description>Recent content in Tools on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/tools/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A gallery of interesting Jupyter Notebooks</title>
+      <link>https://obaydakov.github.io/post/2019/a-gallery-of-interesting-jupyter-notebooks/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/a-gallery-of-interesting-jupyter-notebooks/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Creating a Website Share a set of Radix articles as a website</title>
+      <link>https://obaydakov.github.io/post/2019/creating-a-website-share-a-set-of-radix-articles-as-a-website/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/creating-a-website-share-a-set-of-radix-articles-as-a-website/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Bringing the best out of Jupyter Notebooks for Data Science</title>

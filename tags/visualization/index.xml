@@ -6,10 +6,37 @@
     <description>Recent content in Visualization on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/visualization/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Pattern detection Hackable pattern detection tool for timeseries data with UI for Grafana.</title>
+      <link>https://obaydakov.github.io/post/2019/pattern-detection-hackable-pattern-detection-tool-for-timeseries-data-with-ui-for-grafana/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/pattern-detection-hackable-pattern-detection-tool-for-timeseries-data-with-ui-for-grafana/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>TABVIZEXPLORER</title>
+      <link>https://obaydakov.github.io/post/2019/tabvizexplorer/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/tabvizexplorer/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Tableau &#43;R</title>
+      <link>https://obaydakov.github.io/post/2019/tableau-r/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/tableau-r/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Finally, You Can Plot H2O Decision Trees in R</title>

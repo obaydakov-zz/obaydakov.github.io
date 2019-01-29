@@ -6,10 +6,118 @@
     <description>Recent content in Machine Learning on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>28 Jupyter Notebook tips, tricks, and shortcuts</title>
+      <link>https://obaydakov.github.io/post/2019/28-jupyter-notebook-tips-tricks-and-shortcuts/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/28-jupyter-notebook-tips-tricks-and-shortcuts/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>A gallery of interesting Jupyter Notebooks</title>
+      <link>https://obaydakov.github.io/post/2019/a-gallery-of-interesting-jupyter-notebooks/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/a-gallery-of-interesting-jupyter-notebooks/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>GRETA - simple and scalable statistical modelling in R</title>
+      <link>https://obaydakov.github.io/post/2019/greta-simple-and-scalable-statistical-modelling-in-r/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/greta-simple-and-scalable-statistical-modelling-in-r/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Homepage Setting up a Spark machine learning project with Scala, sbt and MLlib</title>
+      <link>https://obaydakov.github.io/post/2019/homepage-setting-up-a-spark-machine-learning-project-with-scala-sbt-and-mllib/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/homepage-setting-up-a-spark-machine-learning-project-with-scala-sbt-and-mllib/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Monte Carlo Tree Search: The Game-Changing Algorithm behind DeepMind’s AlphaGo</title>
+      <link>https://obaydakov.github.io/post/2019/introduction-to-monte-carlo-tree-search-the-game-changing-algorithm-behind-deepmind-s-alphago/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/introduction-to-monte-carlo-tree-search-the-game-changing-algorithm-behind-deepmind-s-alphago/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning Workflow</title>
+      <link>https://obaydakov.github.io/post/2019/machine-learning-workflow/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/machine-learning-workflow/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Pattern detection Hackable pattern detection tool for timeseries data with UI for Grafana.</title>
+      <link>https://obaydakov.github.io/post/2019/pattern-detection-hackable-pattern-detection-tool-for-timeseries-data-with-ui-for-grafana/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/pattern-detection-hackable-pattern-detection-tool-for-timeseries-data-with-ui-for-grafana/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Plumber ML Model deployment example</title>
+      <link>https://obaydakov.github.io/post/2019/plumber-ml-model-deployment-example/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/plumber-ml-model-deployment-example/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Scaling H2O analytics with AWS and p(f)urrr</title>
+      <link>https://obaydakov.github.io/post/2019/scaling-h2o-analytics-with-aws-and-p-f-urrr/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/scaling-h2o-analytics-with-aws-and-p-f-urrr/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>The 6 most useful Machine Learning projects of the past year (2018)</title>
+      <link>https://obaydakov.github.io/post/2019/the-6-most-useful-machine-learning-projects-of-the-past-year-2018/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/the-6-most-useful-machine-learning-projects-of-the-past-year-2018/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Techniques- Clustering</title>
+      <link>https://obaydakov.github.io/post/2019/2019/unsupervised-techniques-clustering/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/2019/unsupervised-techniques-clustering/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>What We Learned by Serving Machine Learning Models at Scale Using Amazon SageMaker</title>
+      <link>https://obaydakov.github.io/post/2019/what-we-learned-by-serving-machine-learning-models-at-scale-using-amazon-sagemaker/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/what-we-learned-by-serving-machine-learning-models-at-scale-using-amazon-sagemaker/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title> Bandit Algorithms Book</title>

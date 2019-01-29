@@ -6,10 +6,46 @@
     <description>Recent content in Mobile Games on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/mobile-games/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cohort Analysis &amp; Retention Rate Visualization in R</title>
+      <link>https://obaydakov.github.io/post/2019/cohort-analysis-retention-rate-visualization-in-r/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/cohort-analysis-retention-rate-visualization-in-r/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Customer Success Metrics You Can’t Do Without</title>
+      <link>https://obaydakov.github.io/post/2019/customer-success-metrics-you-can-t-do-without/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/customer-success-metrics-you-can-t-do-without/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>LTV prediction for a recurring subscription with R</title>
+      <link>https://obaydakov.github.io/post/2019/ltv-prediction-for-a-recurring-subscription-with-r/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/ltv-prediction-for-a-recurring-subscription-with-r/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>The Math Behind A/B Testing with Example Python Code</title>
+      <link>https://obaydakov.github.io/post/2019/the-math-behind-a-b-testing-with-example-python-code/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/the-math-behind-a-b-testing-with-example-python-code/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title> Bandit Algorithms Book</title>

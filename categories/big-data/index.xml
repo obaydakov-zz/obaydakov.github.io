@@ -6,10 +6,19 @@
     <description>Recent content in Big Data on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/big-data/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Scaling H2O analytics with AWS and p(f)urrr</title>
+      <link>https://obaydakov.github.io/post/2019/scaling-h2o-analytics-with-aws-and-p-f-urrr/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/scaling-h2o-analytics-with-aws-and-p-f-urrr/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Spark Summit 2017 Video</title>

@@ -6,10 +6,19 @@
     <description>Recent content in Anomaly Detection on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/anomaly-detection/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Pattern detection Hackable pattern detection tool for timeseries data with UI for Grafana.</title>
+      <link>https://obaydakov.github.io/post/2019/pattern-detection-hackable-pattern-detection-tool-for-timeseries-data-with-ui-for-grafana/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/pattern-detection-hackable-pattern-detection-tool-for-timeseries-data-with-ui-for-grafana/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Augmenting Cyber Security: How To Use Big Data Analytics For Anomaly Detection</title>

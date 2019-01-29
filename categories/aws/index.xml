@@ -6,10 +6,64 @@
     <description>Recent content in Aws on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/aws/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AWS Certification Training</title>
+      <link>https://obaydakov.github.io/post/2019/aws-certification-training/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/aws-certification-training/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>How To Build a Serverless CI/CD Pipeline On AWS</title>
+      <link>https://obaydakov.github.io/post/2019/how-to-build-a-serverless-ci-cd-pipeline-on-aws/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/how-to-build-a-serverless-ci-cd-pipeline-on-aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Precompiled packages for AWS Lambda</title>
+      <link>https://obaydakov.github.io/post/2019/precompiled-packages-for-aws-lambda/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/precompiled-packages-for-aws-lambda/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Read and Write Data To and From Amazon S3 Buckets in Rstudio</title>
+      <link>https://obaydakov.github.io/post/2019/read-and-write-data-to-and-from-amazon-s3-buckets-in-rstudio/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/read-and-write-data-to-and-from-amazon-s3-buckets-in-rstudio/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Scaling H2O analytics with AWS and p(f)urrr</title>
+      <link>https://obaydakov.github.io/post/2019/scaling-h2o-analytics-with-aws-and-p-f-urrr/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/scaling-h2o-analytics-with-aws-and-p-f-urrr/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>What We Learned by Serving Machine Learning Models at Scale Using Amazon SageMaker</title>
+      <link>https://obaydakov.github.io/post/2019/what-we-learned-by-serving-machine-learning-models-at-scale-using-amazon-sagemaker/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/what-we-learned-by-serving-machine-learning-models-at-scale-using-amazon-sagemaker/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>AWS Samples</title>
@@ -438,10 +492,10 @@ Serverless and Recurrent Neural Networks with Fn, GraphPipe and TensorFlow</desc
     
     <item>
       <title>Zappa - Serverless Python &#43; AWS</title>
-      <link>https://obaydakov.github.io/post/zappa-serverless-python-aws/</link>
+      <link>https://obaydakov.github.io/zappa-serverless-python-aws/</link>
       <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/zappa-serverless-python-aws/</guid>
+      <guid>https://obaydakov.github.io/zappa-serverless-python-aws/</guid>
       <description>Link</description>
     </item>
     

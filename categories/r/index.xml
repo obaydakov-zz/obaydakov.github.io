@@ -6,10 +6,73 @@
     <description>Recent content in R on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Plumber ML Model deployment example</title>
+      <link>https://obaydakov.github.io/post/2019/plumber-ml-model-deployment-example/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/plumber-ml-model-deployment-example/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Read and Write Data To and From Amazon S3 Buckets in Rstudio</title>
+      <link>https://obaydakov.github.io/post/2019/read-and-write-data-to-and-from-amazon-s3-buckets-in-rstudio/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/read-and-write-data-to-and-from-amazon-s3-buckets-in-rstudio/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>TABVIZEXPLORER</title>
+      <link>https://obaydakov.github.io/post/2019/tabvizexplorer/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/tabvizexplorer/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Tableau &#43;R</title>
+      <link>https://obaydakov.github.io/post/2019/tableau-r/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/tableau-r/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Techniques- Clustering</title>
+      <link>https://obaydakov.github.io/post/2019/2019/unsupervised-techniques-clustering/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/2019/unsupervised-techniques-clustering/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>plumber An R package that converts your existing R code to a web API using a handful of special one-line comments.</title>
+      <link>https://obaydakov.github.io/post/2019/plumber-an-r-package-that-converts-your-existing-r-code-to-a-web-api-using-a-handful-of-special-one-line-comments/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/plumber-an-r-package-that-converts-your-existing-r-code-to-a-web-api-using-a-handful-of-special-one-line-comments/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>skimr is designed to provide summary statistics about variables.</title>
+      <link>https://obaydakov.github.io/post/2019/skimr-is-designed-to-provide-summary-statistics-about-variables/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/skimr-is-designed-to-provide-summary-statistics-about-variables/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Homepage Heartbeat HOMEMOBILEMACHINE LEARNINGCOMMUNITYALLNEWSLETTERABOUT FRITZ 2018’s Top 7 Libraries and Packages for Data Science and AI: Python &amp; R</title>
