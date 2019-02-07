@@ -6,10 +6,73 @@
     <description>Recent content in Automated Ml on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/automated-ml/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Enterprise Web Services with Neural Networks Using R and TensorFlow</title>
+      <link>https://obaydakov.github.io/post/2019/enterprise-web-services-with-neural-networks-using-r-and-tensorflow/</link>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/enterprise-web-services-with-neural-networks-using-r-and-tensorflow/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>R can API and So Can You!</title>
+      <link>https://obaydakov.github.io/post/2019/r-can-api-and-so-can-you/</link>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/r-can-api-and-so-can-you/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Ray is a high-performance distributed execution framework targeted at large-scale machine learning and reinforcement learning applications</title>
+      <link>https://obaydakov.github.io/post/2019/ray-is-a-high-performance-distributed-execution-framework-targeted-at-large-scale-machine-learning-and-reinforcement-learning-applications/</link>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/ray-is-a-high-performance-distributed-execution-framework-targeted-at-large-scale-machine-learning-and-reinforcement-learning-applications/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Scaling Jupyter notebooks with Kubernetes and Tensorflow</title>
+      <link>https://obaydakov.github.io/post/2019/scaling-jupyter-notebooks-with-kubernetes-and-tensorflow/</link>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/scaling-jupyter-notebooks-with-kubernetes-and-tensorflow/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>The Data Fabric for Machine Learning</title>
+      <link>https://obaydakov.github.io/post/2019/the-data-fabric-for-machine-learning/</link>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/the-data-fabric-for-machine-learning/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Tracking the quality of models in production</title>
+      <link>https://obaydakov.github.io/post/2019/tracking-the-quality-of-models-in-production/</link>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/tracking-the-quality-of-models-in-production/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Using docker to deploy an R plumber API</title>
+      <link>https://obaydakov.github.io/post/20192019-02-07-using-docker-to-deploy-an-r-plumber-api/</link>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/20192019-02-07-using-docker-to-deploy-an-r-plumber-api/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Deploying Keras Deep Learning Models with Flask</title>

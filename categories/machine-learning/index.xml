@@ -6,10 +6,73 @@
     <description>Recent content in Machine Learning on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>An open source AutoML toolkit for neural architecture search and hyper-parameter tuning.</title>
+      <link>https://obaydakov.github.io/post/2019/an-open-source-automl-toolkit-for-neural-architecture-search-and-hyper-parameter-tuning/</link>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/an-open-source-automl-toolkit-for-neural-architecture-search-and-hyper-parameter-tuning/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Data Machina</title>
+      <link>https://obaydakov.github.io/post/2019/data-machina/</link>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/data-machina/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>How to visualize decision trees</title>
+      <link>https://obaydakov.github.io/post/2019/how-to-visualize-decision-trees/</link>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/how-to-visualize-decision-trees/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Ray is a high-performance distributed execution framework targeted at large-scale machine learning and reinforcement learning applications</title>
+      <link>https://obaydakov.github.io/post/2019/ray-is-a-high-performance-distributed-execution-framework-targeted-at-large-scale-machine-learning-and-reinforcement-learning-applications/</link>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/ray-is-a-high-performance-distributed-execution-framework-targeted-at-large-scale-machine-learning-and-reinforcement-learning-applications/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Scaling Jupyter notebooks with Kubernetes and Tensorflow</title>
+      <link>https://obaydakov.github.io/post/2019/scaling-jupyter-notebooks-with-kubernetes-and-tensorflow/</link>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/scaling-jupyter-notebooks-with-kubernetes-and-tensorflow/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>The Data Fabric for Machine Learning</title>
+      <link>https://obaydakov.github.io/post/2019/the-data-fabric-for-machine-learning/</link>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/the-data-fabric-for-machine-learning/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Tracking the quality of models in production</title>
+      <link>https://obaydakov.github.io/post/2019/tracking-the-quality-of-models-in-production/</link>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/tracking-the-quality-of-models-in-production/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>28 Jupyter Notebook tips, tricks, and shortcuts</title>

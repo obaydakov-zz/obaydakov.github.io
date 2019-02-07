@@ -6,10 +6,73 @@
     <description>Recent content in R on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Business Process Analysis in R</title>
+      <link>https://obaydakov.github.io/post/2019/business-process-analysis-in-r/</link>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/business-process-analysis-in-r/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Create new variables with mutate_at while keeping the original ones</title>
+      <link>https://obaydakov.github.io/post/2019/create-new-variables-with-mutate-at-while-keeping-the-original-ones/</link>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/create-new-variables-with-mutate-at-while-keeping-the-original-ones/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Difference between ntile and cut and then quantile() function in R</title>
+      <link>https://obaydakov.github.io/post/2019/difference-between-ntile-and-cut-and-then-quantile-function-in-r/</link>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/difference-between-ntile-and-cut-and-then-quantile-function-in-r/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Enterprise Web Services with Neural Networks Using R and TensorFlow</title>
+      <link>https://obaydakov.github.io/post/2019/enterprise-web-services-with-neural-networks-using-r-and-tensorflow/</link>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/enterprise-web-services-with-neural-networks-using-r-and-tensorflow/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>R can API and So Can You!</title>
+      <link>https://obaydakov.github.io/post/2019/r-can-api-and-so-can-you/</link>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/r-can-api-and-so-can-you/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Simplifies Plotting Data Inside Databases</title>
+      <link>https://obaydakov.github.io/post/2019/simplifies-plotting-data-inside-databases/</link>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/simplifies-plotting-data-inside-databases/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Using docker to deploy an R plumber API</title>
+      <link>https://obaydakov.github.io/post/20192019-02-07-using-docker-to-deploy-an-r-plumber-api/</link>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/20192019-02-07-using-docker-to-deploy-an-r-plumber-api/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Plumber ML Model deployment example</title>

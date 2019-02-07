@@ -32,7 +32,7 @@
     <item>
       <title>Automated Ml</title>
       <link>https://obaydakov.github.io/categories/automated-ml/</link>
-      <pubDate>Sun, 13 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/categories/automated-ml/</guid>
       <description></description>
@@ -68,7 +68,7 @@
     <item>
       <title>Big Data</title>
       <link>https://obaydakov.github.io/categories/big-data/</link>
-      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/categories/big-data/</guid>
       <description></description>
@@ -104,7 +104,7 @@
     <item>
       <title>Deep Learning</title>
       <link>https://obaydakov.github.io/categories/deep-learning/</link>
-      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/categories/deep-learning/</guid>
       <description></description>
@@ -116,6 +116,15 @@
       <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/categories/gcp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Go</title>
+      <link>https://obaydakov.github.io/categories/go/</link>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/categories/go/</guid>
       <description></description>
     </item>
     
@@ -167,7 +176,7 @@
     <item>
       <title>Kubernetes</title>
       <link>https://obaydakov.github.io/categories/kubernetes/</link>
-      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/categories/kubernetes/</guid>
       <description></description>
@@ -185,7 +194,7 @@
     <item>
       <title>Machine Learning</title>
       <link>https://obaydakov.github.io/categories/machine-learning/</link>
-      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/categories/machine-learning/</guid>
       <description></description>
@@ -221,7 +230,7 @@
     <item>
       <title>Mobile Games</title>
       <link>https://obaydakov.github.io/categories/mobile-games/</link>
-      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/categories/mobile-games/</guid>
       <description></description>
@@ -239,7 +248,7 @@
     <item>
       <title>Python</title>
       <link>https://obaydakov.github.io/categories/python/</link>
-      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/categories/python/</guid>
       <description></description>
@@ -248,7 +257,7 @@
     <item>
       <title>R</title>
       <link>https://obaydakov.github.io/categories/r/</link>
-      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/categories/r/</guid>
       <description></description>
@@ -275,7 +284,7 @@
     <item>
       <title>Spark</title>
       <link>https://obaydakov.github.io/categories/spark/</link>
-      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/categories/spark/</guid>
       <description></description>

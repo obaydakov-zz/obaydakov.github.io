@@ -6,10 +6,28 @@
     <description>Recent content in Python on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title> Plotting with Plotly &#43; Cufflinks in Python</title>
+      <link>https://obaydakov.github.io/post/2018/plotting-with-plotly-cufflinks-in-python/</link>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/plotting-with-plotly-cufflinks-in-python/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>The Next Level of Data Visualization in Python</title>
+      <link>https://obaydakov.github.io/post/2019/the-next-level-of-data-visualization-in-python/</link>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/the-next-level-of-data-visualization-in-python/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>28 Jupyter Notebook tips, tricks, and shortcuts</title>

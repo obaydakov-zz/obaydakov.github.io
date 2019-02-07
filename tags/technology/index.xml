@@ -6,10 +6,19 @@
     <description>Recent content in Technology on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ray is a high-performance distributed execution framework targeted at large-scale machine learning and reinforcement learning applications</title>
+      <link>https://obaydakov.github.io/post/2019/ray-is-a-high-performance-distributed-execution-framework-targeted-at-large-scale-machine-learning-and-reinforcement-learning-applications/</link>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/ray-is-a-high-performance-distributed-execution-framework-targeted-at-large-scale-machine-learning-and-reinforcement-learning-applications/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Developing microservices with Kubernetes and Telepresence</title>
