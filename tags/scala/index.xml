@@ -6,10 +6,28 @@
     <description>Recent content in Scala on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/scala/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Assemble messages from Akka Actors</title>
+      <link>https://obaydakov.github.io/post/2019/assemble-messages-from-akka-actors/</link>
+      <pubDate>Sat, 16 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/assemble-messages-from-akka-actors/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Hacking with akka streams</title>
+      <link>https://obaydakov.github.io/post/2019/hacking-with-akka-streams/</link>
+      <pubDate>Sat, 16 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/hacking-with-akka-streams/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Homepage Setting up a Spark machine learning project with Scala, sbt and MLlib</title>

@@ -6,10 +6,46 @@
     <description>Recent content in Automated Ml on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/automated-ml/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bayesian Tuning and Bandits is a simple, extensible backend for developing auto-tuning systems such as AutoML systems</title>
+      <link>https://obaydakov.github.io/post/2019/bayesian-tuning-and-bandits-is-a-simple-extensible-backend-for-developing-auto-tuning-systems-such-as-automl-systems/</link>
+      <pubDate>Sat, 16 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/bayesian-tuning-and-bandits-is-a-simple-extensible-backend-for-developing-auto-tuning-systems-such-as-automl-systems/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>CI/CD for Machine Learning &amp; AI</title>
+      <link>https://obaydakov.github.io/post/2019/ci-cd-for-machine-learning-ai/</link>
+      <pubDate>Sat, 16 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/ci-cd-for-machine-learning-ai/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Choosing the best AutoML Framework</title>
+      <link>https://obaydakov.github.io/post/2019/choosing-the-best-automl-framework/</link>
+      <pubDate>Sat, 16 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/choosing-the-best-automl-framework/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>How to industrialize machine learning with classic CI/CD on-premise with Docker</title>
+      <link>https://obaydakov.github.io/post/2019/how-to-industrialize-machine-learning-with-classic-ci-cd-on-premise-with-docker/</link>
+      <pubDate>Sat, 16 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/how-to-industrialize-machine-learning-with-classic-ci-cd-on-premise-with-docker/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Enterprise Web Services with Neural Networks Using R and TensorFlow</title>
