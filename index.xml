@@ -6,10 +6,64 @@
     <description>Recent content on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>10 AWS Lambda Use Cases to Start Your Serverless Journey</title>
+      <link>https://obaydakov.github.io/post/2019/10-aws-lambda-use-cases-to-start-your-serverless-journey/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/10-aws-lambda-use-cases-to-start-your-serverless-journey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A bunch of tips and tricks for training deep neural networks</title>
+      <link>https://obaydakov.github.io/post/2019/a-bunch-of-tips-and-tricks-for-training-deep-neural-networks/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/a-bunch-of-tips-and-tricks-for-training-deep-neural-networks/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Feast - Feature Store for Machine Learning</title>
+      <link>https://obaydakov.github.io/post/2019/feast-feature-store-for-machine-learning/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/feast-feature-store-for-machine-learning/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Ludwig is a toolbox that allows to train and test deep learning models without the need to write code (UBER)</title>
+      <link>https://obaydakov.github.io/post/2019/ludwig-is-a-toolbox-that-allows-to-train-and-test-deep-learning-models-without-the-need-to-write-code-uber/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/ludwig-is-a-toolbox-that-allows-to-train-and-test-deep-learning-models-without-the-need-to-write-code-uber/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Putting the Power of Kafka into the Hands of Data Scientists</title>
+      <link>https://obaydakov.github.io/post/2019/putting-the-power-of-kafka-into-the-hands-of-data-scientists/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/putting-the-power-of-kafka-into-the-hands-of-data-scientists/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>echarts4r - visualisation for R</title>
+      <link>https://obaydakov.github.io/post/2019/echarts4r-visualisation-for-r/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/echarts4r-visualisation-for-r/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>28 KEY METRICS TO TRACK PERFORMANCE OF YOUR MOBILE APP</title>

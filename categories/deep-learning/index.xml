@@ -6,10 +6,28 @@
     <description>Recent content in Deep Learning on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A bunch of tips and tricks for training deep neural networks</title>
+      <link>https://obaydakov.github.io/post/2019/a-bunch-of-tips-and-tricks-for-training-deep-neural-networks/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/a-bunch-of-tips-and-tricks-for-training-deep-neural-networks/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Ludwig is a toolbox that allows to train and test deep learning models without the need to write code (UBER)</title>
+      <link>https://obaydakov.github.io/post/2019/ludwig-is-a-toolbox-that-allows-to-train-and-test-deep-learning-models-without-the-need-to-write-code-uber/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/ludwig-is-a-toolbox-that-allows-to-train-and-test-deep-learning-models-without-the-need-to-write-code-uber/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>An open source AutoML toolkit for neural architecture search and hyper-parameter tuning.</title>

@@ -6,10 +6,28 @@
     <description>Recent content in Automated Ml on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/automated-ml/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Feast - Feature Store for Machine Learning</title>
+      <link>https://obaydakov.github.io/post/2019/feast-feature-store-for-machine-learning/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/feast-feature-store-for-machine-learning/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Ludwig is a toolbox that allows to train and test deep learning models without the need to write code (UBER)</title>
+      <link>https://obaydakov.github.io/post/2019/ludwig-is-a-toolbox-that-allows-to-train-and-test-deep-learning-models-without-the-need-to-write-code-uber/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/ludwig-is-a-toolbox-that-allows-to-train-and-test-deep-learning-models-without-the-need-to-write-code-uber/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Bayesian Tuning and Bandits is a simple, extensible backend for developing auto-tuning systems such as AutoML systems</title>

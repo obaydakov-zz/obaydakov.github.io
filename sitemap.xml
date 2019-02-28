@@ -3,6 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://obaydakov.github.io/post/2019/10-aws-lambda-use-cases-to-start-your-serverless-journey/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2019/a-bunch-of-tips-and-tricks-for-training-deep-neural-networks/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2019/feast-feature-store-for-machine-learning/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2019/ludwig-is-a-toolbox-that-allows-to-train-and-test-deep-learning-models-without-the-need-to-write-code-uber/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2019/putting-the-power-of-kafka-into-the-hands-of-data-scientists/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2019/echarts4r-visualisation-for-r/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://obaydakov.github.io/post/2019/28-key-metrics-to-track-performance-of-your-mobile-app/</loc>
     <lastmod>2019-02-16T00:00:00+00:00</lastmod>
   </url>
@@ -6502,7 +6532,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/automated-ml/</loc>
-    <lastmod>2019-02-16T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -6514,7 +6544,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/aws/</loc>
-    <lastmod>2019-02-16T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -6526,7 +6556,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/big-data/</loc>
-    <lastmod>2019-02-07T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -6574,7 +6604,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/deep-learning/</loc>
-    <lastmod>2019-02-07T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -6658,7 +6688,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/kafka/</loc>
-    <lastmod>2018-11-06T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -6682,7 +6712,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/machine-learning/</loc>
-    <lastmod>2019-02-16T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -6730,7 +6760,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/</loc>
-    <lastmod>2019-02-16T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -6742,7 +6772,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/post/</loc>
-    <lastmod>2019-02-16T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -6766,7 +6796,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/r/</loc>
-    <lastmod>2019-02-16T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -6784,7 +6814,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/serverless/</loc>
-    <lastmod>2019-01-29T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -6808,13 +6838,13 @@
   
   <url>
     <loc>https://obaydakov.github.io/tags/theory/</loc>
-    <lastmod>2019-02-16T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/tags/tools/</loc>
-    <lastmod>2019-02-16T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -6832,7 +6862,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/tags/visualization/</loc>
-    <lastmod>2019-02-16T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
