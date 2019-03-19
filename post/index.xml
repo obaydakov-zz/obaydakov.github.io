@@ -6,10 +6,183 @@
     <description>Recent content in Posts on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A curated list of awesome machine learning interpretability resources.</title>
+      <link>https://obaydakov.github.io/post/2019/a-curated-list-of-awesome-machine-learning-interpretability-resources/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/a-curated-list-of-awesome-machine-learning-interpretability-resources/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>A walkthrough of DVC</title>
+      <link>https://obaydakov.github.io/post/2019/a-walkthrough-of-dvc/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/a-walkthrough-of-dvc/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>All the Steps to Build your first Image Classifier (with code)</title>
+      <link>https://obaydakov.github.io/post/2019/all-the-steps-to-build-your-first-image-classifier-with-code/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/all-the-steps-to-build-your-first-image-classifier-with-code/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Build your own Robust Deep Learning Environment in Minutes</title>
+      <link>https://obaydakov.github.io/post/2019/build-your-own-robust-deep-learning-environment-in-minutes/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/build-your-own-robust-deep-learning-environment-in-minutes/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Building a personal deep learning environment with GPU acceleration for computer vision with Docker</title>
+      <link>https://obaydakov.github.io/post/2019/building-a-personal-deep-learning-environment-with-gpu-acceleration-for-computer-vision-with-docker/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/building-a-personal-deep-learning-environment-with-gpu-acceleration-for-computer-vision-with-docker/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Catalyst - High-level utils for PyTorch DL &amp; RL research</title>
+      <link>https://obaydakov.github.io/post/2019/catalyst-high-level-utils-for-pytorch-dl-rl-research/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/catalyst-high-level-utils-for-pytorch-dl-rl-research/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Clipper is a low-latency prediction serving system for machine learning.</title>
+      <link>https://obaydakov.github.io/post/2019/clipper-is-a-low-latency-prediction-serving-system-for-machine-learning/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/clipper-is-a-low-latency-prediction-serving-system-for-machine-learning/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning Monitor</title>
+      <link>https://obaydakov.github.io/post/2019/deep-learning-monitor/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/deep-learning-monitor/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Exploring Neural Networks with Activation Atlases</title>
+      <link>https://obaydakov.github.io/post/2019/exploring-neural-networks-with-activation-atlases/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/exploring-neural-networks-with-activation-atlases/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>How to Make a Simple Application with Akka Cluster</title>
+      <link>https://obaydakov.github.io/post/2019/how-to-make-a-simple-application-with-akka-cluster/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/how-to-make-a-simple-application-with-akka-cluster/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>How to train a TensorFlow Object Detection Classifier for multiple object detection on Windows</title>
+      <link>https://obaydakov.github.io/post/2019/how-to-train-a-tensorflow-object-detection-classifier-for-multiple-object-detection-on-windows/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/how-to-train-a-tensorflow-object-detection-classifier-for-multiple-object-detection-on-windows/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Licence Plate Recognition Keras</title>
+      <link>https://obaydakov.github.io/post/2019/licence-plate-recognition-keras/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/licence-plate-recognition-keras/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>MiniKF: a fast and easy way to deploy Kubeflow on your laptop</title>
+      <link>https://obaydakov.github.io/post/2019/minikf-a-fast-and-easy-way-to-deploy-kubeflow-on-your-laptop/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/minikf-a-fast-and-easy-way-to-deploy-kubeflow-on-your-laptop/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>PlantUML in a nutshell</title>
+      <link>https://obaydakov.github.io/post/2019/plantuml-in-a-nutshell/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/plantuml-in-a-nutshell/</guid>
+      <description>Link
+object-diagram
+starting</description>
+    </item>
+    
+    <item>
+      <title>PySpark Applications for Databricks</title>
+      <link>https://obaydakov.github.io/post/2019/pyspark-applications-for-databricks/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/pyspark-applications-for-databricks/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Run Remote R Scripts with Mobile Device using E-mail Triggers</title>
+      <link>https://obaydakov.github.io/post/2019/run-remote-r-scripts-with-mobile-device-using-e-mail-triggers/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/run-remote-r-scripts-with-mobile-device-using-e-mail-triggers/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Snorkel - A system for quickly generating training data with weak supervision </title>
+      <link>https://obaydakov.github.io/post/2019/snorkel-a-system-for-quickly-generating-training-data-with-weak-supervision/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/snorkel-a-system-for-quickly-generating-training-data-with-weak-supervision/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Taking Data Visualization to Another Level</title>
+      <link>https://obaydakov.github.io/post/2019/taking-data-visualization-to-another-level/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/taking-data-visualization-to-another-level/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>dict2uml</title>
+      <link>https://obaydakov.github.io/post/2019/dict2uml/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/dict2uml/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Real-time scoring of R machine learning models</title>

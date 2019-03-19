@@ -6,10 +6,37 @@
     <description>Recent content in Automated Ml on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/automated-ml/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A walkthrough of DVC</title>
+      <link>https://obaydakov.github.io/post/2019/a-walkthrough-of-dvc/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/a-walkthrough-of-dvc/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Clipper is a low-latency prediction serving system for machine learning.</title>
+      <link>https://obaydakov.github.io/post/2019/clipper-is-a-low-latency-prediction-serving-system-for-machine-learning/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/clipper-is-a-low-latency-prediction-serving-system-for-machine-learning/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Snorkel - A system for quickly generating training data with weak supervision </title>
+      <link>https://obaydakov.github.io/post/2019/snorkel-a-system-for-quickly-generating-training-data-with-weak-supervision/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/snorkel-a-system-for-quickly-generating-training-data-with-weak-supervision/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Real-time scoring of R machine learning models</title>

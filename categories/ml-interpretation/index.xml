@@ -6,10 +6,19 @@
     <description>Recent content in Ml Interpretation on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/ml-interpretation/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A curated list of awesome machine learning interpretability resources.</title>
+      <link>https://obaydakov.github.io/post/2019/a-curated-list-of-awesome-machine-learning-interpretability-resources/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/a-curated-list-of-awesome-machine-learning-interpretability-resources/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>A unified approach to explain the output of any machine learning model.</title>

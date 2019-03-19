@@ -6,10 +6,48 @@
     <description>Recent content in Visualization on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/visualization/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Exploring Neural Networks with Activation Atlases</title>
+      <link>https://obaydakov.github.io/post/2019/exploring-neural-networks-with-activation-atlases/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/exploring-neural-networks-with-activation-atlases/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>PlantUML in a nutshell</title>
+      <link>https://obaydakov.github.io/post/2019/plantuml-in-a-nutshell/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/plantuml-in-a-nutshell/</guid>
+      <description>Link
+object-diagram
+starting</description>
+    </item>
+    
+    <item>
+      <title>Taking Data Visualization to Another Level</title>
+      <link>https://obaydakov.github.io/post/2019/taking-data-visualization-to-another-level/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/taking-data-visualization-to-another-level/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>dict2uml</title>
+      <link>https://obaydakov.github.io/post/2019/dict2uml/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/dict2uml/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>echarts4r - visualisation for R</title>

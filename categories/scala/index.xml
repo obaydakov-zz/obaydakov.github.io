@@ -6,10 +6,19 @@
     <description>Recent content in Scala on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/scala/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to Make a Simple Application with Akka Cluster</title>
+      <link>https://obaydakov.github.io/post/2019/how-to-make-a-simple-application-with-akka-cluster/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/how-to-make-a-simple-application-with-akka-cluster/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Assemble messages from Akka Actors</title>
