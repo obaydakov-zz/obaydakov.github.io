@@ -6,10 +6,37 @@
     <description>Recent content in R on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/r/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Quick Draw Doodle Recognition: как подружить R, C&#43;&#43; и нейросетки</title>
+      <link>https://obaydakov.github.io/post/2019/quick-draw-doodle-recognition-%D0%BA%D0%B0%D0%BA-%D0%BF%D0%BE%D0%B4%D1%80%D1%83%D0%B6%D0%B8%D1%82%D1%8C-r-c-%D0%B8-%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%D1%81%D0%B5%D1%82%D0%BA%D0%B8/</link>
+      <pubDate>Tue, 26 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/quick-draw-doodle-recognition-%D0%BA%D0%B0%D0%BA-%D0%BF%D0%BE%D0%B4%D1%80%D1%83%D0%B6%D0%B8%D1%82%D1%8C-r-c-%D0%B8-%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%D1%81%D0%B5%D1%82%D0%BA%D0%B8/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>sparklyr 1.0: Apache Arrow, XGBoost, Broom and TFRecords</title>
+      <link>https://obaydakov.github.io/post/2019/sparklyr-1-0-apache-arrow-xgboost-broom-and-tfrecords/</link>
+      <pubDate>Tue, 26 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/sparklyr-1-0-apache-arrow-xgboost-broom-and-tfrecords/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>sparktf is a sparklyr extension that allows writing of Spark DataFrames to TFRecord</title>
+      <link>https://obaydakov.github.io/post/2019/sparktf-is-a-sparklyr-extension-that-allows-writing-of-spark-dataframes-to-tfrecord/</link>
+      <pubDate>Tue, 26 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/sparktf-is-a-sparklyr-extension-that-allows-writing-of-spark-dataframes-to-tfrecord/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Real-time scoring of R machine learning models</title>

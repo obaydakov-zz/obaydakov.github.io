@@ -6,10 +6,55 @@
     <description>Recent content in Technology on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Building a Toy Detector with Tensorflow Object Detection API</title>
+      <link>https://obaydakov.github.io/post/2019/building-a-toy-detector-with-tensorflow-object-detection-api/</link>
+      <pubDate>Tue, 26 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/building-a-toy-detector-with-tensorflow-object-detection-api/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Checklist for debugging neural networks</title>
+      <link>https://obaydakov.github.io/post/2019/checklist-for-debugging-neural-networks/</link>
+      <pubDate>Tue, 26 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/checklist-for-debugging-neural-networks/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>How to Train practically any Model from practically any Data with TensorFlow</title>
+      <link>https://obaydakov.github.io/post/2019/how-to-train-practically-any-model-from-practically-any-data-with-tensorflow/</link>
+      <pubDate>Tue, 26 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/how-to-train-practically-any-model-from-practically-any-data-with-tensorflow/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Light on Math ML: Attention in Deep Networks with Keras</title>
+      <link>https://obaydakov.github.io/post/2019/light-on-math-ml-attention-in-deep-networks-with-keras/</link>
+      <pubDate>Tue, 26 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/light-on-math-ml-attention-in-deep-networks-with-keras/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Tensorflow detection model zoo</title>
+      <link>https://obaydakov.github.io/post/2019/tensorflow-detection-model-zoo/</link>
+      <pubDate>Tue, 26 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/tensorflow-detection-model-zoo/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>A walkthrough of DVC</title>

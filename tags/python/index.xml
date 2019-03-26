@@ -6,10 +6,19 @@
     <description>Recent content in Python on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Face Detection Docker Solution Using Faster R-CNN</title>
+      <link>https://obaydakov.github.io/post/2019/face-detection-docker-solution-using-faster-r-cnn/</link>
+      <pubDate>Tue, 26 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/face-detection-docker-solution-using-faster-r-cnn/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>A unified approach to explain the output of any machine learning model.</title>
