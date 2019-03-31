@@ -6,10 +6,46 @@
     <description>Recent content in Python on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Beer Gardern - A powerful plugin framework for converting your functions into composable, discoverable, production-ready services with minimal overhead.</title>
+      <link>https://obaydakov.github.io/post/2019/beer-gardern-a-powerful-plugin-framework-for-converting-your-functions-into-composable-discoverable-production-ready-services-with-minimal-overhead/</link>
+      <pubDate>Sun, 31 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/beer-gardern-a-powerful-plugin-framework-for-converting-your-functions-into-composable-discoverable-production-ready-services-with-minimal-overhead/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Deploying Keras Deep Learning Models with Flask</title>
+      <link>https://obaydakov.github.io/post/2019/deploying-keras-deep-learning-models-with-flask/</link>
+      <pubDate>Sun, 31 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/deploying-keras-deep-learning-models-with-flask/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>How to Load and Manipulate Images for Deep Learning in Python With PIL/Pillow</title>
+      <link>https://obaydakov.github.io/post/2019/how-to-load-and-manipulate-images-for-deep-learning-in-python-with-pil-pillow/</link>
+      <pubDate>Sun, 31 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/how-to-load-and-manipulate-images-for-deep-learning-in-python-with-pil-pillow/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Introducing Plotly Express</title>
+      <link>https://obaydakov.github.io/post/2019/introducing-plotly-express/</link>
+      <pubDate>Sun, 31 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/introducing-plotly-express/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Face Detection Docker Solution Using Faster R-CNN</title>
