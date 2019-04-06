@@ -6,10 +6,19 @@
     <description>Recent content in Kafka on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/kafka/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Solutions to Communication Problems in Microservices using Apache Kafka and Kafka Lens</title>
+      <link>https://obaydakov.github.io/post/2019/solutions-to-communication-problems-in-microservices-using-apache-kafka-and-kafka-lens/</link>
+      <pubDate>Sat, 06 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/solutions-to-communication-problems-in-microservices-using-apache-kafka-and-kafka-lens/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Putting the Power of Kafka into the Hands of Data Scientists</title>

@@ -3,6 +3,106 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://obaydakov.github.io/post/2019/aetos-is-a-mobile-application-for-monitoring-the-health-performance-of-gke-kubernetes-clusters/</loc>
+    <lastmod>2019-04-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2019/building-a-real-time-quant-trading-engine-on-google-cloud-dataflow-and-apache-beam/</loc>
+    <lastmod>2019-04-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2019/distributing-a-python-command-line-application/</loc>
+    <lastmod>2019-04-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2019/fastapi-framework-high-performance-easy-to-learn-fast-to-code-ready-for-production/</loc>
+    <lastmod>2019-04-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2019/frameworks-for-machine-learning-model-management/</loc>
+    <lastmod>2019-04-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2019/interpretable-machine-learning-with-python/</loc>
+    <lastmod>2019-04-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2019/optimizing-bigquery-cluster-your-tables/</loc>
+    <lastmod>2019-04-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2019/realtime-prediction-using-spark-structured-streaming-xgboost-and-scala/</loc>
+    <lastmod>2019-04-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2019/so-you-want-to-deploy-multiple-containers-running-different-r-models/</loc>
+    <lastmod>2019-04-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2019/solutions-to-communication-problems-in-microservices-using-apache-kafka-and-kafka-lens/</loc>
+    <lastmod>2019-04-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2019/training-deep-neural-networks-on-a-gpu-with-pytorch/</loc>
+    <lastmod>2019-04-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2019/https-medium-com-google-cloud-building-a-real-time-quant-trading-engine-on-google-cloud-dataflow-and-apache-beam-841a909d2c12/</loc>
+    <lastmod>2019-04-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2019/building-your-own-mturk-style-app-in-r-using-shiny-flexdashboard/</loc>
+    <lastmod>2019-04-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2019/computer-vision-tutorial-a-step-by-step-introduction-to-image-segmentation-techniques/</loc>
+    <lastmod>2019-04-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2019/deep-learning-with-apache-spark/</loc>
+    <lastmod>2019-04-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2019/get-faster-pandas-with-modin-even-on-your-laptops/</loc>
+    <lastmod>2019-04-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2019/getting-started-with-google-colab/</loc>
+    <lastmod>2019-04-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2019/how-to-train-a-tensorflow-object-detection-classifier-for-multiple-object-detection-on-windows/</loc>
+    <lastmod>2019-04-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2019/quick-guide-to-run-your-python-scripts-on-google-colaboratory/</loc>
+    <lastmod>2019-04-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2019/r-linkedcharts-is-a-powerful-novel-way-to-perform-exploratory-data-analysis-in-r/</loc>
+    <lastmod>2019-04-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://obaydakov.github.io/post/2019/beer-gardern-a-powerful-plugin-framework-for-converting-your-functions-into-composable-discoverable-production-ready-services-with-minimal-overhead/</loc>
     <lastmod>2019-03-31T00:00:00+00:00</lastmod>
   </url>
@@ -6747,7 +6847,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/automated-ml/</loc>
-    <lastmod>2019-03-31T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -6819,13 +6919,13 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/deep-learning/</loc>
-    <lastmod>2019-03-31T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/tags/docker/</loc>
-    <lastmod>2019-03-26T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -6843,7 +6943,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/gcp/</loc>
-    <lastmod>2018-08-03T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -6903,7 +7003,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/kafka/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -6915,7 +7015,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/kubernetes/</loc>
-    <lastmod>2019-03-19T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -6927,7 +7027,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/machine-learning/</loc>
-    <lastmod>2019-03-31T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -6957,7 +7057,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/ml-interpretation/</loc>
-    <lastmod>2019-03-19T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -6975,7 +7075,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/</loc>
-    <lastmod>2019-03-31T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -6987,19 +7087,19 @@
   
   <url>
     <loc>https://obaydakov.github.io/post/</loc>
-    <lastmod>2019-03-31T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/tags/python/</loc>
-    <lastmod>2019-03-31T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/categories/python/</loc>
-    <lastmod>2019-03-31T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -7011,19 +7111,19 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/r/</loc>
-    <lastmod>2019-03-31T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/tags/scala/</loc>
-    <lastmod>2019-03-26T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/categories/scala/</loc>
-    <lastmod>2019-03-26T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -7035,7 +7135,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/spark/</loc>
-    <lastmod>2019-03-19T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -7047,7 +7147,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/tags/technology/</loc>
-    <lastmod>2019-03-31T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -7077,7 +7177,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/tags/visualization/</loc>
-    <lastmod>2019-03-31T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

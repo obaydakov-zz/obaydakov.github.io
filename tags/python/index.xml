@@ -6,10 +6,46 @@
     <description>Recent content in Python on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Distributing a Python command line application</title>
+      <link>https://obaydakov.github.io/post/2019/distributing-a-python-command-line-application/</link>
+      <pubDate>Sat, 06 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/distributing-a-python-command-line-application/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>FastAPI framework, high performance, easy to learn, fast to code, ready for production</title>
+      <link>https://obaydakov.github.io/post/2019/fastapi-framework-high-performance-easy-to-learn-fast-to-code-ready-for-production/</link>
+      <pubDate>Sat, 06 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/fastapi-framework-high-performance-easy-to-learn-fast-to-code-ready-for-production/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>https://medium.com/google-cloud/building-a-real-time-quant-trading-engine-on-google-cloud-dataflow-and-apache-beam-841a909d2c12</title>
+      <link>https://obaydakov.github.io/post/2019/https-medium-com-google-cloud-building-a-real-time-quant-trading-engine-on-google-cloud-dataflow-and-apache-beam-841a909d2c12/</link>
+      <pubDate>Sat, 06 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/https-medium-com-google-cloud-building-a-real-time-quant-trading-engine-on-google-cloud-dataflow-and-apache-beam-841a909d2c12/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Get faster pandas with Modin, even on your laptops.</title>
+      <link>https://obaydakov.github.io/post/2019/get-faster-pandas-with-modin-even-on-your-laptops/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/get-faster-pandas-with-modin-even-on-your-laptops/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Beer Gardern - A powerful plugin framework for converting your functions into composable, discoverable, production-ready services with minimal overhead.</title>

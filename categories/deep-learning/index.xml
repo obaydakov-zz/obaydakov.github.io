@@ -6,10 +6,73 @@
     <description>Recent content in Deep Learning on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Training Deep Neural Networks on a GPU with PyTorch</title>
+      <link>https://obaydakov.github.io/post/2019/training-deep-neural-networks-on-a-gpu-with-pytorch/</link>
+      <pubDate>Sat, 06 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/training-deep-neural-networks-on-a-gpu-with-pytorch/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>https://medium.com/google-cloud/building-a-real-time-quant-trading-engine-on-google-cloud-dataflow-and-apache-beam-841a909d2c12</title>
+      <link>https://obaydakov.github.io/post/2019/https-medium-com-google-cloud-building-a-real-time-quant-trading-engine-on-google-cloud-dataflow-and-apache-beam-841a909d2c12/</link>
+      <pubDate>Sat, 06 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/https-medium-com-google-cloud-building-a-real-time-quant-trading-engine-on-google-cloud-dataflow-and-apache-beam-841a909d2c12/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Computer Vision Tutorial: A Step-by-Step Introduction to Image Segmentation Techniques</title>
+      <link>https://obaydakov.github.io/post/2019/computer-vision-tutorial-a-step-by-step-introduction-to-image-segmentation-techniques/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/computer-vision-tutorial-a-step-by-step-introduction-to-image-segmentation-techniques/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning With Apache Spark</title>
+      <link>https://obaydakov.github.io/post/2019/deep-learning-with-apache-spark/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/deep-learning-with-apache-spark/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Getting Started With Google Colab</title>
+      <link>https://obaydakov.github.io/post/2019/getting-started-with-google-colab/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/getting-started-with-google-colab/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>How to train a TensorFlow Object Detection Classifier for multiple object detection on Windows</title>
+      <link>https://obaydakov.github.io/post/2019/how-to-train-a-tensorflow-object-detection-classifier-for-multiple-object-detection-on-windows/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/how-to-train-a-tensorflow-object-detection-classifier-for-multiple-object-detection-on-windows/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Quick Guide to Run your Python Scripts on Google Colaboratory</title>
+      <link>https://obaydakov.github.io/post/2019/quick-guide-to-run-your-python-scripts-on-google-colaboratory/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/quick-guide-to-run-your-python-scripts-on-google-colaboratory/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Deploying Keras Deep Learning Models with Flask</title>

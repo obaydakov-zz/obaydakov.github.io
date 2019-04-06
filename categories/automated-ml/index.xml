@@ -6,10 +6,19 @@
     <description>Recent content in Automated Ml on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/automated-ml/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Frameworks for Machine Learning Model Management</title>
+      <link>https://obaydakov.github.io/post/2019/frameworks-for-machine-learning-model-management/</link>
+      <pubDate>Sat, 06 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/frameworks-for-machine-learning-model-management/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>How to rapidly test dozens of deep learning models in Python</title>

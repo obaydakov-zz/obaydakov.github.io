@@ -6,10 +6,118 @@
     <description>Recent content in Technology on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Aetos is a mobile application for monitoring the health &amp; performance of GKE Kubernetes clusters.</title>
+      <link>https://obaydakov.github.io/post/2019/aetos-is-a-mobile-application-for-monitoring-the-health-performance-of-gke-kubernetes-clusters/</link>
+      <pubDate>Sat, 06 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/aetos-is-a-mobile-application-for-monitoring-the-health-performance-of-gke-kubernetes-clusters/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Building a real time quant trading engine on Google Cloud Dataflow and Apache Beam</title>
+      <link>https://obaydakov.github.io/post/2019/building-a-real-time-quant-trading-engine-on-google-cloud-dataflow-and-apache-beam/</link>
+      <pubDate>Sat, 06 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/building-a-real-time-quant-trading-engine-on-google-cloud-dataflow-and-apache-beam/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Frameworks for Machine Learning Model Management</title>
+      <link>https://obaydakov.github.io/post/2019/frameworks-for-machine-learning-model-management/</link>
+      <pubDate>Sat, 06 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/frameworks-for-machine-learning-model-management/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Interpretable Machine Learning with Python</title>
+      <link>https://obaydakov.github.io/post/2019/interpretable-machine-learning-with-python/</link>
+      <pubDate>Sat, 06 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/interpretable-machine-learning-with-python/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Optimizing BigQuery: Cluster your tables</title>
+      <link>https://obaydakov.github.io/post/2019/optimizing-bigquery-cluster-your-tables/</link>
+      <pubDate>Sat, 06 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/optimizing-bigquery-cluster-your-tables/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Solutions to Communication Problems in Microservices using Apache Kafka and Kafka Lens</title>
+      <link>https://obaydakov.github.io/post/2019/solutions-to-communication-problems-in-microservices-using-apache-kafka-and-kafka-lens/</link>
+      <pubDate>Sat, 06 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/solutions-to-communication-problems-in-microservices-using-apache-kafka-and-kafka-lens/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Training Deep Neural Networks on a GPU with PyTorch</title>
+      <link>https://obaydakov.github.io/post/2019/training-deep-neural-networks-on-a-gpu-with-pytorch/</link>
+      <pubDate>Sat, 06 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/training-deep-neural-networks-on-a-gpu-with-pytorch/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Computer Vision Tutorial: A Step-by-Step Introduction to Image Segmentation Techniques</title>
+      <link>https://obaydakov.github.io/post/2019/computer-vision-tutorial-a-step-by-step-introduction-to-image-segmentation-techniques/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/computer-vision-tutorial-a-step-by-step-introduction-to-image-segmentation-techniques/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning With Apache Spark</title>
+      <link>https://obaydakov.github.io/post/2019/deep-learning-with-apache-spark/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/deep-learning-with-apache-spark/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Getting Started With Google Colab</title>
+      <link>https://obaydakov.github.io/post/2019/getting-started-with-google-colab/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/getting-started-with-google-colab/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>How to train a TensorFlow Object Detection Classifier for multiple object detection on Windows</title>
+      <link>https://obaydakov.github.io/post/2019/how-to-train-a-tensorflow-object-detection-classifier-for-multiple-object-detection-on-windows/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/how-to-train-a-tensorflow-object-detection-classifier-for-multiple-object-detection-on-windows/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Quick Guide to Run your Python Scripts on Google Colaboratory</title>
+      <link>https://obaydakov.github.io/post/2019/quick-guide-to-run-your-python-scripts-on-google-colaboratory/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/quick-guide-to-run-your-python-scripts-on-google-colaboratory/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>How to rapidly test dozens of deep learning models in Python</title>
