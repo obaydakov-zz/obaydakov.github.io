@@ -32,7 +32,7 @@
     <item>
       <title>Automated Ml</title>
       <link>https://obaydakov.github.io/categories/automated-ml/</link>
-      <pubDate>Sat, 06 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/categories/automated-ml/</guid>
       <description></description>
@@ -50,7 +50,7 @@
     <item>
       <title>Aws</title>
       <link>https://obaydakov.github.io/categories/aws/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/categories/aws/</guid>
       <description></description>
@@ -104,7 +104,7 @@
     <item>
       <title>Deep Learning</title>
       <link>https://obaydakov.github.io/categories/deep-learning/</link>
-      <pubDate>Sat, 06 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/categories/deep-learning/</guid>
       <description></description>
@@ -194,7 +194,7 @@
     <item>
       <title>Machine Learning</title>
       <link>https://obaydakov.github.io/categories/machine-learning/</link>
-      <pubDate>Sat, 06 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/categories/machine-learning/</guid>
       <description></description>
@@ -221,7 +221,7 @@
     <item>
       <title>Ml Interpretation</title>
       <link>https://obaydakov.github.io/categories/ml-interpretation/</link>
-      <pubDate>Sat, 06 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/categories/ml-interpretation/</guid>
       <description></description>
@@ -248,7 +248,7 @@
     <item>
       <title>Python</title>
       <link>https://obaydakov.github.io/categories/python/</link>
-      <pubDate>Sat, 06 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/categories/python/</guid>
       <description></description>
@@ -257,16 +257,25 @@
     <item>
       <title>R</title>
       <link>https://obaydakov.github.io/categories/r/</link>
-      <pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/categories/r/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Reinforcement Learning</title>
+      <link>https://obaydakov.github.io/categories/reinforcement-learning/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/categories/reinforcement-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Scala</title>
       <link>https://obaydakov.github.io/categories/scala/</link>
-      <pubDate>Sat, 06 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/categories/scala/</guid>
       <description></description>
@@ -284,7 +293,7 @@
     <item>
       <title>Spark</title>
       <link>https://obaydakov.github.io/categories/spark/</link>
-      <pubDate>Sat, 06 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/categories/spark/</guid>
       <description></description>

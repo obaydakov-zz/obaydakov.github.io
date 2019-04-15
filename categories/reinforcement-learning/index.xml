@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reinforcement Learning on Oleg Baydakov</title>
+    <link>https://obaydakov.github.io/categories/reinforcement-learning/</link>
+    <description>Recent content in Reinforcement Learning on Oleg Baydakov</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://obaydakov.github.io/categories/reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How I built an AI to play Dino Run</title>
+      <link>https://obaydakov.github.io/post/2019/how-i-built-an-ai-to-play-dino-run/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/how-i-built-an-ai-to-play-dino-run/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>How to teach AI to play Games: Deep Reinforcement Learning</title>
+      <link>https://obaydakov.github.io/post/2019/how-to-teach-ai-to-play-games-deep-reinforcement-learning/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/how-to-teach-ai-to-play-games-deep-reinforcement-learning/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Paper Collection of Multi-Agent Reinforcement Learning </title>
+      <link>https://obaydakov.github.io/post/2019/paper-collection-of-multi-agent-reinforcement-learning/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/paper-collection-of-multi-agent-reinforcement-learning/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Using Keras and Deep Q-Network to Play FlappyBird</title>
+      <link>https://obaydakov.github.io/post/2019/using-keras-and-deep-q-network-to-play-flappybird/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/using-keras-and-deep-q-network-to-play-flappybird/</guid>
+      <description>Link</description>
+    </item>
+    
+  </channel>
+</rss>

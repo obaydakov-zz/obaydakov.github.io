@@ -6,10 +6,37 @@
     <description>Recent content in Scala on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/scala/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Deep Learning with DL4J on Apache Spark</title>
+      <link>https://obaydakov.github.io/post/2019/deep-learning-with-dl4j-on-apache-spark/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/deep-learning-with-dl4j-on-apache-spark/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Evolving Streaming Applications</title>
+      <link>https://obaydakov.github.io/post/2019/evolving-streaming-applications/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/evolving-streaming-applications/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Scalable Log Analytics with Apache Spark—A Comprehensive Case-Study</title>
+      <link>https://obaydakov.github.io/post/2019/scalable-log-analytics-with-apache-spark-a-comprehensive-case-study/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/scalable-log-analytics-with-apache-spark-a-comprehensive-case-study/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Realtime prediction using Spark Structured Streaming, XGBoost and Scala</title>

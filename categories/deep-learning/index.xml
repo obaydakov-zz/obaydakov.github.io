@@ -6,10 +6,46 @@
     <description>Recent content in Deep Learning on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A guide to Face Detection in Python</title>
+      <link>https://obaydakov.github.io/post/2019/a-guide-to-face-detection-in-python/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/a-guide-to-face-detection-in-python/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning with DL4J on Apache Spark</title>
+      <link>https://obaydakov.github.io/post/2019/deep-learning-with-dl4j-on-apache-spark/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/deep-learning-with-dl4j-on-apache-spark/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Getting started with AWS Deep Learning by training Convolutional Neural Network to predict Images on CIFAR10 dataset</title>
+      <link>https://obaydakov.github.io/post/getting-started-with-aws-deep-learning-by-training-convolutional-neural-network-to-predict-images-on-cifar10-dataset/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/getting-started-with-aws-deep-learning-by-training-convolutional-neural-network-to-predict-images-on-cifar10-dataset/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>How to easily do Object Detection on Drone Imagery using Deep learning</title>
+      <link>https://obaydakov.github.io/post/2019/how-to-easily-do-object-detection-on-drone-imagery-using-deep-learning/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/how-to-easily-do-object-detection-on-drone-imagery-using-deep-learning/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Training Deep Neural Networks on a GPU with PyTorch</title>

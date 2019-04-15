@@ -6,10 +6,19 @@
     <description>Recent content in Technology on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Architecting a Machine Learning Pipeline</title>
+      <link>https://obaydakov.github.io/post/2019/architecting-a-machine-learning-pipeline/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/architecting-a-machine-learning-pipeline/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Aetos is a mobile application for monitoring the health &amp; performance of GKE Kubernetes clusters.</title>

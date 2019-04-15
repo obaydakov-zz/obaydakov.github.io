@@ -6,10 +6,146 @@
     <description>Recent content on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A guide to Face Detection in Python</title>
+      <link>https://obaydakov.github.io/post/2019/a-guide-to-face-detection-in-python/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/a-guide-to-face-detection-in-python/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Architecting a Machine Learning Pipeline</title>
+      <link>https://obaydakov.github.io/post/2019/architecting-a-machine-learning-pipeline/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/architecting-a-machine-learning-pipeline/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Comprehensive Python Cheatsheet</title>
+      <link>https://obaydakov.github.io/post/2019/comprehensive-python-cheatsheet/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/comprehensive-python-cheatsheet/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning with DL4J on Apache Spark</title>
+      <link>https://obaydakov.github.io/post/2019/deep-learning-with-dl4j-on-apache-spark/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/deep-learning-with-dl4j-on-apache-spark/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Evolving Streaming Applications</title>
+      <link>https://obaydakov.github.io/post/2019/evolving-streaming-applications/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/evolving-streaming-applications/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Getting started with AWS Deep Learning by training Convolutional Neural Network to predict Images on CIFAR10 dataset</title>
+      <link>https://obaydakov.github.io/post/getting-started-with-aws-deep-learning-by-training-convolutional-neural-network-to-predict-images-on-cifar10-dataset/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/getting-started-with-aws-deep-learning-by-training-convolutional-neural-network-to-predict-images-on-cifar10-dataset/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>How I built an AI to play Dino Run</title>
+      <link>https://obaydakov.github.io/post/2019/how-i-built-an-ai-to-play-dino-run/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/how-i-built-an-ai-to-play-dino-run/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>How to easily do Object Detection on Drone Imagery using Deep learning</title>
+      <link>https://obaydakov.github.io/post/2019/how-to-easily-do-object-detection-on-drone-imagery-using-deep-learning/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/how-to-easily-do-object-detection-on-drone-imagery-using-deep-learning/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>How to teach AI to play Games: Deep Reinforcement Learning</title>
+      <link>https://obaydakov.github.io/post/2019/how-to-teach-ai-to-play-games-deep-reinforcement-learning/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/how-to-teach-ai-to-play-games-deep-reinforcement-learning/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Paper Collection of Multi-Agent Reinforcement Learning </title>
+      <link>https://obaydakov.github.io/post/2019/paper-collection-of-multi-agent-reinforcement-learning/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/paper-collection-of-multi-agent-reinforcement-learning/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Practical techniques for interpreting machine learning models.</title>
+      <link>https://obaydakov.github.io/post/2019/practical-techniques-for-interpreting-machine-learning-models/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/practical-techniques-for-interpreting-machine-learning-models/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Scalable Log Analytics with Apache Spark—A Comprehensive Case-Study</title>
+      <link>https://obaydakov.github.io/post/2019/scalable-log-analytics-with-apache-spark-a-comprehensive-case-study/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/scalable-log-analytics-with-apache-spark-a-comprehensive-case-study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>So you want to deploy multiple containers running different R models?</title>
+      <link>https://obaydakov.github.io/post/so-you-want-to-deploy-multiple-containers-running-different-r-models/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/so-you-want-to-deploy-multiple-containers-running-different-r-models/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Using Keras and Deep Q-Network to Play FlappyBird</title>
+      <link>https://obaydakov.github.io/post/2019/using-keras-and-deep-q-network-to-play-flappybird/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/using-keras-and-deep-q-network-to-play-flappybird/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>utomated machine learning platform With mljar anyone can train great machine learning models</title>
+      <link>https://obaydakov.github.io/post/2019/utomated-machine-learning-platform-with-mljar-anyone-can-train-great-machine-learning-models/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/utomated-machine-learning-platform-with-mljar-anyone-can-train-great-machine-learning-models/</guid>
+      <description>Link
+Example</description>
+    </item>
     
     <item>
       <title>Aetos is a mobile application for monitoring the health &amp; performance of GKE Kubernetes clusters.</title>

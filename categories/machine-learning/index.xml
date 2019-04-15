@@ -6,10 +6,47 @@
     <description>Recent content in Machine Learning on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Architecting a Machine Learning Pipeline</title>
+      <link>https://obaydakov.github.io/post/2019/architecting-a-machine-learning-pipeline/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/architecting-a-machine-learning-pipeline/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>How to easily do Object Detection on Drone Imagery using Deep learning</title>
+      <link>https://obaydakov.github.io/post/2019/how-to-easily-do-object-detection-on-drone-imagery-using-deep-learning/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/how-to-easily-do-object-detection-on-drone-imagery-using-deep-learning/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Practical techniques for interpreting machine learning models.</title>
+      <link>https://obaydakov.github.io/post/2019/practical-techniques-for-interpreting-machine-learning-models/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/practical-techniques-for-interpreting-machine-learning-models/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>utomated machine learning platform With mljar anyone can train great machine learning models</title>
+      <link>https://obaydakov.github.io/post/2019/utomated-machine-learning-platform-with-mljar-anyone-can-train-great-machine-learning-models/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/utomated-machine-learning-platform-with-mljar-anyone-can-train-great-machine-learning-models/</guid>
+      <description>Link
+Example</description>
+    </item>
     
     <item>
       <title>Frameworks for Machine Learning Model Management</title>
