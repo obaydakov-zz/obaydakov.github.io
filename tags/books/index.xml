@@ -6,10 +6,28 @@
     <description>Recent content in Books on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/books/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Anomaly detection related books, papers, videos, and toolboxes</title>
+      <link>https://obaydakov.github.io/post/2019/anomaly-detection-related-books-papers-videos-and-toolboxes/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/anomaly-detection-related-books-papers-videos-and-toolboxes/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning &amp; Big Data</title>
+      <link>https://obaydakov.github.io/post/2019/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Interpretable Machine Learning</title>

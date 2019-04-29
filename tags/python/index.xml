@@ -6,10 +6,64 @@
     <description>Recent content in Python on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Awesome TS anomaly detection</title>
+      <link>https://obaydakov.github.io/post/2019/awesome-ts-anomaly-detection/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/awesome-ts-anomaly-detection/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Build your own Robust Deep Learning Environment in Minutes</title>
+      <link>https://obaydakov.github.io/post/2019/build-your-own-robust-deep-learning-environment-in-minutes/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/build-your-own-robust-deep-learning-environment-in-minutes/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Building a Feature Platform to Scale Machine Learning at GO-JEK by Will Pienaar</title>
+      <link>https://obaydakov.github.io/post/2019/building-a-feature-platform-to-scale-machine-learning-at-go-jek-by-will-pienaar/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/building-a-feature-platform-to-scale-machine-learning-at-go-jek-by-will-pienaar/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning in Production: Sentiment Analysis with the Transformer Model</title>
+      <link>https://obaydakov.github.io/post/2019/deep-learning-in-production-sentiment-analysis-with-the-transformer-model/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/deep-learning-in-production-sentiment-analysis-with-the-transformer-model/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Publishing Machine Learning API with Python Flask</title>
+      <link>https://obaydakov.github.io/post/2019/publishing-machine-learning-api-with-python-flask/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/publishing-machine-learning-api-with-python-flask/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>automl-gs</title>
+      <link>https://obaydakov.github.io/post/2019/automl-gs/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/automl-gs/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>A guide to Face Detection in Python</title>

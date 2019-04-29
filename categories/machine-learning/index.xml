@@ -6,10 +6,73 @@
     <description>Recent content in Machine Learning on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A template for data journalism in R</title>
+      <link>https://obaydakov.github.io/post/2019/a-template-for-data-journalism-in-r/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/a-template-for-data-journalism-in-r/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Anomaly detection related books, papers, videos, and toolboxes</title>
+      <link>https://obaydakov.github.io/post/2019/anomaly-detection-related-books-papers-videos-and-toolboxes/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/anomaly-detection-related-books-papers-videos-and-toolboxes/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Awesome TS anomaly detection</title>
+      <link>https://obaydakov.github.io/post/2019/awesome-ts-anomaly-detection/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/awesome-ts-anomaly-detection/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning &amp; Big Data</title>
+      <link>https://obaydakov.github.io/post/2019/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning in Production: Sentiment Analysis with the Transformer Model</title>
+      <link>https://obaydakov.github.io/post/2019/deep-learning-in-production-sentiment-analysis-with-the-transformer-model/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/deep-learning-in-production-sentiment-analysis-with-the-transformer-model/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>PLynx is a domain agnostic platform for managing reproducible experiments and data-oriented workflows</title>
+      <link>https://obaydakov.github.io/post/2019/plynx-is-a-domain-agnostic-platform-for-managing-reproducible-experiments-and-data-oriented-workflows/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/plynx-is-a-domain-agnostic-platform-for-managing-reproducible-experiments-and-data-oriented-workflows/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Publishing Machine Learning API with Python Flask</title>
+      <link>https://obaydakov.github.io/post/2019/publishing-machine-learning-api-with-python-flask/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/publishing-machine-learning-api-with-python-flask/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Architecting a Machine Learning Pipeline</title>

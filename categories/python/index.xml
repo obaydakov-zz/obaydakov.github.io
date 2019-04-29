@@ -6,10 +6,37 @@
     <description>Recent content in Python on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Awesome TS anomaly detection</title>
+      <link>https://obaydakov.github.io/post/2019/awesome-ts-anomaly-detection/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/awesome-ts-anomaly-detection/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Getting Started with PySpark for Big Data Analytics, using Jupyter Notebooks and Docker</title>
+      <link>https://obaydakov.github.io/post/2019/getting-started-with-pyspark-for-big-data-analytics-using-jupyter-notebooks-and-docker/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/getting-started-with-pyspark-for-big-data-analytics-using-jupyter-notebooks-and-docker/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>automl-gs</title>
+      <link>https://obaydakov.github.io/post/2019/automl-gs/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/automl-gs/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>A guide to Face Detection in Python</title>

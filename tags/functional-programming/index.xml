@@ -6,10 +6,19 @@
     <description>Recent content in Functional Programming on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/functional-programming/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Marvels of functional programming: Composing effects with monads</title>
+      <link>https://obaydakov.github.io/post/2019/marvels-of-functional-programming-composing-effects-with-monads/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/marvels-of-functional-programming-composing-effects-with-monads/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Aecor — Purely functional event sourcing in Scala</title>

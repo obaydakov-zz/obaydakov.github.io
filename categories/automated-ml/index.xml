@@ -6,10 +6,64 @@
     <description>Recent content in Automated Ml on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/automated-ml/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Auto-Keras: Tuning-free deep learning from R</title>
+      <link>https://obaydakov.github.io/post/2019/auto-keras-tuning-free-deep-learning-from-r/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/auto-keras-tuning-free-deep-learning-from-r/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Building a Feature Platform to Scale Machine Learning at GO-JEK by Will Pienaar</title>
+      <link>https://obaydakov.github.io/post/2019/building-a-feature-platform-to-scale-machine-learning-at-go-jek-by-will-pienaar/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/building-a-feature-platform-to-scale-machine-learning-at-go-jek-by-will-pienaar/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>PLynx is a domain agnostic platform for managing reproducible experiments and data-oriented workflows</title>
+      <link>https://obaydakov.github.io/post/2019/plynx-is-a-domain-agnostic-platform-for-managing-reproducible-experiments-and-data-oriented-workflows/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/plynx-is-a-domain-agnostic-platform-for-managing-reproducible-experiments-and-data-oriented-workflows/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Publishing Machine Learning API with Python Flask</title>
+      <link>https://obaydakov.github.io/post/2019/publishing-machine-learning-api-with-python-flask/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/publishing-machine-learning-api-with-python-flask/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>automl-gs</title>
+      <link>https://obaydakov.github.io/post/2019/automl-gs/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/automl-gs/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>rtemis is a platform for advanced machine learning and visualization in R</title>
+      <link>https://obaydakov.github.io/post/2019/rtemis-is-a-platform-for-advanced-machine-learning-and-visualization-in-r/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/rtemis-is-a-platform-for-advanced-machine-learning-and-visualization-in-r/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Architecting a Machine Learning Pipeline</title>

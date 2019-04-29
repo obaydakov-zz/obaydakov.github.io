@@ -6,10 +6,19 @@
     <description>Recent content in Tools on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/tools/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>PLynx is a domain agnostic platform for managing reproducible experiments and data-oriented workflows</title>
+      <link>https://obaydakov.github.io/post/2019/plynx-is-a-domain-agnostic-platform-for-managing-reproducible-experiments-and-data-oriented-workflows/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/plynx-is-a-domain-agnostic-platform-for-managing-reproducible-experiments-and-data-oriented-workflows/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>10 AWS Lambda Use Cases to Start Your Serverless Journey</title>

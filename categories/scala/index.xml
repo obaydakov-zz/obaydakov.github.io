@@ -6,10 +6,28 @@
     <description>Recent content in Scala on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/scala/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>9 советов по использованию библиотеки Cats в Scala</title>
+      <link>https://obaydakov.github.io/post/2019/9-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D0%BE%D0%B2-%D0%BF%D0%BE-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E-%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B8-cats-%D0%B2-scala/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/9-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D0%BE%D0%B2-%D0%BF%D0%BE-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E-%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B8-cats-%D0%B2-scala/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Marvels of functional programming: Composing effects with monads</title>
+      <link>https://obaydakov.github.io/post/2019/marvels-of-functional-programming-composing-effects-with-monads/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/marvels-of-functional-programming-composing-effects-with-monads/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Scalable Log Analytics with Apache Spark—A Comprehensive Case-Study</title>

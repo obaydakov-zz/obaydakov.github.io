@@ -6,10 +6,46 @@
     <description>Recent content in R on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/r/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>8 Useful R Packages for Data Science You Aren’t Using (But Should!)</title>
+      <link>https://obaydakov.github.io/post/2019/8-useful-r-packages-for-data-science-you-aren-t-using-but-should/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/8-useful-r-packages-for-data-science-you-aren-t-using-but-should/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>A template for data journalism in R</title>
+      <link>https://obaydakov.github.io/post/2019/a-template-for-data-journalism-in-r/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/a-template-for-data-journalism-in-r/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Auto-Keras: Tuning-free deep learning from R</title>
+      <link>https://obaydakov.github.io/post/2019/auto-keras-tuning-free-deep-learning-from-r/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/auto-keras-tuning-free-deep-learning-from-r/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>rtemis is a platform for advanced machine learning and visualization in R</title>
+      <link>https://obaydakov.github.io/post/2019/rtemis-is-a-platform-for-advanced-machine-learning-and-visualization-in-r/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/rtemis-is-a-platform-for-advanced-machine-learning-and-visualization-in-r/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Introduction to the tsfeatures package</title>
