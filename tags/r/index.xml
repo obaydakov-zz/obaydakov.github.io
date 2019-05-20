@@ -6,10 +6,46 @@
     <description>Recent content in R on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/r/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>parsnip - R package</title>
+      <link>https://obaydakov.github.io/post/2019/parsnip-r-package/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/parsnip-r-package/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Creating blazing fast pivot tables from R with data.table</title>
+      <link>https://obaydakov.github.io/post/2019/creating-blazing-fast-pivot-tables-from-r-with-data-table/</link>
+      <pubDate>Thu, 02 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/creating-blazing-fast-pivot-tables-from-r-with-data-table/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>DALEX for keras and parsnip</title>
+      <link>https://obaydakov.github.io/post/dalex-for-keras-and-parsnip/</link>
+      <pubDate>Thu, 02 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/dalex-for-keras-and-parsnip/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>RStudio Cheat Sheets</title>
+      <link>https://obaydakov.github.io/post/2019/rstudio-cheat-sheets/</link>
+      <pubDate>Thu, 02 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/rstudio-cheat-sheets/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>8 Useful R Packages for Data Science You Aren’t Using (But Should!)</title>

@@ -6,10 +6,19 @@
     <description>Recent content in Anomaly Detection on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/anomaly-detection/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Using R and H2O Isolation Forest to identify product anomalies during the manufacturing process</title>
+      <link>https://obaydakov.github.io/post/2019/using-r-and-h2o-isolation-forest-to-identify-product-anomalies-during-the-manufacturing-process/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/using-r-and-h2o-isolation-forest-to-identify-product-anomalies-during-the-manufacturing-process/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Anomaly detection related books, papers, videos, and toolboxes</title>

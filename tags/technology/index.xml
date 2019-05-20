@@ -6,10 +6,91 @@
     <description>Recent content in Technology on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Apache Beam and DataFlow for real-time data pipelines</title>
+      <link>https://obaydakov.github.io/post/2019/apache-beam-and-dataflow-for-real-time-data-pipelines/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/apache-beam-and-dataflow-for-real-time-data-pipelines/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Apache Kafka и потоковая обработка данных с помощью Spark Streaming</title>
+      <link>https://obaydakov.github.io/post/2019/apache-kafka-%D0%B8-%D0%BF%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D1%81-%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D1%8C%D1%8E-spark-streaming/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/apache-kafka-%D0%B8-%D0%BF%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D1%81-%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D1%8C%D1%8E-spark-streaming/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning Tips and Tricks cheatsheet</title>
+      <link>https://obaydakov.github.io/post/2019/deep-learning-tips-and-tricks-cheatsheet/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/deep-learning-tips-and-tricks-cheatsheet/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Getting started with the NVIDIA Jetson Nano</title>
+      <link>https://obaydakov.github.io/post/2019/getting-started-with-the-nvidia-jetson-nano/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/getting-started-with-the-nvidia-jetson-nano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning with Scala in Google Colaboratory</title>
+      <link>https://obaydakov.github.io/post/2019/machine-learning-with-scala-in-google-colaboratory/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/machine-learning-with-scala-in-google-colaboratory/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Railyard: how we rapidly train machine learning models with Kubernetes</title>
+      <link>https://obaydakov.github.io/post/2019/railyard-how-we-rapidly-train-machine-learning-models-with-kubernetes/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/railyard-how-we-rapidly-train-machine-learning-models-with-kubernetes/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>AI in depth: Creating preprocessing-model serving affinity with custom online prediction on AI Platform Serving</title>
+      <link>https://obaydakov.github.io/post/2019/ai-in-depth-creating-preprocessing-model-serving-affinity-with-custom-online-prediction-on-ai-platform-serving/</link>
+      <pubDate>Mon, 06 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/ai-in-depth-creating-preprocessing-model-serving-affinity-with-custom-online-prediction-on-ai-platform-serving/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>AX - Adaptive Experimentation Platform (Facebook)</title>
+      <link>https://obaydakov.github.io/post/2019/ax-adaptive-experimentation-platform-facebook/</link>
+      <pubDate>Mon, 06 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/ax-adaptive-experimentation-platform-facebook/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Building a scaleable Deep Learning Serving Environment for Keras models using NVIDIA TensorRT Server and Google Cloud</title>
+      <link>https://obaydakov.github.io/post/2019/building-a-scaleable-deep-learning-serving-environment-for-keras-models-using-nvidia-tensorrt-server-and-google-cloud/</link>
+      <pubDate>Mon, 06 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/building-a-scaleable-deep-learning-serving-environment-for-keras-models-using-nvidia-tensorrt-server-and-google-cloud/</guid>
+      <description>TensorRT Inference Server is NVIDIA&amp;rsquo;s cutting edge server product to put deep learning models into production. It is part of the NVIDIA’s TensorRT inferencing platform and provides a scaleable, production-ready solution for serving your deep learning models from all major frameworks. It is based on NVIDIA Docker and contains everything that is required to run the server from the inside of the container. Furthermore, NVIDIA Docker allows for using GPUs inside a Docker container, which, in most cases, significantly speeds up model inference.</description>
+    </item>
     
     <item>
       <title>Architecting a Machine Learning Pipeline</title>

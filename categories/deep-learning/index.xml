@@ -6,10 +6,119 @@
     <description>Recent content in Deep Learning on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Deep Learning Tips and Tricks cheatsheet</title>
+      <link>https://obaydakov.github.io/post/2019/deep-learning-tips-and-tricks-cheatsheet/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/deep-learning-tips-and-tricks-cheatsheet/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>DeepPavlov</title>
+      <link>https://obaydakov.github.io/post/2019/deeppavlov/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/deeppavlov/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Getting started with the NVIDIA Jetson Nano</title>
+      <link>https://obaydakov.github.io/post/2019/getting-started-with-the-nvidia-jetson-nano/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/getting-started-with-the-nvidia-jetson-nano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning with Scala in Google Colaboratory</title>
+      <link>https://obaydakov.github.io/post/2019/machine-learning-with-scala-in-google-colaboratory/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/machine-learning-with-scala-in-google-colaboratory/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>PyTorch internals</title>
+      <link>https://obaydakov.github.io/post/2019/pytorch-internals/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/pytorch-internals/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Serving Google BERT in Production using Tensorflow and ZeroMQ</title>
+      <link>https://obaydakov.github.io/post/2019/serving-google-bert-in-production-using-tensorflow-and-zeromq/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/serving-google-bert-in-production-using-tensorflow-and-zeromq/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>AI in depth: Creating preprocessing-model serving affinity with custom online prediction on AI Platform Serving</title>
+      <link>https://obaydakov.github.io/post/2019/ai-in-depth-creating-preprocessing-model-serving-affinity-with-custom-online-prediction-on-ai-platform-serving/</link>
+      <pubDate>Mon, 06 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/ai-in-depth-creating-preprocessing-model-serving-affinity-with-custom-online-prediction-on-ai-platform-serving/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Building a scaleable Deep Learning Serving Environment for Keras models using NVIDIA TensorRT Server and Google Cloud</title>
+      <link>https://obaydakov.github.io/post/2019/building-a-scaleable-deep-learning-serving-environment-for-keras-models-using-nvidia-tensorrt-server-and-google-cloud/</link>
+      <pubDate>Mon, 06 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/building-a-scaleable-deep-learning-serving-environment-for-keras-models-using-nvidia-tensorrt-server-and-google-cloud/</guid>
+      <description>TensorRT Inference Server is NVIDIA&amp;rsquo;s cutting edge server product to put deep learning models into production. It is part of the NVIDIA’s TensorRT inferencing platform and provides a scaleable, production-ready solution for serving your deep learning models from all major frameworks. It is based on NVIDIA Docker and contains everything that is required to run the server from the inside of the container. Furthermore, NVIDIA Docker allows for using GPUs inside a Docker container, which, in most cases, significantly speeds up model inference.</description>
+    </item>
+    
+    <item>
+      <title>Deploying Keras models using TensorFlow Serving and Flask</title>
+      <link>https://obaydakov.github.io/post/2019/deploying-keras-models-using-tensorflow-serving-and-flask/</link>
+      <pubDate>Mon, 06 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/deploying-keras-models-using-tensorflow-serving-and-flask/</guid>
+      <description>In this tutorial, we will create a TensorFlow Serving server to deploy our InceptionV3 image classification convolutional neural network (CNN) built in Keras. We will then create a simple Flask server which will accept POST request and do some image preprocessing, required for Tensorflow serving server, and return a JSON response.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Homepage freeCodeCamp.org DEVLEARN TO CODE FOR FREE How to deploy TensorFlow models to production using TF Serving</title>
+      <link>https://obaydakov.github.io/post/2019/homepage-freecodecamp-org-devlearn-to-code-for-free-how-to-deploy-tensorflow-models-to-production-using-tf-serving/</link>
+      <pubDate>Mon, 06 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/homepage-freecodecamp-org-devlearn-to-code-for-free-how-to-deploy-tensorflow-models-to-production-using-tf-serving/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>DALEX for keras and parsnip</title>
+      <link>https://obaydakov.github.io/post/dalex-for-keras-and-parsnip/</link>
+      <pubDate>Thu, 02 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/dalex-for-keras-and-parsnip/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Deep Reinforcement Learning with TensorFlow 2.0</title>
+      <link>https://obaydakov.github.io/post/2019/deep-reinforcement-learning-with-tensorflow-2-0/</link>
+      <pubDate>Thu, 02 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/deep-reinforcement-learning-with-tensorflow-2-0/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Auto-Keras: Tuning-free deep learning from R</title>

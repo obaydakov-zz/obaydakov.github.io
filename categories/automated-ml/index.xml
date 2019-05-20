@@ -6,10 +6,92 @@
     <description>Recent content in Automated Ml on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/automated-ml/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Alibi is an open source Python library aimed at machine learning model inspection and interpretation</title>
+      <link>https://obaydakov.github.io/post/2019/alibi-is-an-open-source-python-library-aimed-at-machine-learning-model-inspection-and-interpretation/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/alibi-is-an-open-source-python-library-aimed-at-machine-learning-model-inspection-and-interpretation/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Railyard: how we rapidly train machine learning models with Kubernetes</title>
+      <link>https://obaydakov.github.io/post/2019/railyard-how-we-rapidly-train-machine-learning-models-with-kubernetes/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/railyard-how-we-rapidly-train-machine-learning-models-with-kubernetes/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>parsnip - R package</title>
+      <link>https://obaydakov.github.io/post/2019/parsnip-r-package/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/parsnip-r-package/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>AX - Adaptive Experimentation Platform (Facebook)</title>
+      <link>https://obaydakov.github.io/post/2019/ax-adaptive-experimentation-platform-facebook/</link>
+      <pubDate>Mon, 06 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/ax-adaptive-experimentation-platform-facebook/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>AlphaPy is a machine learning framework for both speculators and data scientists</title>
+      <link>https://obaydakov.github.io/post/2019/alphapy-is-a-machine-learning-framework-for-both-speculators-and-data-scientists/</link>
+      <pubDate>Mon, 06 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/alphapy-is-a-machine-learning-framework-for-both-speculators-and-data-scientists/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Deploying Keras models using TensorFlow Serving and Flask</title>
+      <link>https://obaydakov.github.io/post/2019/deploying-keras-models-using-tensorflow-serving-and-flask/</link>
+      <pubDate>Mon, 06 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/deploying-keras-models-using-tensorflow-serving-and-flask/</guid>
+      <description>In this tutorial, we will create a TensorFlow Serving server to deploy our InceptionV3 image classification convolutional neural network (CNN) built in Keras. We will then create a simple Flask server which will accept POST request and do some image preprocessing, required for Tensorflow serving server, and return a JSON response.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Homepage Towards Data Science DATA SCIENCEMACHINE LEARNINGPROGRAMMINGVISUALIZATIONAIJOURNALISMPICKSCONTRIBUTE Speed Up Your Exploratory Data Analysis With Pandas-Profiling</title>
+      <link>https://obaydakov.github.io/post/2019/homepage-towards-data-science-data-sciencemachine-learningprogrammingvisualizationaijournalismpickscontribute-speed-up-your-exploratory-data-analysis-with-pandas-profiling/</link>
+      <pubDate>Mon, 06 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/homepage-towards-data-science-data-sciencemachine-learningprogrammingvisualizationaijournalismpickscontribute-speed-up-your-exploratory-data-analysis-with-pandas-profiling/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Homepage freeCodeCamp.org DEVLEARN TO CODE FOR FREE How to deploy TensorFlow models to production using TF Serving</title>
+      <link>https://obaydakov.github.io/post/2019/homepage-freecodecamp-org-devlearn-to-code-for-free-how-to-deploy-tensorflow-models-to-production-using-tf-serving/</link>
+      <pubDate>Mon, 06 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/homepage-freecodecamp-org-devlearn-to-code-for-free-how-to-deploy-tensorflow-models-to-production-using-tf-serving/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>One Model to Rule Them All</title>
+      <link>https://obaydakov.github.io/post/2019/one-model-to-rule-them-all/</link>
+      <pubDate>Thu, 02 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/one-model-to-rule-them-all/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Auto-Keras: Tuning-free deep learning from R</title>

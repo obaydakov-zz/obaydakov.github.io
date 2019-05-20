@@ -6,10 +6,28 @@
     <description>Recent content in Aws on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/aws/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Machine Learning with Scala in Google Colaboratory</title>
+      <link>https://obaydakov.github.io/post/2019/machine-learning-with-scala-in-google-colaboratory/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/machine-learning-with-scala-in-google-colaboratory/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Running TensorFlow on AWS Lambda using Serverless</title>
+      <link>https://obaydakov.github.io/post/2019/running-tensorflow-on-aws-lambda-using-serverless/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/running-tensorflow-on-aws-lambda-using-serverless/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Getting started with AWS Deep Learning by training Convolutional Neural Network to predict Images on CIFAR10 dataset</title>

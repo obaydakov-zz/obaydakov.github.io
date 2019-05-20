@@ -6,10 +6,37 @@
     <description>Recent content in Docker on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/docker/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Kubernetes Deployment Strategies</title>
+      <link>https://obaydakov.github.io/post/2019/kubernetes-deployment-strategies/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/kubernetes-deployment-strategies/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Building a scaleable Deep Learning Serving Environment for Keras models using NVIDIA TensorRT Server and Google Cloud</title>
+      <link>https://obaydakov.github.io/post/2019/building-a-scaleable-deep-learning-serving-environment-for-keras-models-using-nvidia-tensorrt-server-and-google-cloud/</link>
+      <pubDate>Mon, 06 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/building-a-scaleable-deep-learning-serving-environment-for-keras-models-using-nvidia-tensorrt-server-and-google-cloud/</guid>
+      <description>TensorRT Inference Server is NVIDIA&amp;rsquo;s cutting edge server product to put deep learning models into production. It is part of the NVIDIA’s TensorRT inferencing platform and provides a scaleable, production-ready solution for serving your deep learning models from all major frameworks. It is based on NVIDIA Docker and contains everything that is required to run the server from the inside of the container. Furthermore, NVIDIA Docker allows for using GPUs inside a Docker container, which, in most cases, significantly speeds up model inference.</description>
+    </item>
+    
+    <item>
+      <title>Open source, Kubernetes-native Serverless Framework</title>
+      <link>https://obaydakov.github.io/post/2019/open-source-kubernetes-native-serverless-framework/</link>
+      <pubDate>Mon, 06 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/open-source-kubernetes-native-serverless-framework/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Getting Started with PySpark for Big Data Analytics, using Jupyter Notebooks and Docker</title>

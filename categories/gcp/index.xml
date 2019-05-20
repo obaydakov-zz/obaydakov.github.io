@@ -6,10 +6,46 @@
     <description>Recent content in Gcp on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/gcp/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Apache Beam and DataFlow for real-time data pipelines</title>
+      <link>https://obaydakov.github.io/post/2019/apache-beam-and-dataflow-for-real-time-data-pipelines/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/apache-beam-and-dataflow-for-real-time-data-pipelines/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Serving Google BERT in Production using Tensorflow and ZeroMQ</title>
+      <link>https://obaydakov.github.io/post/2019/serving-google-bert-in-production-using-tensorflow-and-zeromq/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/serving-google-bert-in-production-using-tensorflow-and-zeromq/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>AI in depth: Creating preprocessing-model serving affinity with custom online prediction on AI Platform Serving</title>
+      <link>https://obaydakov.github.io/post/2019/ai-in-depth-creating-preprocessing-model-serving-affinity-with-custom-online-prediction-on-ai-platform-serving/</link>
+      <pubDate>Mon, 06 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/ai-in-depth-creating-preprocessing-model-serving-affinity-with-custom-online-prediction-on-ai-platform-serving/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Building a scaleable Deep Learning Serving Environment for Keras models using NVIDIA TensorRT Server and Google Cloud</title>
+      <link>https://obaydakov.github.io/post/2019/building-a-scaleable-deep-learning-serving-environment-for-keras-models-using-nvidia-tensorrt-server-and-google-cloud/</link>
+      <pubDate>Mon, 06 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/building-a-scaleable-deep-learning-serving-environment-for-keras-models-using-nvidia-tensorrt-server-and-google-cloud/</guid>
+      <description>TensorRT Inference Server is NVIDIA&amp;rsquo;s cutting edge server product to put deep learning models into production. It is part of the NVIDIA’s TensorRT inferencing platform and provides a scaleable, production-ready solution for serving your deep learning models from all major frameworks. It is based on NVIDIA Docker and contains everything that is required to run the server from the inside of the container. Furthermore, NVIDIA Docker allows for using GPUs inside a Docker container, which, in most cases, significantly speeds up model inference.</description>
+    </item>
     
     <item>
       <title>Aetos is a mobile application for monitoring the health &amp; performance of GKE Kubernetes clusters.</title>

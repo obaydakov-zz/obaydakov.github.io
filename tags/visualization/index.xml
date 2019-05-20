@@ -6,10 +6,73 @@
     <description>Recent content in Visualization on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/visualization/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Altair is a declarative statistical visualization library for Python, based on Vega and Vega-Lite.</title>
+      <link>https://obaydakov.github.io/post/2019/altair-is-a-declarative-statistical-visualization-library-for-python-based-on-vega-and-vega-lite/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/altair-is-a-declarative-statistical-visualization-library-for-python-based-on-vega-and-vega-lite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python Graph Gallery</title>
+      <link>https://obaydakov.github.io/post/2019/python-graph-gallery/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/python-graph-gallery/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>R Graph Gallery</title>
+      <link>https://obaydakov.github.io/post/2019/r-graph-gallery/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/r-graph-gallery/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Altair: Declarative Visualization in Python</title>
+      <link>https://obaydakov.github.io/post/altair-declarative-visualization-in-python/</link>
+      <pubDate>Thu, 02 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/altair-declarative-visualization-in-python/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>From Data to Viz leads you to the most appropriate graph for your data</title>
+      <link>https://obaydakov.github.io/post/2019/from-data-to-viz-leads-you-to-the-most-appropriate-graph-for-your-data/</link>
+      <pubDate>Thu, 02 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/from-data-to-viz-leads-you-to-the-most-appropriate-graph-for-your-data/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Welcome to the Python Graph Gallery</title>
+      <link>https://obaydakov.github.io/post/2019/welcome-to-the-python-graph-gallery/</link>
+      <pubDate>Thu, 02 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/welcome-to-the-python-graph-gallery/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Welcome to the R Graph Gallery</title>
+      <link>https://obaydakov.github.io/post/2019/welcome-to-the-r-graph-gallery/</link>
+      <pubDate>Thu, 02 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/welcome-to-the-r-graph-gallery/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Building your own MTurk-style app in R using Shiny&#43;Flexdashboard</title>

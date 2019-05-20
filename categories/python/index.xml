@@ -6,10 +6,100 @@
     <description>Recent content in Python on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Alibi is an open source Python library aimed at machine learning model inspection and interpretation</title>
+      <link>https://obaydakov.github.io/post/2019/alibi-is-an-open-source-python-library-aimed-at-machine-learning-model-inspection-and-interpretation/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/alibi-is-an-open-source-python-library-aimed-at-machine-learning-model-inspection-and-interpretation/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Altair is a declarative statistical visualization library for Python, based on Vega and Vega-Lite.</title>
+      <link>https://obaydakov.github.io/post/2019/altair-is-a-declarative-statistical-visualization-library-for-python-based-on-vega-and-vega-lite/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/altair-is-a-declarative-statistical-visualization-library-for-python-based-on-vega-and-vega-lite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PyTorch internals</title>
+      <link>https://obaydakov.github.io/post/2019/pytorch-internals/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/pytorch-internals/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Python Graph Gallery</title>
+      <link>https://obaydakov.github.io/post/2019/python-graph-gallery/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/python-graph-gallery/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Ищем свободное парковочное место с Python</title>
+      <link>https://obaydakov.github.io/post/2019/%D0%B8%D1%89%D0%B5%D0%BC-%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%BD%D0%BE%D0%B5-%D0%BF%D0%B0%D1%80%D0%BA%D0%BE%D0%B2%D0%BE%D1%87%D0%BD%D0%BE%D0%B5-%D0%BC%D0%B5%D1%81%D1%82%D0%BE-%D1%81-python/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/%D0%B8%D1%89%D0%B5%D0%BC-%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%BD%D0%BE%D0%B5-%D0%BF%D0%B0%D1%80%D0%BA%D0%BE%D0%B2%D0%BE%D1%87%D0%BD%D0%BE%D0%B5-%D0%BC%D0%B5%D1%81%D1%82%D0%BE-%D1%81-python/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>AlphaPy is a machine learning framework for both speculators and data scientists</title>
+      <link>https://obaydakov.github.io/post/2019/alphapy-is-a-machine-learning-framework-for-both-speculators-and-data-scientists/</link>
+      <pubDate>Mon, 06 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/alphapy-is-a-machine-learning-framework-for-both-speculators-and-data-scientists/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Homepage Towards Data Science DATA SCIENCEMACHINE LEARNINGPROGRAMMINGVISUALIZATIONAIJOURNALISMPICKSCONTRIBUTE Speed Up Your Exploratory Data Analysis With Pandas-Profiling</title>
+      <link>https://obaydakov.github.io/post/2019/homepage-towards-data-science-data-sciencemachine-learningprogrammingvisualizationaijournalismpickscontribute-speed-up-your-exploratory-data-analysis-with-pandas-profiling/</link>
+      <pubDate>Mon, 06 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/homepage-towards-data-science-data-sciencemachine-learningprogrammingvisualizationaijournalismpickscontribute-speed-up-your-exploratory-data-analysis-with-pandas-profiling/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>This curated list contains python packages for time series analysis</title>
+      <link>https://obaydakov.github.io/post/2019/this-curated-list-contains-python-packages-for-time-series-analysis/</link>
+      <pubDate>Mon, 06 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/this-curated-list-contains-python-packages-for-time-series-analysis/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Altair: Declarative Visualization in Python</title>
+      <link>https://obaydakov.github.io/post/altair-declarative-visualization-in-python/</link>
+      <pubDate>Thu, 02 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/altair-declarative-visualization-in-python/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Welcome to the Python Graph Gallery</title>
+      <link>https://obaydakov.github.io/post/2019/welcome-to-the-python-graph-gallery/</link>
+      <pubDate>Thu, 02 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/welcome-to-the-python-graph-gallery/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Awesome TS anomaly detection</title>
