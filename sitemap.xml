@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://obaydakov.github.io/post/2019/deep-learning-tips-and-tricks-cheatsheet/</loc>
+    <lastmod>2019-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2019/interactive-time-series-plots-in-r/</loc>
+    <lastmod>2019-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2018/productionalizing-spark-streaming-applications/</loc>
+    <lastmod>2019-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://obaydakov.github.io/post/2019/alibi-is-an-open-source-python-library-aimed-at-machine-learning-model-inspection-and-interpretation/</loc>
     <lastmod>2019-05-20T00:00:00+00:00</lastmod>
   </url>
@@ -7274,7 +7289,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/deep-learning/</loc>
-    <lastmod>2019-05-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -7358,7 +7373,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/kafka/</loc>
-    <lastmod>2019-05-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -7382,7 +7397,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/machine-learning/</loc>
-    <lastmod>2019-05-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -7430,7 +7445,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/</loc>
-    <lastmod>2019-05-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -7442,31 +7457,31 @@
   
   <url>
     <loc>https://obaydakov.github.io/post/</loc>
-    <lastmod>2019-05-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/tags/python/</loc>
-    <lastmod>2019-05-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/categories/python/</loc>
-    <lastmod>2019-05-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/tags/r/</loc>
-    <lastmod>2019-05-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/categories/r/</loc>
-    <lastmod>2019-05-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -7496,7 +7511,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/spark/</loc>
-    <lastmod>2019-05-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -7508,7 +7523,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/tags/technology/</loc>
-    <lastmod>2019-05-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

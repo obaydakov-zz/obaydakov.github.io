@@ -6,10 +6,19 @@
     <description>Recent content in Kafka on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/kafka/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Productionalizing Spark Streaming Applications</title>
+      <link>https://obaydakov.github.io/post/2018/productionalizing-spark-streaming-applications/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2018/productionalizing-spark-streaming-applications/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Apache Kafka и потоковая обработка данных с помощью Spark Streaming</title>
