@@ -6,10 +6,19 @@
     <description>Recent content in Python on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>An End-to-End Project on Time Series Analysis and Forecasting with Python</title>
+      <link>https://obaydakov.github.io/post/2019/an-end-to-end-project-on-time-series-analysis-and-forecasting-with-python/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/an-end-to-end-project-on-time-series-analysis-and-forecasting-with-python/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Deep Learning Tips and Tricks cheatsheet</title>
@@ -94,10 +103,10 @@
     
     <item>
       <title>Altair: Declarative Visualization in Python</title>
-      <link>https://obaydakov.github.io/post/altair-declarative-visualization-in-python/</link>
+      <link>https://obaydakov.github.io/post/2019/altair-declarative-visualization-in-python/</link>
       <pubDate>Thu, 02 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/altair-declarative-visualization-in-python/</guid>
+      <guid>https://obaydakov.github.io/post/2019/altair-declarative-visualization-in-python/</guid>
       <description>Link</description>
     </item>
     
@@ -777,10 +786,10 @@ Locust is completely event-based, and therefore it’s possible to support thous
     
     <item>
       <title>Zappa - Serverless Python &#43; AWS</title>
-      <link>https://obaydakov.github.io/zappa-serverless-python-aws/</link>
+      <link>https://obaydakov.github.io/post/2018/zappa-serverless-python-aws/</link>
       <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/zappa-serverless-python-aws/</guid>
+      <guid>https://obaydakov.github.io/post/2018/zappa-serverless-python-aws/</guid>
       <description>Link</description>
     </item>
     

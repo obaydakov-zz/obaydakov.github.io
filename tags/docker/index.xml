@@ -6,10 +6,19 @@
     <description>Recent content in Docker on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/docker/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>What is Supervisely Agent?</title>
+      <link>https://obaydakov.github.io/post/2019/what-is-supervisely-agent/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/what-is-supervisely-agent/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Kubernetes Deployment Strategies</title>
@@ -49,10 +58,10 @@
     
     <item>
       <title>So you want to deploy multiple containers running different R models?</title>
-      <link>https://obaydakov.github.io/post/so-you-want-to-deploy-multiple-containers-running-different-r-models/</link>
+      <link>https://obaydakov.github.io/post/2019/so-you-want-to-deploy-multiple-containers-running-different-r-models/</link>
       <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/so-you-want-to-deploy-multiple-containers-running-different-r-models/</guid>
+      <guid>https://obaydakov.github.io/post/2019/so-you-want-to-deploy-multiple-containers-running-different-r-models/</guid>
       <description>Link</description>
     </item>
     
@@ -121,10 +130,10 @@
     
     <item>
       <title>Using docker to deploy an R plumber API</title>
-      <link>https://obaydakov.github.io/post/20192019-02-07-using-docker-to-deploy-an-r-plumber-api/</link>
+      <link>https://obaydakov.github.io/post/2019/20192019-02-07-using-docker-to-deploy-an-r-plumber-api/</link>
       <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/20192019-02-07-using-docker-to-deploy-an-r-plumber-api/</guid>
+      <guid>https://obaydakov.github.io/post/2019/20192019-02-07-using-docker-to-deploy-an-r-plumber-api/</guid>
       <description>Link</description>
     </item>
     

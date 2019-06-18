@@ -6,10 +6,28 @@
     <description>Recent content in Nlp on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/nlp/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Gentle Introduction to Text Summarization in Machine Learning</title>
+      <link>https://obaydakov.github.io/post/2019/a-gentle-introduction-to-text-summarization-in-machine-learning/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/a-gentle-introduction-to-text-summarization-in-machine-learning/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>The Best and Most Current of Modern Natural Language Processing</title>
+      <link>https://obaydakov.github.io/post/2019/the-best-and-most-current-of-modern-natural-language-processing/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/the-best-and-most-current-of-modern-natural-language-processing/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>DeepPavlov</title>

@@ -6,10 +6,19 @@
     <description>Recent content in R on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/r/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Enterprise Web Services with Neural Networks Using R and TensorFlow</title>
+      <link>https://obaydakov.github.io/post/2019/enterprise-web-services-with-neural-networks-using-r-and-tensorflow/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/enterprise-web-services-with-neural-networks-using-r-and-tensorflow/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Interactive time series plots in R</title>
@@ -40,10 +49,10 @@
     
     <item>
       <title>DALEX for keras and parsnip</title>
-      <link>https://obaydakov.github.io/post/dalex-for-keras-and-parsnip/</link>
+      <link>https://obaydakov.github.io/post/2019/dalex-for-keras-and-parsnip/</link>
       <pubDate>Thu, 02 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/dalex-for-keras-and-parsnip/</guid>
+      <guid>https://obaydakov.github.io/post/2019/dalex-for-keras-and-parsnip/</guid>
       <description>Link</description>
     </item>
     
@@ -184,10 +193,10 @@
     
     <item>
       <title>Using docker to deploy an R plumber API</title>
-      <link>https://obaydakov.github.io/post/20192019-02-07-using-docker-to-deploy-an-r-plumber-api/</link>
+      <link>https://obaydakov.github.io/post/2019/20192019-02-07-using-docker-to-deploy-an-r-plumber-api/</link>
       <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/20192019-02-07-using-docker-to-deploy-an-r-plumber-api/</guid>
+      <guid>https://obaydakov.github.io/post/2019/20192019-02-07-using-docker-to-deploy-an-r-plumber-api/</guid>
       <description>Link</description>
     </item>
     

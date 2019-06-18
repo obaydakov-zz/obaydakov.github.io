@@ -6,10 +6,73 @@
     <description>Recent content in Blockchain on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/blockchain/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CCKit: Routing and middleware for Hyperledger Fabric Golang chaincode</title>
+      <link>https://obaydakov.github.io/post/2019/cckit-routing-and-middleware-for-hyperledger-fabric-golang-chaincode/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/cckit-routing-and-middleware-for-hyperledger-fabric-golang-chaincode/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Continuous Integration Process for HLF</title>
+      <link>https://obaydakov.github.io/post/2019/continuous-integration-process-for-hlf/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/continuous-integration-process-for-hlf/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Develop with a Mature and Enterprise-Grade Toolset</title>
+      <link>https://obaydakov.github.io/post/2019/develop-with-a-mature-and-enterprise-grade-toolset/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/develop-with-a-mature-and-enterprise-grade-toolset/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Simple blockchain network with Hyperledger Composer</title>
+      <link>https://obaydakov.github.io/post/2019/simple-blockchain-network-with-hyperledger-composer/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/simple-blockchain-network-with-hyperledger-composer/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Tutorial of Using Fabric Python SDK</title>
+      <link>https://obaydakov.github.io/post/2019/tutorial-of-using-fabric-python-sdk/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/tutorial-of-using-fabric-python-sdk/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Writing Chaincode in Golang - the OOP way</title>
+      <link>https://obaydakov.github.io/post/2019/2019/writing-chaincode-in-golang-the-oop-way/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/2019/writing-chaincode-in-golang-the-oop-way/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Разработка и тестирование смарт-контрактов Hyperledger Fabric</title>
+      <link>https://obaydakov.github.io/post/2019/%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0-%D0%B8-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D1%81%D0%BC%D0%B0%D1%80%D1%82-%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%B0%D0%BA%D1%82%D0%BE%D0%B2-hyperledger-fabric/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0-%D0%B8-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D1%81%D0%BC%D0%B0%D1%80%D1%82-%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%B0%D0%BA%D1%82%D0%BE%D0%B2-hyperledger-fabric/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Deploy Azure Blockchain Workbench</title>

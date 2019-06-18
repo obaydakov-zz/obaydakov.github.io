@@ -6,10 +6,118 @@
     <description>Recent content in Deep Learning on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A collection of various deep learning architectures, models, and tips</title>
+      <link>https://obaydakov.github.io/post/2019/a-collection-of-various-deep-learning-architectures-models-and-tips/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/a-collection-of-various-deep-learning-architectures-models-and-tips/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Advanced Keras — Constructing Complex Custom Losses and Metrics</title>
+      <link>https://obaydakov.github.io/post/2019/advanced-keras-constructing-complex-custom-losses-and-metrics/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/advanced-keras-constructing-complex-custom-losses-and-metrics/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Building your own Deep Learning dream machine</title>
+      <link>https://obaydakov.github.io/post/2019/building-your-own-deep-learning-dream-machine/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/building-your-own-deep-learning-dream-machine/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Easy Image Classification with TensorFlow 2.0</title>
+      <link>https://obaydakov.github.io/post/2019/easy-image-classification-with-tensorflow-2-0/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/easy-image-classification-with-tensorflow-2-0/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>EfficientNet: Improving Accuracy and Efficiency through AutoML and Model Scaling</title>
+      <link>https://obaydakov.github.io/post/2019/efficientnet-improving-accuracy-and-efficiency-through-automl-and-model-scaling/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/efficientnet-improving-accuracy-and-efficiency-through-automl-and-model-scaling/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Enterprise Web Services with Neural Networks Using R and TensorFlow</title>
+      <link>https://obaydakov.github.io/post/2019/enterprise-web-services-with-neural-networks-using-r-and-tensorflow/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/enterprise-web-services-with-neural-networks-using-r-and-tensorflow/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Keras Mask R-CNN</title>
+      <link>https://obaydakov.github.io/post/2019/keras-mask-r-cnn/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/keras-mask-r-cnn/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>LSTM Autoencoder for Extreme Rare Event Classification in Keras</title>
+      <link>https://obaydakov.github.io/post/2019/lstm-autoencoder-for-extreme-rare-event-classification-in-keras/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/lstm-autoencoder-for-extreme-rare-event-classification-in-keras/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Model Understanding with the What-If Tool Dashboard</title>
+      <link>https://obaydakov.github.io/post/2019/model-understanding-with-the-what-if-tool-dashboard/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/model-understanding-with-the-what-if-tool-dashboard/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Supervisely: end-to-end web-platform for Deep Learning and Computer Vision</title>
+      <link>https://obaydakov.github.io/post/2019/supervisely-end-to-end-web-platform-for-deep-learning-and-computer-vision/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/supervisely-end-to-end-web-platform-for-deep-learning-and-computer-vision/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Visualizer for deep learning and machine learning models </title>
+      <link>https://obaydakov.github.io/post/2019/visualizer-for-deep-learning-and-machine-learning-models/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/visualizer-for-deep-learning-and-machine-learning-models/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>What is Supervisely Agent?</title>
+      <link>https://obaydakov.github.io/post/2019/what-is-supervisely-agent/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/what-is-supervisely-agent/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Deep Learning Tips and Tricks cheatsheet</title>
@@ -113,10 +221,10 @@ Link</description>
     
     <item>
       <title>DALEX for keras and parsnip</title>
-      <link>https://obaydakov.github.io/post/dalex-for-keras-and-parsnip/</link>
+      <link>https://obaydakov.github.io/post/2019/dalex-for-keras-and-parsnip/</link>
       <pubDate>Thu, 02 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/dalex-for-keras-and-parsnip/</guid>
+      <guid>https://obaydakov.github.io/post/2019/dalex-for-keras-and-parsnip/</guid>
       <description>Link</description>
     </item>
     
@@ -176,10 +284,10 @@ Link</description>
     
     <item>
       <title>Getting started with AWS Deep Learning by training Convolutional Neural Network to predict Images on CIFAR10 dataset</title>
-      <link>https://obaydakov.github.io/post/getting-started-with-aws-deep-learning-by-training-convolutional-neural-network-to-predict-images-on-cifar10-dataset/</link>
+      <link>https://obaydakov.github.io/post/2019/getting-started-with-aws-deep-learning-by-training-convolutional-neural-network-to-predict-images-on-cifar10-dataset/</link>
       <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/getting-started-with-aws-deep-learning-by-training-convolutional-neural-network-to-predict-images-on-cifar10-dataset/</guid>
+      <guid>https://obaydakov.github.io/post/2019/getting-started-with-aws-deep-learning-by-training-convolutional-neural-network-to-predict-images-on-cifar10-dataset/</guid>
       <description>Link</description>
     </item>
     

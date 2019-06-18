@@ -6,10 +6,73 @@
     <description>Recent content in Machine Learning on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A list of useful resources to learn Data Engineering from scratch</title>
+      <link>https://obaydakov.github.io/post/2019/a-list-of-useful-resources-to-learn-data-engineering-from-scratch/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/a-list-of-useful-resources-to-learn-data-engineering-from-scratch/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Advanced Keras — Constructing Complex Custom Losses and Metrics</title>
+      <link>https://obaydakov.github.io/post/2019/advanced-keras-constructing-complex-custom-losses-and-metrics/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/advanced-keras-constructing-complex-custom-losses-and-metrics/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>An End-to-End Project on Time Series Analysis and Forecasting with Python</title>
+      <link>https://obaydakov.github.io/post/2019/an-end-to-end-project-on-time-series-analysis-and-forecasting-with-python/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/an-end-to-end-project-on-time-series-analysis-and-forecasting-with-python/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>How to Deploy Machine Learning Models</title>
+      <link>https://obaydakov.github.io/post/2019/how-to-deploy-machine-learning-models/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/how-to-deploy-machine-learning-models/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Probabilistic  Data Structures and Algorithms  for Big Data Applications</title>
+      <link>https://obaydakov.github.io/post/2019/probabilistic-data-structures-and-algorithms-for-big-data-applications/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/probabilistic-data-structures-and-algorithms-for-big-data-applications/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Supervisely: end-to-end web-platform for Deep Learning and Computer Vision</title>
+      <link>https://obaydakov.github.io/post/2019/supervisely-end-to-end-web-platform-for-deep-learning-and-computer-vision/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/supervisely-end-to-end-web-platform-for-deep-learning-and-computer-vision/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>What is Supervisely Agent?</title>
+      <link>https://obaydakov.github.io/post/2019/what-is-supervisely-agent/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/what-is-supervisely-agent/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Interactive time series plots in R</title>

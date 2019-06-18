@@ -6,17 +6,35 @@
     <description>Recent content in Ml Interpretation on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/ml-interpretation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Fit interpretable models. Explain blackbox machine learning.</title>
+      <link>https://obaydakov.github.io/post/2019/fit-interpretable-models-explain-blackbox-machine-learning/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/fit-interpretable-models-explain-blackbox-machine-learning/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Model Understanding with the What-If Tool Dashboard</title>
+      <link>https://obaydakov.github.io/post/2019/model-understanding-with-the-what-if-tool-dashboard/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/model-understanding-with-the-what-if-tool-dashboard/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
       <title>DALEX for keras and parsnip</title>
-      <link>https://obaydakov.github.io/post/dalex-for-keras-and-parsnip/</link>
+      <link>https://obaydakov.github.io/post/2019/dalex-for-keras-and-parsnip/</link>
       <pubDate>Thu, 02 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/dalex-for-keras-and-parsnip/</guid>
+      <guid>https://obaydakov.github.io/post/2019/dalex-for-keras-and-parsnip/</guid>
       <description>Link</description>
     </item>
     

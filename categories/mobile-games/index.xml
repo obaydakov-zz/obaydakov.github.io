@@ -6,10 +6,19 @@
     <description>Recent content in Mobile Games on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/mobile-games/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>DEVTODEV’S MAP OF METRICS IN GAME ANALYTICS (IN RUSSIAN)</title>
+      <link>https://obaydakov.github.io/post/2019/devtodev-s-map-of-metrics-in-game-analytics-in-russian/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/devtodev-s-map-of-metrics-in-game-analytics-in-russian/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Run Remote R Scripts with Mobile Device using E-mail Triggers</title>

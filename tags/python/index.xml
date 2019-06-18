@@ -6,10 +6,118 @@
     <description>Recent content in Python on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Gentle Introduction to Text Summarization in Machine Learning</title>
+      <link>https://obaydakov.github.io/post/2019/a-gentle-introduction-to-text-summarization-in-machine-learning/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/a-gentle-introduction-to-text-summarization-in-machine-learning/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>AUTOML: METHODS, SYSTEMS, CHALLENGES (NEW BOOK)</title>
+      <link>https://obaydakov.github.io/post/2019/automl-methods-systems-challenges-new-book/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/automl-methods-systems-challenges-new-book/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Advanced Keras — Constructing Complex Custom Losses and Metrics</title>
+      <link>https://obaydakov.github.io/post/2019/advanced-keras-constructing-complex-custom-losses-and-metrics/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/advanced-keras-constructing-complex-custom-losses-and-metrics/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>An End-to-End Project on Time Series Analysis and Forecasting with Python</title>
+      <link>https://obaydakov.github.io/post/2019/an-end-to-end-project-on-time-series-analysis-and-forecasting-with-python/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/an-end-to-end-project-on-time-series-analysis-and-forecasting-with-python/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>DEVTODEV’S MAP OF METRICS IN GAME ANALYTICS (IN RUSSIAN)</title>
+      <link>https://obaydakov.github.io/post/2019/devtodev-s-map-of-metrics-in-game-analytics-in-russian/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/devtodev-s-map-of-metrics-in-game-analytics-in-russian/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Easy Image Classification with TensorFlow 2.0</title>
+      <link>https://obaydakov.github.io/post/2019/easy-image-classification-with-tensorflow-2-0/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/easy-image-classification-with-tensorflow-2-0/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Fit interpretable models. Explain blackbox machine learning.</title>
+      <link>https://obaydakov.github.io/post/2019/fit-interpretable-models-explain-blackbox-machine-learning/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/fit-interpretable-models-explain-blackbox-machine-learning/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>How to Deploy Machine Learning Models</title>
+      <link>https://obaydakov.github.io/post/2019/how-to-deploy-machine-learning-models/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/how-to-deploy-machine-learning-models/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Keras Mask R-CNN</title>
+      <link>https://obaydakov.github.io/post/2019/keras-mask-r-cnn/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/keras-mask-r-cnn/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>LSTM Autoencoder for Extreme Rare Event Classification in Keras</title>
+      <link>https://obaydakov.github.io/post/2019/lstm-autoencoder-for-extreme-rare-event-classification-in-keras/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/lstm-autoencoder-for-extreme-rare-event-classification-in-keras/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>The Best and Most Current of Modern Natural Language Processing</title>
+      <link>https://obaydakov.github.io/post/2019/the-best-and-most-current-of-modern-natural-language-processing/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/the-best-and-most-current-of-modern-natural-language-processing/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Tutorial of Using Fabric Python SDK</title>
+      <link>https://obaydakov.github.io/post/2019/tutorial-of-using-fabric-python-sdk/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/tutorial-of-using-fabric-python-sdk/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Productionalizing Spark Streaming Applications</title>
@@ -212,10 +320,10 @@ Link</description>
     
     <item>
       <title>Getting started with AWS Deep Learning by training Convolutional Neural Network to predict Images on CIFAR10 dataset</title>
-      <link>https://obaydakov.github.io/post/getting-started-with-aws-deep-learning-by-training-convolutional-neural-network-to-predict-images-on-cifar10-dataset/</link>
+      <link>https://obaydakov.github.io/post/2019/getting-started-with-aws-deep-learning-by-training-convolutional-neural-network-to-predict-images-on-cifar10-dataset/</link>
       <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/getting-started-with-aws-deep-learning-by-training-convolutional-neural-network-to-predict-images-on-cifar10-dataset/</guid>
+      <guid>https://obaydakov.github.io/post/2019/getting-started-with-aws-deep-learning-by-training-convolutional-neural-network-to-predict-images-on-cifar10-dataset/</guid>
       <description>Link</description>
     </item>
     

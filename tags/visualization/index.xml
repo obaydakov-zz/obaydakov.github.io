@@ -6,10 +6,37 @@
     <description>Recent content in Visualization on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/visualization/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Model Understanding with the What-If Tool Dashboard</title>
+      <link>https://obaydakov.github.io/post/2019/model-understanding-with-the-what-if-tool-dashboard/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/model-understanding-with-the-what-if-tool-dashboard/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Visualizer for deep learning and machine learning models </title>
+      <link>https://obaydakov.github.io/post/2019/visualizer-for-deep-learning-and-machine-learning-models/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/visualizer-for-deep-learning-and-machine-learning-models/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Welcome to the g9 gallery</title>
+      <link>https://obaydakov.github.io/post/2019/welcome-to-the-g9-gallery/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/welcome-to-the-g9-gallery/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Altair is a declarative statistical visualization library for Python, based on Vega and Vega-Lite.</title>
@@ -40,10 +67,10 @@
     
     <item>
       <title>Altair: Declarative Visualization in Python</title>
-      <link>https://obaydakov.github.io/post/altair-declarative-visualization-in-python/</link>
+      <link>https://obaydakov.github.io/post/2019/altair-declarative-visualization-in-python/</link>
       <pubDate>Thu, 02 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/altair-declarative-visualization-in-python/</guid>
+      <guid>https://obaydakov.github.io/post/2019/altair-declarative-visualization-in-python/</guid>
       <description>Link</description>
     </item>
     

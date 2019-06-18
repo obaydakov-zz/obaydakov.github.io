@@ -6,10 +6,37 @@
     <description>Recent content in Automated Ml on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/automated-ml/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AUTOML: METHODS, SYSTEMS, CHALLENGES (NEW BOOK)</title>
+      <link>https://obaydakov.github.io/post/2019/automl-methods-systems-challenges-new-book/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/automl-methods-systems-challenges-new-book/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>EfficientNet: Improving Accuracy and Efficiency through AutoML and Model Scaling</title>
+      <link>https://obaydakov.github.io/post/2019/efficientnet-improving-accuracy-and-efficiency-through-automl-and-model-scaling/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/efficientnet-improving-accuracy-and-efficiency-through-automl-and-model-scaling/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>How to Deploy Machine Learning Models</title>
+      <link>https://obaydakov.github.io/post/2019/how-to-deploy-machine-learning-models/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/how-to-deploy-machine-learning-models/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Alibi is an open source Python library aimed at machine learning model inspection and interpretation</title>
@@ -349,10 +376,10 @@ Documentation</description>
     
     <item>
       <title>Using docker to deploy an R plumber API</title>
-      <link>https://obaydakov.github.io/post/20192019-02-07-using-docker-to-deploy-an-r-plumber-api/</link>
+      <link>https://obaydakov.github.io/post/2019/20192019-02-07-using-docker-to-deploy-an-r-plumber-api/</link>
       <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://obaydakov.github.io/post/20192019-02-07-using-docker-to-deploy-an-r-plumber-api/</guid>
+      <guid>https://obaydakov.github.io/post/2019/20192019-02-07-using-docker-to-deploy-an-r-plumber-api/</guid>
       <description>Link</description>
     </item>
     
