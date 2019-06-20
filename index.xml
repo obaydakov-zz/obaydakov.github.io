@@ -6,10 +6,127 @@
     <description>Recent content on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Gentle Introduction to tidymodels</title>
+      <link>https://obaydakov.github.io/post/2019/a-gentle-introduction-to-tidymodels/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/a-gentle-introduction-to-tidymodels/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>A collection of various deep learning architectures, models, and tips</title>
+      <link>https://obaydakov.github.io/post/2019/a-collection-of-various-deep-learning-architectures-models-and-tips/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/a-collection-of-various-deep-learning-architectures-models-and-tips/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Best Resources for Getting Started With Generative Adversarial Networks (GANs)</title>
+      <link>https://obaydakov.github.io/post/2019/best-resources-for-getting-started-with-generative-adversarial-networks-gans/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/best-resources-for-getting-started-with-generative-adversarial-networks-gans/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Debugging, monitoring and visualization for Python Machine Learning and Data Science</title>
+      <link>https://obaydakov.github.io/post/2019/debugging-monitoring-and-visualization-for-python-machine-learning-and-data-science/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/debugging-monitoring-and-visualization-for-python-machine-learning-and-data-science/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>FIXING YOUR MISTAKES: SENTIMENT ANALYSIS EDITION</title>
+      <link>https://obaydakov.github.io/post/2019/fixing-your-mistakes-sentiment-analysis-edition/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/fixing-your-mistakes-sentiment-analysis-edition/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Flask—Host Your Python Machine Learning Model On Web</title>
+      <link>https://obaydakov.github.io/post/2019/flask-host-your-python-machine-learning-model-on-web/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/flask-host-your-python-machine-learning-model-on-web/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Forecasting tools in development</title>
+      <link>https://obaydakov.github.io/post/2019/forecasting-tools-in-development/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/forecasting-tools-in-development/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>From Jupyter notebooks to standalone applications and dashboards</title>
+      <link>https://obaydakov.github.io/post/2019/from-jupyter-notebooks-to-standalone-applications-and-dashboards/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/from-jupyter-notebooks-to-standalone-applications-and-dashboards/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Interactive Network Visualization with R</title>
+      <link>https://obaydakov.github.io/post/2019/interactive-network-visualization-with-r/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/interactive-network-visualization-with-r/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Material used for Deep Learning related workshops for Machine Learning Tokyo (MLT)</title>
+      <link>https://obaydakov.github.io/post/2019/material-used-for-deep-learning-related-workshops-for-machine-learning-tokyo-mlt/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/material-used-for-deep-learning-related-workshops-for-machine-learning-tokyo-mlt/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Structuring Functional Programs with Tagless Final</title>
+      <link>https://obaydakov.github.io/post/2019/structuring-functional-programs-with-tagless-final/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/structuring-functional-programs-with-tagless-final/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>The Deep Learning Toolset—An Overview</title>
+      <link>https://obaydakov.github.io/post/2019/the-deep-learning-toolset-an-overview/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/the-deep-learning-toolset-an-overview/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>The modelDown package turns classification or regression models into HTML static websites</title>
+      <link>https://obaydakov.github.io/post/2019/the-modeldown-package-turns-classification-or-regression-models-into-html-static-websites/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/the-modeldown-package-turns-classification-or-regression-models-into-html-static-websites/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>A Gentle Introduction to Text Summarization in Machine Learning</title>

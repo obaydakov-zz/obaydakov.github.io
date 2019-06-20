@@ -6,10 +6,28 @@
     <description>Recent content in Tools on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/tools/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Best Resources for Getting Started With Generative Adversarial Networks (GANs)</title>
+      <link>https://obaydakov.github.io/post/2019/best-resources-for-getting-started-with-generative-adversarial-networks-gans/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/best-resources-for-getting-started-with-generative-adversarial-networks-gans/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>The Deep Learning Toolset—An Overview</title>
+      <link>https://obaydakov.github.io/post/2019/the-deep-learning-toolset-an-overview/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/the-deep-learning-toolset-an-overview/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>A collection of various deep learning architectures, models, and tips</title>

@@ -6,10 +6,46 @@
     <description>Recent content in Automated Ml on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/automated-ml/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Debugging, monitoring and visualization for Python Machine Learning and Data Science</title>
+      <link>https://obaydakov.github.io/post/2019/debugging-monitoring-and-visualization-for-python-machine-learning-and-data-science/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/debugging-monitoring-and-visualization-for-python-machine-learning-and-data-science/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Flask—Host Your Python Machine Learning Model On Web</title>
+      <link>https://obaydakov.github.io/post/2019/flask-host-your-python-machine-learning-model-on-web/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/flask-host-your-python-machine-learning-model-on-web/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>From Jupyter notebooks to standalone applications and dashboards</title>
+      <link>https://obaydakov.github.io/post/2019/from-jupyter-notebooks-to-standalone-applications-and-dashboards/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/from-jupyter-notebooks-to-standalone-applications-and-dashboards/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>The modelDown package turns classification or regression models into HTML static websites</title>
+      <link>https://obaydakov.github.io/post/2019/the-modeldown-package-turns-classification-or-regression-models-into-html-static-websites/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/the-modeldown-package-turns-classification-or-regression-models-into-html-static-websites/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>AUTOML: METHODS, SYSTEMS, CHALLENGES (NEW BOOK)</title>

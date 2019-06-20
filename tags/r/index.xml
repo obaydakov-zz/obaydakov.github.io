@@ -6,10 +6,37 @@
     <description>Recent content in R on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/r/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Gentle Introduction to tidymodels</title>
+      <link>https://obaydakov.github.io/post/2019/a-gentle-introduction-to-tidymodels/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/a-gentle-introduction-to-tidymodels/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>FIXING YOUR MISTAKES: SENTIMENT ANALYSIS EDITION</title>
+      <link>https://obaydakov.github.io/post/2019/fixing-your-mistakes-sentiment-analysis-edition/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/fixing-your-mistakes-sentiment-analysis-edition/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Forecasting tools in development</title>
+      <link>https://obaydakov.github.io/post/2019/forecasting-tools-in-development/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/forecasting-tools-in-development/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Enterprise Web Services with Neural Networks Using R and TensorFlow</title>
