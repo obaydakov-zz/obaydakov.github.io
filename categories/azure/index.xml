@@ -6,10 +6,28 @@
     <description>Recent content in Azure on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/azure/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Containerised CI/CD pipelines with Azure DevOps</title>
+      <link>https://obaydakov.github.io/post/2019/containerised-ci-cd-pipelines-with-azure-devops/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/containerised-ci-cd-pipelines-with-azure-devops/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Enable different configuration for multi agent pipeline with Azure DevOps</title>
+      <link>https://obaydakov.github.io/post/2019/enable-different-configuration-for-multi-agent-pipeline-with-azure-devops/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/enable-different-configuration-for-multi-agent-pipeline-with-azure-devops/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Real-time scoring of R machine learning models</title>

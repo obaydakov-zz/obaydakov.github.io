@@ -6,10 +6,37 @@
     <description>Recent content in Spark on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/spark/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Building a Big Data Pipeline With Airflow, Spark and Zeppelin</title>
+      <link>https://obaydakov.github.io/post/2019/building-a-big-data-pipeline-with-airflow-spark-and-zeppelin/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/building-a-big-data-pipeline-with-airflow-spark-and-zeppelin/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Building a real-time streaming dashboard with Spark, Grafana, Chronograf and InfluxDB</title>
+      <link>https://obaydakov.github.io/post/2019/building-a-real-time-streaming-dashboard-with-spark-grafana-chronograf-and-influxdb/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/building-a-real-time-streaming-dashboard-with-spark-grafana-chronograf-and-influxdb/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Distributed Deep Learning Pipelines with PySpark and Keras</title>
+      <link>https://obaydakov.github.io/post/2019/distributed-deep-learning-pipelines-with-pyspark-and-keras/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/distributed-deep-learning-pipelines-with-pyspark-and-keras/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Productionalizing Spark Streaming Applications</title>

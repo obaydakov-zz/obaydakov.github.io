@@ -6,10 +6,73 @@
     <description>Recent content in Tools on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/tools/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Containerised CI/CD pipelines with Azure DevOps</title>
+      <link>https://obaydakov.github.io/post/2019/containerised-ci-cd-pipelines-with-azure-devops/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/containerised-ci-cd-pipelines-with-azure-devops/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Enable different configuration for multi agent pipeline with Azure DevOps</title>
+      <link>https://obaydakov.github.io/post/2019/enable-different-configuration-for-multi-agent-pipeline-with-azure-devops/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/enable-different-configuration-for-multi-agent-pipeline-with-azure-devops/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Hyperledger Fabric smart contract data model: protobuf to chaincode state mapping</title>
+      <link>https://obaydakov.github.io/post/2019/hyperledger-fabric-smart-contract-data-model-protobuf-to-chaincode-state-mapping/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/hyperledger-fabric-smart-contract-data-model-protobuf-to-chaincode-state-mapping/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Identity in Hyperledger Fabric</title>
+      <link>https://obaydakov.github.io/post/2019/identity-in-hyperledger-fabric/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/identity-in-hyperledger-fabric/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Principled Machine Learning: Practices and Tools for Efficient Collaboration</title>
+      <link>https://obaydakov.github.io/post/2019/principled-machine-learning-practices-and-tools-for-efficient-collaboration/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/principled-machine-learning-practices-and-tools-for-efficient-collaboration/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>W&amp;B - Developer tools for deep learning</title>
+      <link>https://obaydakov.github.io/post/2019/w-b-developer-tools-for-deep-learning/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/w-b-developer-tools-for-deep-learning/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Погружение в свёрточные нейронные сети</title>
+      <link>https://obaydakov.github.io/post/2019/%D0%BF%D0%BE%D0%B3%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2-%D1%81%D0%B2%D1%91%D1%80%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B5-%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5-%D1%81%D0%B5%D1%82%D0%B8/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/%D0%BF%D0%BE%D0%B3%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2-%D1%81%D0%B2%D1%91%D1%80%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B5-%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5-%D1%81%D0%B5%D1%82%D0%B8/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Best Resources for Getting Started With Generative Adversarial Networks (GANs)</title>

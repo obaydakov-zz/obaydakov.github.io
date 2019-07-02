@@ -6,10 +6,28 @@
     <description>Recent content in R on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Evolution of a ggplot </title>
+      <link>https://obaydakov.github.io/post/2019/the-evolution-of-a-ggplot/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/the-evolution-of-a-ggplot/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>ggplot2 geoms to fit text into boxes</title>
+      <link>https://obaydakov.github.io/post/2019/ggplot2-geoms-to-fit-text-into-boxes/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/ggplot2-geoms-to-fit-text-into-boxes/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>A Gentle Introduction to tidymodels</title>

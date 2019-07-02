@@ -6,10 +6,82 @@
     <description>Recent content in Deep Learning on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>18 Impressive Applications of Generative Adversarial Networks (GANs)</title>
+      <link>https://obaydakov.github.io/post/2019/18-impressive-applications-of-generative-adversarial-networks-gans/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/18-impressive-applications-of-generative-adversarial-networks-gans/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>A Hands-On Introduction to Deep Q-Learning using OpenAI Gym in Python</title>
+      <link>https://obaydakov.github.io/post/2019/a-hands-on-introduction-to-deep-q-learning-using-openai-gym-in-python/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/a-hands-on-introduction-to-deep-q-learning-using-openai-gym-in-python/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>A practical guide to Deep Learning in 6 months</title>
+      <link>https://obaydakov.github.io/post/2019/a-practical-guide-to-deep-learning-in-6-months/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/a-practical-guide-to-deep-learning-in-6-months/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Distributed Deep Learning Pipelines with PySpark and Keras</title>
+      <link>https://obaydakov.github.io/post/2019/distributed-deep-learning-pipelines-with-pyspark-and-keras/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/distributed-deep-learning-pipelines-with-pyspark-and-keras/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Natural Language Processing Tutorial for Deep Learning Researchers </title>
+      <link>https://obaydakov.github.io/post/2019/natural-language-processing-tutorial-for-deep-learning-researchers/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/natural-language-processing-tutorial-for-deep-learning-researchers/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Scaling a massive State-of-the-Art Deep Learning model in production</title>
+      <link>https://obaydakov.github.io/post/2019/scaling-a-massive-state-of-the-art-deep-learning-model-in-production/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/scaling-a-massive-state-of-the-art-deep-learning-model-in-production/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>W&amp;B - Developer tools for deep learning</title>
+      <link>https://obaydakov.github.io/post/2019/w-b-developer-tools-for-deep-learning/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/w-b-developer-tools-for-deep-learning/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Погружение в свёрточные нейронные сети</title>
+      <link>https://obaydakov.github.io/post/2019/%D0%BF%D0%BE%D0%B3%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2-%D1%81%D0%B2%D1%91%D1%80%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B5-%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5-%D1%81%D0%B5%D1%82%D0%B8/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/%D0%BF%D0%BE%D0%B3%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2-%D1%81%D0%B2%D1%91%D1%80%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B5-%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5-%D1%81%D0%B5%D1%82%D0%B8/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>A collection of various deep learning architectures, models, and tips</title>

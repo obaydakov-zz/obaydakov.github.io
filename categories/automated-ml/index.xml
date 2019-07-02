@@ -6,10 +6,55 @@
     <description>Recent content in Automated Ml on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/automated-ml/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>10 Simple hacks to speed up your Data Analysis in Python</title>
+      <link>https://obaydakov.github.io/post/2019/10-simple-hacks-to-speed-up-your-data-analysis-in-python/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/10-simple-hacks-to-speed-up-your-data-analysis-in-python/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Automated Machine Learning Methods, Systems, Challenges</title>
+      <link>https://obaydakov.github.io/post/2019/automated-machine-learning-methods-systems-challenges/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/automated-machine-learning-methods-systems-challenges/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Principled Machine Learning: Practices and Tools for Efficient Collaboration</title>
+      <link>https://obaydakov.github.io/post/2019/principled-machine-learning-practices-and-tools-for-efficient-collaboration/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/principled-machine-learning-practices-and-tools-for-efficient-collaboration/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Scaling a massive State-of-the-Art Deep Learning model in production</title>
+      <link>https://obaydakov.github.io/post/2019/scaling-a-massive-state-of-the-art-deep-learning-model-in-production/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/scaling-a-massive-state-of-the-art-deep-learning-model-in-production/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>W&amp;B - Developer tools for deep learning</title>
+      <link>https://obaydakov.github.io/post/2019/w-b-developer-tools-for-deep-learning/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/w-b-developer-tools-for-deep-learning/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Debugging, monitoring and visualization for Python Machine Learning and Data Science</title>
