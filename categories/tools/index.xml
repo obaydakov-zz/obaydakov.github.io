@@ -6,10 +6,19 @@
     <description>Recent content in Tools on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/tools/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Quantum computing for the very curious</title>
+      <link>https://obaydakov.github.io/post/2019/quantum-computing-for-the-very-curious/</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/quantum-computing-for-the-very-curious/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Make any web page a desktop application</title>

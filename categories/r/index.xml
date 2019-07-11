@@ -6,10 +6,46 @@
     <description>Recent content in R on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Editable DataTables for Shiny Applications</title>
+      <link>https://obaydakov.github.io/post/2019/editable-datatables-for-shiny-applications/</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/editable-datatables-for-shiny-applications/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Process Mining (Part 2/3): More on bupaR package</title>
+      <link>https://obaydakov.github.io/post/2019/process-mining-part-2-3-more-on-bupar-package/</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/process-mining-part-2-3-more-on-bupar-package/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Process Mining (Part 3/3): More analysis and visualizations</title>
+      <link>https://obaydakov.github.io/post/2019/process-mining-part-3-3-more-analysis-and-visualizations/</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/process-mining-part-3-3-more-analysis-and-visualizations/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Tableau-like Drag and Drop GUI Visualization in R</title>
+      <link>https://obaydakov.github.io/post/2019/tableau-like-drag-and-drop-gui-visualization-in-r/</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/tableau-like-drag-and-drop-gui-visualization-in-r/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>The Evolution of a ggplot </title>

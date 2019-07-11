@@ -6,10 +6,37 @@
     <description>Recent content in Python on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Fastest Way to Load Data Into PostgreSQL Using Python</title>
+      <link>https://obaydakov.github.io/post/2019/fastest-way-to-load-data-into-postgresql-using-python/</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/fastest-way-to-load-data-into-postgresql-using-python/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>How to Write Perfect Python Command-line Interfaces — Learn by Example</title>
+      <link>https://obaydakov.github.io/post/2019/how-to-write-perfect-python-command-line-interfaces-learn-by-example/</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/how-to-write-perfect-python-command-line-interfaces-learn-by-example/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Processing Incoming Request Data in Flask</title>
+      <link>https://obaydakov.github.io/post/2019/processing-incoming-request-data-in-flask/</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/processing-incoming-request-data-in-flask/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>SQL GUI for JupyterLab</title>

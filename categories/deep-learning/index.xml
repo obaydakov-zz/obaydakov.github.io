@@ -6,10 +6,55 @@
     <description>Recent content in Deep Learning on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Attention для чайников и реализация в Keras</title>
+      <link>https://obaydakov.github.io/post/2019/attention-%D0%B4%D0%BB%D1%8F-%D1%87%D0%B0%D0%B9%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2-%D0%B8-%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-%D0%B2-keras/</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/attention-%D0%B4%D0%BB%D1%8F-%D1%87%D0%B0%D0%B9%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2-%D0%B8-%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-%D0%B2-keras/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Codeless ML with TensorFlow</title>
+      <link>https://obaydakov.github.io/post/2019/codeless-ml-with-tensorflow/</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/codeless-ml-with-tensorflow/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Deep Reinforcement Learning for Algorithmic Trading</title>
+      <link>https://obaydakov.github.io/post/2019/deep-reinforcement-learning-for-algorithmic-trading/</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/deep-reinforcement-learning-for-algorithmic-trading/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Everything you need to know about TensorFlow 2.0</title>
+      <link>https://obaydakov.github.io/post/2019/everything-you-need-to-know-about-tensorflow-2-0/</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/everything-you-need-to-know-about-tensorflow-2-0/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>PyTorchPipe (PTP) is a component-oriented framework for rapid prototyping and training of computational pipelines combining vision and language</title>
+      <link>https://obaydakov.github.io/post/2019/pytorchpipe-ptp-is-a-component-oriented-framework-for-rapid-prototyping-and-training-of-computational-pipelines-combining-vision-and-language/</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/pytorchpipe-ptp-is-a-component-oriented-framework-for-rapid-prototyping-and-training-of-computational-pipelines-combining-vision-and-language/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>18 Impressive Applications of Generative Adversarial Networks (GANs)</title>

@@ -6,10 +6,235 @@
     <description>Recent content in Posts on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>10 Popular Science APIs</title>
+      <link>https://obaydakov.github.io/post/2019/10-popular-science-apis/</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/10-popular-science-apis/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Attention для чайников и реализация в Keras</title>
+      <link>https://obaydakov.github.io/post/2019/attention-%D0%B4%D0%BB%D1%8F-%D1%87%D0%B0%D0%B9%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2-%D0%B8-%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-%D0%B2-keras/</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/attention-%D0%B4%D0%BB%D1%8F-%D1%87%D0%B0%D0%B9%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2-%D0%B8-%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-%D0%B2-keras/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Awesome Knowledge Graph Embedding Approaches</title>
+      <link>https://obaydakov.github.io/post/2019/awesome-knowledge-graph-embedding-approaches/</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/awesome-knowledge-graph-embedding-approaches/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Best Programming Language for Algorithmic Trading Systems?</title>
+      <link>https://obaydakov.github.io/post/2019/best-programming-language-for-algorithmic-trading-systems/</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/best-programming-language-for-algorithmic-trading-systems/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Codeless ML with TensorFlow</title>
+      <link>https://obaydakov.github.io/post/2019/codeless-ml-with-tensorflow/</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/codeless-ml-with-tensorflow/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Deep Reinforcement Learning for Algorithmic Trading</title>
+      <link>https://obaydakov.github.io/post/2019/deep-reinforcement-learning-for-algorithmic-trading/</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/deep-reinforcement-learning-for-algorithmic-trading/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Editable DataTables for Shiny Applications</title>
+      <link>https://obaydakov.github.io/post/2019/editable-datatables-for-shiny-applications/</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/editable-datatables-for-shiny-applications/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Everything you need to know about TensorFlow 2.0</title>
+      <link>https://obaydakov.github.io/post/2019/everything-you-need-to-know-about-tensorflow-2-0/</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/everything-you-need-to-know-about-tensorflow-2-0/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Fastest Way to Load Data Into PostgreSQL Using Python</title>
+      <link>https://obaydakov.github.io/post/2019/fastest-way-to-load-data-into-postgresql-using-python/</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/fastest-way-to-load-data-into-postgresql-using-python/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Host Azure DevOps Build containers on AKS</title>
+      <link>https://obaydakov.github.io/post/2019/host-azure-devops-build-containers-on-aks/</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/host-azure-devops-build-containers-on-aks/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>How to Write Perfect Python Command-line Interfaces — Learn by Example</title>
+      <link>https://obaydakov.github.io/post/2019/how-to-write-perfect-python-command-line-interfaces-learn-by-example/</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/how-to-write-perfect-python-command-line-interfaces-learn-by-example/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Introducing Deep Learning Containers: Consistent and portable environments</title>
+      <link>https://obaydakov.github.io/post/2019/introducing-deep-learning-containers-consistent-and-portable-environments/</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/introducing-deep-learning-containers-consistent-and-portable-environments/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Process Mining (Part 2/3): More on bupaR package</title>
+      <link>https://obaydakov.github.io/post/2019/process-mining-part-2-3-more-on-bupar-package/</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/process-mining-part-2-3-more-on-bupar-package/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Process Mining (Part 3/3): More analysis and visualizations</title>
+      <link>https://obaydakov.github.io/post/2019/process-mining-part-3-3-more-analysis-and-visualizations/</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/process-mining-part-3-3-more-analysis-and-visualizations/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Processing Incoming Request Data in Flask</title>
+      <link>https://obaydakov.github.io/post/2019/processing-incoming-request-data-in-flask/</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/processing-incoming-request-data-in-flask/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>PyTorchPipe (PTP) is a component-oriented framework for rapid prototyping and training of computational pipelines combining vision and language</title>
+      <link>https://obaydakov.github.io/post/2019/pytorchpipe-ptp-is-a-component-oriented-framework-for-rapid-prototyping-and-training-of-computational-pipelines-combining-vision-and-language/</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/pytorchpipe-ptp-is-a-component-oriented-framework-for-rapid-prototyping-and-training-of-computational-pipelines-combining-vision-and-language/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained</title>
+      <link>https://obaydakov.github.io/post/2019/python-examples-of-popular-machine-learning-algorithms-with-interactive-jupyter-demos-and-math-being-explained/</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/python-examples-of-popular-machine-learning-algorithms-with-interactive-jupyter-demos-and-math-being-explained/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>QUANTRUM Алготрейдинг на NYSE и NASDAQ. Роботы для торговли.</title>
+      <link>https://obaydakov.github.io/post/2019/quantrum-%D0%B0%D0%BB%D0%B3%D0%BE%D1%82%D1%80%D0%B5%D0%B9%D0%B4%D0%B8%D0%BD%D0%B3-%D0%BD%D0%B0-nyse-%D0%B8-nasdaq-%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D1%8B-%D0%B4%D0%BB%D1%8F-%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%D0%BB%D0%B8/</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/quantrum-%D0%B0%D0%BB%D0%B3%D0%BE%D1%82%D1%80%D0%B5%D0%B9%D0%B4%D0%B8%D0%BD%D0%B3-%D0%BD%D0%B0-nyse-%D0%B8-nasdaq-%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D1%8B-%D0%B4%D0%BB%D1%8F-%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%D0%BB%D0%B8/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Quant/Algorithm trading resources with an emphasis on Machine Learning</title>
+      <link>https://obaydakov.github.io/post/2019/quant-algorithm-trading-resources-with-an-emphasis-on-machine-learning/</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/quant-algorithm-trading-resources-with-an-emphasis-on-machine-learning/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Quantum computing for the very curious</title>
+      <link>https://obaydakov.github.io/post/2019/quantum-computing-for-the-very-curious/</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/quantum-computing-for-the-very-curious/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Supplementary Materials for Tshitoyan et al. &#34;Unsupervised word embeddings capture latent knowledge from materials science literature&#34;, Nature (2019)</title>
+      <link>https://obaydakov.github.io/post/2019/supplementary-materials-for-tshitoyan-et-al-unsupervised-word-embeddings-capture-latent-knowledge-from-materials-science-literature-nature-2019/</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/supplementary-materials-for-tshitoyan-et-al-unsupervised-word-embeddings-capture-latent-knowledge-from-materials-science-literature-nature-2019/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Tableau-like Drag and Drop GUI Visualization in R</title>
+      <link>https://obaydakov.github.io/post/2019/tableau-like-drag-and-drop-gui-visualization-in-r/</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/tableau-like-drag-and-drop-gui-visualization-in-r/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Text Preprocessing in Python: Steps, Tools, and Examples</title>
+      <link>https://obaydakov.github.io/post/2019/text-preprocessing-in-python-steps-tools-and-examples/</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/text-preprocessing-in-python-steps-tools-and-examples/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Trading and Backtesting environment for training reinforcement learning agent or simple rule base algo.</title>
+      <link>https://obaydakov.github.io/post/2019/trading-and-backtesting-environment-for-training-reinforcement-learning-agent-or-simple-rule-base-algo/</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/trading-and-backtesting-environment-for-training-reinforcement-learning-agent-or-simple-rule-base-algo/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Организуем ML-проект с помощью Ocean</title>
+      <link>https://obaydakov.github.io/post/2019/%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D1%83%D0%B5%D0%BC-ml-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82-%D1%81-%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D1%8C%D1%8E-ocean/</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D1%83%D0%B5%D0%BC-ml-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82-%D1%81-%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D1%8C%D1%8E-ocean/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>10 Simple hacks to speed up your Data Analysis in Python</title>

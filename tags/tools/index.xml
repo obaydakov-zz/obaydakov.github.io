@@ -6,10 +6,28 @@
     <description>Recent content in Tools on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/tools/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Host Azure DevOps Build containers on AKS</title>
+      <link>https://obaydakov.github.io/post/2019/host-azure-devops-build-containers-on-aks/</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/host-azure-devops-build-containers-on-aks/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Introducing Deep Learning Containers: Consistent and portable environments</title>
+      <link>https://obaydakov.github.io/post/2019/introducing-deep-learning-containers-consistent-and-portable-environments/</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/introducing-deep-learning-containers-consistent-and-portable-environments/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Containerised CI/CD pipelines with Azure DevOps</title>

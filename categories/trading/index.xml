@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trading on Oleg Baydakov</title>
+    <link>https://obaydakov.github.io/categories/trading/</link>
+    <description>Recent content in Trading on Oleg Baydakov</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://obaydakov.github.io/categories/trading/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Best Programming Language for Algorithmic Trading Systems?</title>
+      <link>https://obaydakov.github.io/post/2019/best-programming-language-for-algorithmic-trading-systems/</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/best-programming-language-for-algorithmic-trading-systems/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Deep Reinforcement Learning for Algorithmic Trading</title>
+      <link>https://obaydakov.github.io/post/2019/deep-reinforcement-learning-for-algorithmic-trading/</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/deep-reinforcement-learning-for-algorithmic-trading/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>QUANTRUM Алготрейдинг на NYSE и NASDAQ. Роботы для торговли.</title>
+      <link>https://obaydakov.github.io/post/2019/quantrum-%D0%B0%D0%BB%D0%B3%D0%BE%D1%82%D1%80%D0%B5%D0%B9%D0%B4%D0%B8%D0%BD%D0%B3-%D0%BD%D0%B0-nyse-%D0%B8-nasdaq-%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D1%8B-%D0%B4%D0%BB%D1%8F-%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%D0%BB%D0%B8/</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/quantrum-%D0%B0%D0%BB%D0%B3%D0%BE%D1%82%D1%80%D0%B5%D0%B9%D0%B4%D0%B8%D0%BD%D0%B3-%D0%BD%D0%B0-nyse-%D0%B8-nasdaq-%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D1%8B-%D0%B4%D0%BB%D1%8F-%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%D0%BB%D0%B8/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Quant/Algorithm trading resources with an emphasis on Machine Learning</title>
+      <link>https://obaydakov.github.io/post/2019/quant-algorithm-trading-resources-with-an-emphasis-on-machine-learning/</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/quant-algorithm-trading-resources-with-an-emphasis-on-machine-learning/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Trading and Backtesting environment for training reinforcement learning agent or simple rule base algo.</title>
+      <link>https://obaydakov.github.io/post/2019/trading-and-backtesting-environment-for-training-reinforcement-learning-agent-or-simple-rule-base-algo/</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/trading-and-backtesting-environment-for-training-reinforcement-learning-agent-or-simple-rule-base-algo/</guid>
+      <description>Link</description>
+    </item>
+    
+  </channel>
+</rss>

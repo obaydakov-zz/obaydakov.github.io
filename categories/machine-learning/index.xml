@@ -6,10 +6,46 @@
     <description>Recent content in Machine Learning on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>10 Popular Science APIs</title>
+      <link>https://obaydakov.github.io/post/2019/10-popular-science-apis/</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/10-popular-science-apis/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Awesome Knowledge Graph Embedding Approaches</title>
+      <link>https://obaydakov.github.io/post/2019/awesome-knowledge-graph-embedding-approaches/</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/awesome-knowledge-graph-embedding-approaches/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained</title>
+      <link>https://obaydakov.github.io/post/2019/python-examples-of-popular-machine-learning-algorithms-with-interactive-jupyter-demos-and-math-being-explained/</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/python-examples-of-popular-machine-learning-algorithms-with-interactive-jupyter-demos-and-math-being-explained/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Supplementary Materials for Tshitoyan et al. &#34;Unsupervised word embeddings capture latent knowledge from materials science literature&#34;, Nature (2019)</title>
+      <link>https://obaydakov.github.io/post/2019/supplementary-materials-for-tshitoyan-et-al-unsupervised-word-embeddings-capture-latent-knowledge-from-materials-science-literature-nature-2019/</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/supplementary-materials-for-tshitoyan-et-al-unsupervised-word-embeddings-capture-latent-knowledge-from-materials-science-literature-nature-2019/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>SQL GUI for JupyterLab</title>
