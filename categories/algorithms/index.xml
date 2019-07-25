@@ -6,10 +6,19 @@
     <description>Recent content in Algorithms on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/algorithms/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>DEAP - Distributed Evolutionary Algorithms in Python </title>
+      <link>https://obaydakov.github.io/post/2019/distributed-evolutionary-algorithms-in-python/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/distributed-evolutionary-algorithms-in-python/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Introduction to Monte Carlo Tree Search: The Game-Changing Algorithm behind DeepMind’s AlphaGo</title>

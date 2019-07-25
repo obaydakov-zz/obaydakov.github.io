@@ -6,10 +6,28 @@
     <description>Recent content in Spark on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/spark/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Building a self-served ETL pipeline for third-party data ingestion</title>
+      <link>https://obaydakov.github.io/post/2019/building-a-self-served-etl-pipeline-for-third-party-data-ingestion/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/building-a-self-served-etl-pipeline-for-third-party-data-ingestion/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Spark pipe. A one-pipe problem</title>
+      <link>https://obaydakov.github.io/post/2019/spark-pipe-a-one-pipe-problem/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/spark-pipe-a-one-pipe-problem/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Building a Big Data Pipeline With Airflow, Spark and Zeppelin</title>

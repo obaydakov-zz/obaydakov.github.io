@@ -13,7 +13,7 @@
 
 
 
-<meta property="og:updated_time" content="2017-09-17T00:00:00&#43;00:00"/>
+<meta property="og:updated_time" content="2017-11-10T00:00:00&#43;00:00"/>
 
 
 
@@ -58,61 +58,15 @@
 	<div class="list__content clearfix">
 		<header class="list__header">
 			<h3 class="list__title post__title ">
-				<a href="/post/2017/real-time-analytics-divolte-kafka-druid-superset/" rel="bookmark">Real time analytics: Divolte &#43; Kafka &#43; Druid &#43; Superset</a>
+				<a href="/post/2017/designing-a-microservices-architecture-for-failure/" rel="bookmark">Designing a Microservices Architecture for Failure</a>
 			</h3>
 			<div class="list__meta meta">
 				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
-				<time class="list__meta-date" datetime="2017-09-17T00:00:00">2017/09/17</time>
+				<time class="list__meta-date" datetime="2017-11-10T00:00:00">2017/11/10</time>
 			</div>
 		</header>
 		<div class="list__excerpt">
-			In today&rsquo;s world you want to learn from your customers as fast as possible. This blog gives an introduction to setting up streaming analytics using open source technologies. We&rsquo;ll use Divolte, Kafka, Superset and Druid to set up a system that lets you instantaneously get a deeper understanding of your customers.
-Having your analytics in a streaming fashion enable you to continuously analyze your customer&rsquo;s behaviour and immediately take action on it.
-		</div>
-	</div>
-</article>
-<article class="list__item post clearfix">
-	<div class="list__content clearfix">
-		<header class="list__header">
-			<h3 class="list__title post__title ">
-				<a href="/post/2017/real-time-fraud-detection-with-microservices/" rel="bookmark">Real-Time Fraud Detection with Microservices</a>
-			</h3>
-			<div class="list__meta meta">
-				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
-				<time class="list__meta-date" datetime="2017-09-17T00:00:00">2017/09/17</time>
-			</div>
-		</header>
-		<div class="list__excerpt">
-			
-
-Requirements
- CloudFoundry (tested with pcfdev v0.21)
- Apache Geode (tested with v1.0.0-incubating.M2) - to be replaced by GemFire 9.0 when that is released
- PostgreSQL (tested with 9.5.3) - to be replaced by Greenplum server once GemFire 9.0 is released
- Spring Cloud Dataflow (tested with SCDF v1.1.0.M2, CloudFoundry Deployer v1.1.0.M1)
- Spark-redis (tested with v0.1.1) - installed in local maven repository
-  
-		</div>
-	</div>
-</article>
-<article class="list__item post clearfix">
-	<div class="list__content clearfix">
-		<header class="list__header">
-			<h3 class="list__title post__title ">
-				<a href="/post/2017/watson-iot-blockchain-sample-documentation/" rel="bookmark">Watson IoT Blockchain Sample Documentation</a>
-			</h3>
-			<div class="list__meta meta">
-				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
-				<time class="list__meta-date" datetime="2017-09-17T00:00:00">2017/09/17</time>
-			</div>
-		</header>
-		<div class="list__excerpt">
-			Introduction
-Watson IoT blockchain samples currently fall into three broad categories:
- simple single-asset hello world sample
- simple single-asset sample with numerous additional features
- advanced multi-asset sample with events and additional features
-  All of these use a schema to drive the related monitoring UI, which can be used to initiate any transaction or query that is exported for external use via the JSON configuration file.
+			A Microservices architecture makes it possible to isolate failures through well-defined service boundaries. But like in every distributed system, there is a higher chance for network, hardware or application level issues. As a consequence of service dependencies, any component can be temporarily unavailable for their consumers. To minimize the impact of partial outages we need to build fault tolerant services that can gracefully respond to certain types of outages.
 Link
 		</div>
 	</div>
@@ -121,11 +75,11 @@ Link
 	<div class="list__content clearfix">
 		<header class="list__header">
 			<h3 class="list__title post__title ">
-				<a href="/post/2017/web-app-using-microservices-in-go/" rel="bookmark">Web app using Microservices in Go</a>
+				<a href="/post/2017/build-realtime-apis/" rel="bookmark">Build Realtime APIs</a>
 			</h3>
 			<div class="list__meta meta">
 				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
-				<time class="list__meta-date" datetime="2017-09-17T00:00:00">2017/09/17</time>
+				<time class="list__meta-date" datetime="2017-11-09T00:00:00">2017/11/09</time>
 			</div>
 		</header>
 		<div class="list__excerpt">
@@ -137,19 +91,16 @@ Link
 	<div class="list__content clearfix">
 		<header class="list__header">
 			<h3 class="list__title post__title ">
-				<a href="/post/2017/write-web-applications-in-go-without-using-a-framework/" rel="bookmark">Write web applications in Go without using a framework</a>
+				<a href="/post/2017/go-data-science-tooling-packages-libraries-etc/" rel="bookmark">Go Data Science Tooling, Packages, Libraries, etc.</a>
 			</h3>
 			<div class="list__meta meta">
 				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
-				<time class="list__meta-date" datetime="2017-09-17T00:00:00">2017/09/17</time>
+				<time class="list__meta-date" datetime="2017-11-09T00:00:00">2017/11/09</time>
 			</div>
 		</header>
 		<div class="list__excerpt">
-			This screencast will teach you how to write a webapp in Go without using a framework. The tutorial is an introductory level tutorial. code: https://github.com/thewhitetulip/write-webapps-in-go-video, the code is put in branches, the code for fourth video is on branch &ldquo;video4&rdquo;
-Completed app: https://github.com/thewhitetulip/Tasks.
-This series is based on the tutorial https://github.com/thewhitetulip/web-dev-golang-anti-textbook/, you can download it from https://leanpub.com/antitextbookGo/.
-Video
-Book
+			This is a curated list of well-maintained and developing tools, packages, libraries, etc. related to doing data science with Go.
+Link
 		</div>
 	</div>
 </article>
@@ -157,15 +108,15 @@ Book
 	<div class="list__content clearfix">
 		<header class="list__header">
 			<h3 class="list__title post__title ">
-				<a href="/post/2017/mac-os-x-setup-guide/" rel="bookmark">Mac OS X Setup Guide</a>
+				<a href="/post/2017/machine-learning-explorations/" rel="bookmark">Machine Learning Explorations</a>
 			</h3>
 			<div class="list__meta meta">
 				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
-				<time class="list__meta-date" datetime="2017-09-16T22:10:15">2017/09/16</time>
+				<time class="list__meta-date" datetime="2017-11-09T00:00:00">2017/11/09</time>
 			</div>
 		</header>
 		<div class="list__excerpt">
-			This guide covers the basics of setting up a development environment on a new Mac. Whether you are an experienced programmer or not, this guide is intended for everyone to use as a reference for setting up your environment or installing a languages/libraries.
+			
 		</div>
 	</div>
 </article>
@@ -173,15 +124,16 @@ Book
 	<div class="list__content clearfix">
 		<header class="list__header">
 			<h3 class="list__title post__title ">
-				<a href="/post/2017/generative-adversarial-networks-gans-engine-and-applications/" rel="bookmark">Generative Adversarial Networks (GANs): Engine and Applications</a>
+				<a href="/post/2017/explore-predictive-maintenance-with-flexdashboard/" rel="bookmark">Explore Predictive Maintenance with flexdashboard</a>
 			</h3>
 			<div class="list__meta meta">
 				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
-				<time class="list__meta-date" datetime="2017-09-16T00:00:00">2017/09/16</time>
+				<time class="list__meta-date" datetime="2017-11-06T00:00:00">2017/11/06</time>
 			</div>
 		</header>
 		<div class="list__excerpt">
-			Generative adversarial networks (GANs) are a class of neural networks that are used in unsupervised machine learning. They help to solve such tasks as image generation from descriptions, getting high resolution images from low resolution ones, predicting which drug could treat a certain disease, retrieving images that contain a given pattern, etc.
+			Predictive Maintenance is an increasingly popular strategy associated with Industry 4.0; it uses advanced analytics and machine learning to optimize machine costs and output (see Google Trends plot below).
+A common use case for Predictive Maintenance is to proactively monitor machines, so as to predict when a check-up is needed to reduce failure and maximize performance. In contrast to traditional maintenance, where each machine has to undergo regular routine check-ups, Predictive Maintenance can save costs and reduce downtime.
 		</div>
 	</div>
 </article>
@@ -189,15 +141,16 @@ Book
 	<div class="list__content clearfix">
 		<header class="list__header">
 			<h3 class="list__title post__title ">
-				<a href="/post/2017/golang-development/" rel="bookmark">Golang development</a>
+				<a href="/post/2017/getting-started-with-microservices/" rel="bookmark">GETTING STARTED WITH Microservices</a>
 			</h3>
 			<div class="list__meta meta">
 				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
-				<time class="list__meta-date" datetime="2017-09-16T00:00:00">2017/09/16</time>
+				<time class="list__meta-date" datetime="2017-11-06T00:00:00">2017/11/06</time>
 			</div>
 		</header>
 		<div class="list__excerpt">
-			Video
+			The term “microservices” describes a new software development style that has grown from recent trends in software development/management practices—practices meant to increase the speed and efficiency of developing and managing software solutions at scale.
+Agile methods, DevOps culture, cloud, Linux containers, and the widespread adoption (both culturally and technically) of CI/CD methods across the industry are making it possible to build truly modular largescale service-optimized systems for both internal and commercial use.
 		</div>
 	</div>
 </article>
@@ -205,11 +158,47 @@ Book
 	<div class="list__content clearfix">
 		<header class="list__header">
 			<h3 class="list__title post__title ">
-				<a href="/post/2017/visualize-patients-complaints-to-their-doctors-using-nifi-and-solr-banana/" rel="bookmark">Visualize patients&#39; complaints to their doctors using NiFi and Solr/Banana</a>
+				<a href="/post/2017/ensemble-learning-to-improve-machine-learning-results/" rel="bookmark">Ensemble Learning to Improve Machine Learning Results</a>
 			</h3>
 			<div class="list__meta meta">
 				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
-				<time class="list__meta-date" datetime="2017-09-16T00:00:00">2017/09/16</time>
+				<time class="list__meta-date" datetime="2017-11-03T00:00:00">2017/11/03</time>
+			</div>
+		</header>
+		<div class="list__excerpt">
+			Ensemble methods are meta-algorithms that combine several machine learning techniques into one predictive model in order to decrease variance (bagging), bias (boosting), or improve predictions (stacking).
+Ensemble methods can be divided into two groups:
+sequential ensemble methods where the base learners are generated sequentially (e.g. AdaBoost).
+The basic motivation of sequential methods is to exploit the dependence between the base learners. The overall performance can be boosted by weighing previously mislabeled examples with higher weight.
+		</div>
+	</div>
+</article>
+<article class="list__item post clearfix">
+	<div class="list__content clearfix">
+		<header class="list__header">
+			<h3 class="list__title post__title ">
+				<a href="/post/2017/using-spark-sql-and-spark-streaming-together/" rel="bookmark">Using Spark SQL and Spark Streaming together</a>
+			</h3>
+			<div class="list__meta meta">
+				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
+				<time class="list__meta-date" datetime="2017-11-03T00:00:00">2017/11/03</time>
+			</div>
+		</header>
+		<div class="list__excerpt">
+			It shows basic working example of Spark application that uses Spark SQL to process data stream from Kafka
+Link
+		</div>
+	</div>
+</article>
+<article class="list__item post clearfix">
+	<div class="list__content clearfix">
+		<header class="list__header">
+			<h3 class="list__title post__title ">
+				<a href="/post/2017/visualizing-concurrency-in-go-posted-on-jan-24-2016/" rel="bookmark">Visualizing Concurrency in Go Posted on Jan 24, 2016</a>
+			</h3>
+			<div class="list__meta meta">
+				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
+				<time class="list__meta-date" datetime="2017-11-03T00:00:00">2017/11/03</time>
 			</div>
 		</header>
 		<div class="list__excerpt">
@@ -221,15 +210,15 @@ Book
 	<div class="list__content clearfix">
 		<header class="list__header">
 			<h3 class="list__title post__title ">
-				<a href="/post/2017/adventures-in-machine-learning/" rel="bookmark">Adventures in Machine Learning New</a>
+				<a href="/post/2017/introduction-to-recursion-schemes-with-matryoshka/" rel="bookmark">Introduction to Recursion Schemes with Matryoshka</a>
 			</h3>
 			<div class="list__meta meta">
 				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
-				<time class="list__meta-date" datetime="2017-08-17T00:00:00">2017/08/17</time>
+				<time class="list__meta-date" datetime="2017-10-28T00:00:00">2017/10/28</time>
 			</div>
 		</header>
 		<div class="list__excerpt">
-			Link
+			
 		</div>
 	</div>
 </article>
@@ -239,7 +228,7 @@ Book
 		
 <div class="pagination clearfix">
 	<a class="pagination__item pagination__item--prev" href="/page/144/">«</a>
-	<span class="pagination__item pagination__item--current">145/154</span>
+	<span class="pagination__item pagination__item--current">145/157</span>
 	<a class="pagination__item pagination__item--next" href="/page/146/">»</a>
 </div>
 
@@ -262,16 +251,16 @@ Book
 	<h4 class="widget__title">Recent Posts</h4>
 	<div class="widget__content">
 		<ul class="widget__list">
-			<li class="widget__item"><a class="widget__link" href="/post/2019/10-popular-science-apis/">10 Popular Science APIs</a></li>
-			<li class="widget__item"><a class="widget__link" href="/post/2019/attention-%D0%B4%D0%BB%D1%8F-%D1%87%D0%B0%D0%B9%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2-%D0%B8-%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-%D0%B2-keras/">Attention для чайников и реализация в Keras</a></li>
-			<li class="widget__item"><a class="widget__link" href="/post/2019/awesome-knowledge-graph-embedding-approaches/">Awesome Knowledge Graph Embedding Approaches</a></li>
-			<li class="widget__item"><a class="widget__link" href="/post/2019/best-programming-language-for-algorithmic-trading-systems/">Best Programming Language for Algorithmic Trading Systems?</a></li>
-			<li class="widget__item"><a class="widget__link" href="/post/2019/codeless-ml-with-tensorflow/">Codeless ML with TensorFlow</a></li>
-			<li class="widget__item"><a class="widget__link" href="/post/2019/deep-reinforcement-learning-for-algorithmic-trading/">Deep Reinforcement Learning for Algorithmic Trading</a></li>
-			<li class="widget__item"><a class="widget__link" href="/post/2019/editable-datatables-for-shiny-applications/">Editable DataTables for Shiny Applications</a></li>
-			<li class="widget__item"><a class="widget__link" href="/post/2019/everything-you-need-to-know-about-tensorflow-2-0/">Everything you need to know about TensorFlow 2.0</a></li>
-			<li class="widget__item"><a class="widget__link" href="/post/2019/fastest-way-to-load-data-into-postgresql-using-python/">Fastest Way to Load Data Into PostgreSQL Using Python</a></li>
-			<li class="widget__item"><a class="widget__link" href="/post/2019/host-azure-devops-build-containers-on-aks/">Host Azure DevOps Build containers on AKS</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/2019/a-deep-dive-into-nlp-with-pytorch/">A Deep Dive into NLP with PyTorch</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/2019/a-command-line-utility-that-creates-projects-from-cookiecutters-project-templates/">A command-line utility that creates projects from cookiecutters (project templates).</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/2019/a-curated-list-of-awesome-open-source-libraries-to-deploy-monitor-version-and-scale-your-machine-learning/">A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/2019/algo-trading-with-tslab/">Algo Trading with TSLab</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/2019/algorithmic-trading-system-development/">Algorithmic Trading System Development</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/2019/an-introduction-to-policy-gradients-with-cartpole-and-doom/">An introduction to Policy Gradients with Cartpole and Doom</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/2019/an-open-source-automl-toolkit-for-neural-architecture-search-and-hyper-parameter-tuning/">An open source AutoML toolkit for neural architecture search and hyper-parameter tuning</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/2019/applying-json-patches-in-python/">Applying JSON Patches in Python</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/2019/arviz-exploratory-analysis-of-bayesian-models/">ArviZ: Exploratory analysis of Bayesian models</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/2019/building-a-self-served-etl-pipeline-for-third-party-data-ingestion/">Building a self-served ETL pipeline for third-party data ingestion</a></li>
 		</ul>
 	</div>
 </div>

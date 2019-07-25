@@ -6,10 +6,37 @@
     <description>Recent content in Reinforcement Learning on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>An introduction to Policy Gradients with Cartpole and Doom</title>
+      <link>https://obaydakov.github.io/post/2019/an-introduction-to-policy-gradients-with-cartpole-and-doom/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/an-introduction-to-policy-gradients-with-cartpole-and-doom/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning algorithms — an intuitive overview</title>
+      <link>https://obaydakov.github.io/post/2019/reinforcement-learning-algorithms-an-intuitive-overview/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/reinforcement-learning-algorithms-an-intuitive-overview/</guid>
+      <description>List</description>
+    </item>
+    
+    <item>
+      <title>Worlds Models - Can agents learn inside of their own dreams?</title>
+      <link>https://obaydakov.github.io/post/2019/worlds-models-can-agents-learn-inside-of-their-own-dreams/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/worlds-models-can-agents-learn-inside-of-their-own-dreams/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Deep Reinforcement Learning with TensorFlow 2.0</title>

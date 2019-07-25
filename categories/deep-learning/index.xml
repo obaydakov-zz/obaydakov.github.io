@@ -6,10 +6,46 @@
     <description>Recent content in Deep Learning on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Deep Dive into NLP with PyTorch</title>
+      <link>https://obaydakov.github.io/post/2019/a-deep-dive-into-nlp-with-pytorch/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/a-deep-dive-into-nlp-with-pytorch/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>How to plan and execute your ML and DL projects</title>
+      <link>https://obaydakov.github.io/post/2019/how-to-plan-and-execute-your-ml-and-dl-projects/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/how-to-plan-and-execute-your-ml-and-dl-projects/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>MMdnn is a set of tools to help users inter-operate among different deep learning frameworks.</title>
+      <link>https://obaydakov.github.io/post/2019/mmdnn-is-a-set-of-tools-to-help-users-inter-operate-among-different-deep-learning-frameworks/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/mmdnn-is-a-set-of-tools-to-help-users-inter-operate-among-different-deep-learning-frameworks/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Neuron Blocks - Building Your NLP DNN Models Like Playing Lego</title>
+      <link>https://obaydakov.github.io/post/neuron-blocks-building-your-nlp-dnn-models-like-playing-lego/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/neuron-blocks-building-your-nlp-dnn-models-like-playing-lego/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Attention для чайников и реализация в Keras</title>

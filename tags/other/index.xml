@@ -6,10 +6,19 @@
     <description>Recent content in Other on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/other/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Role of a Data Science Manager</title>
+      <link>https://obaydakov.github.io/post/2019/role-of-a-data-science-manager/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/role-of-a-data-science-manager/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>10 Popular Science APIs</title>
