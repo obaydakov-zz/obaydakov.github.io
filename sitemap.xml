@@ -3,6 +3,121 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://obaydakov.github.io/post/2019/a-library-of-state-of-the-art-pretrained-models-for-natural-language-processing-nlp/</loc>
+    <lastmod>2019-08-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2019/5-things-that-developers-do-all-the-time-in-scala/</loc>
+    <lastmod>2019-08-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2019/a-deep-reinforcement-learning-bot-that-plays-tetris/</loc>
+    <lastmod>2019-08-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2019/a-guide-to-convolution-arithmetic-for-deep-learning/</loc>
+    <lastmod>2019-08-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2019/catalyst-rl-a-distributed-framework-for-reproducible-rl-research/</loc>
+    <lastmod>2019-08-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2019/cleaning-a-messy-dataset-using-python/</loc>
+    <lastmod>2019-08-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2019/connecting-generative-adversarial-networks-and-actor-critic-methods/</loc>
+    <lastmod>2019-08-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2019/data-stream-processing-for-newbies-with-kafka-ksql-and-postgres/</loc>
+    <lastmod>2019-08-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2019/how-to-dockerise-a-scala-and-akka-http-application-the-easy-way/</loc>
+    <lastmod>2019-08-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2019/how-to-implement-a-semi-supervised-gan-sgan-from-scratch-in-keras/</loc>
+    <lastmod>2019-08-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2019/how-to-query-and-calculate-google-analytics-data-in-bigquery/</loc>
+    <lastmod>2019-08-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2019/image-completion-with-deep-learning-in-tensorflow/</loc>
+    <lastmod>2019-08-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2019/implementing-the-a3c-algorithm-to-train-an-agent-to-play-breakout/</loc>
+    <lastmod>2019-08-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2019/introduction-to-backtesting-trading-strategies/</loc>
+    <lastmod>2019-08-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2019/machine-learning-and-data-science-applications-in-industry/</loc>
+    <lastmod>2019-08-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2019/monte-carlo-tree-search-in-reinforcement-learning/</loc>
+    <lastmod>2019-08-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2019/plotly-py-4-0-is-here-offline-only-express-first-displayable-anywhere/</loc>
+    <lastmod>2019-08-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2019/python-notebook-research-to-replicate-etf-using-free-data/</loc>
+    <lastmod>2019-08-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2019/turing-lectures/</loc>
+    <lastmod>2019-08-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2019/this-new-google-technique-help-us-understand-how-neural-networks-are-thinking/</loc>
+    <lastmod>2019-08-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2019/this-is-the-repo-for-the-free-akka-http-quickstart-course/</loc>
+    <lastmod>2019-08-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2019/using-the-latest-advancements-in-deep-learning-to-predict-stock-price-movements/</loc>
+    <lastmod>2019-08-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://obaydakov.github.io/post/2019/https-medium-com-free-code-camp-how-to-dockerise-a-scala-and-akka-http-application-the-easy-way-23310fc880fa/</loc>
+    <lastmod>2019-08-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://obaydakov.github.io/post/2019/a-deep-dive-into-nlp-with-pytorch/</loc>
     <lastmod>2019-07-25T00:00:00+00:00</lastmod>
   </url>
@@ -7829,7 +7944,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/akka/</loc>
-    <lastmod>2019-03-19T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -7871,7 +7986,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/big-data/</loc>
-    <lastmod>2019-07-25T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -7889,7 +8004,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/</loc>
-    <lastmod>2019-03-19T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -7919,7 +8034,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/deep-learning/</loc>
-    <lastmod>2019-07-25T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -7942,8 +8057,14 @@
   </url>
   
   <url>
+    <loc>https://obaydakov.github.io/categories/gan/</loc>
+    <lastmod>2019-08-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://obaydakov.github.io/categories/gcp/</loc>
-    <lastmod>2019-07-11T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -8003,7 +8124,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/kafka/</loc>
-    <lastmod>2019-05-21T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -8027,7 +8148,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/machine-learning/</loc>
-    <lastmod>2019-07-25T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -8069,13 +8190,13 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/nlp/</loc>
-    <lastmod>2019-07-25T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/</loc>
-    <lastmod>2019-07-25T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -8087,19 +8208,19 @@
   
   <url>
     <loc>https://obaydakov.github.io/post/</loc>
-    <lastmod>2019-07-25T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/tags/python/</loc>
-    <lastmod>2019-07-25T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/categories/python/</loc>
-    <lastmod>2019-07-25T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -8117,19 +8238,19 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/reinforcement-learning/</loc>
-    <lastmod>2019-07-25T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/tags/scala/</loc>
-    <lastmod>2019-06-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/categories/scala/</loc>
-    <lastmod>2019-06-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -8153,19 +8274,19 @@
   
   <url>
     <loc>https://obaydakov.github.io/tags/technology/</loc>
-    <lastmod>2019-07-25T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/tags/theory/</loc>
-    <lastmod>2019-07-25T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/tags/tools/</loc>
-    <lastmod>2019-07-25T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -8177,7 +8298,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/trading/</loc>
-    <lastmod>2019-07-25T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -8189,7 +8310,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/tags/visualization/</loc>
-    <lastmod>2019-07-25T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

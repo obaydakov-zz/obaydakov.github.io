@@ -6,10 +6,55 @@
     <description>Recent content in Reinforcement Learning on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A deep reinforcement learning bot that plays tetris</title>
+      <link>https://obaydakov.github.io/post/2019/a-deep-reinforcement-learning-bot-that-plays-tetris/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/a-deep-reinforcement-learning-bot-that-plays-tetris/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Catalyst.RL: A Distributed Framework for Reproducible RL Research</title>
+      <link>https://obaydakov.github.io/post/2019/catalyst-rl-a-distributed-framework-for-reproducible-rl-research/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/catalyst-rl-a-distributed-framework-for-reproducible-rl-research/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Connecting Generative Adversarial Networks and Actor-Critic Methods</title>
+      <link>https://obaydakov.github.io/post/2019/connecting-generative-adversarial-networks-and-actor-critic-methods/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/connecting-generative-adversarial-networks-and-actor-critic-methods/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Implementing the A3C Algorithm to train an Agent to play Breakout!</title>
+      <link>https://obaydakov.github.io/post/2019/implementing-the-a3c-algorithm-to-train-an-agent-to-play-breakout/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/implementing-the-a3c-algorithm-to-train-an-agent-to-play-breakout/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Monte Carlo Tree Search in Reinforcement Learning</title>
+      <link>https://obaydakov.github.io/post/2019/monte-carlo-tree-search-in-reinforcement-learning/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/monte-carlo-tree-search-in-reinforcement-learning/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>An introduction to Policy Gradients with Cartpole and Doom</title>

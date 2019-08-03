@@ -6,10 +6,37 @@
     <description>Recent content in Trading on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/trading/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Introduction to backtesting trading strategies</title>
+      <link>https://obaydakov.github.io/post/2019/introduction-to-backtesting-trading-strategies/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/introduction-to-backtesting-trading-strategies/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Python Notebook Research to Replicate ETF Using Free Data</title>
+      <link>https://obaydakov.github.io/post/2019/python-notebook-research-to-replicate-etf-using-free-data/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/python-notebook-research-to-replicate-etf-using-free-data/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Using the latest advancements in deep learning to predict stock price movements</title>
+      <link>https://obaydakov.github.io/post/2019/using-the-latest-advancements-in-deep-learning-to-predict-stock-price-movements/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/using-the-latest-advancements-in-deep-learning-to-predict-stock-price-movements/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Algo Trading with TSLab</title>

@@ -6,10 +6,55 @@
     <description>Recent content in Tools on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/tools/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title> A library of state-of-the-art pretrained models for Natural Language Processing (NLP) </title>
+      <link>https://obaydakov.github.io/post/2019/a-library-of-state-of-the-art-pretrained-models-for-natural-language-processing-nlp/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/a-library-of-state-of-the-art-pretrained-models-for-natural-language-processing-nlp/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>A deep reinforcement learning bot that plays tetris</title>
+      <link>https://obaydakov.github.io/post/2019/a-deep-reinforcement-learning-bot-that-plays-tetris/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/a-deep-reinforcement-learning-bot-that-plays-tetris/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Catalyst.RL: A Distributed Framework for Reproducible RL Research</title>
+      <link>https://obaydakov.github.io/post/2019/catalyst-rl-a-distributed-framework-for-reproducible-rl-research/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/catalyst-rl-a-distributed-framework-for-reproducible-rl-research/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Data Stream Processing for Newbies with Kafka, KSQL, and Postgres</title>
+      <link>https://obaydakov.github.io/post/2019/data-stream-processing-for-newbies-with-kafka-ksql-and-postgres/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/data-stream-processing-for-newbies-with-kafka-ksql-and-postgres/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning and Data Science Applications in Industry</title>
+      <link>https://obaydakov.github.io/post/2019/machine-learning-and-data-science-applications-in-industry/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/machine-learning-and-data-science-applications-in-industry/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>A command-line utility that creates projects from cookiecutters (project templates).</title>

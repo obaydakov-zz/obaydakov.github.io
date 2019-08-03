@@ -13,7 +13,7 @@
 
 
 
-<meta property="og:updated_time" content="2017-10-27T00:00:00&#43;00:00"/>
+<meta property="og:updated_time" content="2017-11-15T00:00:00&#43;00:00"/>
 
 
 
@@ -61,18 +61,17 @@
 	<div class="list__content clearfix">
 		<header class="list__header">
 			<h3 class="list__title post__title ">
-				<a href="/post/2017/go-concurrency-patterns-pipelines-and-cancellation/" rel="bookmark">Go Concurrency Patterns: Pipelines and cancellation</a>
+				<a href="/post/2017/handling-1-million-requests-per-minute-with-golang/" rel="bookmark">Handling 1 Million Requests per Minute with Golang</a>
 			</h3>
 			<div class="list__meta meta">
 				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
-				<time class="list__meta-date" datetime="2017-10-27T00:00:00">2017/10/27</time>
+				<time class="list__meta-date" datetime="2017-11-15T00:00:00">2017/11/15</time>
 			</div>
 		</header>
 		<div class="list__excerpt">
-			Introduction
-Go&rsquo;s concurrency primitives make it easy to construct streaming data pipelines that make efficient use of I/O and multiple CPUs. This article presents examples of such pipelines, highlights subtleties that arise when operations fail, and introduces techniques for dealing with failures cleanly.
-What is a pipeline?
-There&rsquo;s no formal definition of a pipeline in Go; it&rsquo;s just one of many kinds of concurrent programs. Informally, a pipeline is a series of stages connected by channels, where each stage is a group of goroutines running the same function.
+			The Problem
+While working on a piece of our anonymous telemetry and analytics system, our goal was to be able to handle a large amount of POST requests from millions of endpoints. The web handler would receive a JSON document that may contain a collection of many payloads that needed to be written to Amazon S3, in order for our map-reduce systems to later operate on this data.
+Link
 		</div>
 	</div>
 </article>
@@ -80,15 +79,17 @@ There&rsquo;s no formal definition of a pipeline in Go; it&rsquo;s just one of m
 	<div class="list__content clearfix">
 		<header class="list__header">
 			<h3 class="list__title post__title ">
-				<a href="/post/2017/adding-realtime-data-streaming-to-your-app/" rel="bookmark">Adding Realtime Data Streaming To Your App</a>
+				<a href="/post/2017/awesome-r/" rel="bookmark">Awesome R</a>
 			</h3>
 			<div class="list__meta meta">
 				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
-				<time class="list__meta-date" datetime="2017-10-26T00:00:00">2017/10/26</time>
+				<time class="list__meta-date" datetime="2017-11-14T00:00:00">2017/11/14</time>
 			</div>
 		</header>
 		<div class="list__excerpt">
-			“[Realtime] is about the ability to make better decisions and take meaningful actions at the right time. It’s about detecting fraud while someone is swiping a credit card, or triggering an offer while a shopper is standing on a checkout line, or placing an ad on a website while someone is reading a specific article. It’s about combining and analyzing data so you can take the right action, at the right time, and at the right place.
+			Awesome R
+A curated list of awesome R packages and tools
+Link
 		</div>
 	</div>
 </article>
@@ -96,16 +97,15 @@ There&rsquo;s no formal definition of a pipeline in Go; it&rsquo;s just one of m
 	<div class="list__content clearfix">
 		<header class="list__header">
 			<h3 class="list__title post__title ">
-				<a href="/post/2017/divolte-collector/" rel="bookmark">Divolte Collector</a>
+				<a href="/post/2017/emoji-trends-on-twitter-using-akka-streams/" rel="bookmark">Emoji trends on Twitter using Akka Streams</a>
 			</h3>
 			<div class="list__meta meta">
 				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
-				<time class="list__meta-date" datetime="2017-10-26T00:00:00">2017/10/26</time>
+				<time class="list__meta-date" datetime="2017-11-14T00:00:00">2017/11/14</time>
 			</div>
 		</header>
 		<div class="list__excerpt">
-			Scalable clickstream collection for Hadoop and Kafka
-Divolte Collector is a scalable and performant server for collecting clickstream data in HDFS and on Kafka topics. It uses a JavaScript tag on the client side to gather user interaction data, similar to many other web tracking solutions. Divolte Collector can be used as the foundation to build anything from basic web analytics dashboarding to real-time recommender engines or banner optimization systems.
+			Link
 		</div>
 	</div>
 </article>
@@ -113,131 +113,122 @@ Divolte Collector is a scalable and performant server for collecting clickstream
 	<div class="list__content clearfix">
 		<header class="list__header">
 			<h3 class="list__title post__title ">
-				<a href="/post/2017/microservice-in-real-tim-using-golf/" rel="bookmark">Microservice in real-tim using Golf</a>
+				<a href="/post/2017/kafka-streams-api/" rel="bookmark">Kafka Streams API</a>
 			</h3>
 			<div class="list__meta meta">
 				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
-				<time class="list__meta-date" datetime="2017-10-26T00:00:00">2017/10/26</time>
+				<time class="list__meta-date" datetime="2017-11-14T00:00:00">2017/11/14</time>
+			</div>
+		</header>
+		<div class="list__excerpt">
+			The easiest way to write mission-critical real-time applications and microservices
+Kafka Streams is a client library for building applications and microservices, where the input and output data are stored in Kafka clusters. It combines the simplicity of writing and deploying standard Java and Scala applications on the client side with the benefits of Kafka&rsquo;s server-side cluster technology.
+Link
+		</div>
+	</div>
+</article>
+<article class="list__item post clearfix">
+	<div class="list__content clearfix">
+		<header class="list__header">
+			<h3 class="list__title post__title ">
+				<a href="/post/2017/microservice-architecture/" rel="bookmark">Microservice Architecture</a>
+			</h3>
+			<div class="list__meta meta">
+				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
+				<time class="list__meta-date" datetime="2017-11-14T00:00:00">2017/11/14</time>
+			</div>
+		</header>
+		<div class="list__excerpt">
+			What are microservices?
+Microservices - also known as the microservice architecture - is an architectural style that structures an application as a collection of loosely coupled services, which implement business capabilities. The microservice architecture enables the continuous delivery/deployment of large, complex applications. It also enables an organization to evolve its technology stack.
+Microservices are not a silver bullet
+The microservice architecture is not a silver bullet. It has several drawbacks. Moreover, when using this architecture there are numerous issues that you must address.
+		</div>
+	</div>
+</article>
+<article class="list__item post clearfix">
+	<div class="list__content clearfix">
+		<header class="list__header">
+			<h3 class="list__title post__title ">
+				<a href="/post/2017/ray-tracing-with-akka/" rel="bookmark">Ray Tracing with Akka</a>
+			</h3>
+			<div class="list__meta meta">
+				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
+				<time class="list__meta-date" datetime="2017-11-14T00:00:00">2017/11/14</time>
+			</div>
+		</header>
+		<div class="list__excerpt">
+			Part 1
+Part 2
+Part 3
+Part 4
+		</div>
+	</div>
+</article>
+<article class="list__item post clearfix">
+	<div class="list__content clearfix">
+		<header class="list__header">
+			<h3 class="list__title post__title ">
+				<a href="/post/2017/visual-scala-reference/" rel="bookmark">Visual Scala Reference </a>
+			</h3>
+			<div class="list__meta meta">
+				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
+				<time class="list__meta-date" datetime="2017-11-14T00:00:00">2017/11/14</time>
+			</div>
+		</header>
+		<div class="list__excerpt">
+			An awesome guide about the most common Scala collection functions
+		</div>
+	</div>
+</article>
+<article class="list__item post clearfix">
+	<div class="list__content clearfix">
+		<header class="list__header">
+			<h3 class="list__title post__title ">
+				<a href="/post/2017/%D0%BF%D0%B5%D1%80%D0%B2%D0%B0%D1%8F-%D0%B2-%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B8-%D1%81%D0%B4%D0%B5%D0%BB%D0%BA%D0%B0-%D0%BF%D0%BE-%D1%86%D0%B5%D0%BD%D0%BD%D1%8B%D0%BC-%D0%B1%D1%83%D0%BC%D0%B0%D0%B3%D0%B0%D0%BC-%D0%BD%D0%B0-%D0%B1%D0%BB%D0%BE%D0%BA%D1%87%D0%B5%D0%B9%D0%BD%D0%B5/" rel="bookmark">Первая в России сделка по ценным бумагам на блокчейне</a>
+			</h3>
+			<div class="list__meta meta">
+				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
+				<time class="list__meta-date" datetime="2017-11-14T00:00:00">2017/11/14</time>
+			</div>
+		</header>
+		<div class="list__excerpt">
+			Описание блокчейн-сети
+
+
+Для проведения пилотной сделки мы развернули блокчейн-платформу на базе Hyperledger Fabric v.1.0. Проект Hyperledger под эгидой The Linux Foundation — это инициатива по созданию разных блокчейн-платформ и вспомогательных инструментов с открытым исходным кодом. В проекте участвует целая россыпь компаний со всего мира: технологические гиганты (IBM, Intel и так далее), консалтинговые компании (Accenture, Altoros и так далее), представители различных отраслей (Сбербанк, Московская биржа, CME, DTCC, Deutche Burse, Daimler, Airbus и так далее) и стартап-команды (Digital Asset Holding, Soramitsu и так далее).
+		</div>
+	</div>
+</article>
+<article class="list__item post clearfix">
+	<div class="list__content clearfix">
+		<header class="list__header">
+			<h3 class="list__title post__title ">
+				<a href="/post/2017/8-akka-anti-patterns-you-d-better-be-aware-of/" rel="bookmark">8 Akka Anti Patterns you&#39;d better be aware of</a>
+			</h3>
+			<div class="list__meta meta">
+				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
+				<time class="list__meta-date" datetime="2017-11-11T00:00:00">2017/11/11</time>
+			</div>
+		</header>
+		<div class="list__excerpt">
+			Manuel Bernhardt blog
+		</div>
+	</div>
+</article>
+<article class="list__item post clearfix">
+	<div class="list__content clearfix">
+		<header class="list__header">
+			<h3 class="list__title post__title ">
+				<a href="/post/2017/fast-data-with-apache-flink-at-ing-lessons-learned-from-designing-and-building-a-large-streaming/" rel="bookmark">Fast Data with Apache Flink at ING lessons learned from designing and building a large streaming </a>
+			</h3>
+			<div class="list__meta meta">
+				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
+				<time class="list__meta-date" datetime="2017-11-11T00:00:00">2017/11/11</time>
 			</div>
 		</header>
 		<div class="list__excerpt">
 			
-		</div>
-	</div>
-</article>
-<article class="list__item post clearfix">
-	<div class="list__content clearfix">
-		<header class="list__header">
-			<h3 class="list__title post__title ">
-				<a href="/post/2017/microservices-are-hard-an-invaluable-guide-to-microservices/" rel="bookmark">Microservices are hard — an invaluable guide to microservices</a>
-			</h3>
-			<div class="list__meta meta">
-				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
-				<time class="list__meta-date" datetime="2017-10-26T00:00:00">2017/10/26</time>
-			</div>
-		</header>
-		<div class="list__excerpt">
-			Go + Microservices = Go kit
-Microservices are hard — an invaluable guide to microservices
-Watch the talks from the 2017 Microservices Practitioner Virtual Summit
-Microservices are hard — an invaluable guide to microservices.
-Containers Docker
-Orchestration Kubernetes
-Management Forge
-Api Gateway / Canary Ambassador
-Edge Proxy Envoy
-Monitoring Prometheus
-Local Testing Telepresence
-		</div>
-	</div>
-</article>
-<article class="list__item post clearfix">
-	<div class="list__content clearfix">
-		<header class="list__header">
-			<h3 class="list__title post__title ">
-				<a href="/post/2017/non-standard-clusterization-growing-neural-gas/" rel="bookmark">Non-standard clusterization - Growing Neural Gas</a>
-			</h3>
-			<div class="list__meta meta">
-				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
-				<time class="list__meta-date" datetime="2017-10-26T00:00:00">2017/10/26</time>
-			</div>
-		</header>
-		<div class="list__excerpt">
-			
-		</div>
-	</div>
-</article>
-<article class="list__item post clearfix">
-	<div class="list__content clearfix">
-		<header class="list__header">
-			<h3 class="list__title post__title ">
-				<a href="/post/2017/shine-semantic-package/" rel="bookmark">Shine semantic package</a>
-			</h3>
-			<div class="list__meta meta">
-				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
-				<time class="list__meta-date" datetime="2017-10-22T00:00:00">2017/10/22</time>
-			</div>
-		</header>
-		<div class="list__excerpt">
-			Shiny.semantic
-Semantic UI wrapper for Shiny
-With this library it’s easy to wrap Shiny with Semantic UI components. Add a few simple lines of code and some CSS classes to give your UI a fresh, modern and highly interactive look.
-Link
-How we built a Shiny App for 700 users?
-		</div>
-	</div>
-</article>
-<article class="list__item post clearfix">
-	<div class="list__content clearfix">
-		<header class="list__header">
-			<h3 class="list__title post__title ">
-				<a href="/post/2017/how-to-setup-hyperledger-fabric-and-composer/" rel="bookmark">How to setup Hyperledger Fabric and Composer</a>
-			</h3>
-			<div class="list__meta meta">
-				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
-				<time class="list__meta-date" datetime="2017-10-09T00:00:00">2017/10/09</time>
-			</div>
-		</header>
-		<div class="list__excerpt">
-			Hyperledger Fabric is a private blockchain network that provides a foundation for transactional enterprise application
-Hyperledger Composer is a framework to accelerate the development of applications built on top of Hyperledger Fabric
-Fabric and Composer are open source collaborative blockchain framework projects that is hosted by The Linux Foundation. The Fabric blockchain framework is built from the ground-up for enterprise level application, it is a permissioned network, meaning read/write access to the shared ledger and participation in the peer-to-peer network is restricted to invited and validated members, such restriction makes way for advantages like scalability and confidential transactions that are a fundamental requirements for most enterprise applications.
-		</div>
-	</div>
-</article>
-<article class="list__item post clearfix">
-	<div class="list__content clearfix">
-		<header class="list__header">
-			<h3 class="list__title post__title ">
-				<a href="/post/2017/learn-blockchains-by-building-one/" rel="bookmark">Learn Blockchains by Building One</a>
-			</h3>
-			<div class="list__meta meta">
-				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
-				<time class="list__meta-date" datetime="2017-10-05T00:00:00">2017/10/05</time>
-			</div>
-		</header>
-		<div class="list__excerpt">
-			The fastest way to learn how Blockchains work is to build one
-You’re here because, like me, you’re psyched about the rise of Cryptocurrencies. And you want to know how Blockchains work—the fundamental technology behind them. But understanding Blockchains isn’t easy—or at least wasn’t for me. I trudged through dense videos, followed porous tutorials, and dealt with the amplified frustration of too few examples.
-I like learning by doing. It forces me to deal with the subject matter at a code level, which gets it sticking.
-		</div>
-	</div>
-</article>
-<article class="list__item post clearfix">
-	<div class="list__content clearfix">
-		<header class="list__header">
-			<h3 class="list__title post__title ">
-				<a href="/post/2017/hadoop-crypto-ledger-hadoopcryptoledger/" rel="bookmark">Hadoop Crypto Ledger (hadoopcryptoledger)</a>
-			</h3>
-			<div class="list__meta meta">
-				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
-				<time class="list__meta-date" datetime="2017-10-03T00:00:00">2017/10/03</time>
-			</div>
-		</header>
-		<div class="list__excerpt">
-			This repository will provide various components to read crypto ledgers, such as the Bitcoin blockchain, with Hadoop and Ecosystem components, such as Flink, Spark, TEZ, Hive and MapReduce.
-You find more information about the project in the Wiki.
-Link
 		</div>
 	</div>
 </article>
@@ -246,7 +237,7 @@ Link
 		
 <div class="pagination clearfix">
 	<a class="pagination__item pagination__item--prev" href="/post/page/145/">«</a>
-	<span class="pagination__item pagination__item--current">146/157</span>
+	<span class="pagination__item pagination__item--current">146/159</span>
 	<a class="pagination__item pagination__item--next" href="/post/page/147/">»</a>
 </div>
 
@@ -269,16 +260,16 @@ Link
 	<h4 class="widget__title">Recent Posts</h4>
 	<div class="widget__content">
 		<ul class="widget__list">
-			<li class="widget__item"><a class="widget__link" href="/post/2019/a-deep-dive-into-nlp-with-pytorch/">A Deep Dive into NLP with PyTorch</a></li>
-			<li class="widget__item"><a class="widget__link" href="/post/2019/a-command-line-utility-that-creates-projects-from-cookiecutters-project-templates/">A command-line utility that creates projects from cookiecutters (project templates).</a></li>
-			<li class="widget__item"><a class="widget__link" href="/post/2019/a-curated-list-of-awesome-open-source-libraries-to-deploy-monitor-version-and-scale-your-machine-learning/">A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning</a></li>
-			<li class="widget__item"><a class="widget__link" href="/post/2019/algo-trading-with-tslab/">Algo Trading with TSLab</a></li>
-			<li class="widget__item"><a class="widget__link" href="/post/2019/algorithmic-trading-system-development/">Algorithmic Trading System Development</a></li>
-			<li class="widget__item"><a class="widget__link" href="/post/2019/an-introduction-to-policy-gradients-with-cartpole-and-doom/">An introduction to Policy Gradients with Cartpole and Doom</a></li>
-			<li class="widget__item"><a class="widget__link" href="/post/2019/an-open-source-automl-toolkit-for-neural-architecture-search-and-hyper-parameter-tuning/">An open source AutoML toolkit for neural architecture search and hyper-parameter tuning</a></li>
-			<li class="widget__item"><a class="widget__link" href="/post/2019/applying-json-patches-in-python/">Applying JSON Patches in Python</a></li>
-			<li class="widget__item"><a class="widget__link" href="/post/2019/arviz-exploratory-analysis-of-bayesian-models/">ArviZ: Exploratory analysis of Bayesian models</a></li>
-			<li class="widget__item"><a class="widget__link" href="/post/2019/building-a-self-served-etl-pipeline-for-third-party-data-ingestion/">Building a self-served ETL pipeline for third-party data ingestion</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/2019/a-library-of-state-of-the-art-pretrained-models-for-natural-language-processing-nlp/"> A library of state-of-the-art pretrained models for Natural Language Processing (NLP) </a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/2019/5-things-that-developers-do-all-the-time-in-scala/">5 things that developers do all the time, in Scala</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/2019/a-deep-reinforcement-learning-bot-that-plays-tetris/">A deep reinforcement learning bot that plays tetris</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/2019/a-guide-to-convolution-arithmetic-for-deep-learning/">A guide to convolution arithmetic for deep learning</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/2019/catalyst-rl-a-distributed-framework-for-reproducible-rl-research/">Catalyst.RL: A Distributed Framework for Reproducible RL Research</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/2019/cleaning-a-messy-dataset-using-python/">Cleaning a messy dataset using Python</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/2019/connecting-generative-adversarial-networks-and-actor-critic-methods/">Connecting Generative Adversarial Networks and Actor-Critic Methods</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/2019/data-stream-processing-for-newbies-with-kafka-ksql-and-postgres/">Data Stream Processing for Newbies with Kafka, KSQL, and Postgres</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/2019/how-to-dockerise-a-scala-and-akka-http-application-the-easy-way/">How to Dockerise a Scala and Akka HTTP Application — the easy way</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/2019/how-to-implement-a-semi-supervised-gan-sgan-from-scratch-in-keras/">How to Implement a Semi-Supervised GAN (SGAN) From Scratch in Keras</a></li>
 		</ul>
 	</div>
 </div>
@@ -299,6 +290,7 @@ Link
 			<li class="widget__item"><a class="widget__link" href="/categories/category-theory">Category-Theory</a></li>
 			<li class="widget__item"><a class="widget__link" href="/categories/cybersecurity">Cybersecurity</a></li>
 			<li class="widget__item"><a class="widget__link" href="/categories/deep-learning">Deep-Learning</a></li>
+			<li class="widget__item"><a class="widget__link" href="/categories/gan">Gan</a></li>
 			<li class="widget__item"><a class="widget__link" href="/categories/gcp">Gcp</a></li>
 			<li class="widget__item"><a class="widget__link" href="/categories/go">Go</a></li>
 			<li class="widget__item"><a class="widget__link" href="/categories/golang">Golang</a></li>

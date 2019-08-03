@@ -6,10 +6,19 @@
     <description>Recent content in Nlp on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/nlp/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title> A library of state-of-the-art pretrained models for Natural Language Processing (NLP) </title>
+      <link>https://obaydakov.github.io/post/2019/a-library-of-state-of-the-art-pretrained-models-for-natural-language-processing-nlp/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/a-library-of-state-of-the-art-pretrained-models-for-natural-language-processing-nlp/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>A Deep Dive into NLP with PyTorch</title>

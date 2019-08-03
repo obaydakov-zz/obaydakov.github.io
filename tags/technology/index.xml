@@ -6,10 +6,109 @@
     <description>Recent content in Technology on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A guide to convolution arithmetic for deep learning</title>
+      <link>https://obaydakov.github.io/post/2019/a-guide-to-convolution-arithmetic-for-deep-learning/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/a-guide-to-convolution-arithmetic-for-deep-learning/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Connecting Generative Adversarial Networks and Actor-Critic Methods</title>
+      <link>https://obaydakov.github.io/post/2019/connecting-generative-adversarial-networks-and-actor-critic-methods/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/connecting-generative-adversarial-networks-and-actor-critic-methods/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>How to Implement a Semi-Supervised GAN (SGAN) From Scratch in Keras</title>
+      <link>https://obaydakov.github.io/post/2019/how-to-implement-a-semi-supervised-gan-sgan-from-scratch-in-keras/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/how-to-implement-a-semi-supervised-gan-sgan-from-scratch-in-keras/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>How to query and calculate Google Analytics data in BigQuery</title>
+      <link>https://obaydakov.github.io/post/2019/how-to-query-and-calculate-google-analytics-data-in-bigquery/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/how-to-query-and-calculate-google-analytics-data-in-bigquery/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Image Completion with Deep Learning in TensorFlow</title>
+      <link>https://obaydakov.github.io/post/2019/image-completion-with-deep-learning-in-tensorflow/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/image-completion-with-deep-learning-in-tensorflow/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Implementing the A3C Algorithm to train an Agent to play Breakout!</title>
+      <link>https://obaydakov.github.io/post/2019/implementing-the-a3c-algorithm-to-train-an-agent-to-play-breakout/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/implementing-the-a3c-algorithm-to-train-an-agent-to-play-breakout/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Introduction to backtesting trading strategies</title>
+      <link>https://obaydakov.github.io/post/2019/introduction-to-backtesting-trading-strategies/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/introduction-to-backtesting-trading-strategies/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Monte Carlo Tree Search in Reinforcement Learning</title>
+      <link>https://obaydakov.github.io/post/2019/monte-carlo-tree-search-in-reinforcement-learning/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/monte-carlo-tree-search-in-reinforcement-learning/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>This New Google Technique Help Us Understand How Neural Networks are Thinking</title>
+      <link>https://obaydakov.github.io/post/2019/this-new-google-technique-help-us-understand-how-neural-networks-are-thinking/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/this-new-google-technique-help-us-understand-how-neural-networks-are-thinking/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>This is the repo for the free Akka HTTP Quickstart course.</title>
+      <link>https://obaydakov.github.io/post/2019/this-is-the-repo-for-the-free-akka-http-quickstart-course/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/this-is-the-repo-for-the-free-akka-http-quickstart-course/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Using the latest advancements in deep learning to predict stock price movements</title>
+      <link>https://obaydakov.github.io/post/2019/using-the-latest-advancements-in-deep-learning-to-predict-stock-price-movements/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/using-the-latest-advancements-in-deep-learning-to-predict-stock-price-movements/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Algorithmic Trading System Development</title>

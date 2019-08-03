@@ -6,10 +6,217 @@
     <description>Recent content in Posts on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title> A library of state-of-the-art pretrained models for Natural Language Processing (NLP) </title>
+      <link>https://obaydakov.github.io/post/2019/a-library-of-state-of-the-art-pretrained-models-for-natural-language-processing-nlp/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/a-library-of-state-of-the-art-pretrained-models-for-natural-language-processing-nlp/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>5 things that developers do all the time, in Scala</title>
+      <link>https://obaydakov.github.io/post/2019/5-things-that-developers-do-all-the-time-in-scala/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/5-things-that-developers-do-all-the-time-in-scala/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>A deep reinforcement learning bot that plays tetris</title>
+      <link>https://obaydakov.github.io/post/2019/a-deep-reinforcement-learning-bot-that-plays-tetris/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/a-deep-reinforcement-learning-bot-that-plays-tetris/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>A guide to convolution arithmetic for deep learning</title>
+      <link>https://obaydakov.github.io/post/2019/a-guide-to-convolution-arithmetic-for-deep-learning/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/a-guide-to-convolution-arithmetic-for-deep-learning/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Catalyst.RL: A Distributed Framework for Reproducible RL Research</title>
+      <link>https://obaydakov.github.io/post/2019/catalyst-rl-a-distributed-framework-for-reproducible-rl-research/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/catalyst-rl-a-distributed-framework-for-reproducible-rl-research/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Cleaning a messy dataset using Python</title>
+      <link>https://obaydakov.github.io/post/2019/cleaning-a-messy-dataset-using-python/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/cleaning-a-messy-dataset-using-python/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Connecting Generative Adversarial Networks and Actor-Critic Methods</title>
+      <link>https://obaydakov.github.io/post/2019/connecting-generative-adversarial-networks-and-actor-critic-methods/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/connecting-generative-adversarial-networks-and-actor-critic-methods/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Data Stream Processing for Newbies with Kafka, KSQL, and Postgres</title>
+      <link>https://obaydakov.github.io/post/2019/data-stream-processing-for-newbies-with-kafka-ksql-and-postgres/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/data-stream-processing-for-newbies-with-kafka-ksql-and-postgres/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>How to Dockerise a Scala and Akka HTTP Application — the easy way</title>
+      <link>https://obaydakov.github.io/post/2019/how-to-dockerise-a-scala-and-akka-http-application-the-easy-way/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/how-to-dockerise-a-scala-and-akka-http-application-the-easy-way/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>How to Implement a Semi-Supervised GAN (SGAN) From Scratch in Keras</title>
+      <link>https://obaydakov.github.io/post/2019/how-to-implement-a-semi-supervised-gan-sgan-from-scratch-in-keras/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/how-to-implement-a-semi-supervised-gan-sgan-from-scratch-in-keras/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>How to query and calculate Google Analytics data in BigQuery</title>
+      <link>https://obaydakov.github.io/post/2019/how-to-query-and-calculate-google-analytics-data-in-bigquery/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/how-to-query-and-calculate-google-analytics-data-in-bigquery/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Image Completion with Deep Learning in TensorFlow</title>
+      <link>https://obaydakov.github.io/post/2019/image-completion-with-deep-learning-in-tensorflow/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/image-completion-with-deep-learning-in-tensorflow/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Implementing the A3C Algorithm to train an Agent to play Breakout!</title>
+      <link>https://obaydakov.github.io/post/2019/implementing-the-a3c-algorithm-to-train-an-agent-to-play-breakout/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/implementing-the-a3c-algorithm-to-train-an-agent-to-play-breakout/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Introduction to backtesting trading strategies</title>
+      <link>https://obaydakov.github.io/post/2019/introduction-to-backtesting-trading-strategies/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/introduction-to-backtesting-trading-strategies/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning and Data Science Applications in Industry</title>
+      <link>https://obaydakov.github.io/post/2019/machine-learning-and-data-science-applications-in-industry/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/machine-learning-and-data-science-applications-in-industry/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Monte Carlo Tree Search in Reinforcement Learning</title>
+      <link>https://obaydakov.github.io/post/2019/monte-carlo-tree-search-in-reinforcement-learning/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/monte-carlo-tree-search-in-reinforcement-learning/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Plotly.py 4.0 is here: Offline Only, Express First, Displayable Anywhere</title>
+      <link>https://obaydakov.github.io/post/2019/plotly-py-4-0-is-here-offline-only-express-first-displayable-anywhere/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/plotly-py-4-0-is-here-offline-only-express-first-displayable-anywhere/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Python Notebook Research to Replicate ETF Using Free Data</title>
+      <link>https://obaydakov.github.io/post/2019/python-notebook-research-to-replicate-etf-using-free-data/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/python-notebook-research-to-replicate-etf-using-free-data/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>TURING LECTURES</title>
+      <link>https://obaydakov.github.io/post/2019/turing-lectures/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/turing-lectures/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>This New Google Technique Help Us Understand How Neural Networks are Thinking</title>
+      <link>https://obaydakov.github.io/post/2019/this-new-google-technique-help-us-understand-how-neural-networks-are-thinking/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/this-new-google-technique-help-us-understand-how-neural-networks-are-thinking/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>This is the repo for the free Akka HTTP Quickstart course.</title>
+      <link>https://obaydakov.github.io/post/2019/this-is-the-repo-for-the-free-akka-http-quickstart-course/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/this-is-the-repo-for-the-free-akka-http-quickstart-course/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Using the latest advancements in deep learning to predict stock price movements</title>
+      <link>https://obaydakov.github.io/post/2019/using-the-latest-advancements-in-deep-learning-to-predict-stock-price-movements/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/using-the-latest-advancements-in-deep-learning-to-predict-stock-price-movements/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>https://medium.com/free-code-camp/how-to-dockerise-a-scala-and-akka-http-application-the-easy-way-23310fc880fa</title>
+      <link>https://obaydakov.github.io/post/2019/https-medium-com-free-code-camp-how-to-dockerise-a-scala-and-akka-http-application-the-easy-way-23310fc880fa/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/https-medium-com-free-code-camp-how-to-dockerise-a-scala-and-akka-http-application-the-easy-way-23310fc880fa/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>A Deep Dive into NLP with PyTorch</title>

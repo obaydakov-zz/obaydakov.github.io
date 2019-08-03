@@ -6,10 +6,55 @@
     <description>Recent content in Python on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cleaning a messy dataset using Python</title>
+      <link>https://obaydakov.github.io/post/2019/cleaning-a-messy-dataset-using-python/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/cleaning-a-messy-dataset-using-python/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Implementing the A3C Algorithm to train an Agent to play Breakout!</title>
+      <link>https://obaydakov.github.io/post/2019/implementing-the-a3c-algorithm-to-train-an-agent-to-play-breakout/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/implementing-the-a3c-algorithm-to-train-an-agent-to-play-breakout/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Introduction to backtesting trading strategies</title>
+      <link>https://obaydakov.github.io/post/2019/introduction-to-backtesting-trading-strategies/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/introduction-to-backtesting-trading-strategies/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Plotly.py 4.0 is here: Offline Only, Express First, Displayable Anywhere</title>
+      <link>https://obaydakov.github.io/post/2019/plotly-py-4-0-is-here-offline-only-express-first-displayable-anywhere/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/plotly-py-4-0-is-here-offline-only-express-first-displayable-anywhere/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Python Notebook Research to Replicate ETF Using Free Data</title>
+      <link>https://obaydakov.github.io/post/2019/python-notebook-research-to-replicate-etf-using-free-data/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/python-notebook-research-to-replicate-etf-using-free-data/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>A command-line utility that creates projects from cookiecutters (project templates).</title>

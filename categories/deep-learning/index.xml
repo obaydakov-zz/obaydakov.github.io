@@ -6,10 +6,109 @@
     <description>Recent content in Deep Learning on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title> A library of state-of-the-art pretrained models for Natural Language Processing (NLP) </title>
+      <link>https://obaydakov.github.io/post/2019/a-library-of-state-of-the-art-pretrained-models-for-natural-language-processing-nlp/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/a-library-of-state-of-the-art-pretrained-models-for-natural-language-processing-nlp/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>A deep reinforcement learning bot that plays tetris</title>
+      <link>https://obaydakov.github.io/post/2019/a-deep-reinforcement-learning-bot-that-plays-tetris/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/a-deep-reinforcement-learning-bot-that-plays-tetris/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>A guide to convolution arithmetic for deep learning</title>
+      <link>https://obaydakov.github.io/post/2019/a-guide-to-convolution-arithmetic-for-deep-learning/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/a-guide-to-convolution-arithmetic-for-deep-learning/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Catalyst.RL: A Distributed Framework for Reproducible RL Research</title>
+      <link>https://obaydakov.github.io/post/2019/catalyst-rl-a-distributed-framework-for-reproducible-rl-research/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/catalyst-rl-a-distributed-framework-for-reproducible-rl-research/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Connecting Generative Adversarial Networks and Actor-Critic Methods</title>
+      <link>https://obaydakov.github.io/post/2019/connecting-generative-adversarial-networks-and-actor-critic-methods/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/connecting-generative-adversarial-networks-and-actor-critic-methods/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>How to Implement a Semi-Supervised GAN (SGAN) From Scratch in Keras</title>
+      <link>https://obaydakov.github.io/post/2019/how-to-implement-a-semi-supervised-gan-sgan-from-scratch-in-keras/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/how-to-implement-a-semi-supervised-gan-sgan-from-scratch-in-keras/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Image Completion with Deep Learning in TensorFlow</title>
+      <link>https://obaydakov.github.io/post/2019/image-completion-with-deep-learning-in-tensorflow/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/image-completion-with-deep-learning-in-tensorflow/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning and Data Science Applications in Industry</title>
+      <link>https://obaydakov.github.io/post/2019/machine-learning-and-data-science-applications-in-industry/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/machine-learning-and-data-science-applications-in-industry/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Monte Carlo Tree Search in Reinforcement Learning</title>
+      <link>https://obaydakov.github.io/post/2019/monte-carlo-tree-search-in-reinforcement-learning/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/monte-carlo-tree-search-in-reinforcement-learning/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>TURING LECTURES</title>
+      <link>https://obaydakov.github.io/post/2019/turing-lectures/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/turing-lectures/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>This New Google Technique Help Us Understand How Neural Networks are Thinking</title>
+      <link>https://obaydakov.github.io/post/2019/this-new-google-technique-help-us-understand-how-neural-networks-are-thinking/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/this-new-google-technique-help-us-understand-how-neural-networks-are-thinking/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>A Deep Dive into NLP with PyTorch</title>

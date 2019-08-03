@@ -6,10 +6,19 @@
     <description>Recent content in Machine Learning on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Machine Learning and Data Science Applications in Industry</title>
+      <link>https://obaydakov.github.io/post/2019/machine-learning-and-data-science-applications-in-industry/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/machine-learning-and-data-science-applications-in-industry/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>A command-line utility that creates projects from cookiecutters (project templates).</title>

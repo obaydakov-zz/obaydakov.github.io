@@ -6,10 +6,28 @@
     <description>Recent content in Akka on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/akka/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to Dockerise a Scala and Akka HTTP Application — the easy way</title>
+      <link>https://obaydakov.github.io/post/2019/how-to-dockerise-a-scala-and-akka-http-application-the-easy-way/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/how-to-dockerise-a-scala-and-akka-http-application-the-easy-way/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>This is the repo for the free Akka HTTP Quickstart course.</title>
+      <link>https://obaydakov.github.io/post/2019/this-is-the-repo-for-the-free-akka-http-quickstart-course/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/this-is-the-repo-for-the-free-akka-http-quickstart-course/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>How to Make a Simple Application with Akka Cluster</title>

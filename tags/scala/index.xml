@@ -6,10 +6,37 @@
     <description>Recent content in Scala on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/scala/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>5 things that developers do all the time, in Scala</title>
+      <link>https://obaydakov.github.io/post/2019/5-things-that-developers-do-all-the-time-in-scala/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/5-things-that-developers-do-all-the-time-in-scala/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>How to Dockerise a Scala and Akka HTTP Application — the easy way</title>
+      <link>https://obaydakov.github.io/post/2019/how-to-dockerise-a-scala-and-akka-http-application-the-easy-way/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/how-to-dockerise-a-scala-and-akka-http-application-the-easy-way/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>https://medium.com/free-code-camp/how-to-dockerise-a-scala-and-akka-http-application-the-easy-way-23310fc880fa</title>
+      <link>https://obaydakov.github.io/post/2019/https-medium-com-free-code-camp-how-to-dockerise-a-scala-and-akka-http-application-the-easy-way-23310fc880fa/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/https-medium-com-free-code-camp-how-to-dockerise-a-scala-and-akka-http-application-the-easy-way-23310fc880fa/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Structuring Functional Programs with Tagless Final</title>
