@@ -6,10 +6,55 @@
     <description>Recent content in Reinforcement Learning on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>TF Jam — Shooting Hoops with Machine Learning</title>
+      <link>https://obaydakov.github.io/post/2019/tf-jam-shooting-hoops-with-machine-learning/</link>
+      <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/tf-jam-shooting-hoops-with-machine-learning/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>TensorFlow &#43; Unity: How to set up a custom TensorFlow graph in Unity</title>
+      <link>https://obaydakov.github.io/post/2019/tensorflow-unity-how-to-set-up-a-custom-tensorflow-graph-in-unity/</link>
+      <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/tensorflow-unity-how-to-set-up-a-custom-tensorflow-graph-in-unity/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Unity ML-Agents Toolkit</title>
+      <link>https://obaydakov.github.io/post/2019/unity-ml-agents-toolkit/</link>
+      <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/unity-ml-agents-toolkit/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Unity3D Machine Learning – Setting up the environment &amp; Tensorflow for AgentML on Windows 10</title>
+      <link>https://obaydakov.github.io/post/2019/unity3d-machine-learning-setting-up-the-environment-tensorflow-for-agentml-on-windows-10/</link>
+      <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/unity3d-machine-learning-setting-up-the-environment-tensorflow-for-agentml-on-windows-10/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Unity3D Machine Learning – Writing a custom Agent – Create your own AI Bot</title>
+      <link>https://obaydakov.github.io/post/2019/unity3d-machine-learning-writing-a-custom-agent-create-your-own-ai-bot/</link>
+      <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/unity3d-machine-learning-writing-a-custom-agent-create-your-own-ai-bot/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>A deep reinforcement learning bot that plays tetris</title>

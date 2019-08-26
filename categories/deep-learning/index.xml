@@ -6,10 +6,64 @@
     <description>Recent content in Deep Learning on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Best Deals in Deep Learning Cloud Providers</title>
+      <link>https://obaydakov.github.io/post/2019/best-deals-in-deep-learning-cloud-providers/</link>
+      <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/best-deals-in-deep-learning-cloud-providers/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Browse state-of-the-art</title>
+      <link>https://obaydakov.github.io/post/2019/browse-state-of-the-art/</link>
+      <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/browse-state-of-the-art/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>How to Implement CycleGAN Models From Scratch With Keras</title>
+      <link>https://obaydakov.github.io/post/2019/how-to-implement-cyclegan-models-from-scratch-with-keras/</link>
+      <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/how-to-implement-cyclegan-models-from-scratch-with-keras/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>TF Jam — Shooting Hoops with Machine Learning</title>
+      <link>https://obaydakov.github.io/post/2019/tf-jam-shooting-hoops-with-machine-learning/</link>
+      <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/tf-jam-shooting-hoops-with-machine-learning/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>The Illustrated GPT-2 (Visualizing Transformer Language Models)</title>
+      <link>https://obaydakov.github.io/post/2019/the-illustrated-gpt-2-visualizing-transformer-language-models/</link>
+      <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/the-illustrated-gpt-2-visualizing-transformer-language-models/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>The Illustrated Transformer</title>
+      <link>https://obaydakov.github.io/post/2019/the-illustrated-transformer/</link>
+      <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/the-illustrated-transformer/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title> A library of state-of-the-art pretrained models for Natural Language Processing (NLP) </title>

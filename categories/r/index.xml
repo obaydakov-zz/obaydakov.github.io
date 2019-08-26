@@ -6,10 +6,28 @@
     <description>Recent content in R on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Building Big Shiny Apps - A Workflow</title>
+      <link>https://obaydakov.github.io/post/2019/building-big-shiny-apps-a-workflow/</link>
+      <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/building-big-shiny-apps-a-workflow/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>{golem} is an opiniated framework for building production-grade shiny applications</title>
+      <link>https://obaydakov.github.io/post/2019/golem-is-an-opiniated-framework-for-building-production-grade-shiny-applications/</link>
+      <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/golem-is-an-opiniated-framework-for-building-production-grade-shiny-applications/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>How to Use R in AWS Lambda</title>
