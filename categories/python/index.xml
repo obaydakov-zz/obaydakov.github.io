@@ -6,10 +6,19 @@
     <description>Recent content in Python on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>10 Powerful Python Tricks for Data Science you Need to Try Today</title>
+      <link>https://obaydakov.github.io/post/2019/10-powerful-python-tricks-for-data-science-you-need-to-try-today/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/10-powerful-python-tricks-for-data-science-you-need-to-try-today/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Data Visualization Curriculum</title>
