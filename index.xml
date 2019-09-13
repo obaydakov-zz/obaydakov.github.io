@@ -6,10 +6,163 @@
     <description>Recent content on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Builds a Hyperledger Fabric network on Kubernetes</title>
+      <link>https://obaydakov.github.io/post/2019/builds-a-hyperledger-fabric-network-on-kubernetes/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/builds-a-hyperledger-fabric-network-on-kubernetes/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Deploying Keras Deep Learning Models with Flask</title>
+      <link>https://obaydakov.github.io/post/2019/deploying-keras-deep-learning-models-with-flask/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/deploying-keras-deep-learning-models-with-flask/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Deploying Keras models using TensorFlow Serving and Flask</title>
+      <link>https://obaydakov.github.io/post/2019/deploying-keras-models-using-tensorflow-serving-and-flask/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/deploying-keras-models-using-tensorflow-serving-and-flask/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Deploying a Keras Deep Learning Model as a Web Application in Python</title>
+      <link>https://obaydakov.github.io/post/2019/deploying-a-keras-deep-learning-model-as-a-web-application-in-python/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/deploying-a-keras-deep-learning-model-as-a-web-application-in-python/</guid>
+      <description>link</description>
+    </item>
+    
+    <item>
+      <title>Deploying a Machine Learning Model as a REST API</title>
+      <link>https://obaydakov.github.io/post/2019/deploying-a-machine-learning-model-as-a-rest-api/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/deploying-a-machine-learning-model-as-a-rest-api/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Deploying scikit-learn Models at Scale</title>
+      <link>https://obaydakov.github.io/post/2019/deploying-scikit-learn-models-at-scale/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/deploying-scikit-learn-models-at-scale/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Develop a NLP Model in Python &amp; Deploy It with Flask, Step by Step</title>
+      <link>https://obaydakov.github.io/post/2019/develop-a-nlp-model-in-python-deploy-it-with-flask-step-by-step/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/develop-a-nlp-model-in-python-deploy-it-with-flask-step-by-step/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Introducing the open-source Qiskit textbook</title>
+      <link>https://obaydakov.github.io/post/2019/introducing-the-open-source-qiskit-textbook/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/introducing-the-open-source-qiskit-textbook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keras to Kubernetes: The Journey of a Machine Learning Model to Production</title>
+      <link>https://obaydakov.github.io/post/2019/keras-to-kubernetes-the-journey-of-a-machine-learning-model-to-production/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/keras-to-kubernetes-the-journey-of-a-machine-learning-model-to-production/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Learn Blockchain App Development</title>
+      <link>https://obaydakov.github.io/post/2019/learn-blockchain-app-development/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/learn-blockchain-app-development/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Library to deploy Hyperledger Fabric projects to a Kubernetes cloud</title>
+      <link>https://obaydakov.github.io/post/2019/library-to-deploy-hyperledger-fabric-projects-to-a-kubernetes-cloud/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/library-to-deploy-hyperledger-fabric-projects-to-a-kubernetes-cloud/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Material for Webinar &#34;A Hitchhiker&#39;s guide to deploying Hyperledger Fabric on Kubernetes&#34;</title>
+      <link>https://obaydakov.github.io/post/2019/material-for-webinar-a-hitchhiker-s-guide-to-deploying-hyperledger-fabric-on-kubernetes/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/material-for-webinar-a-hitchhiker-s-guide-to-deploying-hyperledger-fabric-on-kubernetes/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Part of the course on Hyperledger Fabric</title>
+      <link>https://obaydakov.github.io/post/2019/part-of-the-course-on-hyperledger-fabric/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/part-of-the-course-on-hyperledger-fabric/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Qiskit Textbook Source Code</title>
+      <link>https://obaydakov.github.io/post/2019/qiskit-textbook-source-code/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/qiskit-textbook-source-code/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Running Hyperledger Fabric “Natively” on Windows</title>
+      <link>https://obaydakov.github.io/post/2019/running-hyperledger-fabric-natively-on-windows/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/running-hyperledger-fabric-natively-on-windows/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Step by Step Guide using the DynamoDB Client interface using Boto3 and Python</title>
+      <link>https://obaydakov.github.io/post/2019/step-by-step-guide-using-the-dynamodb-client-interface-using-boto3-and-python/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/step-by-step-guide-using-the-dynamodb-client-interface-using-boto3-and-python/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Stylin’ with Pandas</title>
+      <link>https://obaydakov.github.io/post/2019/stylin-with-pandas/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/stylin-with-pandas/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>10 Powerful Python Tricks for Data Science you Need to Try Today</title>

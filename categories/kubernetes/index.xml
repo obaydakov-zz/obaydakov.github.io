@@ -6,10 +6,46 @@
     <description>Recent content in Kubernetes on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/kubernetes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Builds a Hyperledger Fabric network on Kubernetes</title>
+      <link>https://obaydakov.github.io/post/2019/builds-a-hyperledger-fabric-network-on-kubernetes/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/builds-a-hyperledger-fabric-network-on-kubernetes/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Keras to Kubernetes: The Journey of a Machine Learning Model to Production</title>
+      <link>https://obaydakov.github.io/post/2019/keras-to-kubernetes-the-journey-of-a-machine-learning-model-to-production/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/keras-to-kubernetes-the-journey-of-a-machine-learning-model-to-production/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Library to deploy Hyperledger Fabric projects to a Kubernetes cloud</title>
+      <link>https://obaydakov.github.io/post/2019/library-to-deploy-hyperledger-fabric-projects-to-a-kubernetes-cloud/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/library-to-deploy-hyperledger-fabric-projects-to-a-kubernetes-cloud/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Material for Webinar &#34;A Hitchhiker&#39;s guide to deploying Hyperledger Fabric on Kubernetes&#34;</title>
+      <link>https://obaydakov.github.io/post/2019/material-for-webinar-a-hitchhiker-s-guide-to-deploying-hyperledger-fabric-on-kubernetes/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/material-for-webinar-a-hitchhiker-s-guide-to-deploying-hyperledger-fabric-on-kubernetes/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Host Azure DevOps Build containers on AKS</title>

@@ -6,10 +6,46 @@
     <description>Recent content in Blockchain on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/blockchain/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Builds a Hyperledger Fabric network on Kubernetes</title>
+      <link>https://obaydakov.github.io/post/2019/builds-a-hyperledger-fabric-network-on-kubernetes/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/builds-a-hyperledger-fabric-network-on-kubernetes/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Learn Blockchain App Development</title>
+      <link>https://obaydakov.github.io/post/2019/learn-blockchain-app-development/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/learn-blockchain-app-development/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Part of the course on Hyperledger Fabric</title>
+      <link>https://obaydakov.github.io/post/2019/part-of-the-course-on-hyperledger-fabric/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/part-of-the-course-on-hyperledger-fabric/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Running Hyperledger Fabric “Natively” on Windows</title>
+      <link>https://obaydakov.github.io/post/2019/running-hyperledger-fabric-natively-on-windows/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/running-hyperledger-fabric-natively-on-windows/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Develop with a Mature and Enterprise-Grade Toolset</title>

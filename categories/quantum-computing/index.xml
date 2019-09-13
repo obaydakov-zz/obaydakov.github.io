@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quantum Computing on Oleg Baydakov</title>
+    <link>https://obaydakov.github.io/categories/quantum-computing/</link>
+    <description>Recent content in Quantum Computing on Oleg Baydakov</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Sep 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://obaydakov.github.io/categories/quantum-computing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introducing the open-source Qiskit textbook</title>
+      <link>https://obaydakov.github.io/post/2019/introducing-the-open-source-qiskit-textbook/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/introducing-the-open-source-qiskit-textbook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qiskit Textbook Source Code</title>
+      <link>https://obaydakov.github.io/post/2019/qiskit-textbook-source-code/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/qiskit-textbook-source-code/</guid>
+      <description>Link</description>
+    </item>
+    
+  </channel>
+</rss>

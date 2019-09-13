@@ -6,10 +6,64 @@
     <description>Recent content in Automated Ml on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/automated-ml/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Deploying Keras Deep Learning Models with Flask</title>
+      <link>https://obaydakov.github.io/post/2019/deploying-keras-deep-learning-models-with-flask/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/deploying-keras-deep-learning-models-with-flask/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Deploying Keras models using TensorFlow Serving and Flask</title>
+      <link>https://obaydakov.github.io/post/2019/deploying-keras-models-using-tensorflow-serving-and-flask/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/deploying-keras-models-using-tensorflow-serving-and-flask/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Deploying a Keras Deep Learning Model as a Web Application in Python</title>
+      <link>https://obaydakov.github.io/post/2019/deploying-a-keras-deep-learning-model-as-a-web-application-in-python/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/deploying-a-keras-deep-learning-model-as-a-web-application-in-python/</guid>
+      <description>link</description>
+    </item>
+    
+    <item>
+      <title>Deploying a Machine Learning Model as a REST API</title>
+      <link>https://obaydakov.github.io/post/2019/deploying-a-machine-learning-model-as-a-rest-api/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/deploying-a-machine-learning-model-as-a-rest-api/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Deploying scikit-learn Models at Scale</title>
+      <link>https://obaydakov.github.io/post/2019/deploying-scikit-learn-models-at-scale/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/deploying-scikit-learn-models-at-scale/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Develop a NLP Model in Python &amp; Deploy It with Flask, Step by Step</title>
+      <link>https://obaydakov.github.io/post/2019/develop-a-nlp-model-in-python-deploy-it-with-flask-step-by-step/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/develop-a-nlp-model-in-python-deploy-it-with-flask-step-by-step/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Keras to Kubernetes: The Journey of a Machine Learning Model to Production</title>
