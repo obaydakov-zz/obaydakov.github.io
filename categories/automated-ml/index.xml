@@ -6,10 +6,91 @@
     <description>Recent content in Automated Ml on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/automated-ml/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Deploying Python ML Models with Flask, Docker and Kubernetes</title>
+      <link>https://obaydakov.github.io/post/2019/deploying-python-ml-models-with-flask-docker-and-kubernetes/</link>
+      <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/deploying-python-ml-models-with-flask-docker-and-kubernetes/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>From model inception to deployment</title>
+      <link>https://obaydakov.github.io/post/2019/from-model-inception-to-deployment/</link>
+      <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/from-model-inception-to-deployment/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>ML Pipeline Templates: End-to-End Tutorial</title>
+      <link>https://obaydakov.github.io/post/2019/ml-pipeline-templates-end-to-end-tutorial/</link>
+      <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/ml-pipeline-templates-end-to-end-tutorial/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>ML in Production</title>
+      <link>https://obaydakov.github.io/post/2019/ml-in-production/</link>
+      <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/ml-in-production/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>MediaPipe is a cross-platform framework for building multimodal applied machine learning pipelines</title>
+      <link>https://obaydakov.github.io/post/2019/mediapipe-is-a-cross-platform-framework-for-building-multimodal-applied-machine-learning-pipelines/</link>
+      <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/mediapipe-is-a-cross-platform-framework-for-building-multimodal-applied-machine-learning-pipelines/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Putting Machine Learning into Production Systems</title>
+      <link>https://obaydakov.github.io/post/2019/putting-machine-learning-into-production-systems/</link>
+      <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/putting-machine-learning-into-production-systems/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Streamlit app demonstrating an image browser for the Udacity self-driving-car dataset with realtime object detection using YOLO.</title>
+      <link>https://obaydakov.github.io/post/2019/streamlit-app-demonstrating-an-image-browser-for-the-udacity-self-driving-car-dataset-with-realtime-object-detection-using-yolo/</link>
+      <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/streamlit-app-demonstrating-an-image-browser-for-the-udacity-self-driving-car-dataset-with-realtime-object-detection-using-yolo/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>TOP AI RESEARCH ADVANCES FOR MACHINE LEARNING INFRASTRUCTURE</title>
+      <link>https://obaydakov.github.io/post/2019/top-ai-research-advances-for-machine-learning-infrastructure/</link>
+      <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/top-ai-research-advances-for-machine-learning-infrastructure/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Turn Python Scripts into Beautiful ML Tools</title>
+      <link>https://obaydakov.github.io/post/2019/turn-python-scripts-into-beautiful-ml-tools/</link>
+      <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/turn-python-scripts-into-beautiful-ml-tools/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Deploying Keras Deep Learning Models with Flask</title>

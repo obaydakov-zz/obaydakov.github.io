@@ -6,10 +6,19 @@
     <description>Recent content in Gcp on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/gcp/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Google Cloud Developer&#39;s Cheat Sheet</title>
+      <link>https://obaydakov.github.io/post/2019/the-google-cloud-developer-s-cheat-sheet/</link>
+      <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/the-google-cloud-developer-s-cheat-sheet/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>How to query and calculate Google Analytics data in BigQuery</title>

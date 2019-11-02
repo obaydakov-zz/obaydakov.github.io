@@ -6,10 +6,28 @@
     <description>Recent content in Theory on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/theory/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How Transformers Work</title>
+      <link>https://obaydakov.github.io/post/2019/how-transformers-work/</link>
+      <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/how-transformers-work/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>The Google Cloud Developer&#39;s Cheat Sheet</title>
+      <link>https://obaydakov.github.io/post/2019/the-google-cloud-developer-s-cheat-sheet/</link>
+      <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/the-google-cloud-developer-s-cheat-sheet/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Awesome production machine learning</title>

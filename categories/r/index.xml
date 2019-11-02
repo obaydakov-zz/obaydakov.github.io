@@ -6,10 +6,19 @@
     <description>Recent content in R on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The shinyjqui package is an R wrapper for jQuery UI javascript library. It allows user to easily add interactions and animation effects to a shiny app</title>
+      <link>https://obaydakov.github.io/post/2019/the-shinyjqui-package-is-an-r-wrapper-for-jquery-ui-javascript-library-it-allows-user-to-easily-add-interactions-and-animation-effects-to-a-shiny-app/</link>
+      <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/the-shinyjqui-package-is-an-r-wrapper-for-jquery-ui-javascript-library-it-allows-user-to-easily-add-interactions-and-animation-effects-to-a-shiny-app/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Building your own MTurk-style app in R using Shiny&#43;Flexdashboard</title>

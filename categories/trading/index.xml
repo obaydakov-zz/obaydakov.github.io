@@ -6,10 +6,28 @@
     <description>Recent content in Trading on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/trading/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Qiskit Finance: Overview</title>
+      <link>https://obaydakov.github.io/post/2019/qiskit-finance-overview/</link>
+      <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/qiskit-finance-overview/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Qiskit Tutorials</title>
+      <link>https://obaydakov.github.io/post/2019/qiskit-tutorials/</link>
+      <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2019/qiskit-tutorials/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Guide to Using Free Alternative Datasets to find Trading Ideas | Data Driven Investor</title>
