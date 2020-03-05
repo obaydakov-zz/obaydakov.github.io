@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://obaydakov.github.io/post/2020/from-model-inception-to-deployment/</loc>
+    <lastmod>2020-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://obaydakov.github.io/post/2019/autokeras/</loc>
     <lastmod>2019-11-02T00:00:00+00:00</lastmod>
   </url>
@@ -8352,7 +8357,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/categories/automated-ml/</loc>
-    <lastmod>2019-11-02T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -8586,7 +8591,7 @@
   
   <url>
     <loc>https://obaydakov.github.io/</loc>
-    <lastmod>2019-11-02T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -8598,13 +8603,13 @@
   
   <url>
     <loc>https://obaydakov.github.io/post/</loc>
-    <lastmod>2019-11-02T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://obaydakov.github.io/tags/python/</loc>
-    <lastmod>2019-11-02T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
