@@ -6,10 +6,37 @@
     <description>Recent content in Python on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Get faster pandas with Modin, even on your laptops</title>
+      <link>https://obaydakov.github.io/post/2020/get-faster-pandas-with-modin-even-on-your-laptops/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/get-faster-pandas-with-modin-even-on-your-laptops/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>HiPlot is a lightweight interactive visualization tool to help AI researchers discover correlations and patterns in high-dimensional data</title>
+      <link>https://obaydakov.github.io/post/2020/hiplot-is-a-lightweight-interactive-visualization-tool-to-help-ai-researchers-discover-correlations-and-patterns-in-high-dimensional-data/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/hiplot-is-a-lightweight-interactive-visualization-tool-to-help-ai-researchers-discover-correlations-and-patterns-in-high-dimensional-data/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Python logging made (stupidly) simple</title>
+      <link>https://obaydakov.github.io/post/2020/python-logging-made-stupidly-simple/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/python-logging-made-stupidly-simple/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Cytoscape is an open source software platform for visualizing complex networks and integrating these with any type of attribute data</title>

@@ -12,11 +12,29 @@
     
     
     <item>
+      <title>A guideline for building practical production-level deep learning systems to be deployed in real world applications.</title>
+      <link>https://obaydakov.github.io/post/2020/a-guideline-for-building-practical-production-level-deep-learning-systems-to-be-deployed-in-real-world-applications/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/a-guideline-for-building-practical-production-level-deep-learning-systems-to-be-deployed-in-real-world-applications/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
       <title>From model inception to deployment</title>
       <link>https://obaydakov.github.io/post/2020/from-model-inception-to-deployment/</link>
       <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/post/2020/from-model-inception-to-deployment/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Label data using HuggingFace&#39;s transformers and automatically get a prediction service</title>
+      <link>https://obaydakov.github.io/post/2020/label-data-using-huggingface-s-transformers-and-automatically-get-a-prediction-service/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/label-data-using-huggingface-s-transformers-and-automatically-get-a-prediction-service/</guid>
       <description>Link</description>
     </item>
     

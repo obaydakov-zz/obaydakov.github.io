@@ -6,10 +6,37 @@
     <description>Recent content in Visualization on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/visualization/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Anomagram is an interactive visualization tool for exploring how a deep learning model can be applied to the task of anomaly detection</title>
+      <link>https://obaydakov.github.io/post/2020/anomagram-is-an-interactive-visualization-tool-for-exploring-how-a-deep-learning-model-can-be-applied-to-the-task-of-anomaly-detection/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/anomagram-is-an-interactive-visualization-tool-for-exploring-how-a-deep-learning-model-can-be-applied-to-the-task-of-anomaly-detection/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>HiPlot is a lightweight interactive visualization tool to help AI researchers discover correlations and patterns in high-dimensional data</title>
+      <link>https://obaydakov.github.io/post/2020/hiplot-is-a-lightweight-interactive-visualization-tool-to-help-ai-researchers-discover-correlations-and-patterns-in-high-dimensional-data/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/hiplot-is-a-lightweight-interactive-visualization-tool-to-help-ai-researchers-discover-correlations-and-patterns-in-high-dimensional-data/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Mermaid - new diagrams library</title>
+      <link>https://obaydakov.github.io/post/2020/mermaid-new-diagrams-library/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/mermaid-new-diagrams-library/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Cytoscape is an open source software platform for visualizing complex networks and integrating these with any type of attribute data</title>

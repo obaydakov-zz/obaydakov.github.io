@@ -6,10 +6,118 @@
     <description>Recent content in Tools on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/tools/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A guideline for building practical production-level deep learning systems to be deployed in real world applications.</title>
+      <link>https://obaydakov.github.io/post/2020/a-guideline-for-building-practical-production-level-deep-learning-systems-to-be-deployed-in-real-world-applications/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/a-guideline-for-building-practical-production-level-deep-learning-systems-to-be-deployed-in-real-world-applications/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>A model-agnostic visual debugging tool for machine learning</title>
+      <link>https://obaydakov.github.io/post/2020/a-model-agnostic-visual-debugging-tool-for-machine-learning/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/a-model-agnostic-visual-debugging-tool-for-machine-learning/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Automatic Defect Inspection with End-to-End Deep Learning</title>
+      <link>https://obaydakov.github.io/post/2020/automatic-defect-inspection-with-end-to-end-deep-learning/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/automatic-defect-inspection-with-end-to-end-deep-learning/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>BMW InnovationLab</title>
+      <link>https://obaydakov.github.io/post/2020/bmw-innovationlab/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/bmw-innovationlab/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>CI/CD for Machine Learning &amp; AI</title>
+      <link>https://obaydakov.github.io/post/2020/ci-cd-for-machine-learning-ai/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/ci-cd-for-machine-learning-ai/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>DeepPavlov для разработчиков</title>
+      <link>https://obaydakov.github.io/post/2020/deeppavlov-%D0%B4%D0%BB%D1%8F-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%BE%D0%B2/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/deeppavlov-%D0%B4%D0%BB%D1%8F-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%BE%D0%B2/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Ebonite - machine learning lifecycle framework</title>
+      <link>https://obaydakov.github.io/post/2020/ebonite-machine-learning-lifecycle-framework/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/ebonite-machine-learning-lifecycle-framework/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Kedro is an open source development workflow tool that helps structure reproducible, scaleable, deployable, robust and versioned data pipelines.</title>
+      <link>https://obaydakov.github.io/post/2020/kedro-is-an-open-source-development-workflow-tool-that-helps-structure-reproducible-scaleable-deployable-robust-and-versioned-data-pipelines/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/kedro-is-an-open-source-development-workflow-tool-that-helps-structure-reproducible-scaleable-deployable-robust-and-versioned-data-pipelines/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Label data using HuggingFace&#39;s transformers and automatically get a prediction service</title>
+      <link>https://obaydakov.github.io/post/2020/label-data-using-huggingface-s-transformers-and-automatically-get-a-prediction-service/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/label-data-using-huggingface-s-transformers-and-automatically-get-a-prediction-service/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Paperspace - GPU cloud tools built for developers</title>
+      <link>https://obaydakov.github.io/post/2020/paperspace-gpu-cloud-tools-built-for-developers/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/paperspace-gpu-cloud-tools-built-for-developers/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Stitch is a cloud-first, open source platform for rapidly moving data</title>
+      <link>https://obaydakov.github.io/post/2020/stitch-is-a-cloud-first-open-source-platform-for-rapidly-moving-data/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/stitch-is-a-cloud-first-open-source-platform-for-rapidly-moving-data/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>VC themes</title>
+      <link>https://obaydakov.github.io/post/2020/vc-themes/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/vc-themes/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Learn Kubernetes in Under 3 Hours: A Detailed Guide to Orchestrating Containers</title>

@@ -6,10 +6,82 @@
     <description>Recent content in Machine Learning on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A curated list of articles that cover the software engineering best practices for building machine learning applications.</title>
+      <link>https://obaydakov.github.io/post/2020/a-curated-list-of-articles-that-cover-the-software-engineering-best-practices-for-building-machine-learning-applications/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/a-curated-list-of-articles-that-cover-the-software-engineering-best-practices-for-building-machine-learning-applications/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning</title>
+      <link>https://obaydakov.github.io/post/2020/a-curated-list-of-awesome-open-source-libraries-to-deploy-monitor-version-and-scale-your-machine-learning/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/a-curated-list-of-awesome-open-source-libraries-to-deploy-monitor-version-and-scale-your-machine-learning/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>A model-agnostic visual debugging tool for machine learning</title>
+      <link>https://obaydakov.github.io/post/2020/a-model-agnostic-visual-debugging-tool-for-machine-learning/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/a-model-agnostic-visual-debugging-tool-for-machine-learning/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Ebonite - machine learning lifecycle framework</title>
+      <link>https://obaydakov.github.io/post/2020/ebonite-machine-learning-lifecycle-framework/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/ebonite-machine-learning-lifecycle-framework/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Kedro is an open source development workflow tool that helps structure reproducible, scaleable, deployable, robust and versioned data pipelines.</title>
+      <link>https://obaydakov.github.io/post/2020/kedro-is-an-open-source-development-workflow-tool-that-helps-structure-reproducible-scaleable-deployable-robust-and-versioned-data-pipelines/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/kedro-is-an-open-source-development-workflow-tool-that-helps-structure-reproducible-scaleable-deployable-robust-and-versioned-data-pipelines/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>OOP approach to FE and models</title>
+      <link>https://obaydakov.github.io/post/2020/oop-approach-to-fe-and-models/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/oop-approach-to-fe-and-models/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Stitch is a cloud-first, open source platform for rapidly moving data</title>
+      <link>https://obaydakov.github.io/post/2020/stitch-is-a-cloud-first-open-source-platform-for-rapidly-moving-data/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/stitch-is-a-cloud-first-open-source-platform-for-rapidly-moving-data/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>What Are The Best, Regularly Updated Machine Learning Blogs or Resources Available?</title>
+      <link>https://obaydakov.github.io/post/2020/what-are-the-best-regularly-updated-machine-learning-blogs-or-resources-available/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/what-are-the-best-regularly-updated-machine-learning-blogs-or-resources-available/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Deploying Python ML Models with Flask, Docker and Kubernetes</title>

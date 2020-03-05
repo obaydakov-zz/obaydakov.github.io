@@ -12,11 +12,346 @@
     
     
     <item>
+      <title>74 Summaries of Machine Learning and NLP Research</title>
+      <link>https://obaydakov.github.io/post/2020/74-summaries-of-machine-learning-and-nlp-research/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/74-summaries-of-machine-learning-and-nlp-research/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>A Visual Guide to Using BERT for the First Time</title>
+      <link>https://obaydakov.github.io/post/2020/a-visual-guide-to-using-bert-for-the-first-time/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/a-visual-guide-to-using-bert-for-the-first-time/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>A curated list of articles that cover the software engineering best practices for building machine learning applications.</title>
+      <link>https://obaydakov.github.io/post/2020/a-curated-list-of-articles-that-cover-the-software-engineering-best-practices-for-building-machine-learning-applications/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/a-curated-list-of-articles-that-cover-the-software-engineering-best-practices-for-building-machine-learning-applications/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning</title>
+      <link>https://obaydakov.github.io/post/2020/a-curated-list-of-awesome-open-source-libraries-to-deploy-monitor-version-and-scale-your-machine-learning/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/a-curated-list-of-awesome-open-source-libraries-to-deploy-monitor-version-and-scale-your-machine-learning/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>A guideline for building practical production-level deep learning systems to be deployed in real world applications.</title>
+      <link>https://obaydakov.github.io/post/2020/a-guideline-for-building-practical-production-level-deep-learning-systems-to-be-deployed-in-real-world-applications/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/a-guideline-for-building-practical-production-level-deep-learning-systems-to-be-deployed-in-real-world-applications/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>A model-agnostic visual debugging tool for machine learning</title>
+      <link>https://obaydakov.github.io/post/2020/a-model-agnostic-visual-debugging-tool-for-machine-learning/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/a-model-agnostic-visual-debugging-tool-for-machine-learning/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Anomagram is an interactive visualization tool for exploring how a deep learning model can be applied to the task of anomaly detection</title>
+      <link>https://obaydakov.github.io/post/2020/anomagram-is-an-interactive-visualization-tool-for-exploring-how-a-deep-learning-model-can-be-applied-to-the-task-of-anomaly-detection/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/anomagram-is-an-interactive-visualization-tool-for-exploring-how-a-deep-learning-model-can-be-applied-to-the-task-of-anomaly-detection/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Attention Is All You Need</title>
+      <link>https://obaydakov.github.io/post/2020/attention-is-all-you-need/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/attention-is-all-you-need/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Automatic Defect Inspection with End-to-End Deep Learning</title>
+      <link>https://obaydakov.github.io/post/2020/automatic-defect-inspection-with-end-to-end-deep-learning/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/automatic-defect-inspection-with-end-to-end-deep-learning/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>BMW InnovationLab</title>
+      <link>https://obaydakov.github.io/post/2020/bmw-innovationlab/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/bmw-innovationlab/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Best Practices, code samples, and documentation for Computer Vision.</title>
+      <link>https://obaydakov.github.io/post/2020/best-practices-code-samples-and-documentation-for-computer-vision/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/best-practices-code-samples-and-documentation-for-computer-vision/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>CI/CD for Machine Learning &amp; AI</title>
+      <link>https://obaydakov.github.io/post/2020/ci-cd-for-machine-learning-ai/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/ci-cd-for-machine-learning-ai/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>DeepPavlov для разработчиков</title>
+      <link>https://obaydakov.github.io/post/2020/deeppavlov-%D0%B4%D0%BB%D1%8F-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%BE%D0%B2/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/deeppavlov-%D0%B4%D0%BB%D1%8F-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%BE%D0%B2/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Ebonite - machine learning lifecycle framework</title>
+      <link>https://obaydakov.github.io/post/2020/ebonite-machine-learning-lifecycle-framework/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/ebonite-machine-learning-lifecycle-framework/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
       <title>From model inception to deployment</title>
       <link>https://obaydakov.github.io/post/2020/from-model-inception-to-deployment/</link>
       <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://obaydakov.github.io/post/2020/from-model-inception-to-deployment/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Get faster pandas with Modin, even on your laptops</title>
+      <link>https://obaydakov.github.io/post/2020/get-faster-pandas-with-modin-even-on-your-laptops/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/get-faster-pandas-with-modin-even-on-your-laptops/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Google BERT — новый поисковый алгоритм.</title>
+      <link>https://obaydakov.github.io/post/2020/google-bert-%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9-%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/google-bert-%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9-%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>HiPlot is a lightweight interactive visualization tool to help AI researchers discover correlations and patterns in high-dimensional data</title>
+      <link>https://obaydakov.github.io/post/2020/hiplot-is-a-lightweight-interactive-visualization-tool-to-help-ai-researchers-discover-correlations-and-patterns-in-high-dimensional-data/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/hiplot-is-a-lightweight-interactive-visualization-tool-to-help-ai-researchers-discover-correlations-and-patterns-in-high-dimensional-data/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>How to fine-tune BERT to classify your Slack chats without coding</title>
+      <link>https://obaydakov.github.io/post/2020/how-to-fine-tune-bert-to-classify-your-slack-chats-without-coding/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/how-to-fine-tune-bert-to-classify-your-slack-chats-without-coding/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>How to resolve TensorFlow 2.0 Error – Could not load dynamic library ‘cudart64_100.dll’</title>
+      <link>https://obaydakov.github.io/post/2020/how-to-resolve-tensorflow-2-0-error-could-not-load-dynamic-library-cudart64-100-dll/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/how-to-resolve-tensorflow-2-0-error-could-not-load-dynamic-library-cudart64-100-dll/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Kedro is an open source development workflow tool that helps structure reproducible, scaleable, deployable, robust and versioned data pipelines.</title>
+      <link>https://obaydakov.github.io/post/2020/kedro-is-an-open-source-development-workflow-tool-that-helps-structure-reproducible-scaleable-deployable-robust-and-versioned-data-pipelines/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/kedro-is-an-open-source-development-workflow-tool-that-helps-structure-reproducible-scaleable-deployable-robust-and-versioned-data-pipelines/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Label data using HuggingFace&#39;s transformers and automatically get a prediction service</title>
+      <link>https://obaydakov.github.io/post/2020/label-data-using-huggingface-s-transformers-and-automatically-get-a-prediction-service/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/label-data-using-huggingface-s-transformers-and-automatically-get-a-prediction-service/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Magalix Kubernetes 101 Series</title>
+      <link>https://obaydakov.github.io/post/2020/magalix-kubernetes-101-series/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/magalix-kubernetes-101-series/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Mermaid - new diagrams library</title>
+      <link>https://obaydakov.github.io/post/2020/mermaid-new-diagrams-library/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/mermaid-new-diagrams-library/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>OOP approach to FE and models</title>
+      <link>https://obaydakov.github.io/post/2020/oop-approach-to-fe-and-models/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/oop-approach-to-fe-and-models/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Paperspace - GPU cloud tools built for developers</title>
+      <link>https://obaydakov.github.io/post/2020/paperspace-gpu-cloud-tools-built-for-developers/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/paperspace-gpu-cloud-tools-built-for-developers/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Python logging made (stupidly) simple</title>
+      <link>https://obaydakov.github.io/post/2020/python-logging-made-stupidly-simple/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/python-logging-made-stupidly-simple/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Stitch is a cloud-first, open source platform for rapidly moving data</title>
+      <link>https://obaydakov.github.io/post/2020/stitch-is-a-cloud-first-open-source-platform-for-rapidly-moving-data/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/stitch-is-a-cloud-first-open-source-platform-for-rapidly-moving-data/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>TensorFlow HUB - examples</title>
+      <link>https://obaydakov.github.io/post/2020/tensorflow-hub-examples/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/tensorflow-hub-examples/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>The Annotated Transformer</title>
+      <link>https://obaydakov.github.io/post/2020/the-annotated-transformer/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/the-annotated-transformer/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Transformer в картинках</title>
+      <link>https://obaydakov.github.io/post/2020/transformer-%D0%B2-%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0%D1%85/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/transformer-%D0%B2-%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0%D1%85/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Transformers</title>
+      <link>https://obaydakov.github.io/post/2020/transformers/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/transformers/</guid>
+      <description>Link
+Link
+DistilBERT</description>
+    </item>
+    
+    <item>
+      <title>VC themes</title>
+      <link>https://obaydakov.github.io/post/2020/vc-themes/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/vc-themes/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>VITech Lab Deep Learning Container</title>
+      <link>https://obaydakov.github.io/post/2020/vitech-lab-deep-learning-container/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/vitech-lab-deep-learning-container/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>What Are The Best, Regularly Updated Machine Learning Blogs or Resources Available?</title>
+      <link>https://obaydakov.github.io/post/2020/what-are-the-best-regularly-updated-machine-learning-blogs-or-resources-available/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/what-are-the-best-regularly-updated-machine-learning-blogs-or-resources-available/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Бесплатный хостинг Telegram-бота на Google Cloud Platform</title>
+      <link>https://obaydakov.github.io/post/2020/%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B9-%D1%85%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D0%B3-telegram-%D0%B1%D0%BE%D1%82%D0%B0-%D0%BD%D0%B0-google-cloud-platform/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B9-%D1%85%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D0%B3-telegram-%D0%B1%D0%BE%D1%82%D0%B0-%D0%BD%D0%B0-google-cloud-platform/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Нейросети. Куда это все движется</title>
+      <link>https://obaydakov.github.io/post/2020/%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%D1%81%D0%B5%D1%82%D0%B8-%D0%BA%D1%83%D0%B4%D0%B0-%D1%8D%D1%82%D0%BE-%D0%B2%D1%81%D0%B5-%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D1%82%D1%81%D1%8F/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%D1%81%D0%B5%D1%82%D0%B8-%D0%BA%D1%83%D0%B4%D0%B0-%D1%8D%D1%82%D0%BE-%D0%B2%D1%81%D0%B5-%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D1%82%D1%81%D1%8F/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>Учимся разворачивать микросервисы</title>
+      <link>https://obaydakov.github.io/post/2020/%D1%83%D1%87%D0%B8%D0%BC%D1%81%D1%8F-%D1%80%D0%B0%D0%B7%D0%B2%D0%BE%D1%80%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D1%82%D1%8C-%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/%D1%83%D1%87%D0%B8%D0%BC%D1%81%D1%8F-%D1%80%D0%B0%D0%B7%D0%B2%D0%BE%D1%80%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D1%82%D1%8C-%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B/</guid>
       <description>Link</description>
     </item>
     

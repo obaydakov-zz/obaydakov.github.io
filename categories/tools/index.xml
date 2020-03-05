@@ -6,10 +6,28 @@
     <description>Recent content in Tools on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/categories/tools/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mermaid - new diagrams library</title>
+      <link>https://obaydakov.github.io/post/2020/mermaid-new-diagrams-library/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/mermaid-new-diagrams-library/</guid>
+      <description>Link</description>
+    </item>
+    
+    <item>
+      <title>VC themes</title>
+      <link>https://obaydakov.github.io/post/2020/vc-themes/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/vc-themes/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>21 VSCode Shortcuts to Make Coding Faster and More Fun</title>

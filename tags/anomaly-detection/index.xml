@@ -6,10 +6,19 @@
     <description>Recent content in Anomaly Detection on Oleg Baydakov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://obaydakov.github.io/tags/anomaly-detection/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Anomagram is an interactive visualization tool for exploring how a deep learning model can be applied to the task of anomaly detection</title>
+      <link>https://obaydakov.github.io/post/2020/anomagram-is-an-interactive-visualization-tool-for-exploring-how-a-deep-learning-model-can-be-applied-to-the-task-of-anomaly-detection/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://obaydakov.github.io/post/2020/anomagram-is-an-interactive-visualization-tool-for-exploring-how-a-deep-learning-model-can-be-applied-to-the-task-of-anomaly-detection/</guid>
+      <description>Link</description>
+    </item>
     
     <item>
       <title>Using R and H2O Isolation Forest to identify product anomalies during the manufacturing process</title>
